@@ -33,7 +33,7 @@ def extractResults(list: list, response: rq.Response):
 
 def populateMap(map: dict, l: list):
     for i in l:
-        if i["place_id"] not in map:
+        if i["place_id"] not in map and i["user_ratings_total"] >= 15:
             poi = Landmark(
                 i["name"],
                 i["types"],
@@ -43,6 +43,7 @@ def populateMap(map: dict, l: list):
                 i["user_ratings_total"],
             )
             map[i["place_id"]] = poi
+            log.info(i["name"] + " - " + str(i["user_ratings_total"]))
 
 
 def printMap(map: dict):
