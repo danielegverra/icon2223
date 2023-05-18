@@ -1,9 +1,12 @@
-import requests
 from bs4 import BeautifulSoup
+
+
+import requests
+
 
 # Website Url
 page_name = "Colosseo"
-url = f'https://it.wikipedia.org/wiki/{page_name}'
+url = f"https://it.wikipedia.org/wiki/{page_name}"
 
 # Performing GET request to the URL
 response = requests.get(url)
