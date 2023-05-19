@@ -1,1 +1,20 @@
 Map loaded correctly.
+
+File opened correctly.
+
+Facts written.
+
+Distance facts created.
+
+File closed correctly.
+
+Prolog consulted correctly.
+
+File opened correctly.
+
+Density feature created correctly.
+
+TourismRateOutOfTen feature created correctly.
+
+File closed correctly.
+

@@ -3,6 +3,7 @@ class Landmark:
         "placeId",
         "name",
         "address",
+        "type",
         "properties",
         "lat",
         "lon",
@@ -15,6 +16,8 @@ class Landmark:
         "surface",
         "height",
         "price",
+        "density",
+        "tourismRateOutOfTen",
     ]
 
     def __init__(
@@ -22,6 +25,7 @@ class Landmark:
         placeId: str,
         name: str,
         address: str,
+        type: str,
         properties: list,
         lat: float,
         lon: float,
@@ -38,6 +42,7 @@ class Landmark:
         self.placeId = placeId
         self.name = name
         self.address = address
+        self.type = type
         self.properties = properties
         self.lat = lat
         self.lon = lon
@@ -50,12 +55,15 @@ class Landmark:
         self.surface = surface
         self.height = height
         self.price = price
+        self.density = None
+        self.tourismRateOutOfTen = None
 
     def __str__(self):
         return (
             f"Place id: {self.placeId}\n"
             f"Name: {self.name}\n"
             f"Address: {self.address}\n"
+            f"Type: {self.type}\n"
             f"Properties: {self.properties}\n"
             f"Latitude: {self.lat}\n"
             f"Longitude: {self.lon}\n"
@@ -68,4 +76,6 @@ class Landmark:
             f"Surface: {self.surface}\n"
             f"Height: {self.height}\n"
             f"Price: {self.price}\n"
+            f"Density: {self.density}\n"
+            f"TurismRateOutOfTen: {self.tourismRateOutOfTen}\n"
         )
