@@ -40,27 +40,32 @@ impressive(PoiName) :-
     height(PoiName, Height),
     (Surface > 7000 ; Height > 17).
 
-
-
-
-
-
-
-
-
-
 calculateTourismRateOutOfTen(PoiName, TourismRateOutOfTen) :-
     tourismRate(PoiName, TourismRate),
-    TourismRate > 1500000,
-    TourismRateOutOfTen is 10.
-
-calculateTourismRateOutOfTen(PoiName, TourismRateOutOfTen) :-
-    tourismRate(PoiName, TourismRate),
-    TourismRate =< 1500000,
     TourismRateOutOfTenFloat is (TourismRate - 200000) / 133333.3333,
     TourismRateOutOfTenInt is round(TourismRateOutOfTenFloat),
     TourismRateOutOfTen is min(max(TourismRateOutOfTenInt, 1), 10).
 
 topTourismAttraction(PoiName) :-
-    tourismRate(PoiName, Rate),
+    tourismRateOutOfTen(PoiName, Rate),
     Rate > 7.
+
+calculateTimeToVisit(PoiName, TimeToVisit) :-
+    tourismRate(PoiName, TourismRate),
+    surface(PoiName, Surface),
+    height(PoiName, Height),
+    normalizeTourismRate(TourismRate, NormTourismRate),
+    normalizeSurface(Surface, NormSurface),
+    normalizeHeight(Height, NormHeight),
+    TimeToVisitNormalized is (NormTourismRate + NormSurface + NormHeight) / 3,
+    TimeToVisitFloat is round(TimeToVisitNormalized * (40 - 5) + 5),
+    TimeToVisit is min(max(TimeToVisitFloat, 5), 60).
+
+normalizeTourismRate(TourismRate, NormTourismRate) :-
+    NormTourismRate is (TourismRate - 200000) / 1333333.3333.
+
+normalizeSurface(Surface, NormSurface) :-
+    NormSurface is (Surface - 400) / 7600.
+
+normalizeHeight(Height, NormHeight) :-
+    NormHeight is Height / 20.

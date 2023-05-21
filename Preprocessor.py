@@ -178,13 +178,13 @@ poiMap["ChIJ1UCDJ1NgLxMRtrsCzOHxdvY"].height = 26
 poiMap["ChIJ1UCDJ1NgLxMRtrsCzOHxdvY"].price = 0
 
 # Pantheon
-poiMap["ChIJd0eH3VFgLxMR59ZuxPeRwDE"].type = "Museum"
-poiMap["ChIJd0eH3VFgLxMR59ZuxPeRwDE"].properties = ["Historical", "Educational"]
-poiMap["ChIJd0eH3VFgLxMR59ZuxPeRwDE"].tourismRate = 7400000
-poiMap["ChIJd0eH3VFgLxMR59ZuxPeRwDE"].age = 2000
-poiMap["ChIJd0eH3VFgLxMR59ZuxPeRwDE"].surface = 680
-poiMap["ChIJd0eH3VFgLxMR59ZuxPeRwDE"].height = 43
-poiMap["ChIJd0eH3VFgLxMR59ZuxPeRwDE"].price = 0
+poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].type = "Museum"
+poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].properties = ["Historical", "Educational"]
+poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].tourismRate = 7400000
+poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].age = 2000
+poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].surface = 680
+poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].height = 43
+poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].price = 0
 
 # Piazza Navona
 poiMap["ChIJPRydwYNgLxMRSjOCLlYkV6M"].type = "Square"

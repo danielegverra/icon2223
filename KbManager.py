@@ -4,14 +4,7 @@ from pyswip import Prolog
 import pickle as pk
 import logging as log
 
-
-def calculateTourismRateOutOfTen(tourismRate):
-    if tourismRate > 1500000:
-        tourismRateOutOfTen = 10
-    else:
-        tourismRateOutOfTen = (tourismRate - 200000) / 133333.3333
-        tourismRateOutOfTen = min(max(int(tourismRateOutOfTen), 1), 9)
-    return tourismRateOutOfTen
+from Utility import printMap
 
 
 # Log configuration
@@ -24,7 +17,7 @@ log.getLogger("").addHandler(handler)
 # Dictionary de-serialization
 with open("poiDictionary.pickle", "rb") as f:
     poiMap = pk.load(f)
-log.info("Map loaded correctly.\n")
+log.info("Map de-serialized correctly.\n")
 
 # Opening prolog facts file (write mode)
 file = open("facts.pl", "w")
@@ -92,12 +85,17 @@ log.info("File opened correctly.\n")
 for value in poiMap.values():
     result = list(prolog.query(f"calculateDensity('{value.name}', Density)"))
     value.density = int(result[0]["Density"])
-    file.write(f"density('{value.name}',{value.density}).\n")
+    # file.write(f"density('{value.name}',{value.density}).\n")
 log.info("Density feature created correctly.\n")
 
 # Creation new feature (TourismRateOutOfTen)
 for value in poiMap.values():
-    value.tourismRateOutOfTen = calculateTourismRateOutOfTen(value.tourismRate)
+    result = list(
+        prolog.query(
+            f"calculateTourismRateOutOfTen('{value.name}', TourismRateOutOfTen)"
+        )
+    )
+    value.tourismRateOutOfTen = int(result[0]["TourismRateOutOfTen"])
     file.write(f"tourismRateOutOfTen('{value.name}',{value.tourismRateOutOfTen}).\n")
 log.info("TourismRateOutOfTen feature created correctly.\n")
 
@@ -105,4 +103,93 @@ log.info("TourismRateOutOfTen feature created correctly.\n")
 file.close()
 log.info("File closed correctly.\n")
 
+# Reloaded facts file
+prolog.consult("Facts.pl")
+log.info("Prolog consulted correctly.\n")
+
+# Opening prolog facts file (append mode)
+file = open("facts.pl", "a")
+log.info("File opened correctly.\n")
+
+# Creation new feature (highlyRated)
+for value in poiMap.values():
+    if bool(list(prolog.query(f"highlyRated('{value.name}')"))):
+        value.highlyRated = True
+    else:
+        value.highlyRated = False
+log.info("HighlyRated feature created correctly.\n")
+
+# Creation new feature (popular)
+for value in poiMap.values():
+    if bool(list(prolog.query(f"popular('{value.name}')"))):
+        value.popular = True
+    else:
+        value.popular = False
+log.info("Popular feature created correctly.\n")
+
+# Creation new feature (highlyRecommended)
+for value in poiMap.values():
+    if bool(list(prolog.query(f"highlyRecommended('{value.name}')"))):
+        value.highlyRecommended = True
+    else:
+        value.highlyRecommended = False
+log.info("highlyRecommended feature created correctly.\n")
+
+# Creation new feature (closeToCityCentre)
+for value in poiMap.values():
+    if bool(list(prolog.query(f"closeToCityCentre('{value.name}')"))):
+        value.closeToCityCentre = True
+    else:
+        value.closeToCityCentre = False
+log.info("CloseToCityCentre feature created correctly.\n")
+
+# Creation new feature (topTourismAttraction)
+for value in poiMap.values():
+    if bool(list(prolog.query(f"topTourismAttraction('{value.name}')"))):
+        value.topTourismAttraction = True
+    else:
+        value.topTourismAttraction = False
+log.info("TopTourismAttraction feature created correctly.\n")
+
+# Creation new feature (ancient)
+for value in poiMap.values():
+    if bool(list(prolog.query(f"ancient('{value.name}')"))):
+        value.ancient = True
+    else:
+        value.ancient = False
+log.info("Ancient feature created correctly.\n")
+
+# Creation new feature (impressive)
+for value in poiMap.values():
+    if bool(list(prolog.query(f"impressive('{value.name}')"))):
+        value.impressive = True
+    else:
+        value.impressive = False
+log.info("Impressive feature created correctly.\n")
+
+# Creation new feature (cheap)
+for value in poiMap.values():
+    if bool(list(prolog.query(f"cheap('{value.name}')"))):
+        value.cheap = True
+    else:
+        value.cheap = False
+log.info("Cheap feature created correctly.\n")
+
+# Creation new feature (timeToVisit)
+for value in poiMap.values():
+    result = list(prolog.query(f"calculateTimeToVisit('{value.name}', TimeToVisit)"))
+    value.timeToVisit = result[0]["TimeToVisit"]
+log.info("TimeToVisit feature created correctly.\n")
+
+# Creation new feature (tourismPriority)
+
+# log.info("TourismPriority feature created correctly.\n")
+
+for poi in poiMap.values():
+    log.info(poi)
+log.info("Map populated correctly.\n")
+
 # Dictionary serialization
+with open("poiDictionaryEnhanced.pickle", "wb") as f:
+    pk.dump(poiMap, f)
+log.info("Map serialized correctly.\n")

@@ -350,358 +350,358 @@ address('Chiesa di Santa Prisca','Via di Santa Prisca, 11, Roma').
 address('Tempio Maggiore di Roma','Lungotevere de  Cenci, Roma').
 address('Portico of Octavia','Via del Portico d Ottavia, 29').
 address('Basilica Santi Giovanni e Paolo','Piazza Dei SS. Giovanni e Paolo, Roma').
-type('Il Tempio dei Dioscuri','Park').
+type('Il Tempio dei Dioscuri','Museum').
 type('Basilica Julia','Park').
-type('Fountain of the Bees','Museum').
-type('Ludus Magnus','Park').
-type('Palazzetto Zuccari','Place of warship').
-type('Fontana del Mose','Monument').
-type('Chiesa di Santa Bibiana','Square').
-type('Santissima Trinita degli Spagnoli','Bridge').
+type('Fountain of the Bees','Fountain').
+type('Ludus Magnus','Square').
+type('Palazzetto Zuccari','Bridge').
+type('Fontana del Mose','Museum').
+type('Chiesa di Santa Bibiana','Viewpoint').
+type('Santissima Trinita degli Spagnoli','Fountain').
 type('Colosseum','Monument').
 type('Trevi Fountain','Fountain').
-type('Capitoline Museums','Park').
-type('Arch of Constantine','Castle').
-type('Obelisco del Pantheon','Museum').
-type('Piazza di Spagna','Fountain').
-type('Basilica Papale di Santa Maria Maggiore','Fountain').
+type('Capitoline Museums','Castle').
+type('Arch of Constantine','Park').
+type('Obelisco del Pantheon','Place of warship').
+type('Piazza di Spagna','Bridge').
+type('Basilica Papale di Santa Maria Maggiore','Viewpoint').
 type('Roman Forum','Monument').
-type('Basilica of San Pietro in Vincoli','Viewpoint').
-type('Palazzo Massimo alle Terme','Square').
-type('Monument to Victor Emmanuel II','Monument').
-type('Campidoglio','Fountain').
-type('Mercati di Traiano Museo dei Fori Imperiali','Castle').
-type('Equestrian Statue of Marcus Aurelius','Place of warship').
-type('Convento dei Frati Cappuccini','Viewpoint').
-type('Quirinal Palace','Park').
-type('Basilica di San Clemente','Castle').
-type('Chiesa di Sant  Ignazio di Loyola','Bridge').
-type('Chiesa del Gesu','Viewpoint').
-type('Piazza Barberini','Place of warship').
-type('Palazzo delle Esposizioni','Square').
-type('Basilica di Santa Maria in Ara coeli','Viewpoint').
-type('Palazzo Montecitorio','Place of warship').
-type('Domus Aurea','Fountain').
-type('National Gallery of Ancient Art in Barberini Palace','Museum').
-type('Doria Pamphili Gallery','Place of warship').
-type('Piazza Venezia','Bridge').
+type('Basilica of San Pietro in Vincoli','Museum').
+type('Palazzo Massimo alle Terme','Fountain').
+type('Monument to Victor Emmanuel II','Castle').
+type('Campidoglio','Park').
+type('Mercati di Traiano Museo dei Fori Imperiali','Square').
+type('Equestrian Statue of Marcus Aurelius','Square').
+type('Convento dei Frati Cappuccini','Castle').
+type('Quirinal Palace','Museum').
+type('Basilica di San Clemente','Square').
+type('Chiesa di Sant  Ignazio di Loyola','Museum').
+type('Chiesa del Gesu','Fountain').
+type('Piazza Barberini','Fountain').
+type('Palazzo delle Esposizioni','Fountain').
+type('Basilica di Santa Maria in Ara coeli','Bridge').
+type('Palazzo Montecitorio','Monument').
+type('Domus Aurea','Museum').
+type('National Gallery of Ancient Art in Barberini Palace','Viewpoint').
+type('Doria Pamphili Gallery','Viewpoint').
+type('Piazza Venezia','Place of warship').
 type('Pantheon','Museum').
-type('Basilica of Saint Mary of Minerva','Place of warship').
-type('Santa Maria degli Angeli e dei Martiri','Castle').
-type('Parrocchia Santa Maria Maggiore','Castle').
-type('Mamertine Prison','Castle').
-type('Mose di Michelangelo','Bridge').
-type('Capanne di Romolo','Viewpoint').
-type('Basilica San Silvestro in Capite','Park').
-type('Basilica del Sacro Cuore di Gesu','Viewpoint').
-type('Largo di Torre Argentina','Bridge').
+type('Basilica of Saint Mary of Minerva','Viewpoint').
+type('Santa Maria degli Angeli e dei Martiri','Square').
+type('Parrocchia Santa Maria Maggiore','Viewpoint').
+type('Mamertine Prison','Viewpoint').
+type('Mose di Michelangelo','Viewpoint').
+type('Capanne di Romolo','Bridge').
+type('Basilica San Silvestro in Capite','Bridge').
+type('Basilica del Sacro Cuore di Gesu','Bridge').
+type('Largo di Torre Argentina','Fountain').
 type('Chiesa di Santa Maria ai Monti','Fountain').
 type('Basilica of St Mark Evangelist at Campidoglio','Castle').
-type('St. Paul s Within the Walls','Bridge').
-type('Septimius Severus Arch','Square').
-type('Palazzo Sciarra Colonna Carbognano','Viewpoint').
+type('St. Paul s Within the Walls','Square').
+type('Septimius Severus Arch','Bridge').
+type('Palazzo Sciarra Colonna Carbognano','Fountain').
 type('The Keats - Shelley House','Park').
-type('Basilica Ulpia','Park').
-type('Temple of Vesta','Place of warship').
-type('Chiesa San Marcello al Corso','Viewpoint').
-type('San Stanislao alle Botteghe Oscure','Museum').
-type('Column of Phocas','Square').
+type('Basilica Ulpia','Monument').
+type('Temple of Vesta','Monument').
+type('Chiesa San Marcello al Corso','Park').
+type('San Stanislao alle Botteghe Oscure','Place of warship').
+type('Column of Phocas','Place of warship').
 type('Antoninus and Faustina Temple','Park').
-type('Marcello Theater','Place of warship').
-type('Chiesa di Santa Maria in Portico in Campitelli','Fountain').
-type('The Church of Santa Maria della Vittoria','Fountain').
-type('The Last Judgment','Place of warship').
-type('Chiesa di Santo Stefano degli Abissini','Place of warship').
-type('Fontana di Piazza Farnese','Fountain').
-type('Villa Abamelek','Monument').
-type('Palazzo Torres','Park').
+type('Marcello Theater','Fountain').
+type('Chiesa di Santa Maria in Portico in Campitelli','Museum').
+type('The Church of Santa Maria della Vittoria','Castle').
+type('The Last Judgment','Castle').
+type('Chiesa di Santo Stefano degli Abissini','Square').
+type('Fontana di Piazza Farnese','Monument').
+type('Villa Abamelek','Fountain').
+type('Palazzo Torres','Viewpoint').
 type('Castel Sant Angelo','Castle').
-type('Vidoni Palace','Park').
+type('Vidoni Palace','Fountain').
 type('Vatican Museums','Museum').
-type('Fontana di Piazza Nicosia','Fountain').
+type('Fontana di Piazza Nicosia','Museum').
 type('St. Peter s Basilica','Place of warship').
-type('Church Holy Spirit in Sassia','Museum').
-type('Parrocchia Santuario Santa Maria in Traspontina','Place of warship').
-type('Gardens of Vatican City','Bridge').
-type('Fiumi Fountain','Viewpoint').
-type('Sistine Chapel','Monument').
+type('Church Holy Spirit in Sassia','Viewpoint').
+type('Parrocchia Santuario Santa Maria in Traspontina','Square').
+type('Gardens of Vatican City','Park').
+type('Fiumi Fountain','Fountain').
+type('Sistine Chapel','Museum').
 type('Villa Farnesina','Square').
-type('Church of St. Louis of the French','Bridge').
-type('Palazzo Madama','Castle').
+type('Church of St. Louis of the French','Viewpoint').
+type('Palazzo Madama','Park').
 type('Galleria Spada','Fountain').
-type('St. Angelo Bridge','Monument').
-type('Palazzo Farnese','Square').
+type('St. Angelo Bridge','Castle').
+type('Palazzo Farnese','Museum').
 type('Sant Agnese in Agone','Monument').
-type('Botanical Garden of Rome','Viewpoint').
-type('Chiesa di Santa Maria della Pace','Park').
-type('Obelisco Agonale','Castle').
-type('Basilica of Santa Maria in Trastevere','Museum').
-type('Church of St Onuphrius at the Janiculum','Square').
-type('Biblioteca Angelica','Bridge').
-type('Campo de  Fiori','Place of warship').
+type('Botanical Garden of Rome','Square').
+type('Chiesa di Santa Maria della Pace','Fountain').
+type('Obelisco Agonale','Fountain').
+type('Basilica of Santa Maria in Trastevere','Bridge').
+type('Church of St Onuphrius at the Janiculum','Place of warship').
+type('Biblioteca Angelica','Monument').
+type('Campo de  Fiori','Bridge').
 type('Piazza Navona','Square').
-type('Corte Suprema di Cassazione','Museum').
-type('Museo di Roma - Palazzo Braschi','Park').
-type('Parrocchia Santa Maria in Vallicella','Park').
-type('Chiesa di San Pietro in Montorio','Bridge').
-type('Saint Eligio of Orefici','Monument').
-type('Palazzo del Commendatore','Viewpoint').
-type('Porta Santo Spirito','Museum').
-type('Bernini Fountain','Monument').
-type('Presepe dei Netturbini','Viewpoint').
-type('Church of Saints Michael and Magnus','Place of warship').
-type('Museum Leonardo Da Vinci Experience','Viewpoint').
-type('Vatican Necropolis','Castle').
-type('Apostolic Palace','Place of warship').
-type('Ponte Vittorio Emanuele II','Place of warship').
+type('Corte Suprema di Cassazione','Viewpoint').
+type('Museo di Roma - Palazzo Braschi','Museum').
+type('Parrocchia Santa Maria in Vallicella','Viewpoint').
+type('Chiesa di San Pietro in Montorio','Square').
+type('Saint Eligio of Orefici','Museum').
+type('Palazzo del Commendatore','Fountain').
+type('Porta Santo Spirito','Park').
+type('Bernini Fountain','Castle').
+type('Presepe dei Netturbini','Museum').
+type('Church of Saints Michael and Magnus','Bridge').
+type('Museum Leonardo Da Vinci Experience','Castle').
+type('Vatican Necropolis','Monument').
+type('Apostolic Palace','Viewpoint').
+type('Ponte Vittorio Emanuele II','Square').
 type('Chiesa di Sant Anna dei Palafrenieri','Castle').
-type('Operativa Arte Contemporanea','Viewpoint').
-type('Santa Maria del Suffragio','Place of warship').
-type('Vatican Apostolic Archive','Castle').
-type('Carriage Pavilion','Viewpoint').
+type('Operativa Arte Contemporanea','Square').
+type('Santa Maria del Suffragio','Monument').
+type('Vatican Apostolic Archive','Park').
+type('Carriage Pavilion','Castle').
 type('Monastero Mater Ecclesi','Monument').
-type('Oratorio dei Filippini (Oratory of St Philip Neri)','Square').
-type('House of Hospitality Paul VI','Viewpoint').
-type('Chiesa di Santa Maria del Rosario in Prati','Square').
-type('Welcome To Rome','Viewpoint').
-type('Stadium of Domitian','Park').
-type('Palazzo Pamphili','Bridge').
-type('Fountain of the Moro','Castle').
-type('Cappella Chigi','Square').
-type('Chiesa di Gesu e Maria','Bridge').
+type('Oratorio dei Filippini (Oratory of St Philip Neri)','Park').
+type('House of Hospitality Paul VI','Castle').
+type('Chiesa di Santa Maria del Rosario in Prati','Place of warship').
+type('Welcome To Rome','Place of warship').
+type('Stadium of Domitian','Bridge').
+type('Palazzo Pamphili','Monument').
+type('Fountain of the Moro','Fountain').
+type('Cappella Chigi','Monument').
+type('Chiesa di Gesu e Maria','Museum').
 type('Villa Borghese','Park').
-type('Passeggiata del Pincio','Place of warship').
-type('Borghese Gallery and Museum','Bridge').
-type('National Gallery of Modern and Contemporary Art','Museum').
-type('Mausoleum of Augustus','Castle').
-type('Chiesa Parrocchiale San Giacomo in Augusta','Square').
-type('Villa Medici','Place of warship').
-type('Basilica of Saint Lawrence in Lucina','Castle').
+type('Passeggiata del Pincio','Castle').
+type('Borghese Gallery and Museum','Viewpoint').
+type('National Gallery of Modern and Contemporary Art','Castle').
+type('Mausoleum of Augustus','Museum').
+type('Chiesa Parrocchiale San Giacomo in Augusta','Viewpoint').
+type('Villa Medici','Square').
+type('Basilica of Saint Lawrence in Lucina','Museum').
 type('Basilica of SS. Ambrose and Charles on the Corso','Museum').
-type('Giorgio de Chirico House Museum','Monument').
-type('Santa Maria in Montesanto','Museum').
+type('Giorgio de Chirico House Museum','Castle').
+type('Santa Maria in Montesanto','Bridge').
 type('Fontana della Barcaccia','Park').
-type('Museo Leonardo da Vinci','Viewpoint').
-type('Explora - Il Museo dei Bambini di Roma','Monument').
+type('Museo Leonardo da Vinci','Bridge').
+type('Explora - Il Museo dei Bambini di Roma','Bridge').
 type('Orologio ad acqua del Pincio','Fountain').
-type('Ponte Giacomo Matteotti','Bridge').
-type('National Etruscan Museum of Villa Giulia','Park').
-type('Fontana del Babuino','Viewpoint').
-type('Fontana del Bottino','Bridge').
-type('Trinita dei Monti','Bridge').
+type('Ponte Giacomo Matteotti','Viewpoint').
+type('National Etruscan Museum of Villa Giulia','Viewpoint').
+type('Fontana del Babuino','Square').
+type('Fontana del Bottino','Castle').
+type('Trinita dei Monti','Park').
 type('Galleria del Cembalo','Monument').
-type('Chiesa di Santa Maria in Via','Fountain').
-type('Palazzo di Propaganda Fide','Monument').
-type('Basilica di Sant Andrea delle Fratte','Monument').
-type('Piazza del Popolo','Fountain').
+type('Chiesa di Santa Maria in Via','Castle').
+type('Palazzo di Propaganda Fide','Park').
+type('Basilica di Sant Andrea delle Fratte','Fountain').
+type('Piazza del Popolo','Park').
 type('Marcus Aurelius Column','Castle').
-type('Piazza di Siena','Viewpoint').
-type('All Saints  Anglican Church Rome','Castle').
-type('Church of Saint Roch  all Augusteo ','Viewpoint').
-type('Church of Our Lady in Trivio','Monument').
-type('Il Tempio di Adriano','Monument').
-type('Museo Civico di Zoologia','Bridge').
-type('Basilica of St. Augustine in Campo Marzio','Museum').
-type('Hendrik Christian Anderson Museum','Museum').
-type('Goethe House','Viewpoint').
+type('Piazza di Siena','Park').
+type('All Saints  Anglican Church Rome','Bridge').
+type('Church of Saint Roch  all Augusteo ','Park').
+type('Church of Our Lady in Trivio','Place of warship').
+type('Il Tempio di Adriano','Park').
+type('Museo Civico di Zoologia','Square').
+type('Basilica of St. Augustine in Campo Marzio','Square').
+type('Hendrik Christian Anderson Museum','Bridge').
+type('Goethe House','Museum').
 type('Institute of Japanese Culture','Square').
-type('Villa Balestra','Bridge').
+type('Villa Balestra','Square').
 type('Palazzo Borghese','Viewpoint').
-type('National Academy of San Luca','Bridge').
-type('Museo Carlo Bilotti','Bridge').
-type('Palazzo Wedekind','Square').
-type('Cloaca Maxima','Museum').
-type('Temple of Apollo Palatinus','Fountain').
-type('Circus Maximus','Museum').
+type('National Academy of San Luca','Fountain').
+type('Museo Carlo Bilotti','Park').
+type('Palazzo Wedekind','Viewpoint').
+type('Cloaca Maxima','Bridge').
+type('Temple of Apollo Palatinus','Museum').
+type('Circus Maximus','Bridge').
 type('Mouth of Truth','Square').
-type('Basilica di Santa Sabina all Aventino','Viewpoint').
-type('Santa Maria in Cosmedin','Place of warship').
+type('Basilica di Santa Sabina all Aventino','Place of warship').
+type('Santa Maria in Cosmedin','Square').
 type('Non-Catholic Cemetery','Fountain').
 type('Basilica Santa Cecilia in Trastevere','Castle').
-type('Mattatoio','Viewpoint').
-type('Pyramid of Caius Cestius','Monument').
-type('Turtle Fountain','Museum').
-type('Basilica di San Bartolomeo all Isola','Square').
-type('Chiesa di Santa Prisca','Museum').
-type('Tempio Maggiore di Roma','Viewpoint').
-type('Portico of Octavia','Viewpoint').
+type('Mattatoio','Castle').
+type('Pyramid of Caius Cestius','Viewpoint').
+type('Turtle Fountain','Castle').
+type('Basilica di San Bartolomeo all Isola','Park').
+type('Chiesa di Santa Prisca','Castle').
+type('Tempio Maggiore di Roma','Square').
+type('Portico of Octavia','Park').
 type('Basilica Santi Giovanni e Paolo','Museum').
-properties('Il Tempio dei Dioscuri',['Historical', 'Educational']).
-properties('Basilica Julia',['Modern art', 'Educational']).
-properties('Fountain of the Bees',['Entertainment', 'Educational']).
-properties('Ludus Magnus',['Modern art']).
+properties('Il Tempio dei Dioscuri',['Modern art', 'Historical', 'Educational']).
+properties('Basilica Julia',['Historical']).
+properties('Fountain of the Bees',['Educational']).
+properties('Ludus Magnus',['Modern art', 'Historical']).
 properties('Palazzetto Zuccari',['Historical']).
 properties('Fontana del Mose',['Historical']).
-properties('Chiesa di Santa Bibiana',['Historical']).
-properties('Santissima Trinita degli Spagnoli',['Entertainment']).
+properties('Chiesa di Santa Bibiana',['Modern art', 'Educational']).
+properties('Santissima Trinita degli Spagnoli',['Historical']).
 properties('Colosseum',['Historical', 'Educational']).
 properties('Trevi Fountain',['Historical', 'Entertainment']).
-properties('Capitoline Museums',['Historical', 'Educational']).
-properties('Arch of Constantine',['Entertainment', 'Educational']).
-properties('Obelisco del Pantheon',['Historical', 'Educational']).
-properties('Piazza di Spagna',['Entertainment', 'Modern art']).
-properties('Basilica Papale di Santa Maria Maggiore',['Historical', 'Educational']).
+properties('Capitoline Museums',['Modern art']).
+properties('Arch of Constantine',['Modern art']).
+properties('Obelisco del Pantheon',['Entertainment', 'Modern art', 'Historical']).
+properties('Piazza di Spagna',['Entertainment']).
+properties('Basilica Papale di Santa Maria Maggiore',['Entertainment', 'Modern art', 'Historical']).
 properties('Roman Forum',['Historical', 'Educational']).
-properties('Basilica of San Pietro in Vincoli',['Educational']).
-properties('Palazzo Massimo alle Terme',['Modern art', 'Entertainment']).
-properties('Monument to Victor Emmanuel II',['Entertainment', 'Modern art']).
-properties('Campidoglio',['Educational']).
-properties('Mercati di Traiano Museo dei Fori Imperiali',['Historical', 'Modern art']).
-properties('Equestrian Statue of Marcus Aurelius',['Entertainment', 'Historical']).
-properties('Convento dei Frati Cappuccini',['Educational']).
-properties('Quirinal Palace',['Educational']).
-properties('Basilica di San Clemente',['Modern art', 'Entertainment']).
-properties('Chiesa di Sant  Ignazio di Loyola',['Entertainment', 'Historical']).
-properties('Chiesa del Gesu',['Historical', 'Entertainment']).
-properties('Piazza Barberini',['Educational']).
-properties('Palazzo delle Esposizioni',['Entertainment', 'Modern art', 'Educational']).
-properties('Basilica di Santa Maria in Ara coeli',['Modern art']).
-properties('Palazzo Montecitorio',['Modern art']).
-properties('Domus Aurea',['Modern art', 'Historical', 'Educational']).
-properties('National Gallery of Ancient Art in Barberini Palace',['Modern art', 'Educational']).
-properties('Doria Pamphili Gallery',['Entertainment', 'Historical', 'Educational']).
-properties('Piazza Venezia',['Entertainment']).
+properties('Basilica of San Pietro in Vincoli',['Entertainment', 'Modern art', 'Historical']).
+properties('Palazzo Massimo alle Terme',['Educational']).
+properties('Monument to Victor Emmanuel II',['Modern art']).
+properties('Campidoglio',['Entertainment', 'Historical']).
+properties('Mercati di Traiano Museo dei Fori Imperiali',['Educational']).
+properties('Equestrian Statue of Marcus Aurelius',['Modern art']).
+properties('Convento dei Frati Cappuccini',['Modern art']).
+properties('Quirinal Palace',['Modern art', 'Educational']).
+properties('Basilica di San Clemente',['Entertainment']).
+properties('Chiesa di Sant  Ignazio di Loyola',['Historical']).
+properties('Chiesa del Gesu',['Entertainment', 'Educational']).
+properties('Piazza Barberini',['Modern art', 'Historical']).
+properties('Palazzo delle Esposizioni',['Modern art', 'Educational']).
+properties('Basilica di Santa Maria in Ara coeli',['Modern art', 'Historical']).
+properties('Palazzo Montecitorio',['Entertainment', 'Historical']).
+properties('Domus Aurea',['Entertainment', 'Historical']).
+properties('National Gallery of Ancient Art in Barberini Palace',['Entertainment']).
+properties('Doria Pamphili Gallery',['Modern art', 'Educational']).
+properties('Piazza Venezia',['Historical', 'Educational']).
 properties('Pantheon',['Historical', 'Educational']).
-properties('Basilica of Saint Mary of Minerva',['Educational']).
-properties('Santa Maria degli Angeli e dei Martiri',['Modern art']).
-properties('Parrocchia Santa Maria Maggiore',['Modern art', 'Educational']).
-properties('Mamertine Prison',['Historical', 'Modern art']).
-properties('Mose di Michelangelo',['Educational']).
-properties('Capanne di Romolo',['Entertainment']).
-properties('Basilica San Silvestro in Capite',['Historical']).
-properties('Basilica del Sacro Cuore di Gesu',['Entertainment', 'Modern art', 'Historical']).
-properties('Largo di Torre Argentina',['Educational']).
-properties('Chiesa di Santa Maria ai Monti',['Entertainment']).
+properties('Basilica of Saint Mary of Minerva',['Entertainment', 'Modern art', 'Historical']).
+properties('Santa Maria degli Angeli e dei Martiri',['Entertainment']).
+properties('Parrocchia Santa Maria Maggiore',['Entertainment', 'Educational']).
+properties('Mamertine Prison',['Entertainment']).
+properties('Mose di Michelangelo',['Entertainment', 'Modern art']).
+properties('Capanne di Romolo',['Educational']).
+properties('Basilica San Silvestro in Capite',['Entertainment', 'Historical', 'Educational']).
+properties('Basilica del Sacro Cuore di Gesu',['Entertainment']).
+properties('Largo di Torre Argentina',['Entertainment', 'Modern art', 'Historical']).
+properties('Chiesa di Santa Maria ai Monti',['Historical']).
 properties('Basilica of St Mark Evangelist at Campidoglio',['Historical', 'Educational']).
-properties('St. Paul s Within the Walls',['Entertainment', 'Historical']).
-properties('Septimius Severus Arch',['Historical']).
+properties('St. Paul s Within the Walls',['Educational']).
+properties('Septimius Severus Arch',['Modern art', 'Historical', 'Educational']).
 properties('Palazzo Sciarra Colonna Carbognano',['Modern art']).
 properties('The Keats - Shelley House',['Entertainment']).
-properties('Basilica Ulpia',['Modern art']).
-properties('Temple of Vesta',['Educational']).
-properties('Chiesa San Marcello al Corso',['Educational']).
-properties('San Stanislao alle Botteghe Oscure',['Historical']).
-properties('Column of Phocas',['Modern art', 'Educational']).
-properties('Antoninus and Faustina Temple',['Historical', 'Educational']).
-properties('Marcello Theater',['Entertainment', 'Modern art', 'Educational']).
-properties('Chiesa di Santa Maria in Portico in Campitelli',['Historical', 'Modern art']).
-properties('The Church of Santa Maria della Vittoria',['Modern art', 'Entertainment']).
-properties('The Last Judgment',['Modern art']).
-properties('Chiesa di Santo Stefano degli Abissini',['Entertainment', 'Educational']).
-properties('Fontana di Piazza Farnese',['Modern art']).
-properties('Villa Abamelek',['Historical', 'Educational']).
-properties('Palazzo Torres',['Modern art']).
+properties('Basilica Ulpia',['Entertainment', 'Modern art', 'Historical']).
+properties('Temple of Vesta',['Entertainment']).
+properties('Chiesa San Marcello al Corso',['Historical']).
+properties('San Stanislao alle Botteghe Oscure',['Entertainment', 'Modern art']).
+properties('Column of Phocas',['Entertainment', 'Historical', 'Educational']).
+properties('Antoninus and Faustina Temple',['Modern art']).
+properties('Marcello Theater',['Modern art', 'Historical']).
+properties('Chiesa di Santa Maria in Portico in Campitelli',['Entertainment', 'Modern art', 'Educational']).
+properties('The Church of Santa Maria della Vittoria',['Modern art', 'Historical', 'Educational']).
+properties('The Last Judgment',['Entertainment']).
+properties('Chiesa di Santo Stefano degli Abissini',['Entertainment', 'Historical', 'Educational']).
+properties('Fontana di Piazza Farnese',['Educational']).
+properties('Villa Abamelek',['Historical']).
+properties('Palazzo Torres',['Historical', 'Educational']).
 properties('Castel Sant Angelo',['Historical', 'Educational']).
-properties('Vidoni Palace',['Entertainment', 'Educational']).
+properties('Vidoni Palace',['Modern art', 'Historical']).
 properties('Vatican Museums',['Historical', 'Educational']).
-properties('Fontana di Piazza Nicosia',['Historical']).
+properties('Fontana di Piazza Nicosia',['Modern art', 'Historical', 'Educational']).
 properties('St. Peter s Basilica',['Historical', 'Educational']).
-properties('Church Holy Spirit in Sassia',['Entertainment', 'Historical']).
-properties('Parrocchia Santuario Santa Maria in Traspontina',['Entertainment', 'Educational']).
-properties('Gardens of Vatican City',['Entertainment', 'Educational']).
-properties('Fiumi Fountain',['Entertainment', 'Modern art', 'Educational']).
-properties('Sistine Chapel',['Educational']).
-properties('Villa Farnesina',['Entertainment']).
+properties('Church Holy Spirit in Sassia',['Modern art', 'Educational']).
+properties('Parrocchia Santuario Santa Maria in Traspontina',['Entertainment']).
+properties('Gardens of Vatican City',['Modern art', 'Historical']).
+properties('Fiumi Fountain',['Modern art', 'Educational']).
+properties('Sistine Chapel',['Entertainment', 'Modern art']).
+properties('Villa Farnesina',['Historical', 'Educational']).
 properties('Church of St. Louis of the French',['Entertainment', 'Historical']).
-properties('Palazzo Madama',['Entertainment']).
-properties('Galleria Spada',['Historical', 'Entertainment']).
-properties('St. Angelo Bridge',['Entertainment']).
-properties('Palazzo Farnese',['Educational']).
-properties('Sant Agnese in Agone',['Modern art', 'Entertainment']).
-properties('Botanical Garden of Rome',['Modern art']).
-properties('Chiesa di Santa Maria della Pace',['Entertainment', 'Educational']).
-properties('Obelisco Agonale',['Modern art', 'Historical', 'Educational']).
-properties('Basilica of Santa Maria in Trastevere',['Historical', 'Modern art']).
-properties('Church of St Onuphrius at the Janiculum',['Modern art']).
-properties('Biblioteca Angelica',['Modern art', 'Entertainment', 'Educational']).
-properties('Campo de  Fiori',['Historical']).
+properties('Palazzo Madama',['Modern art', 'Educational']).
+properties('Galleria Spada',['Modern art']).
+properties('St. Angelo Bridge',['Entertainment', 'Modern art']).
+properties('Palazzo Farnese',['Entertainment', 'Modern art']).
+properties('Sant Agnese in Agone',['Entertainment']).
+properties('Botanical Garden of Rome',['Historical']).
+properties('Chiesa di Santa Maria della Pace',['Historical', 'Educational']).
+properties('Obelisco Agonale',['Modern art', 'Historical']).
+properties('Basilica of Santa Maria in Trastevere',['Modern art', 'Historical']).
+properties('Church of St Onuphrius at the Janiculum',['Entertainment']).
+properties('Biblioteca Angelica',['Modern art', 'Historical']).
+properties('Campo de  Fiori',['Entertainment', 'Historical', 'Educational']).
 properties('Piazza Navona',['Historical', 'Entertainment']).
-properties('Corte Suprema di Cassazione',['Entertainment']).
-properties('Museo di Roma - Palazzo Braschi',['Modern art', 'Educational']).
-properties('Parrocchia Santa Maria in Vallicella',['Historical', 'Entertainment']).
-properties('Chiesa di San Pietro in Montorio',['Entertainment', 'Modern art', 'Educational']).
-properties('Saint Eligio of Orefici',['Historical', 'Educational']).
-properties('Palazzo del Commendatore',['Entertainment']).
-properties('Porta Santo Spirito',['Historical', 'Modern art']).
-properties('Bernini Fountain',['Modern art']).
-properties('Presepe dei Netturbini',['Historical', 'Modern art', 'Educational']).
-properties('Church of Saints Michael and Magnus',['Modern art', 'Entertainment', 'Historical']).
-properties('Museum Leonardo Da Vinci Experience',['Educational']).
-properties('Vatican Necropolis',['Historical']).
-properties('Apostolic Palace',['Historical']).
-properties('Ponte Vittorio Emanuele II',['Modern art', 'Entertainment', 'Educational']).
-properties('Chiesa di Sant Anna dei Palafrenieri',['Modern art']).
+properties('Corte Suprema di Cassazione',['Historical']).
+properties('Museo di Roma - Palazzo Braschi',['Entertainment']).
+properties('Parrocchia Santa Maria in Vallicella',['Entertainment', 'Modern art']).
+properties('Chiesa di San Pietro in Montorio',['Modern art', 'Historical', 'Educational']).
+properties('Saint Eligio of Orefici',['Entertainment']).
+properties('Palazzo del Commendatore',['Entertainment', 'Historical']).
+properties('Porta Santo Spirito',['Entertainment', 'Modern art']).
+properties('Bernini Fountain',['Entertainment', 'Modern art', 'Historical']).
+properties('Presepe dei Netturbini',['Historical']).
+properties('Church of Saints Michael and Magnus',['Historical', 'Educational']).
+properties('Museum Leonardo Da Vinci Experience',['Entertainment', 'Modern art', 'Historical']).
+properties('Vatican Necropolis',['Historical', 'Educational']).
+properties('Apostolic Palace',['Modern art', 'Educational']).
+properties('Ponte Vittorio Emanuele II',['Historical', 'Educational']).
+properties('Chiesa di Sant Anna dei Palafrenieri',['Entertainment']).
 properties('Operativa Arte Contemporanea',['Educational']).
-properties('Santa Maria del Suffragio',['Entertainment']).
-properties('Vatican Apostolic Archive',['Entertainment', 'Historical']).
-properties('Carriage Pavilion',['Entertainment', 'Educational']).
-properties('Monastero Mater Ecclesi',['Entertainment']).
-properties('Oratorio dei Filippini (Oratory of St Philip Neri)',['Entertainment', 'Historical']).
-properties('House of Hospitality Paul VI',['Entertainment', 'Educational']).
-properties('Chiesa di Santa Maria del Rosario in Prati',['Historical', 'Educational']).
-properties('Welcome To Rome',['Historical', 'Modern art']).
-properties('Stadium of Domitian',['Historical', 'Entertainment']).
-properties('Palazzo Pamphili',['Entertainment']).
-properties('Fountain of the Moro',['Historical', 'Modern art']).
-properties('Cappella Chigi',['Educational']).
-properties('Chiesa di Gesu e Maria',['Modern art']).
+properties('Santa Maria del Suffragio',['Educational']).
+properties('Vatican Apostolic Archive',['Modern art']).
+properties('Carriage Pavilion',['Modern art']).
+properties('Monastero Mater Ecclesi',['Historical', 'Educational']).
+properties('Oratorio dei Filippini (Oratory of St Philip Neri)',['Educational']).
+properties('House of Hospitality Paul VI',['Entertainment']).
+properties('Chiesa di Santa Maria del Rosario in Prati',['Modern art']).
+properties('Welcome To Rome',['Modern art', 'Historical']).
+properties('Stadium of Domitian',['Entertainment']).
+properties('Palazzo Pamphili',['Modern art', 'Educational']).
+properties('Fountain of the Moro',['Entertainment', 'Educational']).
+properties('Cappella Chigi',['Historical']).
+properties('Chiesa di Gesu e Maria',['Modern art', 'Historical', 'Educational']).
 properties('Villa Borghese',['Entertainment']).
-properties('Passeggiata del Pincio',['Historical', 'Educational']).
-properties('Borghese Gallery and Museum',['Historical', 'Modern art']).
-properties('National Gallery of Modern and Contemporary Art',['Entertainment']).
-properties('Mausoleum of Augustus',['Modern art', 'Educational']).
-properties('Chiesa Parrocchiale San Giacomo in Augusta',['Historical', 'Modern art']).
-properties('Villa Medici',['Modern art']).
-properties('Basilica of Saint Lawrence in Lucina',['Historical', 'Modern art']).
-properties('Basilica of SS. Ambrose and Charles on the Corso',['Entertainment', 'Educational']).
-properties('Giorgio de Chirico House Museum',['Historical', 'Modern art', 'Educational']).
-properties('Santa Maria in Montesanto',['Entertainment', 'Educational']).
-properties('Fontana della Barcaccia',['Historical', 'Educational']).
-properties('Museo Leonardo da Vinci',['Modern art']).
-properties('Explora - Il Museo dei Bambini di Roma',['Entertainment', 'Educational']).
+properties('Passeggiata del Pincio',['Modern art', 'Historical']).
+properties('Borghese Gallery and Museum',['Entertainment', 'Modern art']).
+properties('National Gallery of Modern and Contemporary Art',['Historical']).
+properties('Mausoleum of Augustus',['Historical', 'Educational']).
+properties('Chiesa Parrocchiale San Giacomo in Augusta',['Entertainment', 'Historical']).
+properties('Villa Medici',['Entertainment', 'Educational']).
+properties('Basilica of Saint Lawrence in Lucina',['Entertainment', 'Modern art']).
+properties('Basilica of SS. Ambrose and Charles on the Corso',['Educational']).
+properties('Giorgio de Chirico House Museum',['Historical']).
+properties('Santa Maria in Montesanto',['Educational']).
+properties('Fontana della Barcaccia',['Entertainment', 'Modern art', 'Historical']).
+properties('Museo Leonardo da Vinci',['Entertainment']).
+properties('Explora - Il Museo dei Bambini di Roma',['Modern art', 'Historical', 'Educational']).
 properties('Orologio ad acqua del Pincio',['Educational']).
-properties('Ponte Giacomo Matteotti',['Modern art', 'Entertainment']).
-properties('National Etruscan Museum of Villa Giulia',['Modern art']).
-properties('Fontana del Babuino',['Historical']).
-properties('Fontana del Bottino',['Historical', 'Educational']).
-properties('Trinita dei Monti',['Historical']).
-properties('Galleria del Cembalo',['Entertainment']).
-properties('Chiesa di Santa Maria in Via',['Entertainment', 'Modern art', 'Educational']).
-properties('Palazzo di Propaganda Fide',['Historical']).
-properties('Basilica di Sant Andrea delle Fratte',['Historical', 'Educational']).
-properties('Piazza del Popolo',['Entertainment', 'Modern art']).
-properties('Marcus Aurelius Column',['Modern art', 'Educational']).
-properties('Piazza di Siena',['Historical', 'Educational']).
-properties('All Saints  Anglican Church Rome',['Modern art', 'Educational']).
-properties('Church of Saint Roch  all Augusteo ',['Modern art', 'Historical']).
-properties('Church of Our Lady in Trivio',['Modern art']).
-properties('Il Tempio di Adriano',['Historical', 'Entertainment', 'Modern art']).
-properties('Museo Civico di Zoologia',['Modern art']).
-properties('Basilica of St. Augustine in Campo Marzio',['Entertainment']).
-properties('Hendrik Christian Anderson Museum',['Modern art', 'Entertainment', 'Historical']).
-properties('Goethe House',['Historical', 'Entertainment']).
-properties('Institute of Japanese Culture',['Educational']).
-properties('Villa Balestra',['Modern art']).
-properties('Palazzo Borghese',['Historical']).
-properties('National Academy of San Luca',['Historical', 'Modern art', 'Educational']).
-properties('Museo Carlo Bilotti',['Entertainment', 'Historical']).
-properties('Palazzo Wedekind',['Historical', 'Entertainment']).
-properties('Cloaca Maxima',['Entertainment']).
-properties('Temple of Apollo Palatinus',['Educational']).
-properties('Circus Maximus',['Modern art', 'Educational']).
+properties('Ponte Giacomo Matteotti',['Educational']).
+properties('National Etruscan Museum of Villa Giulia',['Entertainment', 'Historical']).
+properties('Fontana del Babuino',['Entertainment', 'Educational']).
+properties('Fontana del Bottino',['Historical']).
+properties('Trinita dei Monti',['Educational']).
+properties('Galleria del Cembalo',['Educational']).
+properties('Chiesa di Santa Maria in Via',['Historical', 'Educational']).
+properties('Palazzo di Propaganda Fide',['Entertainment']).
+properties('Basilica di Sant Andrea delle Fratte',['Modern art']).
+properties('Piazza del Popolo',['Entertainment']).
+properties('Marcus Aurelius Column',['Entertainment']).
+properties('Piazza di Siena',['Educational']).
+properties('All Saints  Anglican Church Rome',['Modern art']).
+properties('Church of Saint Roch  all Augusteo ',['Entertainment', 'Historical']).
+properties('Church of Our Lady in Trivio',['Historical']).
+properties('Il Tempio di Adriano',['Modern art', 'Historical', 'Educational']).
+properties('Museo Civico di Zoologia',['Historical', 'Educational']).
+properties('Basilica of St. Augustine in Campo Marzio',['Modern art', 'Educational']).
+properties('Hendrik Christian Anderson Museum',['Entertainment', 'Educational']).
+properties('Goethe House',['Modern art', 'Historical']).
+properties('Institute of Japanese Culture',['Entertainment', 'Historical']).
+properties('Villa Balestra',['Entertainment', 'Historical', 'Educational']).
+properties('Palazzo Borghese',['Entertainment', 'Modern art', 'Historical']).
+properties('National Academy of San Luca',['Entertainment', 'Modern art']).
+properties('Museo Carlo Bilotti',['Historical', 'Educational']).
+properties('Palazzo Wedekind',['Entertainment']).
+properties('Cloaca Maxima',['Historical']).
+properties('Temple of Apollo Palatinus',['Entertainment', 'Modern art', 'Educational']).
+properties('Circus Maximus',['Entertainment', 'Historical']).
 properties('Mouth of Truth',['Historical']).
-properties('Basilica di Santa Sabina all Aventino',['Modern art', 'Educational']).
-properties('Santa Maria in Cosmedin',['Historical', 'Modern art']).
-properties('Non-Catholic Cemetery',['Educational']).
-properties('Basilica Santa Cecilia in Trastevere',['Modern art', 'Educational']).
-properties('Mattatoio',['Educational']).
-properties('Pyramid of Caius Cestius',['Entertainment']).
-properties('Turtle Fountain',['Entertainment']).
+properties('Basilica di Santa Sabina all Aventino',['Entertainment', 'Modern art']).
+properties('Santa Maria in Cosmedin',['Entertainment', 'Modern art']).
+properties('Non-Catholic Cemetery',['Historical', 'Educational']).
+properties('Basilica Santa Cecilia in Trastevere',['Educational']).
+properties('Mattatoio',['Modern art']).
+properties('Pyramid of Caius Cestius',['Modern art', 'Educational']).
+properties('Turtle Fountain',['Entertainment', 'Educational']).
 properties('Basilica di San Bartolomeo all Isola',['Entertainment']).
-properties('Chiesa di Santa Prisca',['Entertainment', 'Modern art', 'Historical']).
-properties('Tempio Maggiore di Roma',['Historical', 'Entertainment']).
-properties('Portico of Octavia',['Historical']).
-properties('Basilica Santi Giovanni e Paolo',['Modern art']).
+properties('Chiesa di Santa Prisca',['Educational']).
+properties('Tempio Maggiore di Roma',['Entertainment']).
+properties('Portico of Octavia',['Entertainment', 'Modern art', 'Educational']).
+properties('Basilica Santi Giovanni e Paolo',['Entertainment', 'Modern art', 'Educational']).
 coordinates('Il Tempio dei Dioscuri',41.89170310000001,12.4856645).
 coordinates('Basilica Julia',41.89199659999999,12.4847898).
 coordinates('Fountain of the Bees',41.90428929999999,12.4887696).
@@ -1019,7 +1019,7 @@ rating('Fontana del Bottino',4.3).
 rating('Trinita dei Monti',4.6).
 rating('Galleria del Cembalo',4.5).
 rating('Chiesa di Santa Maria in Via',4.8).
-rating('Palazzo di Propaganda Fide',4.4).
+rating('Palazzo di Propaganda Fide',4.5).
 rating('Basilica di Sant Andrea delle Fratte',4.7).
 rating('Piazza del Popolo',4.6).
 rating('Marcus Aurelius Column',4.6).
@@ -1057,49 +1057,49 @@ rating('Basilica Santi Giovanni e Paolo',4.7).
 ratingCount('Il Tempio dei Dioscuri',111).
 ratingCount('Basilica Julia',144).
 ratingCount('Fountain of the Bees',113).
-ratingCount('Ludus Magnus',331).
+ratingCount('Ludus Magnus',332).
 ratingCount('Palazzetto Zuccari',201).
-ratingCount('Fontana del Mose',804).
+ratingCount('Fontana del Mose',807).
 ratingCount('Chiesa di Santa Bibiana',229).
 ratingCount('Santissima Trinita degli Spagnoli',322).
-ratingCount('Colosseum',345533).
-ratingCount('Trevi Fountain',361131).
-ratingCount('Capitoline Museums',13764).
-ratingCount('Arch of Constantine',4566).
+ratingCount('Colosseum',345838).
+ratingCount('Trevi Fountain',361436).
+ratingCount('Capitoline Museums',13772).
+ratingCount('Arch of Constantine',4570).
 ratingCount('Obelisco del Pantheon',1602).
-ratingCount('Piazza di Spagna',119090).
-ratingCount('Basilica Papale di Santa Maria Maggiore',29681).
-ratingCount('Roman Forum',117491).
-ratingCount('Basilica of San Pietro in Vincoli',12772).
-ratingCount('Palazzo Massimo alle Terme',4477).
-ratingCount('Monument to Victor Emmanuel II',54538).
-ratingCount('Campidoglio',20216).
-ratingCount('Mercati di Traiano Museo dei Fori Imperiali',7973).
+ratingCount('Piazza di Spagna',119187).
+ratingCount('Basilica Papale di Santa Maria Maggiore',29726).
+ratingCount('Roman Forum',117548).
+ratingCount('Basilica of San Pietro in Vincoli',12779).
+ratingCount('Palazzo Massimo alle Terme',4481).
+ratingCount('Monument to Victor Emmanuel II',54604).
+ratingCount('Campidoglio',20231).
+ratingCount('Mercati di Traiano Museo dei Fori Imperiali',7977).
 ratingCount('Equestrian Statue of Marcus Aurelius',285).
 ratingCount('Convento dei Frati Cappuccini',337).
-ratingCount('Quirinal Palace',3461).
-ratingCount('Basilica di San Clemente',5012).
-ratingCount('Chiesa di Sant  Ignazio di Loyola',8677).
-ratingCount('Chiesa del Gesu',4649).
-ratingCount('Piazza Barberini',23219).
-ratingCount('Palazzo delle Esposizioni',5796).
+ratingCount('Quirinal Palace',3464).
+ratingCount('Basilica di San Clemente',5018).
+ratingCount('Chiesa di Sant  Ignazio di Loyola',8693).
+ratingCount('Chiesa del Gesu',4653).
+ratingCount('Piazza Barberini',23223).
+ratingCount('Palazzo delle Esposizioni',5801).
 ratingCount('Basilica di Santa Maria in Ara coeli',2344).
-ratingCount('Palazzo Montecitorio',726).
-ratingCount('Domus Aurea',2408).
-ratingCount('National Gallery of Ancient Art in Barberini Palace',5010).
-ratingCount('Doria Pamphili Gallery',5008).
-ratingCount('Piazza Venezia',53397).
-ratingCount('Pantheon',200432).
-ratingCount('Basilica of Saint Mary of Minerva',1991).
-ratingCount('Santa Maria degli Angeli e dei Martiri',6635).
+ratingCount('Palazzo Montecitorio',727).
+ratingCount('Domus Aurea',2413).
+ratingCount('National Gallery of Ancient Art in Barberini Palace',5016).
+ratingCount('Doria Pamphili Gallery',5024).
+ratingCount('Piazza Venezia',53400).
+ratingCount('Pantheon',200625).
+ratingCount('Basilica of Saint Mary of Minerva',1993).
+ratingCount('Santa Maria degli Angeli e dei Martiri',6642).
 ratingCount('Parrocchia Santa Maria Maggiore',100).
-ratingCount('Mamertine Prison',577).
-ratingCount('Mose di Michelangelo',4919).
+ratingCount('Mamertine Prison',579).
+ratingCount('Mose di Michelangelo',4933).
 ratingCount('Capanne di Romolo',98).
 ratingCount('Basilica San Silvestro in Capite',783).
 ratingCount('Basilica del Sacro Cuore di Gesu',478).
-ratingCount('Largo di Torre Argentina',31692).
-ratingCount('Chiesa di Santa Maria ai Monti',590).
+ratingCount('Largo di Torre Argentina',31715).
+ratingCount('Chiesa di Santa Maria ai Monti',591).
 ratingCount('Basilica of St Mark Evangelist at Campidoglio',423).
 ratingCount('St. Paul s Within the Walls',1206).
 ratingCount('Septimius Severus Arch',456).
@@ -1111,53 +1111,53 @@ ratingCount('Chiesa San Marcello al Corso',1796).
 ratingCount('San Stanislao alle Botteghe Oscure',64).
 ratingCount('Column of Phocas',84).
 ratingCount('Antoninus and Faustina Temple',282).
-ratingCount('Marcello Theater',8641).
-ratingCount('Chiesa di Santa Maria in Portico in Campitelli',747).
-ratingCount('The Church of Santa Maria della Vittoria',5708).
+ratingCount('Marcello Theater',8651).
+ratingCount('Chiesa di Santa Maria in Portico in Campitelli',748).
+ratingCount('The Church of Santa Maria della Vittoria',5712).
 ratingCount('The Last Judgment',251).
-ratingCount('Chiesa di Santo Stefano degli Abissini',109).
+ratingCount('Chiesa di Santo Stefano degli Abissini',110).
 ratingCount('Fontana di Piazza Farnese',184).
 ratingCount('Villa Abamelek',49).
 ratingCount('Palazzo Torres',24).
-ratingCount('Castel Sant Angelo',76197).
+ratingCount('Castel Sant Angelo',76259).
 ratingCount('Vidoni Palace',53).
-ratingCount('Vatican Museums',148243).
+ratingCount('Vatican Museums',148402).
 ratingCount('Fontana di Piazza Nicosia',26).
-ratingCount('St. Peter s Basilica',135358).
-ratingCount('Church Holy Spirit in Sassia',1602).
+ratingCount('St. Peter s Basilica',135384).
+ratingCount('Church Holy Spirit in Sassia',1601).
 ratingCount('Parrocchia Santuario Santa Maria in Traspontina',1424).
-ratingCount('Gardens of Vatican City',2184).
-ratingCount('Fiumi Fountain',8434).
-ratingCount('Sistine Chapel',63171).
-ratingCount('Villa Farnesina',2109).
-ratingCount('Church of St. Louis of the French',5935).
-ratingCount('Palazzo Madama',314).
-ratingCount('Galleria Spada',1991).
-ratingCount('St. Angelo Bridge',18021).
-ratingCount('Palazzo Farnese',1292).
-ratingCount('Sant Agnese in Agone',1428).
-ratingCount('Botanical Garden of Rome',8230).
+ratingCount('Gardens of Vatican City',2185).
+ratingCount('Fiumi Fountain',8440).
+ratingCount('Sistine Chapel',63304).
+ratingCount('Villa Farnesina',2114).
+ratingCount('Church of St. Louis of the French',5936).
+ratingCount('Palazzo Madama',315).
+ratingCount('Galleria Spada',1995).
+ratingCount('St. Angelo Bridge',18043).
+ratingCount('Palazzo Farnese',1296).
+ratingCount('Sant Agnese in Agone',1429).
+ratingCount('Botanical Garden of Rome',8251).
 ratingCount('Chiesa di Santa Maria della Pace',1024).
-ratingCount('Obelisco Agonale',238).
-ratingCount('Basilica of Santa Maria in Trastevere',15830).
+ratingCount('Obelisco Agonale',239).
+ratingCount('Basilica of Santa Maria in Trastevere',15843).
 ratingCount('Church of St Onuphrius at the Janiculum',189).
 ratingCount('Biblioteca Angelica',76).
-ratingCount('Campo de  Fiori',53636).
-ratingCount('Piazza Navona',166267).
+ratingCount('Campo de  Fiori',53683).
+ratingCount('Piazza Navona',166407).
 ratingCount('Corte Suprema di Cassazione',951).
-ratingCount('Museo di Roma - Palazzo Braschi',4361).
-ratingCount('Parrocchia Santa Maria in Vallicella',1840).
-ratingCount('Chiesa di San Pietro in Montorio',1649).
+ratingCount('Museo di Roma - Palazzo Braschi',4363).
+ratingCount('Parrocchia Santa Maria in Vallicella',1841).
+ratingCount('Chiesa di San Pietro in Montorio',1651).
 ratingCount('Saint Eligio of Orefici',60).
 ratingCount('Palazzo del Commendatore',19).
 ratingCount('Porta Santo Spirito',48).
-ratingCount('Bernini Fountain',276).
+ratingCount('Bernini Fountain',278).
 ratingCount('Presepe dei Netturbini',326).
 ratingCount('Church of Saints Michael and Magnus',113).
-ratingCount('Museum Leonardo Da Vinci Experience',2883).
-ratingCount('Vatican Necropolis',658).
+ratingCount('Museum Leonardo Da Vinci Experience',2885).
+ratingCount('Vatican Necropolis',659).
 ratingCount('Apostolic Palace',714).
-ratingCount('Ponte Vittorio Emanuele II',2046).
+ratingCount('Ponte Vittorio Emanuele II',2050).
 ratingCount('Chiesa di Sant Anna dei Palafrenieri',1282).
 ratingCount('Operativa Arte Contemporanea',23).
 ratingCount('Santa Maria del Suffragio',20).
@@ -1167,67 +1167,67 @@ ratingCount('Monastero Mater Ecclesi',78).
 ratingCount('Oratorio dei Filippini (Oratory of St Philip Neri)',58).
 ratingCount('House of Hospitality Paul VI',114).
 ratingCount('Chiesa di Santa Maria del Rosario in Prati',218).
-ratingCount('Welcome To Rome',1110).
+ratingCount('Welcome To Rome',1112).
 ratingCount('Stadium of Domitian',1442).
 ratingCount('Palazzo Pamphili',62).
-ratingCount('Fountain of the Moro',799).
+ratingCount('Fountain of the Moro',798).
 ratingCount('Cappella Chigi',121).
 ratingCount('Chiesa di Gesu e Maria',289).
-ratingCount('Villa Borghese',72772).
-ratingCount('Passeggiata del Pincio',11338).
-ratingCount('Borghese Gallery and Museum',19517).
-ratingCount('National Gallery of Modern and Contemporary Art',7550).
-ratingCount('Mausoleum of Augustus',2337).
+ratingCount('Villa Borghese',72818).
+ratingCount('Passeggiata del Pincio',11341).
+ratingCount('Borghese Gallery and Museum',19532).
+ratingCount('National Gallery of Modern and Contemporary Art',7556).
+ratingCount('Mausoleum of Augustus',2336).
 ratingCount('Chiesa Parrocchiale San Giacomo in Augusta',714).
-ratingCount('Villa Medici',1724).
-ratingCount('Basilica of Saint Lawrence in Lucina',1257).
+ratingCount('Villa Medici',1722).
+ratingCount('Basilica of Saint Lawrence in Lucina',1258).
 ratingCount('Basilica of SS. Ambrose and Charles on the Corso',1948).
 ratingCount('Giorgio de Chirico House Museum',69).
 ratingCount('Santa Maria in Montesanto',417).
 ratingCount('Fontana della Barcaccia',1619).
 ratingCount('Museo Leonardo da Vinci',896).
-ratingCount('Explora - Il Museo dei Bambini di Roma',3949).
-ratingCount('Orologio ad acqua del Pincio',1470).
+ratingCount('Explora - Il Museo dei Bambini di Roma',3956).
+ratingCount('Orologio ad acqua del Pincio',1471).
 ratingCount('Ponte Giacomo Matteotti',93).
-ratingCount('National Etruscan Museum of Villa Giulia',2923).
+ratingCount('National Etruscan Museum of Villa Giulia',2925).
 ratingCount('Fontana del Babuino',174).
 ratingCount('Fontana del Bottino',16).
-ratingCount('Trinita dei Monti',2052).
+ratingCount('Trinita dei Monti',2054).
 ratingCount('Galleria del Cembalo',79).
-ratingCount('Chiesa di Santa Maria in Via',599).
-ratingCount('Palazzo di Propaganda Fide',54).
+ratingCount('Chiesa di Santa Maria in Via',600).
+ratingCount('Palazzo di Propaganda Fide',55).
 ratingCount('Basilica di Sant Andrea delle Fratte',3430).
-ratingCount('Piazza del Popolo',94405).
+ratingCount('Piazza del Popolo',94481).
 ratingCount('Marcus Aurelius Column',1858).
-ratingCount('Piazza di Siena',2492).
+ratingCount('Piazza di Siena',2493).
 ratingCount('All Saints  Anglican Church Rome',211).
 ratingCount('Church of Saint Roch  all Augusteo ',166).
 ratingCount('Church of Our Lady in Trivio',126).
-ratingCount('Il Tempio di Adriano',5145).
-ratingCount('Museo Civico di Zoologia',1588).
-ratingCount('Basilica of St. Augustine in Campo Marzio',1409).
+ratingCount('Il Tempio di Adriano',5153).
+ratingCount('Museo Civico di Zoologia',1590).
+ratingCount('Basilica of St. Augustine in Campo Marzio',1411).
 ratingCount('Hendrik Christian Anderson Museum',518).
 ratingCount('Goethe House',59).
-ratingCount('Institute of Japanese Culture',807).
-ratingCount('Villa Balestra',781).
+ratingCount('Institute of Japanese Culture',808).
+ratingCount('Villa Balestra',782).
 ratingCount('Palazzo Borghese',875).
 ratingCount('National Academy of San Luca',179).
-ratingCount('Museo Carlo Bilotti',587).
+ratingCount('Museo Carlo Bilotti',591).
 ratingCount('Palazzo Wedekind',91).
 ratingCount('Cloaca Maxima',95).
 ratingCount('Temple of Apollo Palatinus',44).
-ratingCount('Circus Maximus',47071).
-ratingCount('Mouth of Truth',15552).
-ratingCount('Basilica di Santa Sabina all Aventino',1254).
-ratingCount('Santa Maria in Cosmedin',6171).
-ratingCount('Non-Catholic Cemetery',1587).
-ratingCount('Basilica Santa Cecilia in Trastevere',2870).
-ratingCount('Mattatoio',1002).
+ratingCount('Circus Maximus',47112).
+ratingCount('Mouth of Truth',15560).
+ratingCount('Basilica di Santa Sabina all Aventino',1255).
+ratingCount('Santa Maria in Cosmedin',6172).
+ratingCount('Non-Catholic Cemetery',1589).
+ratingCount('Basilica Santa Cecilia in Trastevere',2872).
+ratingCount('Mattatoio',1005).
 ratingCount('Pyramid of Caius Cestius',4992).
-ratingCount('Turtle Fountain',5615).
+ratingCount('Turtle Fountain',5616).
 ratingCount('Basilica di San Bartolomeo all Isola',1861).
 ratingCount('Chiesa di Santa Prisca',412).
-ratingCount('Tempio Maggiore di Roma',2687).
+ratingCount('Tempio Maggiore di Roma',2689).
 ratingCount('Portico of Octavia',2137).
 ratingCount('Basilica Santi Giovanni e Paolo',1412).
 centreDistance('Il Tempio dei Dioscuri',1167).
@@ -1406,970 +1406,964 @@ centreDistance('Chiesa di Santa Prisca',1925).
 centreDistance('Tempio Maggiore di Roma',848).
 centreDistance('Portico of Octavia',800).
 centreDistance('Basilica Santi Giovanni e Paolo',1956).
-handicapAccessibility('Basilica Julia').
 handicapAccessibility('Fountain of the Bees').
-handicapAccessibility('Chiesa di Santa Bibiana').
+handicapAccessibility('Palazzetto Zuccari').
 handicapAccessibility('Santissima Trinita degli Spagnoli').
 handicapAccessibility('Colosseum').
+handicapAccessibility('Trevi Fountain').
+handicapAccessibility('Capitoline Museums').
 handicapAccessibility('Obelisco del Pantheon').
-handicapAccessibility('Basilica of San Pietro in Vincoli').
-handicapAccessibility('Campidoglio').
-handicapAccessibility('Equestrian Statue of Marcus Aurelius').
+handicapAccessibility('Mercati di Traiano Museo dei Fori Imperiali').
+handicapAccessibility('Quirinal Palace').
 handicapAccessibility('Basilica di San Clemente').
 handicapAccessibility('Chiesa di Sant  Ignazio di Loyola').
+handicapAccessibility('Palazzo delle Esposizioni').
 handicapAccessibility('Basilica di Santa Maria in Ara coeli').
 handicapAccessibility('Palazzo Montecitorio').
-handicapAccessibility('Doria Pamphili Gallery').
-handicapAccessibility('Basilica of Saint Mary of Minerva').
-handicapAccessibility('Parrocchia Santa Maria Maggiore').
+handicapAccessibility('Domus Aurea').
+handicapAccessibility('National Gallery of Ancient Art in Barberini Palace').
 handicapAccessibility('Mamertine Prison').
-handicapAccessibility('Mose di Michelangelo').
 handicapAccessibility('Basilica San Silvestro in Capite').
-handicapAccessibility('Basilica del Sacro Cuore di Gesu').
-handicapAccessibility('St. Paul s Within the Walls').
-handicapAccessibility('Palazzo Sciarra Colonna Carbognano').
-handicapAccessibility('Temple of Vesta').
+handicapAccessibility('Largo di Torre Argentina').
+handicapAccessibility('Chiesa di Santa Maria ai Monti').
+handicapAccessibility('Septimius Severus Arch').
+handicapAccessibility('The Keats - Shelley House').
 handicapAccessibility('Chiesa San Marcello al Corso').
-handicapAccessibility('San Stanislao alle Botteghe Oscure').
 handicapAccessibility('Column of Phocas').
+handicapAccessibility('Chiesa di Santa Maria in Portico in Campitelli').
 handicapAccessibility('The Church of Santa Maria della Vittoria').
-handicapAccessibility('The Last Judgment').
+handicapAccessibility('Chiesa di Santo Stefano degli Abissini').
 handicapAccessibility('Fontana di Piazza Farnese').
-handicapAccessibility('Castel Sant Angelo').
-handicapAccessibility('Fontana di Piazza Nicosia').
+handicapAccessibility('Palazzo Torres').
 handicapAccessibility('St. Peter s Basilica').
+handicapAccessibility('Parrocchia Santuario Santa Maria in Traspontina').
 handicapAccessibility('Gardens of Vatican City').
 handicapAccessibility('Fiumi Fountain').
-handicapAccessibility('Sistine Chapel').
-handicapAccessibility('Villa Farnesina').
-handicapAccessibility('Galleria Spada').
-handicapAccessibility('St. Angelo Bridge').
-handicapAccessibility('Church of St Onuphrius at the Janiculum').
-handicapAccessibility('Biblioteca Angelica').
-handicapAccessibility('Campo de  Fiori').
+handicapAccessibility('Sant Agnese in Agone').
+handicapAccessibility('Botanical Garden of Rome').
+handicapAccessibility('Chiesa di Santa Maria della Pace').
+handicapAccessibility('Basilica of Santa Maria in Trastevere').
+handicapAccessibility('Piazza Navona').
 handicapAccessibility('Corte Suprema di Cassazione').
-handicapAccessibility('Museo di Roma - Palazzo Braschi').
 handicapAccessibility('Parrocchia Santa Maria in Vallicella').
-handicapAccessibility('Chiesa di San Pietro in Montorio').
-handicapAccessibility('Bernini Fountain').
-handicapAccessibility('Presepe dei Netturbini').
-handicapAccessibility('Church of Saints Michael and Magnus').
+handicapAccessibility('Saint Eligio of Orefici').
 handicapAccessibility('Vatican Necropolis').
-handicapAccessibility('Apostolic Palace').
-handicapAccessibility('Ponte Vittorio Emanuele II').
-handicapAccessibility('Chiesa di Sant Anna dei Palafrenieri').
 handicapAccessibility('Operativa Arte Contemporanea').
-handicapAccessibility('Vatican Apostolic Archive').
-handicapAccessibility('Monastero Mater Ecclesi').
 handicapAccessibility('Oratorio dei Filippini (Oratory of St Philip Neri)').
 handicapAccessibility('House of Hospitality Paul VI').
+handicapAccessibility('Chiesa di Santa Maria del Rosario in Prati').
+handicapAccessibility('Welcome To Rome').
 handicapAccessibility('Stadium of Domitian').
-handicapAccessibility('Passeggiata del Pincio').
+handicapAccessibility('Fountain of the Moro').
 handicapAccessibility('Borghese Gallery and Museum').
-handicapAccessibility('Chiesa Parrocchiale San Giacomo in Augusta').
-handicapAccessibility('Villa Medici').
-handicapAccessibility('Basilica of SS. Ambrose and Charles on the Corso').
-handicapAccessibility('Fontana del Babuino').
+handicapAccessibility('Mausoleum of Augustus').
+handicapAccessibility('Basilica of Saint Lawrence in Lucina').
+handicapAccessibility('Giorgio de Chirico House Museum').
+handicapAccessibility('Santa Maria in Montesanto').
+handicapAccessibility('Fontana della Barcaccia').
+handicapAccessibility('Explora - Il Museo dei Bambini di Roma').
+handicapAccessibility('Orologio ad acqua del Pincio').
+handicapAccessibility('Ponte Giacomo Matteotti').
+handicapAccessibility('National Etruscan Museum of Villa Giulia').
 handicapAccessibility('Fontana del Bottino').
+handicapAccessibility('Chiesa di Santa Maria in Via').
 handicapAccessibility('Palazzo di Propaganda Fide').
-handicapAccessibility('Basilica di Sant Andrea delle Fratte').
-handicapAccessibility('Marcus Aurelius Column').
-handicapAccessibility('All Saints  Anglican Church Rome').
-handicapAccessibility('Church of Saint Roch  all Augusteo ').
+handicapAccessibility('Piazza del Popolo').
 handicapAccessibility('Church of Our Lady in Trivio').
 handicapAccessibility('Basilica of St. Augustine in Campo Marzio').
 handicapAccessibility('Hendrik Christian Anderson Museum').
+handicapAccessibility('Institute of Japanese Culture').
 handicapAccessibility('Palazzo Borghese').
-handicapAccessibility('National Academy of San Luca').
+handicapAccessibility('Museo Carlo Bilotti').
 handicapAccessibility('Cloaca Maxima').
-handicapAccessibility('Circus Maximus').
+handicapAccessibility('Temple of Apollo Palatinus').
+handicapAccessibility('Mouth of Truth').
 handicapAccessibility('Basilica di Santa Sabina all Aventino').
 handicapAccessibility('Santa Maria in Cosmedin').
-handicapAccessibility('Turtle Fountain').
+handicapAccessibility('Non-Catholic Cemetery').
+handicapAccessibility('Mattatoio').
+handicapAccessibility('Pyramid of Caius Cestius').
 handicapAccessibility('Basilica di San Bartolomeo all Isola').
-handicapAccessibility('Chiesa di Santa Prisca').
-handicapAccessibility('Tempio Maggiore di Roma').
-handicapAccessibility('Portico of Octavia').
-tourismRate('Il Tempio dei Dioscuri',795801).
-tourismRate('Basilica Julia',273006).
-tourismRate('Fountain of the Bees',376752).
-tourismRate('Ludus Magnus',703067).
-tourismRate('Palazzetto Zuccari',433491).
-tourismRate('Fontana del Mose',1317682).
-tourismRate('Chiesa di Santa Bibiana',912291).
-tourismRate('Santissima Trinita degli Spagnoli',1462473).
+tourismRate('Il Tempio dei Dioscuri',963399).
+tourismRate('Basilica Julia',481901).
+tourismRate('Fountain of the Bees',1004162).
+tourismRate('Ludus Magnus',1103600).
+tourismRate('Palazzetto Zuccari',226498).
+tourismRate('Fontana del Mose',209520).
+tourismRate('Chiesa di Santa Bibiana',860470).
+tourismRate('Santissima Trinita degli Spagnoli',1469554).
 tourismRate('Colosseum',6400000).
 tourismRate('Trevi Fountain',6500000).
-tourismRate('Capitoline Museums',1232759).
-tourismRate('Arch of Constantine',701231).
-tourismRate('Obelisco del Pantheon',7400000).
-tourismRate('Piazza di Spagna',760643).
-tourismRate('Basilica Papale di Santa Maria Maggiore',598580).
+tourismRate('Capitoline Museums',635987).
+tourismRate('Arch of Constantine',349044).
+tourismRate('Obelisco del Pantheon',306799).
+tourismRate('Piazza di Spagna',398123).
+tourismRate('Basilica Papale di Santa Maria Maggiore',1003664).
 tourismRate('Roman Forum',4500000).
-tourismRate('Basilica of San Pietro in Vincoli',440552).
-tourismRate('Palazzo Massimo alle Terme',1405515).
-tourismRate('Monument to Victor Emmanuel II',665836).
-tourismRate('Campidoglio',603047).
-tourismRate('Mercati di Traiano Museo dei Fori Imperiali',365882).
-tourismRate('Equestrian Statue of Marcus Aurelius',1265405).
-tourismRate('Convento dei Frati Cappuccini',684434).
-tourismRate('Quirinal Palace',760318).
-tourismRate('Basilica di San Clemente',1269981).
-tourismRate('Chiesa di Sant  Ignazio di Loyola',523395).
-tourismRate('Chiesa del Gesu',1251640).
-tourismRate('Piazza Barberini',430758).
-tourismRate('Palazzo delle Esposizioni',1000505).
-tourismRate('Basilica di Santa Maria in Ara coeli',933648).
-tourismRate('Palazzo Montecitorio',973788).
-tourismRate('Domus Aurea',962698).
-tourismRate('National Gallery of Ancient Art in Barberini Palace',911613).
-tourismRate('Doria Pamphili Gallery',930121).
-tourismRate('Piazza Venezia',1184799).
-tourismRate('Pantheon',484147).
-tourismRate('Basilica of Saint Mary of Minerva',700368).
-tourismRate('Santa Maria degli Angeli e dei Martiri',722021).
-tourismRate('Parrocchia Santa Maria Maggiore',216739).
-tourismRate('Mamertine Prison',1090090).
-tourismRate('Mose di Michelangelo',1409828).
-tourismRate('Capanne di Romolo',1308068).
-tourismRate('Basilica San Silvestro in Capite',913543).
-tourismRate('Basilica del Sacro Cuore di Gesu',981940).
-tourismRate('Largo di Torre Argentina',578627).
-tourismRate('Chiesa di Santa Maria ai Monti',212899).
-tourismRate('Basilica of St Mark Evangelist at Campidoglio',1003694).
-tourismRate('St. Paul s Within the Walls',283237).
-tourismRate('Septimius Severus Arch',882879).
-tourismRate('Palazzo Sciarra Colonna Carbognano',742548).
-tourismRate('The Keats - Shelley House',1391314).
-tourismRate('Basilica Ulpia',485503).
-tourismRate('Temple of Vesta',1466861).
-tourismRate('Chiesa San Marcello al Corso',1420499).
-tourismRate('San Stanislao alle Botteghe Oscure',533162).
-tourismRate('Column of Phocas',531785).
-tourismRate('Antoninus and Faustina Temple',503512).
-tourismRate('Marcello Theater',1491474).
-tourismRate('Chiesa di Santa Maria in Portico in Campitelli',751512).
-tourismRate('The Church of Santa Maria della Vittoria',423822).
-tourismRate('The Last Judgment',936086).
-tourismRate('Chiesa di Santo Stefano degli Abissini',357239).
-tourismRate('Fontana di Piazza Farnese',1259086).
-tourismRate('Villa Abamelek',728604).
-tourismRate('Palazzo Torres',1158415).
+tourismRate('Basilica of San Pietro in Vincoli',241769).
+tourismRate('Palazzo Massimo alle Terme',1028679).
+tourismRate('Monument to Victor Emmanuel II',315497).
+tourismRate('Campidoglio',1474284).
+tourismRate('Mercati di Traiano Museo dei Fori Imperiali',1111416).
+tourismRate('Equestrian Statue of Marcus Aurelius',431570).
+tourismRate('Convento dei Frati Cappuccini',1221920).
+tourismRate('Quirinal Palace',422439).
+tourismRate('Basilica di San Clemente',521876).
+tourismRate('Chiesa di Sant  Ignazio di Loyola',1197878).
+tourismRate('Chiesa del Gesu',429471).
+tourismRate('Piazza Barberini',1250547).
+tourismRate('Palazzo delle Esposizioni',622890).
+tourismRate('Basilica di Santa Maria in Ara coeli',310891).
+tourismRate('Palazzo Montecitorio',600889).
+tourismRate('Domus Aurea',1382430).
+tourismRate('National Gallery of Ancient Art in Barberini Palace',1019144).
+tourismRate('Doria Pamphili Gallery',1410917).
+tourismRate('Piazza Venezia',233356).
+tourismRate('Pantheon',7400000).
+tourismRate('Basilica of Saint Mary of Minerva',376709).
+tourismRate('Santa Maria degli Angeli e dei Martiri',1064857).
+tourismRate('Parrocchia Santa Maria Maggiore',876507).
+tourismRate('Mamertine Prison',315659).
+tourismRate('Mose di Michelangelo',514579).
+tourismRate('Capanne di Romolo',598255).
+tourismRate('Basilica San Silvestro in Capite',1069921).
+tourismRate('Basilica del Sacro Cuore di Gesu',1446158).
+tourismRate('Largo di Torre Argentina',1237394).
+tourismRate('Chiesa di Santa Maria ai Monti',1038072).
+tourismRate('Basilica of St Mark Evangelist at Campidoglio',938068).
+tourismRate('St. Paul s Within the Walls',997647).
+tourismRate('Septimius Severus Arch',823083).
+tourismRate('Palazzo Sciarra Colonna Carbognano',547472).
+tourismRate('The Keats - Shelley House',246023).
+tourismRate('Basilica Ulpia',996454).
+tourismRate('Temple of Vesta',1446793).
+tourismRate('Chiesa San Marcello al Corso',267779).
+tourismRate('San Stanislao alle Botteghe Oscure',699950).
+tourismRate('Column of Phocas',439921).
+tourismRate('Antoninus and Faustina Temple',1106886).
+tourismRate('Marcello Theater',1174328).
+tourismRate('Chiesa di Santa Maria in Portico in Campitelli',1275100).
+tourismRate('The Church of Santa Maria della Vittoria',331846).
+tourismRate('The Last Judgment',1011276).
+tourismRate('Chiesa di Santo Stefano degli Abissini',1421575).
+tourismRate('Fontana di Piazza Farnese',637308).
+tourismRate('Villa Abamelek',845020).
+tourismRate('Palazzo Torres',1203966).
 tourismRate('Castel Sant Angelo',1300000).
-tourismRate('Vidoni Palace',382817).
+tourismRate('Vidoni Palace',202029).
 tourismRate('Vatican Museums',6700000).
-tourismRate('Fontana di Piazza Nicosia',827575).
+tourismRate('Fontana di Piazza Nicosia',275534).
 tourismRate('St. Peter s Basilica',11400000).
-tourismRate('Church Holy Spirit in Sassia',1150038).
-tourismRate('Parrocchia Santuario Santa Maria in Traspontina',289359).
-tourismRate('Gardens of Vatican City',1492585).
-tourismRate('Fiumi Fountain',1095577).
-tourismRate('Sistine Chapel',1425746).
-tourismRate('Villa Farnesina',1210323).
-tourismRate('Church of St. Louis of the French',622502).
-tourismRate('Palazzo Madama',1360659).
-tourismRate('Galleria Spada',1253070).
-tourismRate('St. Angelo Bridge',307923).
-tourismRate('Palazzo Farnese',903721).
-tourismRate('Sant Agnese in Agone',646876).
-tourismRate('Botanical Garden of Rome',570098).
-tourismRate('Chiesa di Santa Maria della Pace',852646).
-tourismRate('Obelisco Agonale',740482).
-tourismRate('Basilica of Santa Maria in Trastevere',771511).
-tourismRate('Church of St Onuphrius at the Janiculum',1283842).
-tourismRate('Biblioteca Angelica',1495191).
-tourismRate('Campo de  Fiori',1278561).
+tourismRate('Church Holy Spirit in Sassia',926182).
+tourismRate('Parrocchia Santuario Santa Maria in Traspontina',1109704).
+tourismRate('Gardens of Vatican City',1265264).
+tourismRate('Fiumi Fountain',584407).
+tourismRate('Sistine Chapel',310702).
+tourismRate('Villa Farnesina',1036502).
+tourismRate('Church of St. Louis of the French',886787).
+tourismRate('Palazzo Madama',1046202).
+tourismRate('Galleria Spada',551033).
+tourismRate('St. Angelo Bridge',771771).
+tourismRate('Palazzo Farnese',957910).
+tourismRate('Sant Agnese in Agone',985074).
+tourismRate('Botanical Garden of Rome',948792).
+tourismRate('Chiesa di Santa Maria della Pace',664638).
+tourismRate('Obelisco Agonale',349249).
+tourismRate('Basilica of Santa Maria in Trastevere',1283573).
+tourismRate('Church of St Onuphrius at the Janiculum',385323).
+tourismRate('Biblioteca Angelica',786097).
+tourismRate('Campo de  Fiori',1307780).
 tourismRate('Piazza Navona',5700000).
-tourismRate('Corte Suprema di Cassazione',781864).
-tourismRate('Museo di Roma - Palazzo Braschi',670562).
-tourismRate('Parrocchia Santa Maria in Vallicella',1420082).
-tourismRate('Chiesa di San Pietro in Montorio',958141).
-tourismRate('Saint Eligio of Orefici',277182).
-tourismRate('Palazzo del Commendatore',200294).
-tourismRate('Porta Santo Spirito',1295506).
-tourismRate('Bernini Fountain',1492216).
-tourismRate('Presepe dei Netturbini',1164399).
-tourismRate('Church of Saints Michael and Magnus',1290032).
-tourismRate('Museum Leonardo Da Vinci Experience',894097).
-tourismRate('Vatican Necropolis',762746).
-tourismRate('Apostolic Palace',617557).
-tourismRate('Ponte Vittorio Emanuele II',800168).
-tourismRate('Chiesa di Sant Anna dei Palafrenieri',852579).
-tourismRate('Operativa Arte Contemporanea',533838).
-tourismRate('Santa Maria del Suffragio',435149).
-tourismRate('Vatican Apostolic Archive',989395).
-tourismRate('Carriage Pavilion',230647).
-tourismRate('Monastero Mater Ecclesi',990665).
-tourismRate('Oratorio dei Filippini (Oratory of St Philip Neri)',689324).
-tourismRate('House of Hospitality Paul VI',519737).
-tourismRate('Chiesa di Santa Maria del Rosario in Prati',1382582).
-tourismRate('Welcome To Rome',773412).
-tourismRate('Stadium of Domitian',1474091).
-tourismRate('Palazzo Pamphili',761727).
-tourismRate('Fountain of the Moro',1020748).
-tourismRate('Cappella Chigi',1032567).
-tourismRate('Chiesa di Gesu e Maria',1342290).
-tourismRate('Villa Borghese',639491).
-tourismRate('Passeggiata del Pincio',498073).
-tourismRate('Borghese Gallery and Museum',815041).
-tourismRate('National Gallery of Modern and Contemporary Art',1315408).
-tourismRate('Mausoleum of Augustus',985957).
-tourismRate('Chiesa Parrocchiale San Giacomo in Augusta',787298).
-tourismRate('Villa Medici',1262583).
-tourismRate('Basilica of Saint Lawrence in Lucina',759985).
-tourismRate('Basilica of SS. Ambrose and Charles on the Corso',1143102).
-tourismRate('Giorgio de Chirico House Museum',210283).
-tourismRate('Santa Maria in Montesanto',1356075).
-tourismRate('Fontana della Barcaccia',718610).
-tourismRate('Museo Leonardo da Vinci',685366).
-tourismRate('Explora - Il Museo dei Bambini di Roma',1340371).
-tourismRate('Orologio ad acqua del Pincio',732656).
-tourismRate('Ponte Giacomo Matteotti',1406261).
-tourismRate('National Etruscan Museum of Villa Giulia',215458).
-tourismRate('Fontana del Babuino',864312).
-tourismRate('Fontana del Bottino',1433487).
-tourismRate('Trinita dei Monti',206789).
-tourismRate('Galleria del Cembalo',1425428).
-tourismRate('Chiesa di Santa Maria in Via',900165).
-tourismRate('Palazzo di Propaganda Fide',1270761).
-tourismRate('Basilica di Sant Andrea delle Fratte',394459).
-tourismRate('Piazza del Popolo',821059).
-tourismRate('Marcus Aurelius Column',1043244).
-tourismRate('Piazza di Siena',1184616).
-tourismRate('All Saints  Anglican Church Rome',515496).
-tourismRate('Church of Saint Roch  all Augusteo ',754036).
-tourismRate('Church of Our Lady in Trivio',1346054).
-tourismRate('Il Tempio di Adriano',1392324).
-tourismRate('Museo Civico di Zoologia',745136).
-tourismRate('Basilica of St. Augustine in Campo Marzio',1164127).
-tourismRate('Hendrik Christian Anderson Museum',686340).
-tourismRate('Goethe House',600160).
-tourismRate('Institute of Japanese Culture',888351).
-tourismRate('Villa Balestra',676253).
-tourismRate('Palazzo Borghese',1154050).
-tourismRate('National Academy of San Luca',857524).
-tourismRate('Museo Carlo Bilotti',935082).
-tourismRate('Palazzo Wedekind',1323422).
-tourismRate('Cloaca Maxima',1332919).
-tourismRate('Temple of Apollo Palatinus',954652).
-tourismRate('Circus Maximus',1293534).
-tourismRate('Mouth of Truth',1235175).
-tourismRate('Basilica di Santa Sabina all Aventino',1074821).
-tourismRate('Santa Maria in Cosmedin',240837).
-tourismRate('Non-Catholic Cemetery',740777).
-tourismRate('Basilica Santa Cecilia in Trastevere',416182).
-tourismRate('Mattatoio',508523).
-tourismRate('Pyramid of Caius Cestius',1385889).
-tourismRate('Turtle Fountain',865779).
-tourismRate('Basilica di San Bartolomeo all Isola',1265950).
-tourismRate('Chiesa di Santa Prisca',481374).
-tourismRate('Tempio Maggiore di Roma',1081721).
-tourismRate('Portico of Octavia',817417).
-tourismRate('Basilica Santi Giovanni e Paolo',270513).
-age('Il Tempio dei Dioscuri',1209).
-age('Basilica Julia',805).
-age('Fountain of the Bees',1898).
-age('Ludus Magnus',437).
-age('Palazzetto Zuccari',639).
-age('Fontana del Mose',1194).
-age('Chiesa di Santa Bibiana',575).
-age('Santissima Trinita degli Spagnoli',1111).
+tourismRate('Corte Suprema di Cassazione',918410).
+tourismRate('Museo di Roma - Palazzo Braschi',546847).
+tourismRate('Parrocchia Santa Maria in Vallicella',1495735).
+tourismRate('Chiesa di San Pietro in Montorio',1005498).
+tourismRate('Saint Eligio of Orefici',382792).
+tourismRate('Palazzo del Commendatore',1333548).
+tourismRate('Porta Santo Spirito',1374470).
+tourismRate('Bernini Fountain',1264228).
+tourismRate('Presepe dei Netturbini',1195989).
+tourismRate('Church of Saints Michael and Magnus',756113).
+tourismRate('Museum Leonardo Da Vinci Experience',257450).
+tourismRate('Vatican Necropolis',538954).
+tourismRate('Apostolic Palace',835860).
+tourismRate('Ponte Vittorio Emanuele II',1334377).
+tourismRate('Chiesa di Sant Anna dei Palafrenieri',396071).
+tourismRate('Operativa Arte Contemporanea',683056).
+tourismRate('Santa Maria del Suffragio',302146).
+tourismRate('Vatican Apostolic Archive',246775).
+tourismRate('Carriage Pavilion',1439569).
+tourismRate('Monastero Mater Ecclesi',895430).
+tourismRate('Oratorio dei Filippini (Oratory of St Philip Neri)',387542).
+tourismRate('House of Hospitality Paul VI',1297007).
+tourismRate('Chiesa di Santa Maria del Rosario in Prati',645427).
+tourismRate('Welcome To Rome',1486636).
+tourismRate('Stadium of Domitian',539125).
+tourismRate('Palazzo Pamphili',289911).
+tourismRate('Fountain of the Moro',358143).
+tourismRate('Cappella Chigi',508255).
+tourismRate('Chiesa di Gesu e Maria',502320).
+tourismRate('Villa Borghese',748989).
+tourismRate('Passeggiata del Pincio',575421).
+tourismRate('Borghese Gallery and Museum',641640).
+tourismRate('National Gallery of Modern and Contemporary Art',931610).
+tourismRate('Mausoleum of Augustus',1479501).
+tourismRate('Chiesa Parrocchiale San Giacomo in Augusta',1274694).
+tourismRate('Villa Medici',634942).
+tourismRate('Basilica of Saint Lawrence in Lucina',208968).
+tourismRate('Basilica of SS. Ambrose and Charles on the Corso',1148092).
+tourismRate('Giorgio de Chirico House Museum',608660).
+tourismRate('Santa Maria in Montesanto',742623).
+tourismRate('Fontana della Barcaccia',389183).
+tourismRate('Museo Leonardo da Vinci',818178).
+tourismRate('Explora - Il Museo dei Bambini di Roma',1160250).
+tourismRate('Orologio ad acqua del Pincio',1406024).
+tourismRate('Ponte Giacomo Matteotti',296100).
+tourismRate('National Etruscan Museum of Villa Giulia',1228940).
+tourismRate('Fontana del Babuino',572346).
+tourismRate('Fontana del Bottino',1144721).
+tourismRate('Trinita dei Monti',1341220).
+tourismRate('Galleria del Cembalo',877081).
+tourismRate('Chiesa di Santa Maria in Via',722791).
+tourismRate('Palazzo di Propaganda Fide',1137832).
+tourismRate('Basilica di Sant Andrea delle Fratte',1140549).
+tourismRate('Piazza del Popolo',627547).
+tourismRate('Marcus Aurelius Column',748317).
+tourismRate('Piazza di Siena',1311105).
+tourismRate('All Saints  Anglican Church Rome',1023266).
+tourismRate('Church of Saint Roch  all Augusteo ',1305634).
+tourismRate('Church of Our Lady in Trivio',739626).
+tourismRate('Il Tempio di Adriano',374011).
+tourismRate('Museo Civico di Zoologia',1364044).
+tourismRate('Basilica of St. Augustine in Campo Marzio',874894).
+tourismRate('Hendrik Christian Anderson Museum',1214633).
+tourismRate('Goethe House',818740).
+tourismRate('Institute of Japanese Culture',1295186).
+tourismRate('Villa Balestra',1376084).
+tourismRate('Palazzo Borghese',1275533).
+tourismRate('National Academy of San Luca',984576).
+tourismRate('Museo Carlo Bilotti',426227).
+tourismRate('Palazzo Wedekind',395232).
+tourismRate('Cloaca Maxima',1484372).
+tourismRate('Temple of Apollo Palatinus',1182544).
+tourismRate('Circus Maximus',1397169).
+tourismRate('Mouth of Truth',295979).
+tourismRate('Basilica di Santa Sabina all Aventino',1234005).
+tourismRate('Santa Maria in Cosmedin',346681).
+tourismRate('Non-Catholic Cemetery',1400283).
+tourismRate('Basilica Santa Cecilia in Trastevere',703122).
+tourismRate('Mattatoio',765756).
+tourismRate('Pyramid of Caius Cestius',851719).
+tourismRate('Turtle Fountain',794970).
+tourismRate('Basilica di San Bartolomeo all Isola',626309).
+tourismRate('Chiesa di Santa Prisca',566423).
+tourismRate('Tempio Maggiore di Roma',1340502).
+tourismRate('Portico of Octavia',1179290).
+tourismRate('Basilica Santi Giovanni e Paolo',836404).
+age('Il Tempio dei Dioscuri',927).
+age('Basilica Julia',1156).
+age('Fountain of the Bees',660).
+age('Ludus Magnus',245).
+age('Palazzetto Zuccari',1709).
+age('Fontana del Mose',1413).
+age('Chiesa di Santa Bibiana',1417).
+age('Santissima Trinita degli Spagnoli',1811).
 age('Colosseum',1936).
 age('Trevi Fountain',260).
-age('Capitoline Museums',1159).
-age('Arch of Constantine',1370).
-age('Obelisco del Pantheon',2000).
-age('Piazza di Spagna',1114).
-age('Basilica Papale di Santa Maria Maggiore',1025).
+age('Capitoline Museums',1216).
+age('Arch of Constantine',222).
+age('Obelisco del Pantheon',1923).
+age('Piazza di Spagna',1359).
+age('Basilica Papale di Santa Maria Maggiore',915).
 age('Roman Forum',2500).
-age('Basilica of San Pietro in Vincoli',502).
-age('Palazzo Massimo alle Terme',1380).
-age('Monument to Victor Emmanuel II',1326).
-age('Campidoglio',1885).
-age('Mercati di Traiano Museo dei Fori Imperiali',1498).
-age('Equestrian Statue of Marcus Aurelius',1823).
-age('Convento dei Frati Cappuccini',405).
-age('Quirinal Palace',752).
-age('Basilica di San Clemente',1805).
-age('Chiesa di Sant  Ignazio di Loyola',478).
-age('Chiesa del Gesu',654).
-age('Piazza Barberini',363).
-age('Palazzo delle Esposizioni',578).
-age('Basilica di Santa Maria in Ara coeli',546).
-age('Palazzo Montecitorio',607).
-age('Domus Aurea',1140).
-age('National Gallery of Ancient Art in Barberini Palace',1922).
-age('Doria Pamphili Gallery',315).
-age('Piazza Venezia',1931).
-age('Pantheon',823).
-age('Basilica of Saint Mary of Minerva',547).
-age('Santa Maria degli Angeli e dei Martiri',1822).
-age('Parrocchia Santa Maria Maggiore',390).
-age('Mamertine Prison',1403).
-age('Mose di Michelangelo',550).
-age('Capanne di Romolo',568).
-age('Basilica San Silvestro in Capite',1281).
-age('Basilica del Sacro Cuore di Gesu',517).
-age('Largo di Torre Argentina',1694).
-age('Chiesa di Santa Maria ai Monti',776).
-age('Basilica of St Mark Evangelist at Campidoglio',599).
-age('St. Paul s Within the Walls',1186).
-age('Septimius Severus Arch',1828).
-age('Palazzo Sciarra Colonna Carbognano',210).
-age('The Keats - Shelley House',1605).
-age('Basilica Ulpia',1331).
-age('Temple of Vesta',1159).
-age('Chiesa San Marcello al Corso',1375).
-age('San Stanislao alle Botteghe Oscure',395).
-age('Column of Phocas',1438).
-age('Antoninus and Faustina Temple',1719).
-age('Marcello Theater',343).
-age('Chiesa di Santa Maria in Portico in Campitelli',764).
-age('The Church of Santa Maria della Vittoria',1777).
-age('The Last Judgment',1236).
-age('Chiesa di Santo Stefano degli Abissini',1595).
-age('Fontana di Piazza Farnese',1642).
-age('Villa Abamelek',406).
-age('Palazzo Torres',337).
+age('Basilica of San Pietro in Vincoli',690).
+age('Palazzo Massimo alle Terme',1464).
+age('Monument to Victor Emmanuel II',1505).
+age('Campidoglio',1873).
+age('Mercati di Traiano Museo dei Fori Imperiali',1582).
+age('Equestrian Statue of Marcus Aurelius',1334).
+age('Convento dei Frati Cappuccini',370).
+age('Quirinal Palace',1629).
+age('Basilica di San Clemente',1636).
+age('Chiesa di Sant  Ignazio di Loyola',1555).
+age('Chiesa del Gesu',1917).
+age('Piazza Barberini',1174).
+age('Palazzo delle Esposizioni',315).
+age('Basilica di Santa Maria in Ara coeli',1045).
+age('Palazzo Montecitorio',582).
+age('Domus Aurea',327).
+age('National Gallery of Ancient Art in Barberini Palace',1056).
+age('Doria Pamphili Gallery',680).
+age('Piazza Venezia',1490).
+age('Pantheon',2000).
+age('Basilica of Saint Mary of Minerva',1493).
+age('Santa Maria degli Angeli e dei Martiri',829).
+age('Parrocchia Santa Maria Maggiore',1503).
+age('Mamertine Prison',689).
+age('Mose di Michelangelo',546).
+age('Capanne di Romolo',686).
+age('Basilica San Silvestro in Capite',1389).
+age('Basilica del Sacro Cuore di Gesu',610).
+age('Largo di Torre Argentina',1021).
+age('Chiesa di Santa Maria ai Monti',939).
+age('Basilica of St Mark Evangelist at Campidoglio',1124).
+age('St. Paul s Within the Walls',925).
+age('Septimius Severus Arch',1476).
+age('Palazzo Sciarra Colonna Carbognano',1389).
+age('The Keats - Shelley House',405).
+age('Basilica Ulpia',204).
+age('Temple of Vesta',1362).
+age('Chiesa San Marcello al Corso',1122).
+age('San Stanislao alle Botteghe Oscure',668).
+age('Column of Phocas',1441).
+age('Antoninus and Faustina Temple',1216).
+age('Marcello Theater',1856).
+age('Chiesa di Santa Maria in Portico in Campitelli',498).
+age('The Church of Santa Maria della Vittoria',794).
+age('The Last Judgment',1070).
+age('Chiesa di Santo Stefano degli Abissini',1045).
+age('Fontana di Piazza Farnese',1433).
+age('Villa Abamelek',1651).
+age('Palazzo Torres',1765).
 age('Castel Sant Angelo',1900).
-age('Vidoni Palace',1228).
+age('Vidoni Palace',625).
 age('Vatican Museums',500).
-age('Fontana di Piazza Nicosia',1155).
+age('Fontana di Piazza Nicosia',1022).
 age('St. Peter s Basilica',506).
-age('Church Holy Spirit in Sassia',528).
-age('Parrocchia Santuario Santa Maria in Traspontina',739).
-age('Gardens of Vatican City',1797).
-age('Fiumi Fountain',1648).
-age('Sistine Chapel',1701).
-age('Villa Farnesina',298).
-age('Church of St. Louis of the French',518).
-age('Palazzo Madama',723).
-age('Galleria Spada',220).
-age('St. Angelo Bridge',1394).
-age('Palazzo Farnese',1436).
-age('Sant Agnese in Agone',679).
-age('Botanical Garden of Rome',1233).
-age('Chiesa di Santa Maria della Pace',746).
-age('Obelisco Agonale',868).
-age('Basilica of Santa Maria in Trastevere',1976).
-age('Church of St Onuphrius at the Janiculum',723).
-age('Biblioteca Angelica',1657).
-age('Campo de  Fiori',441).
+age('Church Holy Spirit in Sassia',897).
+age('Parrocchia Santuario Santa Maria in Traspontina',565).
+age('Gardens of Vatican City',1294).
+age('Fiumi Fountain',1813).
+age('Sistine Chapel',1655).
+age('Villa Farnesina',436).
+age('Church of St. Louis of the French',628).
+age('Palazzo Madama',1020).
+age('Galleria Spada',520).
+age('St. Angelo Bridge',1502).
+age('Palazzo Farnese',759).
+age('Sant Agnese in Agone',1442).
+age('Botanical Garden of Rome',1852).
+age('Chiesa di Santa Maria della Pace',671).
+age('Obelisco Agonale',859).
+age('Basilica of Santa Maria in Trastevere',1101).
+age('Church of St Onuphrius at the Janiculum',1131).
+age('Biblioteca Angelica',1920).
+age('Campo de  Fiori',291).
 age('Piazza Navona',400).
-age('Corte Suprema di Cassazione',1615).
-age('Museo di Roma - Palazzo Braschi',1531).
-age('Parrocchia Santa Maria in Vallicella',1959).
-age('Chiesa di San Pietro in Montorio',1787).
-age('Saint Eligio of Orefici',1265).
-age('Palazzo del Commendatore',1644).
-age('Porta Santo Spirito',1520).
-age('Bernini Fountain',1042).
-age('Presepe dei Netturbini',705).
-age('Church of Saints Michael and Magnus',820).
-age('Museum Leonardo Da Vinci Experience',1967).
-age('Vatican Necropolis',617).
-age('Apostolic Palace',1559).
-age('Ponte Vittorio Emanuele II',431).
-age('Chiesa di Sant Anna dei Palafrenieri',1202).
-age('Operativa Arte Contemporanea',208).
-age('Santa Maria del Suffragio',492).
-age('Vatican Apostolic Archive',1666).
-age('Carriage Pavilion',1368).
-age('Monastero Mater Ecclesi',278).
-age('Oratorio dei Filippini (Oratory of St Philip Neri)',1151).
-age('House of Hospitality Paul VI',655).
-age('Chiesa di Santa Maria del Rosario in Prati',1743).
-age('Welcome To Rome',1095).
-age('Stadium of Domitian',1484).
-age('Palazzo Pamphili',311).
-age('Fountain of the Moro',1277).
-age('Cappella Chigi',996).
-age('Chiesa di Gesu e Maria',1317).
+age('Corte Suprema di Cassazione',1229).
+age('Museo di Roma - Palazzo Braschi',510).
+age('Parrocchia Santa Maria in Vallicella',978).
+age('Chiesa di San Pietro in Montorio',1208).
+age('Saint Eligio of Orefici',388).
+age('Palazzo del Commendatore',1150).
+age('Porta Santo Spirito',683).
+age('Bernini Fountain',969).
+age('Presepe dei Netturbini',1986).
+age('Church of Saints Michael and Magnus',1132).
+age('Museum Leonardo Da Vinci Experience',1143).
+age('Vatican Necropolis',1518).
+age('Apostolic Palace',1250).
+age('Ponte Vittorio Emanuele II',1086).
+age('Chiesa di Sant Anna dei Palafrenieri',272).
+age('Operativa Arte Contemporanea',1374).
+age('Santa Maria del Suffragio',1304).
+age('Vatican Apostolic Archive',1418).
+age('Carriage Pavilion',1782).
+age('Monastero Mater Ecclesi',1639).
+age('Oratorio dei Filippini (Oratory of St Philip Neri)',1576).
+age('House of Hospitality Paul VI',1157).
+age('Chiesa di Santa Maria del Rosario in Prati',334).
+age('Welcome To Rome',219).
+age('Stadium of Domitian',1446).
+age('Palazzo Pamphili',1531).
+age('Fountain of the Moro',324).
+age('Cappella Chigi',699).
+age('Chiesa di Gesu e Maria',1530).
 age('Villa Borghese',400).
-age('Passeggiata del Pincio',1119).
-age('Borghese Gallery and Museum',1377).
-age('National Gallery of Modern and Contemporary Art',1126).
-age('Mausoleum of Augustus',1292).
-age('Chiesa Parrocchiale San Giacomo in Augusta',942).
-age('Villa Medici',701).
-age('Basilica of Saint Lawrence in Lucina',1778).
-age('Basilica of SS. Ambrose and Charles on the Corso',1403).
-age('Giorgio de Chirico House Museum',1315).
-age('Santa Maria in Montesanto',1891).
-age('Fontana della Barcaccia',539).
-age('Museo Leonardo da Vinci',584).
-age('Explora - Il Museo dei Bambini di Roma',1984).
-age('Orologio ad acqua del Pincio',384).
-age('Ponte Giacomo Matteotti',1366).
-age('National Etruscan Museum of Villa Giulia',1223).
-age('Fontana del Babuino',1783).
-age('Fontana del Bottino',443).
-age('Trinita dei Monti',1283).
-age('Galleria del Cembalo',1940).
-age('Chiesa di Santa Maria in Via',639).
-age('Palazzo di Propaganda Fide',956).
-age('Basilica di Sant Andrea delle Fratte',552).
-age('Piazza del Popolo',1013).
-age('Marcus Aurelius Column',365).
-age('Piazza di Siena',229).
-age('All Saints  Anglican Church Rome',371).
-age('Church of Saint Roch  all Augusteo ',1239).
-age('Church of Our Lady in Trivio',627).
-age('Il Tempio di Adriano',1738).
-age('Museo Civico di Zoologia',1823).
-age('Basilica of St. Augustine in Campo Marzio',1957).
-age('Hendrik Christian Anderson Museum',1808).
-age('Goethe House',1877).
-age('Institute of Japanese Culture',1634).
-age('Villa Balestra',537).
-age('Palazzo Borghese',1413).
-age('National Academy of San Luca',798).
-age('Museo Carlo Bilotti',1100).
-age('Palazzo Wedekind',1591).
-age('Cloaca Maxima',1766).
-age('Temple of Apollo Palatinus',342).
-age('Circus Maximus',550).
-age('Mouth of Truth',1380).
-age('Basilica di Santa Sabina all Aventino',820).
-age('Santa Maria in Cosmedin',1125).
-age('Non-Catholic Cemetery',746).
-age('Basilica Santa Cecilia in Trastevere',358).
-age('Mattatoio',1334).
-age('Pyramid of Caius Cestius',502).
-age('Turtle Fountain',866).
-age('Basilica di San Bartolomeo all Isola',1484).
-age('Chiesa di Santa Prisca',1186).
-age('Tempio Maggiore di Roma',271).
-age('Portico of Octavia',1547).
-age('Basilica Santi Giovanni e Paolo',1998).
-surface('Il Tempio dei Dioscuri',453.5).
-surface('Basilica Julia',5965.28).
-surface('Fountain of the Bees',6032.47).
-surface('Ludus Magnus',4722.65).
-surface('Palazzetto Zuccari',2244.7).
-surface('Fontana del Mose',4335.58).
-surface('Chiesa di Santa Bibiana',2925.53).
-surface('Santissima Trinita degli Spagnoli',926.19).
+age('Passeggiata del Pincio',844).
+age('Borghese Gallery and Museum',1780).
+age('National Gallery of Modern and Contemporary Art',992).
+age('Mausoleum of Augustus',466).
+age('Chiesa Parrocchiale San Giacomo in Augusta',1801).
+age('Villa Medici',910).
+age('Basilica of Saint Lawrence in Lucina',886).
+age('Basilica of SS. Ambrose and Charles on the Corso',1721).
+age('Giorgio de Chirico House Museum',565).
+age('Santa Maria in Montesanto',897).
+age('Fontana della Barcaccia',1086).
+age('Museo Leonardo da Vinci',1791).
+age('Explora - Il Museo dei Bambini di Roma',1505).
+age('Orologio ad acqua del Pincio',1287).
+age('Ponte Giacomo Matteotti',1132).
+age('National Etruscan Museum of Villa Giulia',822).
+age('Fontana del Babuino',1887).
+age('Fontana del Bottino',1753).
+age('Trinita dei Monti',1991).
+age('Galleria del Cembalo',1224).
+age('Chiesa di Santa Maria in Via',563).
+age('Palazzo di Propaganda Fide',1655).
+age('Basilica di Sant Andrea delle Fratte',254).
+age('Piazza del Popolo',1176).
+age('Marcus Aurelius Column',262).
+age('Piazza di Siena',482).
+age('All Saints  Anglican Church Rome',461).
+age('Church of Saint Roch  all Augusteo ',493).
+age('Church of Our Lady in Trivio',1413).
+age('Il Tempio di Adriano',917).
+age('Museo Civico di Zoologia',1841).
+age('Basilica of St. Augustine in Campo Marzio',1593).
+age('Hendrik Christian Anderson Museum',1145).
+age('Goethe House',473).
+age('Institute of Japanese Culture',291).
+age('Villa Balestra',858).
+age('Palazzo Borghese',1524).
+age('National Academy of San Luca',1236).
+age('Museo Carlo Bilotti',1935).
+age('Palazzo Wedekind',364).
+age('Cloaca Maxima',735).
+age('Temple of Apollo Palatinus',1040).
+age('Circus Maximus',346).
+age('Mouth of Truth',1556).
+age('Basilica di Santa Sabina all Aventino',862).
+age('Santa Maria in Cosmedin',301).
+age('Non-Catholic Cemetery',1448).
+age('Basilica Santa Cecilia in Trastevere',1618).
+age('Mattatoio',1522).
+age('Pyramid of Caius Cestius',1073).
+age('Turtle Fountain',897).
+age('Basilica di San Bartolomeo all Isola',361).
+age('Chiesa di Santa Prisca',867).
+age('Tempio Maggiore di Roma',627).
+age('Portico of Octavia',1381).
+age('Basilica Santi Giovanni e Paolo',1525).
+surface('Il Tempio dei Dioscuri',1346.24).
+surface('Basilica Julia',2858.75).
+surface('Fountain of the Bees',2853.93).
+surface('Ludus Magnus',7902.88).
+surface('Palazzetto Zuccari',5322.94).
+surface('Fontana del Mose',5815.83).
+surface('Chiesa di Santa Bibiana',7917.71).
+surface('Santissima Trinita degli Spagnoli',4128.57).
 surface('Colosseum',20000).
 surface('Trevi Fountain',2400).
-surface('Capitoline Museums',7356.13).
-surface('Arch of Constantine',4523.2).
-surface('Obelisco del Pantheon',680).
-surface('Piazza di Spagna',7702.27).
-surface('Basilica Papale di Santa Maria Maggiore',4966.87).
+surface('Capitoline Museums',5411.76).
+surface('Arch of Constantine',2460.22).
+surface('Obelisco del Pantheon',7887.89).
+surface('Piazza di Spagna',835.19).
+surface('Basilica Papale di Santa Maria Maggiore',7073.87).
 surface('Roman Forum',160000).
-surface('Basilica of San Pietro in Vincoli',6768.74).
-surface('Palazzo Massimo alle Terme',7961.66).
-surface('Monument to Victor Emmanuel II',4534.97).
-surface('Campidoglio',3308.78).
-surface('Mercati di Traiano Museo dei Fori Imperiali',5521.49).
-surface('Equestrian Statue of Marcus Aurelius',6930.09).
-surface('Convento dei Frati Cappuccini',1360.2).
-surface('Quirinal Palace',5977.4).
-surface('Basilica di San Clemente',1618.08).
-surface('Chiesa di Sant  Ignazio di Loyola',6830.23).
-surface('Chiesa del Gesu',3745.68).
-surface('Piazza Barberini',4569.49).
-surface('Palazzo delle Esposizioni',5575.88).
-surface('Basilica di Santa Maria in Ara coeli',2958.86).
-surface('Palazzo Montecitorio',2209.25).
-surface('Domus Aurea',5921.05).
-surface('National Gallery of Ancient Art in Barberini Palace',2674.31).
-surface('Doria Pamphili Gallery',6643.89).
-surface('Piazza Venezia',6680.83).
-surface('Pantheon',3012.37).
-surface('Basilica of Saint Mary of Minerva',3610.17).
-surface('Santa Maria degli Angeli e dei Martiri',1569.46).
-surface('Parrocchia Santa Maria Maggiore',2718.75).
-surface('Mamertine Prison',6546.37).
-surface('Mose di Michelangelo',5095.57).
-surface('Capanne di Romolo',6067.47).
-surface('Basilica San Silvestro in Capite',6567.0).
-surface('Basilica del Sacro Cuore di Gesu',2858.83).
-surface('Largo di Torre Argentina',2619.86).
-surface('Chiesa di Santa Maria ai Monti',4383.41).
-surface('Basilica of St Mark Evangelist at Campidoglio',4266.64).
-surface('St. Paul s Within the Walls',1112.92).
-surface('Septimius Severus Arch',5894.58).
-surface('Palazzo Sciarra Colonna Carbognano',1697.37).
-surface('The Keats - Shelley House',6723.87).
-surface('Basilica Ulpia',1163.18).
-surface('Temple of Vesta',1216.54).
-surface('Chiesa San Marcello al Corso',4486.99).
-surface('San Stanislao alle Botteghe Oscure',5658.21).
-surface('Column of Phocas',748.94).
-surface('Antoninus and Faustina Temple',6908.85).
-surface('Marcello Theater',7485.14).
-surface('Chiesa di Santa Maria in Portico in Campitelli',3753.37).
-surface('The Church of Santa Maria della Vittoria',1934.74).
-surface('The Last Judgment',6805.45).
-surface('Chiesa di Santo Stefano degli Abissini',2152.12).
-surface('Fontana di Piazza Farnese',1365.57).
-surface('Villa Abamelek',7997.9).
-surface('Palazzo Torres',1160.71).
+surface('Basilica of San Pietro in Vincoli',5688.1).
+surface('Palazzo Massimo alle Terme',4630.77).
+surface('Monument to Victor Emmanuel II',2251.84).
+surface('Campidoglio',7188.03).
+surface('Mercati di Traiano Museo dei Fori Imperiali',7799.15).
+surface('Equestrian Statue of Marcus Aurelius',5900.1).
+surface('Convento dei Frati Cappuccini',4642.19).
+surface('Quirinal Palace',3954.18).
+surface('Basilica di San Clemente',3144.23).
+surface('Chiesa di Sant  Ignazio di Loyola',3633.78).
+surface('Chiesa del Gesu',6346.81).
+surface('Piazza Barberini',7075.28).
+surface('Palazzo delle Esposizioni',6322.11).
+surface('Basilica di Santa Maria in Ara coeli',2559.91).
+surface('Palazzo Montecitorio',2307.39).
+surface('Domus Aurea',975.46).
+surface('National Gallery of Ancient Art in Barberini Palace',5973.39).
+surface('Doria Pamphili Gallery',4732.15).
+surface('Piazza Venezia',3123.68).
+surface('Pantheon',680).
+surface('Basilica of Saint Mary of Minerva',7714.96).
+surface('Santa Maria degli Angeli e dei Martiri',1594.48).
+surface('Parrocchia Santa Maria Maggiore',6484.48).
+surface('Mamertine Prison',816.1).
+surface('Mose di Michelangelo',1913.51).
+surface('Capanne di Romolo',2287.6).
+surface('Basilica San Silvestro in Capite',2858.26).
+surface('Basilica del Sacro Cuore di Gesu',5494.04).
+surface('Largo di Torre Argentina',6059.1).
+surface('Chiesa di Santa Maria ai Monti',3093.33).
+surface('Basilica of St Mark Evangelist at Campidoglio',5509.43).
+surface('St. Paul s Within the Walls',3618.85).
+surface('Septimius Severus Arch',4259.21).
+surface('Palazzo Sciarra Colonna Carbognano',6843.97).
+surface('The Keats - Shelley House',6337.74).
+surface('Basilica Ulpia',4337.44).
+surface('Temple of Vesta',2524.01).
+surface('Chiesa San Marcello al Corso',5386.75).
+surface('San Stanislao alle Botteghe Oscure',1600.99).
+surface('Column of Phocas',2956.29).
+surface('Antoninus and Faustina Temple',3907.14).
+surface('Marcello Theater',3355.11).
+surface('Chiesa di Santa Maria in Portico in Campitelli',3787.88).
+surface('The Church of Santa Maria della Vittoria',2335.41).
+surface('The Last Judgment',1973.31).
+surface('Chiesa di Santo Stefano degli Abissini',7345.73).
+surface('Fontana di Piazza Farnese',2818.3).
+surface('Villa Abamelek',3495.27).
+surface('Palazzo Torres',4846.17).
 surface('Castel Sant Angelo',49000).
-surface('Vidoni Palace',834.74).
+surface('Vidoni Palace',3583.48).
 surface('Vatican Museums',420000).
-surface('Fontana di Piazza Nicosia',2672.87).
+surface('Fontana di Piazza Nicosia',886.72).
 surface('St. Peter s Basilica',22000).
-surface('Church Holy Spirit in Sassia',2708.09).
-surface('Parrocchia Santuario Santa Maria in Traspontina',5493.54).
-surface('Gardens of Vatican City',6961.34).
-surface('Fiumi Fountain',3316.2).
-surface('Sistine Chapel',6372.44).
-surface('Villa Farnesina',1752.33).
-surface('Church of St. Louis of the French',6974.38).
-surface('Palazzo Madama',420.55).
-surface('Galleria Spada',2138.37).
-surface('St. Angelo Bridge',696.6).
-surface('Palazzo Farnese',5968.83).
-surface('Sant Agnese in Agone',3133.36).
-surface('Botanical Garden of Rome',3369.61).
-surface('Chiesa di Santa Maria della Pace',2920.94).
-surface('Obelisco Agonale',6587.0).
-surface('Basilica of Santa Maria in Trastevere',4929.81).
-surface('Church of St Onuphrius at the Janiculum',3926.48).
-surface('Biblioteca Angelica',6747.39).
-surface('Campo de  Fiori',3269.02).
+surface('Church Holy Spirit in Sassia',6859.8).
+surface('Parrocchia Santuario Santa Maria in Traspontina',2062.1).
+surface('Gardens of Vatican City',4315.98).
+surface('Fiumi Fountain',5772.44).
+surface('Sistine Chapel',7134.53).
+surface('Villa Farnesina',2021.31).
+surface('Church of St. Louis of the French',4365.65).
+surface('Palazzo Madama',5210.82).
+surface('Galleria Spada',3345.03).
+surface('St. Angelo Bridge',1270.46).
+surface('Palazzo Farnese',2903.04).
+surface('Sant Agnese in Agone',4564.39).
+surface('Botanical Garden of Rome',6409.96).
+surface('Chiesa di Santa Maria della Pace',3761.72).
+surface('Obelisco Agonale',1525.68).
+surface('Basilica of Santa Maria in Trastevere',5606.48).
+surface('Church of St Onuphrius at the Janiculum',1888.72).
+surface('Biblioteca Angelica',2664.19).
+surface('Campo de  Fiori',4186.92).
 surface('Piazza Navona',14000).
-surface('Corte Suprema di Cassazione',1693.29).
-surface('Museo di Roma - Palazzo Braschi',1585.09).
-surface('Parrocchia Santa Maria in Vallicella',3711.39).
-surface('Chiesa di San Pietro in Montorio',4786.92).
-surface('Saint Eligio of Orefici',829.7).
-surface('Palazzo del Commendatore',7549.97).
-surface('Porta Santo Spirito',1272.14).
-surface('Bernini Fountain',5977.05).
-surface('Presepe dei Netturbini',3406.75).
-surface('Church of Saints Michael and Magnus',4272.31).
-surface('Museum Leonardo Da Vinci Experience',4437.89).
-surface('Vatican Necropolis',3974.33).
-surface('Apostolic Palace',6096.77).
-surface('Ponte Vittorio Emanuele II',1063.75).
-surface('Chiesa di Sant Anna dei Palafrenieri',4349.76).
-surface('Operativa Arte Contemporanea',1331.15).
-surface('Santa Maria del Suffragio',3440.75).
-surface('Vatican Apostolic Archive',3011.72).
-surface('Carriage Pavilion',5657.67).
-surface('Monastero Mater Ecclesi',6809.56).
-surface('Oratorio dei Filippini (Oratory of St Philip Neri)',7026.02).
-surface('House of Hospitality Paul VI',7364.46).
-surface('Chiesa di Santa Maria del Rosario in Prati',1319.63).
-surface('Welcome To Rome',3752.87).
-surface('Stadium of Domitian',7678.83).
-surface('Palazzo Pamphili',6585.05).
-surface('Fountain of the Moro',3040.9).
-surface('Cappella Chigi',3151.6).
-surface('Chiesa di Gesu e Maria',3990.35).
+surface('Corte Suprema di Cassazione',4584.75).
+surface('Museo di Roma - Palazzo Braschi',3459.14).
+surface('Parrocchia Santa Maria in Vallicella',4938.09).
+surface('Chiesa di San Pietro in Montorio',4563.57).
+surface('Saint Eligio of Orefici',3494.51).
+surface('Palazzo del Commendatore',779.52).
+surface('Porta Santo Spirito',524.0).
+surface('Bernini Fountain',2928.73).
+surface('Presepe dei Netturbini',2612.43).
+surface('Church of Saints Michael and Magnus',6521.85).
+surface('Museum Leonardo Da Vinci Experience',2320.41).
+surface('Vatican Necropolis',3367.42).
+surface('Apostolic Palace',1171.65).
+surface('Ponte Vittorio Emanuele II',6488.98).
+surface('Chiesa di Sant Anna dei Palafrenieri',7208.73).
+surface('Operativa Arte Contemporanea',415.61).
+surface('Santa Maria del Suffragio',984.91).
+surface('Vatican Apostolic Archive',3283.47).
+surface('Carriage Pavilion',3041.81).
+surface('Monastero Mater Ecclesi',1170.68).
+surface('Oratorio dei Filippini (Oratory of St Philip Neri)',4017.86).
+surface('House of Hospitality Paul VI',1520.2).
+surface('Chiesa di Santa Maria del Rosario in Prati',5995.78).
+surface('Welcome To Rome',5087.32).
+surface('Stadium of Domitian',4323.66).
+surface('Palazzo Pamphili',5752.28).
+surface('Fountain of the Moro',5608.49).
+surface('Cappella Chigi',6636.94).
+surface('Chiesa di Gesu e Maria',4332.31).
 surface('Villa Borghese',80000).
-surface('Passeggiata del Pincio',1126.13).
-surface('Borghese Gallery and Museum',2498.44).
-surface('National Gallery of Modern and Contemporary Art',3500.62).
-surface('Mausoleum of Augustus',6948.91).
-surface('Chiesa Parrocchiale San Giacomo in Augusta',1515.24).
-surface('Villa Medici',4995.48).
-surface('Basilica of Saint Lawrence in Lucina',4317.56).
-surface('Basilica of SS. Ambrose and Charles on the Corso',4006.07).
-surface('Giorgio de Chirico House Museum',5645.54).
-surface('Santa Maria in Montesanto',3813.51).
-surface('Fontana della Barcaccia',1409.94).
-surface('Museo Leonardo da Vinci',2748.66).
-surface('Explora - Il Museo dei Bambini di Roma',1202.52).
-surface('Orologio ad acqua del Pincio',5949.61).
-surface('Ponte Giacomo Matteotti',4101.49).
-surface('National Etruscan Museum of Villa Giulia',3570.98).
-surface('Fontana del Babuino',5877.23).
-surface('Fontana del Bottino',2547.85).
-surface('Trinita dei Monti',5758.61).
-surface('Galleria del Cembalo',6213.59).
-surface('Chiesa di Santa Maria in Via',6320.41).
-surface('Palazzo di Propaganda Fide',4260.37).
-surface('Basilica di Sant Andrea delle Fratte',5048.44).
-surface('Piazza del Popolo',1358.11).
-surface('Marcus Aurelius Column',5498.9).
-surface('Piazza di Siena',4530.23).
-surface('All Saints  Anglican Church Rome',5636.12).
-surface('Church of Saint Roch  all Augusteo ',2986.54).
-surface('Church of Our Lady in Trivio',5272.89).
-surface('Il Tempio di Adriano',2750.6).
-surface('Museo Civico di Zoologia',2942.34).
-surface('Basilica of St. Augustine in Campo Marzio',1105.76).
-surface('Hendrik Christian Anderson Museum',2354.98).
-surface('Goethe House',3455.48).
-surface('Institute of Japanese Culture',1162.8).
-surface('Villa Balestra',2772.92).
-surface('Palazzo Borghese',3925.56).
-surface('National Academy of San Luca',2085.83).
-surface('Museo Carlo Bilotti',5500.85).
-surface('Palazzo Wedekind',3265.01).
-surface('Cloaca Maxima',1280.75).
-surface('Temple of Apollo Palatinus',2793.81).
-surface('Circus Maximus',5200.58).
-surface('Mouth of Truth',1334.48).
-surface('Basilica di Santa Sabina all Aventino',5582.34).
-surface('Santa Maria in Cosmedin',2865.47).
-surface('Non-Catholic Cemetery',4203.95).
-surface('Basilica Santa Cecilia in Trastevere',2517.57).
-surface('Mattatoio',7101.85).
-surface('Pyramid of Caius Cestius',6251.39).
-surface('Turtle Fountain',7906.44).
-surface('Basilica di San Bartolomeo all Isola',7799.95).
-surface('Chiesa di Santa Prisca',1195.7).
-surface('Tempio Maggiore di Roma',4389.44).
-surface('Portico of Octavia',908.78).
-surface('Basilica Santi Giovanni e Paolo',2834.66).
-height('Il Tempio dei Dioscuri',6.89).
-height('Basilica Julia',5.69).
-height('Fountain of the Bees',16.29).
-height('Ludus Magnus',15.9).
-height('Palazzetto Zuccari',0.8).
-height('Fontana del Mose',2.51).
-height('Chiesa di Santa Bibiana',3.1).
-height('Santissima Trinita degli Spagnoli',4.18).
+surface('Passeggiata del Pincio',1909.68).
+surface('Borghese Gallery and Museum',2461.64).
+surface('National Gallery of Modern and Contemporary Art',2880.53).
+surface('Mausoleum of Augustus',7621.29).
+surface('Chiesa Parrocchiale San Giacomo in Augusta',4715.34).
+surface('Villa Medici',5058.95).
+surface('Basilica of Saint Lawrence in Lucina',4700.55).
+surface('Basilica of SS. Ambrose and Charles on the Corso',3745.73).
+surface('Giorgio de Chirico House Museum',3269.12).
+surface('Santa Maria in Montesanto',6232.13).
+surface('Fontana della Barcaccia',6717.32).
+surface('Museo Leonardo da Vinci',5809.92).
+surface('Explora - Il Museo dei Bambini di Roma',6529.43).
+surface('Orologio ad acqua del Pincio',7085.24).
+surface('Ponte Giacomo Matteotti',4390.9).
+surface('National Etruscan Museum of Villa Giulia',4503.96).
+surface('Fontana del Babuino',803.01).
+surface('Fontana del Bottino',1989.75).
+surface('Trinita dei Monti',5856.54).
+surface('Galleria del Cembalo',5848.62).
+surface('Chiesa di Santa Maria in Via',6858.15).
+surface('Palazzo di Propaganda Fide',6731.03).
+surface('Basilica di Sant Andrea delle Fratte',904.98).
+surface('Piazza del Popolo',2367.31).
+surface('Marcus Aurelius Column',2826.35).
+surface('Piazza di Siena',2394.97).
+surface('All Saints  Anglican Church Rome',5649.61).
+surface('Church of Saint Roch  all Augusteo ',1185.02).
+surface('Church of Our Lady in Trivio',2376.64).
+surface('Il Tempio di Adriano',823.47).
+surface('Museo Civico di Zoologia',5429.75).
+surface('Basilica of St. Augustine in Campo Marzio',733.59).
+surface('Hendrik Christian Anderson Museum',7857.2).
+surface('Goethe House',5046.46).
+surface('Institute of Japanese Culture',7018.93).
+surface('Villa Balestra',5384.68).
+surface('Palazzo Borghese',4432.89).
+surface('National Academy of San Luca',6733.54).
+surface('Museo Carlo Bilotti',3374.69).
+surface('Palazzo Wedekind',4456.81).
+surface('Cloaca Maxima',3361.76).
+surface('Temple of Apollo Palatinus',4657.94).
+surface('Circus Maximus',597.32).
+surface('Mouth of Truth',6060.24).
+surface('Basilica di Santa Sabina all Aventino',3902.85).
+surface('Santa Maria in Cosmedin',4998.9).
+surface('Non-Catholic Cemetery',7496.98).
+surface('Basilica Santa Cecilia in Trastevere',1819.53).
+surface('Mattatoio',1048.47).
+surface('Pyramid of Caius Cestius',7675.34).
+surface('Turtle Fountain',1078.49).
+surface('Basilica di San Bartolomeo all Isola',2084.9).
+surface('Chiesa di Santa Prisca',5129.98).
+surface('Tempio Maggiore di Roma',931.17).
+surface('Portico of Octavia',2630.26).
+surface('Basilica Santi Giovanni e Paolo',5850.02).
+height('Il Tempio dei Dioscuri',6.52).
+height('Basilica Julia',5.65).
+height('Fountain of the Bees',3.68).
+height('Ludus Magnus',17.46).
+height('Palazzetto Zuccari',0.41).
+height('Fontana del Mose',9.43).
+height('Chiesa di Santa Bibiana',1.3).
+height('Santissima Trinita degli Spagnoli',3.86).
 height('Colosseum',48).
 height('Trevi Fountain',26).
-height('Capitoline Museums',15.28).
-height('Arch of Constantine',7.57).
-height('Obelisco del Pantheon',43).
-height('Piazza di Spagna',17.39).
-height('Basilica Papale di Santa Maria Maggiore',12.76).
-height('Roman Forum',4.72).
-height('Basilica of San Pietro in Vincoli',4.21).
-height('Palazzo Massimo alle Terme',5.87).
-height('Monument to Victor Emmanuel II',1.5).
-height('Campidoglio',3.56).
-height('Mercati di Traiano Museo dei Fori Imperiali',16.81).
-height('Equestrian Statue of Marcus Aurelius',9.07).
-height('Convento dei Frati Cappuccini',18.56).
-height('Quirinal Palace',2.61).
-height('Basilica di San Clemente',16.72).
-height('Chiesa di Sant  Ignazio di Loyola',17.14).
-height('Chiesa del Gesu',8.39).
-height('Piazza Barberini',15.27).
-height('Palazzo delle Esposizioni',2.8).
-height('Basilica di Santa Maria in Ara coeli',15.94).
-height('Palazzo Montecitorio',1.29).
-height('Domus Aurea',4.37).
-height('National Gallery of Ancient Art in Barberini Palace',18.86).
-height('Doria Pamphili Gallery',3.18).
-height('Piazza Venezia',4.78).
-height('Pantheon',6.15).
-height('Basilica of Saint Mary of Minerva',6.09).
-height('Santa Maria degli Angeli e dei Martiri',6.65).
-height('Parrocchia Santa Maria Maggiore',6.55).
-height('Mamertine Prison',6.59).
-height('Mose di Michelangelo',13.89).
-height('Capanne di Romolo',6.2).
-height('Basilica San Silvestro in Capite',10.48).
-height('Basilica del Sacro Cuore di Gesu',3.2).
-height('Largo di Torre Argentina',14.74).
-height('Chiesa di Santa Maria ai Monti',12.81).
-height('Basilica of St Mark Evangelist at Campidoglio',15.16).
-height('St. Paul s Within the Walls',9.68).
-height('Septimius Severus Arch',4.48).
-height('Palazzo Sciarra Colonna Carbognano',19.02).
-height('The Keats - Shelley House',9.85).
-height('Basilica Ulpia',17.66).
-height('Temple of Vesta',15.78).
-height('Chiesa San Marcello al Corso',3.92).
-height('San Stanislao alle Botteghe Oscure',1.23).
-height('Column of Phocas',13.35).
-height('Antoninus and Faustina Temple',5.58).
-height('Marcello Theater',4.75).
-height('Chiesa di Santa Maria in Portico in Campitelli',2.89).
-height('The Church of Santa Maria della Vittoria',3.85).
-height('The Last Judgment',15.55).
-height('Chiesa di Santo Stefano degli Abissini',4.23).
-height('Fontana di Piazza Farnese',14.73).
-height('Villa Abamelek',7.22).
-height('Palazzo Torres',19.83).
+height('Capitoline Museums',14.43).
+height('Arch of Constantine',9.14).
+height('Obelisco del Pantheon',14.95).
+height('Piazza di Spagna',5.76).
+height('Basilica Papale di Santa Maria Maggiore',18.79).
+height('Roman Forum',13.65).
+height('Basilica of San Pietro in Vincoli',5.52).
+height('Palazzo Massimo alle Terme',6.93).
+height('Monument to Victor Emmanuel II',18.8).
+height('Campidoglio',0.15).
+height('Mercati di Traiano Museo dei Fori Imperiali',15.83).
+height('Equestrian Statue of Marcus Aurelius',5.92).
+height('Convento dei Frati Cappuccini',7.96).
+height('Quirinal Palace',7.08).
+height('Basilica di San Clemente',2.66).
+height('Chiesa di Sant  Ignazio di Loyola',0.18).
+height('Chiesa del Gesu',8.23).
+height('Piazza Barberini',17.85).
+height('Palazzo delle Esposizioni',0.64).
+height('Basilica di Santa Maria in Ara coeli',13.73).
+height('Palazzo Montecitorio',18.5).
+height('Domus Aurea',1.54).
+height('National Gallery of Ancient Art in Barberini Palace',1.41).
+height('Doria Pamphili Gallery',13.54).
+height('Piazza Venezia',14.06).
+height('Pantheon',43).
+height('Basilica of Saint Mary of Minerva',19.33).
+height('Santa Maria degli Angeli e dei Martiri',7.63).
+height('Parrocchia Santa Maria Maggiore',14.66).
+height('Mamertine Prison',6.06).
+height('Mose di Michelangelo',16.46).
+height('Capanne di Romolo',9.1).
+height('Basilica San Silvestro in Capite',10.15).
+height('Basilica del Sacro Cuore di Gesu',5.35).
+height('Largo di Torre Argentina',18.96).
+height('Chiesa di Santa Maria ai Monti',13.68).
+height('Basilica of St Mark Evangelist at Campidoglio',13.1).
+height('St. Paul s Within the Walls',17.84).
+height('Septimius Severus Arch',16.8).
+height('Palazzo Sciarra Colonna Carbognano',18.62).
+height('The Keats - Shelley House',4.84).
+height('Basilica Ulpia',4.36).
+height('Temple of Vesta',0.68).
+height('Chiesa San Marcello al Corso',14.95).
+height('San Stanislao alle Botteghe Oscure',12.22).
+height('Column of Phocas',5.72).
+height('Antoninus and Faustina Temple',3.72).
+height('Marcello Theater',8.65).
+height('Chiesa di Santa Maria in Portico in Campitelli',6.28).
+height('The Church of Santa Maria della Vittoria',7.48).
+height('The Last Judgment',16.5).
+height('Chiesa di Santo Stefano degli Abissini',9.13).
+height('Fontana di Piazza Farnese',15.9).
+height('Villa Abamelek',8.77).
+height('Palazzo Torres',19.51).
 height('Castel Sant Angelo',57).
-height('Vidoni Palace',18.56).
-height('Vatican Museums',14.14).
-height('Fontana di Piazza Nicosia',13.87).
+height('Vidoni Palace',10.16).
+height('Vatican Museums',6.79).
+height('Fontana di Piazza Nicosia',1.77).
 height('St. Peter s Basilica',136).
-height('Church Holy Spirit in Sassia',0.44).
-height('Parrocchia Santuario Santa Maria in Traspontina',18.34).
-height('Gardens of Vatican City',9.88).
-height('Fiumi Fountain',6.04).
-height('Sistine Chapel',12.87).
-height('Villa Farnesina',5.38).
-height('Church of St. Louis of the French',7.28).
-height('Palazzo Madama',18.11).
-height('Galleria Spada',6.1).
-height('St. Angelo Bridge',10.21).
-height('Palazzo Farnese',6.73).
-height('Sant Agnese in Agone',3.37).
-height('Botanical Garden of Rome',5.24).
-height('Chiesa di Santa Maria della Pace',7.0).
-height('Obelisco Agonale',5.58).
-height('Basilica of Santa Maria in Trastevere',9.4).
-height('Church of St Onuphrius at the Janiculum',5.91).
-height('Biblioteca Angelica',8.36).
-height('Campo de  Fiori',16.25).
+height('Church Holy Spirit in Sassia',10.7).
+height('Parrocchia Santuario Santa Maria in Traspontina',6.52).
+height('Gardens of Vatican City',18.67).
+height('Fiumi Fountain',7.05).
+height('Sistine Chapel',1.84).
+height('Villa Farnesina',18.79).
+height('Church of St. Louis of the French',2.48).
+height('Palazzo Madama',5.53).
+height('Galleria Spada',3.13).
+height('St. Angelo Bridge',12.52).
+height('Palazzo Farnese',0.64).
+height('Sant Agnese in Agone',6.65).
+height('Botanical Garden of Rome',15.7).
+height('Chiesa di Santa Maria della Pace',3.0).
+height('Obelisco Agonale',14.86).
+height('Basilica of Santa Maria in Trastevere',9.3).
+height('Church of St Onuphrius at the Janiculum',8.57).
+height('Biblioteca Angelica',5.98).
+height('Campo de  Fiori',16.69).
 height('Piazza Navona',0).
-height('Corte Suprema di Cassazione',6.37).
-height('Museo di Roma - Palazzo Braschi',18.76).
-height('Parrocchia Santa Maria in Vallicella',9.59).
-height('Chiesa di San Pietro in Montorio',0.33).
-height('Saint Eligio of Orefici',18.35).
-height('Palazzo del Commendatore',9.69).
-height('Porta Santo Spirito',1.62).
-height('Bernini Fountain',14.33).
-height('Presepe dei Netturbini',9.45).
-height('Church of Saints Michael and Magnus',16.4).
-height('Museum Leonardo Da Vinci Experience',6.67).
-height('Vatican Necropolis',13.74).
-height('Apostolic Palace',4.89).
-height('Ponte Vittorio Emanuele II',18.84).
-height('Chiesa di Sant Anna dei Palafrenieri',12.94).
-height('Operativa Arte Contemporanea',13.95).
-height('Santa Maria del Suffragio',5.11).
-height('Vatican Apostolic Archive',13.38).
-height('Carriage Pavilion',2.2).
-height('Monastero Mater Ecclesi',9.71).
-height('Oratorio dei Filippini (Oratory of St Philip Neri)',14.95).
-height('House of Hospitality Paul VI',8.32).
-height('Chiesa di Santa Maria del Rosario in Prati',13.3).
-height('Welcome To Rome',15.6).
-height('Stadium of Domitian',18.36).
-height('Palazzo Pamphili',6.74).
-height('Fountain of the Moro',2.99).
-height('Cappella Chigi',9.88).
-height('Chiesa di Gesu e Maria',16.93).
-height('Villa Borghese',17.86).
-height('Passeggiata del Pincio',4.29).
-height('Borghese Gallery and Museum',15.23).
-height('National Gallery of Modern and Contemporary Art',2.27).
-height('Mausoleum of Augustus',9.06).
-height('Chiesa Parrocchiale San Giacomo in Augusta',7.33).
-height('Villa Medici',17.19).
-height('Basilica of Saint Lawrence in Lucina',7.15).
-height('Basilica of SS. Ambrose and Charles on the Corso',11.78).
-height('Giorgio de Chirico House Museum',18.92).
-height('Santa Maria in Montesanto',0.78).
-height('Fontana della Barcaccia',7.24).
-height('Museo Leonardo da Vinci',2.6).
-height('Explora - Il Museo dei Bambini di Roma',8.21).
-height('Orologio ad acqua del Pincio',5.47).
-height('Ponte Giacomo Matteotti',9.54).
-height('National Etruscan Museum of Villa Giulia',0.28).
-height('Fontana del Babuino',12.4).
-height('Fontana del Bottino',9.62).
-height('Trinita dei Monti',19.07).
-height('Galleria del Cembalo',19.52).
-height('Chiesa di Santa Maria in Via',2.63).
-height('Palazzo di Propaganda Fide',14.73).
-height('Basilica di Sant Andrea delle Fratte',1.0).
-height('Piazza del Popolo',18.72).
-height('Marcus Aurelius Column',9.45).
-height('Piazza di Siena',5.0).
-height('All Saints  Anglican Church Rome',5.64).
-height('Church of Saint Roch  all Augusteo ',3.58).
-height('Church of Our Lady in Trivio',2.4).
-height('Il Tempio di Adriano',9.76).
-height('Museo Civico di Zoologia',17.59).
-height('Basilica of St. Augustine in Campo Marzio',11.41).
-height('Hendrik Christian Anderson Museum',1.44).
-height('Goethe House',4.72).
-height('Institute of Japanese Culture',10.43).
-height('Villa Balestra',4.23).
-height('Palazzo Borghese',16.75).
-height('National Academy of San Luca',17.45).
-height('Museo Carlo Bilotti',12.82).
-height('Palazzo Wedekind',5.2).
-height('Cloaca Maxima',14.73).
-height('Temple of Apollo Palatinus',6.13).
-height('Circus Maximus',10.84).
-height('Mouth of Truth',14.7).
-height('Basilica di Santa Sabina all Aventino',6.01).
-height('Santa Maria in Cosmedin',12.07).
-height('Non-Catholic Cemetery',10.3).
-height('Basilica Santa Cecilia in Trastevere',11.94).
-height('Mattatoio',7.58).
-height('Pyramid of Caius Cestius',13.88).
-height('Turtle Fountain',18.47).
-height('Basilica di San Bartolomeo all Isola',16.18).
-height('Chiesa di Santa Prisca',13.27).
-height('Tempio Maggiore di Roma',14.74).
-height('Portico of Octavia',1.96).
-height('Basilica Santi Giovanni e Paolo',18.83).
+height('Corte Suprema di Cassazione',15.92).
+height('Museo di Roma - Palazzo Braschi',6.49).
+height('Parrocchia Santa Maria in Vallicella',4.69).
+height('Chiesa di San Pietro in Montorio',13.63).
+height('Saint Eligio of Orefici',4.98).
+height('Palazzo del Commendatore',11.4).
+height('Porta Santo Spirito',14.74).
+height('Bernini Fountain',6.65).
+height('Presepe dei Netturbini',16.9).
+height('Church of Saints Michael and Magnus',12.53).
+height('Museum Leonardo Da Vinci Experience',18.54).
+height('Vatican Necropolis',19.49).
+height('Apostolic Palace',8.4).
+height('Ponte Vittorio Emanuele II',5.53).
+height('Chiesa di Sant Anna dei Palafrenieri',17.41).
+height('Operativa Arte Contemporanea',3.46).
+height('Santa Maria del Suffragio',10.07).
+height('Vatican Apostolic Archive',16.2).
+height('Carriage Pavilion',6.81).
+height('Monastero Mater Ecclesi',14.51).
+height('Oratorio dei Filippini (Oratory of St Philip Neri)',16.25).
+height('House of Hospitality Paul VI',2.85).
+height('Chiesa di Santa Maria del Rosario in Prati',10.79).
+height('Welcome To Rome',16.02).
+height('Stadium of Domitian',19.01).
+height('Palazzo Pamphili',5.2).
+height('Fountain of the Moro',19.32).
+height('Cappella Chigi',2.73).
+height('Chiesa di Gesu e Maria',5.55).
+height('Villa Borghese',11.6).
+height('Passeggiata del Pincio',0.89).
+height('Borghese Gallery and Museum',14.19).
+height('National Gallery of Modern and Contemporary Art',12.39).
+height('Mausoleum of Augustus',15.44).
+height('Chiesa Parrocchiale San Giacomo in Augusta',17.65).
+height('Villa Medici',10.84).
+height('Basilica of Saint Lawrence in Lucina',15.55).
+height('Basilica of SS. Ambrose and Charles on the Corso',4.4).
+height('Giorgio de Chirico House Museum',1.24).
+height('Santa Maria in Montesanto',8.83).
+height('Fontana della Barcaccia',2.31).
+height('Museo Leonardo da Vinci',2.12).
+height('Explora - Il Museo dei Bambini di Roma',8.37).
+height('Orologio ad acqua del Pincio',10.17).
+height('Ponte Giacomo Matteotti',4.34).
+height('National Etruscan Museum of Villa Giulia',5.97).
+height('Fontana del Babuino',0.81).
+height('Fontana del Bottino',14.93).
+height('Trinita dei Monti',18.49).
+height('Galleria del Cembalo',7.42).
+height('Chiesa di Santa Maria in Via',3.53).
+height('Palazzo di Propaganda Fide',14.83).
+height('Basilica di Sant Andrea delle Fratte',9.37).
+height('Piazza del Popolo',3.15).
+height('Marcus Aurelius Column',1.94).
+height('Piazza di Siena',17.06).
+height('All Saints  Anglican Church Rome',19.47).
+height('Church of Saint Roch  all Augusteo ',9.73).
+height('Church of Our Lady in Trivio',8.54).
+height('Il Tempio di Adriano',8.38).
+height('Museo Civico di Zoologia',10.51).
+height('Basilica of St. Augustine in Campo Marzio',15.31).
+height('Hendrik Christian Anderson Museum',1.46).
+height('Goethe House',14.01).
+height('Institute of Japanese Culture',17.97).
+height('Villa Balestra',1.89).
+height('Palazzo Borghese',0.84).
+height('National Academy of San Luca',14.3).
+height('Museo Carlo Bilotti',11.99).
+height('Palazzo Wedekind',9.56).
+height('Cloaca Maxima',7.91).
+height('Temple of Apollo Palatinus',13.87).
+height('Circus Maximus',13.83).
+height('Mouth of Truth',18.78).
+height('Basilica di Santa Sabina all Aventino',2.66).
+height('Santa Maria in Cosmedin',18.87).
+height('Non-Catholic Cemetery',14.46).
+height('Basilica Santa Cecilia in Trastevere',15.78).
+height('Mattatoio',0.25).
+height('Pyramid of Caius Cestius',0.27).
+height('Turtle Fountain',12.37).
+height('Basilica di San Bartolomeo all Isola',12.38).
+height('Chiesa di Santa Prisca',10.49).
+height('Tempio Maggiore di Roma',12.77).
+height('Portico of Octavia',13.65).
+height('Basilica Santi Giovanni e Paolo',14.18).
 price('Il Tempio dei Dioscuri',0).
 price('Basilica Julia',0).
 price('Fountain of the Bees',0).
-price('Ludus Magnus',12).
+price('Ludus Magnus',0).
 price('Palazzetto Zuccari',0).
-price('Fontana del Mose',0).
+price('Fontana del Mose',8).
 price('Chiesa di Santa Bibiana',0).
 price('Santissima Trinita degli Spagnoli',0).
 price('Colosseum',16).
 price('Trevi Fountain',0).
-price('Capitoline Museums',5).
-price('Arch of Constantine',0).
-price('Obelisco del Pantheon',0).
+price('Capitoline Museums',0).
+price('Arch of Constantine',8).
+price('Obelisco del Pantheon',9).
 price('Piazza di Spagna',0).
-price('Basilica Papale di Santa Maria Maggiore',7).
+price('Basilica Papale di Santa Maria Maggiore',10).
 price('Roman Forum',16).
-price('Basilica of San Pietro in Vincoli',7).
-price('Palazzo Massimo alle Terme',7).
-price('Monument to Victor Emmanuel II',0).
-price('Campidoglio',9).
+price('Basilica of San Pietro in Vincoli',0).
+price('Palazzo Massimo alle Terme',0).
+price('Monument to Victor Emmanuel II',12).
+price('Campidoglio',8).
 price('Mercati di Traiano Museo dei Fori Imperiali',6).
 price('Equestrian Statue of Marcus Aurelius',0).
-price('Convento dei Frati Cappuccini',7).
-price('Quirinal Palace',7).
-price('Basilica di San Clemente',0).
+price('Convento dei Frati Cappuccini',0).
+price('Quirinal Palace',9).
+price('Basilica di San Clemente',6).
 price('Chiesa di Sant  Ignazio di Loyola',0).
 price('Chiesa del Gesu',6).
-price('Piazza Barberini',11).
+price('Piazza Barberini',7).
 price('Palazzo delle Esposizioni',0).
-price('Basilica di Santa Maria in Ara coeli',7).
-price('Palazzo Montecitorio',0).
-price('Domus Aurea',11).
+price('Basilica di Santa Maria in Ara coeli',0).
+price('Palazzo Montecitorio',12).
+price('Domus Aurea',0).
 price('National Gallery of Ancient Art in Barberini Palace',9).
-price('Doria Pamphili Gallery',7).
-price('Piazza Venezia',8).
-price('Pantheon',10).
-price('Basilica of Saint Mary of Minerva',0).
-price('Santa Maria degli Angeli e dei Martiri',0).
+price('Doria Pamphili Gallery',0).
+price('Piazza Venezia',9).
+price('Pantheon',0).
+price('Basilica of Saint Mary of Minerva',5).
+price('Santa Maria degli Angeli e dei Martiri',11).
 price('Parrocchia Santa Maria Maggiore',0).
-price('Mamertine Prison',10).
-price('Mose di Michelangelo',5).
-price('Capanne di Romolo',9).
-price('Basilica San Silvestro in Capite',9).
+price('Mamertine Prison',0).
+price('Mose di Michelangelo',0).
+price('Capanne di Romolo',0).
+price('Basilica San Silvestro in Capite',5).
 price('Basilica del Sacro Cuore di Gesu',0).
-price('Largo di Torre Argentina',9).
+price('Largo di Torre Argentina',0).
 price('Chiesa di Santa Maria ai Monti',10).
-price('Basilica of St Mark Evangelist at Campidoglio',6).
-price('St. Paul s Within the Walls',0).
+price('Basilica of St Mark Evangelist at Campidoglio',0).
+price('St. Paul s Within the Walls',10).
 price('Septimius Severus Arch',12).
-price('Palazzo Sciarra Colonna Carbognano',8).
-price('The Keats - Shelley House',0).
-price('Basilica Ulpia',11).
+price('Palazzo Sciarra Colonna Carbognano',0).
+price('The Keats - Shelley House',9).
+price('Basilica Ulpia',0).
 price('Temple of Vesta',0).
-price('Chiesa San Marcello al Corso',12).
-price('San Stanislao alle Botteghe Oscure',6).
-price('Column of Phocas',0).
-price('Antoninus and Faustina Temple',5).
+price('Chiesa San Marcello al Corso',8).
+price('San Stanislao alle Botteghe Oscure',0).
+price('Column of Phocas',5).
+price('Antoninus and Faustina Temple',0).
 price('Marcello Theater',0).
-price('Chiesa di Santa Maria in Portico in Campitelli',0).
-price('The Church of Santa Maria della Vittoria',8).
-price('The Last Judgment',0).
+price('Chiesa di Santa Maria in Portico in Campitelli',12).
+price('The Church of Santa Maria della Vittoria',6).
+price('The Last Judgment',12).
 price('Chiesa di Santo Stefano degli Abissini',0).
-price('Fontana di Piazza Farnese',0).
-price('Villa Abamelek',0).
-price('Palazzo Torres',0).
+price('Fontana di Piazza Farnese',9).
+price('Villa Abamelek',12).
+price('Palazzo Torres',12).
 price('Castel Sant Angelo',15).
-price('Vidoni Palace',6).
+price('Vidoni Palace',0).
 price('Vatican Museums',17).
 price('Fontana di Piazza Nicosia',0).
 price('St. Peter s Basilica',0).
-price('Church Holy Spirit in Sassia',0).
-price('Parrocchia Santuario Santa Maria in Traspontina',0).
-price('Gardens of Vatican City',6).
-price('Fiumi Fountain',6).
-price('Sistine Chapel',0).
-price('Villa Farnesina',7).
-price('Church of St. Louis of the French',0).
-price('Palazzo Madama',10).
-price('Galleria Spada',0).
-price('St. Angelo Bridge',8).
-price('Palazzo Farnese',8).
-price('Sant Agnese in Agone',8).
-price('Botanical Garden of Rome',6).
+price('Church Holy Spirit in Sassia',7).
+price('Parrocchia Santuario Santa Maria in Traspontina',11).
+price('Gardens of Vatican City',0).
+price('Fiumi Fountain',0).
+price('Sistine Chapel',10).
+price('Villa Farnesina',8).
+price('Church of St. Louis of the French',7).
+price('Palazzo Madama',0).
+price('Galleria Spada',6).
+price('St. Angelo Bridge',6).
+price('Palazzo Farnese',5).
+price('Sant Agnese in Agone',10).
+price('Botanical Garden of Rome',0).
 price('Chiesa di Santa Maria della Pace',0).
-price('Obelisco Agonale',0).
-price('Basilica of Santa Maria in Trastevere',9).
+price('Obelisco Agonale',6).
+price('Basilica of Santa Maria in Trastevere',0).
 price('Church of St Onuphrius at the Janiculum',0).
-price('Biblioteca Angelica',0).
-price('Campo de  Fiori',0).
+price('Biblioteca Angelica',12).
+price('Campo de  Fiori',7).
 price('Piazza Navona',0).
-price('Corte Suprema di Cassazione',0).
-price('Museo di Roma - Palazzo Braschi',5).
+price('Corte Suprema di Cassazione',12).
+price('Museo di Roma - Palazzo Braschi',7).
 price('Parrocchia Santa Maria in Vallicella',0).
-price('Chiesa di San Pietro in Montorio',0).
-price('Saint Eligio of Orefici',7).
+price('Chiesa di San Pietro in Montorio',10).
+price('Saint Eligio of Orefici',0).
 price('Palazzo del Commendatore',0).
-price('Porta Santo Spirito',0).
+price('Porta Santo Spirito',8).
 price('Bernini Fountain',0).
-price('Presepe dei Netturbini',0).
-price('Church of Saints Michael and Magnus',0).
+price('Presepe dei Netturbini',7).
+price('Church of Saints Michael and Magnus',9).
 price('Museum Leonardo Da Vinci Experience',0).
-price('Vatican Necropolis',11).
-price('Apostolic Palace',0).
-price('Ponte Vittorio Emanuele II',12).
+price('Vatican Necropolis',0).
+price('Apostolic Palace',12).
+price('Ponte Vittorio Emanuele II',0).
 price('Chiesa di Sant Anna dei Palafrenieri',0).
-price('Operativa Arte Contemporanea',9).
-price('Santa Maria del Suffragio',9).
+price('Operativa Arte Contemporanea',0).
+price('Santa Maria del Suffragio',11).
 price('Vatican Apostolic Archive',0).
-price('Carriage Pavilion',0).
-price('Monastero Mater Ecclesi',7).
-price('Oratorio dei Filippini (Oratory of St Philip Neri)',6).
-price('House of Hospitality Paul VI',9).
+price('Carriage Pavilion',5).
+price('Monastero Mater Ecclesi',0).
+price('Oratorio dei Filippini (Oratory of St Philip Neri)',12).
+price('House of Hospitality Paul VI',0).
 price('Chiesa di Santa Maria del Rosario in Prati',0).
 price('Welcome To Rome',0).
-price('Stadium of Domitian',5).
+price('Stadium of Domitian',9).
 price('Palazzo Pamphili',0).
-price('Fountain of the Moro',10).
-price('Cappella Chigi',11).
-price('Chiesa di Gesu e Maria',11).
+price('Fountain of the Moro',8).
+price('Cappella Chigi',8).
+price('Chiesa di Gesu e Maria',0).
 price('Villa Borghese',13).
-price('Passeggiata del Pincio',9).
+price('Passeggiata del Pincio',8).
 price('Borghese Gallery and Museum',11).
-price('National Gallery of Modern and Contemporary Art',7).
+price('National Gallery of Modern and Contemporary Art',0).
 price('Mausoleum of Augustus',0).
-price('Chiesa Parrocchiale San Giacomo in Augusta',5).
-price('Villa Medici',10).
-price('Basilica of Saint Lawrence in Lucina',0).
+price('Chiesa Parrocchiale San Giacomo in Augusta',7).
+price('Villa Medici',7).
+price('Basilica of Saint Lawrence in Lucina',11).
 price('Basilica of SS. Ambrose and Charles on the Corso',0).
 price('Giorgio de Chirico House Museum',0).
 price('Santa Maria in Montesanto',0).
 price('Fontana della Barcaccia',0).
-price('Museo Leonardo da Vinci',0).
-price('Explora - Il Museo dei Bambini di Roma',11).
-price('Orologio ad acqua del Pincio',9).
-price('Ponte Giacomo Matteotti',6).
-price('National Etruscan Museum of Villa Giulia',11).
-price('Fontana del Babuino',12).
-price('Fontana del Bottino',0).
-price('Trinita dei Monti',6).
+price('Museo Leonardo da Vinci',8).
+price('Explora - Il Museo dei Bambini di Roma',10).
+price('Orologio ad acqua del Pincio',6).
+price('Ponte Giacomo Matteotti',7).
+price('National Etruscan Museum of Villa Giulia',0).
+price('Fontana del Babuino',0).
+price('Fontana del Bottino',5).
+price('Trinita dei Monti',5).
 price('Galleria del Cembalo',0).
 price('Chiesa di Santa Maria in Via',0).
 price('Palazzo di Propaganda Fide',0).
-price('Basilica di Sant Andrea delle Fratte',7).
-price('Piazza del Popolo',7).
-price('Marcus Aurelius Column',0).
-price('Piazza di Siena',0).
-price('All Saints  Anglican Church Rome',9).
-price('Church of Saint Roch  all Augusteo ',0).
+price('Basilica di Sant Andrea delle Fratte',5).
+price('Piazza del Popolo',0).
+price('Marcus Aurelius Column',7).
+price('Piazza di Siena',7).
+price('All Saints  Anglican Church Rome',0).
+price('Church of Saint Roch  all Augusteo ',7).
 price('Church of Our Lady in Trivio',0).
 price('Il Tempio di Adriano',0).
-price('Museo Civico di Zoologia',0).
-price('Basilica of St. Augustine in Campo Marzio',0).
-price('Hendrik Christian Anderson Museum',10).
-price('Goethe House',11).
+price('Museo Civico di Zoologia',10).
+price('Basilica of St. Augustine in Campo Marzio',5).
+price('Hendrik Christian Anderson Museum',0).
+price('Goethe House',8).
 price('Institute of Japanese Culture',12).
-price('Villa Balestra',0).
-price('Palazzo Borghese',6).
+price('Villa Balestra',8).
+price('Palazzo Borghese',0).
 price('National Academy of San Luca',0).
-price('Museo Carlo Bilotti',0).
-price('Palazzo Wedekind',0).
+price('Museo Carlo Bilotti',5).
+price('Palazzo Wedekind',8).
 price('Cloaca Maxima',0).
-price('Temple of Apollo Palatinus',11).
-price('Circus Maximus',0).
+price('Temple of Apollo Palatinus',0).
+price('Circus Maximus',12).
 price('Mouth of Truth',0).
-price('Basilica di Santa Sabina all Aventino',0).
-price('Santa Maria in Cosmedin',12).
-price('Non-Catholic Cemetery',8).
+price('Basilica di Santa Sabina all Aventino',6).
+price('Santa Maria in Cosmedin',0).
+price('Non-Catholic Cemetery',0).
 price('Basilica Santa Cecilia in Trastevere',0).
-price('Mattatoio',0).
-price('Pyramid of Caius Cestius',0).
-price('Turtle Fountain',9).
-price('Basilica di San Bartolomeo all Isola',9).
-price('Chiesa di Santa Prisca',0).
+price('Mattatoio',8).
+price('Pyramid of Caius Cestius',5).
+price('Turtle Fountain',12).
+price('Basilica di San Bartolomeo all Isola',11).
+price('Chiesa di Santa Prisca',7).
 price('Tempio Maggiore di Roma',0).
-price('Portico of Octavia',6).
-price('Basilica Santi Giovanni e Paolo',0).
+price('Portico of Octavia',0).
+price('Basilica Santi Giovanni e Paolo',8).
 distance('Il Tempio dei Dioscuri','Basilica Julia',79).
 distance('Il Tempio dei Dioscuri','Fountain of the Bees',1421).
 distance('Il Tempio dei Dioscuri','Ludus Magnus',790).
@@ -17770,355 +17764,179 @@ distance('Chiesa di Santa Prisca','Basilica Santi Giovanni e Paolo',799).
 distance('Tempio Maggiore di Roma','Portico of Octavia',71).
 distance('Tempio Maggiore di Roma','Basilica Santi Giovanni e Paolo',1319).
 distance('Portico of Octavia','Basilica Santi Giovanni e Paolo',1311).
-density('Il Tempio dei Dioscuri',1513).
-density('Basilica Julia',1469).
-density('Fountain of the Bees',1514).
-density('Ludus Magnus',2039).
-density('Palazzetto Zuccari',1374).
-density('Fontana del Mose',1830).
-density('Chiesa di Santa Bibiana',2846).
-density('Santissima Trinita degli Spagnoli',1247).
-density('Colosseum',1885).
-density('Trevi Fountain',1225).
-density('Capitoline Museums',1364).
-density('Arch of Constantine',1832).
-density('Obelisco del Pantheon',1138).
-density('Piazza di Spagna',1336).
-density('Basilica Papale di Santa Maria Maggiore',2020).
-density('Roman Forum',1460).
-density('Basilica of San Pietro in Vincoli',1763).
-density('Palazzo Massimo alle Terme',2010).
-density('Monument to Victor Emmanuel II',1303).
-density('Campidoglio',1348).
-density('Mercati di Traiano Museo dei Fori Imperiali',1372).
-density('Equestrian Statue of Marcus Aurelius',1352).
-density('Convento dei Frati Cappuccini',1517).
-density('Quirinal Palace',1343).
-density('Basilica di San Clemente',2238).
-density('Chiesa di Sant  Ignazio di Loyola',1152).
-density('Chiesa del Gesu',1206).
-density('Piazza Barberini',1492).
-density('Palazzo delle Esposizioni',1504).
-density('Basilica di Santa Maria in Ara coeli',1343).
-density('Palazzo Montecitorio',1156).
-density('Domus Aurea',2050).
-density('National Gallery of Ancient Art in Barberini Palace',1536).
-density('Doria Pamphili Gallery',1186).
-density('Piazza Venezia',1253).
-density('Pantheon',1142).
-density('Basilica of Saint Mary of Minerva',1149).
-density('Santa Maria degli Angeli e dei Martiri',1954).
-density('Parrocchia Santa Maria Maggiore',2260).
-density('Mamertine Prison',1395).
-density('Mose di Michelangelo',1749).
-density('Capanne di Romolo',1657).
-density('Basilica San Silvestro in Capite',1206).
-density('Basilica del Sacro Cuore di Gesu',2320).
-density('Largo di Torre Argentina',1220).
-density('Chiesa di Santa Maria ai Monti',1605).
-density('Basilica of St Mark Evangelist at Campidoglio',1232).
-density('St. Paul s Within the Walls',1743).
-density('Septimius Severus Arch',1420).
-density('Palazzo Sciarra Colonna Carbognano',1169).
-density('The Keats - Shelley House',1343).
-density('Basilica Ulpia',1314).
-density('Temple of Vesta',1531).
-density('Chiesa San Marcello al Corso',1181).
-density('San Stanislao alle Botteghe Oscure',1240).
-density('Column of Phocas',1445).
-density('Antoninus and Faustina Temple',1525).
-density('Marcello Theater',1391).
-density('Chiesa di Santa Maria in Portico in Campitelli',1323).
-density('The Church of Santa Maria della Vittoria',1834).
-density('The Last Judgment',2135).
-density('Chiesa di Santo Stefano degli Abissini',2311).
-density('Fontana di Piazza Farnese',1331).
-density('Villa Abamelek',2357).
-density('Palazzo Torres',1195).
-density('Castel Sant Angelo',1475).
-density('Vidoni Palace',1216).
-density('Vatican Museums',2291).
-density('Fontana di Piazza Nicosia',1216).
-density('St. Peter s Basilica',2161).
-density('Church Holy Spirit in Sassia',1705).
-density('Parrocchia Santuario Santa Maria in Traspontina',1660).
-density('Gardens of Vatican City',2453).
-density('Fiumi Fountain',1185).
-density('Sistine Chapel',2133).
-density('Villa Farnesina',1547).
-density('Church of St. Louis of the French',1158).
-density('Palazzo Madama',1164).
-density('Galleria Spada',1354).
-density('St. Angelo Bridge',1438).
-density('Palazzo Farnese',1362).
-density('Sant Agnese in Agone',1199).
-density('Botanical Garden of Rome',1822).
-density('Chiesa di Santa Maria della Pace',1224).
-density('Obelisco Agonale',1185).
-density('Basilica of Santa Maria in Trastevere',1711).
-density('Church of St Onuphrius at the Janiculum',1726).
-density('Biblioteca Angelica',1168).
-density('Campo de  Fiori',1290).
-density('Piazza Navona',1185).
-density('Corte Suprema di Cassazione',1390).
-density('Museo di Roma - Palazzo Braschi',1214).
-density('Parrocchia Santa Maria in Vallicella',1315).
-density('Chiesa di San Pietro in Montorio',1878).
-density('Saint Eligio of Orefici',1432).
-density('Palazzo del Commendatore',1635).
-density('Porta Santo Spirito',1666).
-density('Bernini Fountain',1935).
-density('Presepe dei Netturbini',2062).
-density('Church of Saints Michael and Magnus',1705).
-density('Museum Leonardo Da Vinci Experience',1684).
-density('Vatican Necropolis',2146).
-density('Apostolic Palace',2035).
-density('Ponte Vittorio Emanuele II',1529).
-density('Chiesa di Sant Anna dei Palafrenieri',1964).
-density('Operativa Arte Contemporanea',1448).
-density('Santa Maria del Suffragio',1443).
-density('Vatican Apostolic Archive',2153).
-density('Carriage Pavilion',2251).
-density('Monastero Mater Ecclesi',2402).
-density('Oratorio dei Filippini (Oratory of St Philip Neri)',1334).
-density('House of Hospitality Paul VI',2402).
-density('Chiesa di Santa Maria del Rosario in Prati',2093).
-density('Welcome To Rome',1265).
-density('Stadium of Domitian',1201).
-density('Palazzo Pamphili',1203).
-density('Fountain of the Moro',1193).
-density('Cappella Chigi',1671).
-density('Chiesa di Gesu e Maria',1418).
-density('Villa Borghese',1896).
-density('Passeggiata del Pincio',1653).
-density('Borghese Gallery and Museum',2261).
-density('National Gallery of Modern and Contemporary Art',2198).
-density('Mausoleum of Augustus',1314).
-density('Chiesa Parrocchiale San Giacomo in Augusta',1405).
-density('Villa Medici',1492).
-density('Basilica of Saint Lawrence in Lucina',1197).
-density('Basilica of SS. Ambrose and Charles on the Corso',1273).
-density('Giorgio de Chirico House Museum',1338).
-density('Santa Maria in Montesanto',1563).
-density('Fontana della Barcaccia',1340).
-density('Museo Leonardo da Vinci',1659).
-density('Explora - Il Museo dei Bambini di Roma',1993).
-density('Orologio ad acqua del Pincio',1712).
-density('Ponte Giacomo Matteotti',2002).
-density('National Etruscan Museum of Villa Giulia',2291).
-density('Fontana del Babuino',1411).
-density('Fontana del Bottino',1411).
-density('Trinita dei Monti',1400).
-density('Galleria del Cembalo',1216).
-density('Chiesa di Santa Maria in Via',1189).
-density('Palazzo di Propaganda Fide',1307).
-density('Basilica di Sant Andrea delle Fratte',1290).
-density('Piazza del Popolo',1613).
-density('Marcus Aurelius Column',1156).
-density('Piazza di Siena',2012).
-density('All Saints  Anglican Church Rome',1440).
-density('Church of Saint Roch  all Augusteo ',1296).
-density('Church of Our Lady in Trivio',1211).
-density('Il Tempio di Adriano',1144).
-density('Museo Civico di Zoologia',2558).
-density('Basilica of St. Augustine in Campo Marzio',1171).
-density('Hendrik Christian Anderson Museum',1938).
-density('Goethe House',1487).
-density('Institute of Japanese Culture',2329).
-density('Villa Balestra',2614).
-density('Palazzo Borghese',1233).
-density('National Academy of San Luca',1245).
-density('Museo Carlo Bilotti',1891).
-density('Palazzo Wedekind',1150).
-density('Cloaca Maxima',1624).
-density('Temple of Apollo Palatinus',1832).
-density('Circus Maximus',1910).
-density('Mouth of Truth',1678).
-density('Basilica di Santa Sabina all Aventino',1981).
-density('Santa Maria in Cosmedin',1683).
-density('Non-Catholic Cemetery',2787).
-density('Basilica Santa Cecilia in Trastevere',1750).
-density('Mattatoio',2799).
-density('Pyramid of Caius Cestius',2776).
-density('Turtle Fountain',1284).
-density('Basilica di San Bartolomeo all Isola',1495).
-density('Chiesa di Santa Prisca',2155).
-density('Tempio Maggiore di Roma',1384).
-density('Portico of Octavia',1352).
-density('Basilica Santi Giovanni e Paolo',2132).
-tourismRateOutOfTen('Il Tempio dei Dioscuri',4).
-tourismRateOutOfTen('Basilica Julia',1).
-tourismRateOutOfTen('Fountain of the Bees',1).
-tourismRateOutOfTen('Ludus Magnus',3).
+tourismRateOutOfTen('Il Tempio dei Dioscuri',6).
+tourismRateOutOfTen('Basilica Julia',2).
+tourismRateOutOfTen('Fountain of the Bees',6).
+tourismRateOutOfTen('Ludus Magnus',7).
 tourismRateOutOfTen('Palazzetto Zuccari',1).
-tourismRateOutOfTen('Fontana del Mose',8).
+tourismRateOutOfTen('Fontana del Mose',1).
 tourismRateOutOfTen('Chiesa di Santa Bibiana',5).
-tourismRateOutOfTen('Santissima Trinita degli Spagnoli',9).
+tourismRateOutOfTen('Santissima Trinita degli Spagnoli',10).
 tourismRateOutOfTen('Colosseum',10).
 tourismRateOutOfTen('Trevi Fountain',10).
-tourismRateOutOfTen('Capitoline Museums',7).
-tourismRateOutOfTen('Arch of Constantine',3).
-tourismRateOutOfTen('Obelisco del Pantheon',10).
-tourismRateOutOfTen('Piazza di Spagna',4).
-tourismRateOutOfTen('Basilica Papale di Santa Maria Maggiore',2).
+tourismRateOutOfTen('Capitoline Museums',3).
+tourismRateOutOfTen('Arch of Constantine',1).
+tourismRateOutOfTen('Obelisco del Pantheon',1).
+tourismRateOutOfTen('Piazza di Spagna',1).
+tourismRateOutOfTen('Basilica Papale di Santa Maria Maggiore',6).
 tourismRateOutOfTen('Roman Forum',10).
 tourismRateOutOfTen('Basilica of San Pietro in Vincoli',1).
-tourismRateOutOfTen('Palazzo Massimo alle Terme',9).
-tourismRateOutOfTen('Monument to Victor Emmanuel II',3).
-tourismRateOutOfTen('Campidoglio',3).
-tourismRateOutOfTen('Mercati di Traiano Museo dei Fori Imperiali',1).
-tourismRateOutOfTen('Equestrian Statue of Marcus Aurelius',7).
-tourismRateOutOfTen('Convento dei Frati Cappuccini',3).
-tourismRateOutOfTen('Quirinal Palace',4).
-tourismRateOutOfTen('Basilica di San Clemente',8).
-tourismRateOutOfTen('Chiesa di Sant  Ignazio di Loyola',2).
-tourismRateOutOfTen('Chiesa del Gesu',7).
-tourismRateOutOfTen('Piazza Barberini',1).
-tourismRateOutOfTen('Palazzo delle Esposizioni',6).
-tourismRateOutOfTen('Basilica di Santa Maria in Ara coeli',5).
-tourismRateOutOfTen('Palazzo Montecitorio',5).
-tourismRateOutOfTen('Domus Aurea',5).
-tourismRateOutOfTen('National Gallery of Ancient Art in Barberini Palace',5).
-tourismRateOutOfTen('Doria Pamphili Gallery',5).
-tourismRateOutOfTen('Piazza Venezia',7).
-tourismRateOutOfTen('Pantheon',2).
-tourismRateOutOfTen('Basilica of Saint Mary of Minerva',3).
-tourismRateOutOfTen('Santa Maria degli Angeli e dei Martiri',3).
-tourismRateOutOfTen('Parrocchia Santa Maria Maggiore',1).
-tourismRateOutOfTen('Mamertine Prison',6).
-tourismRateOutOfTen('Mose di Michelangelo',9).
-tourismRateOutOfTen('Capanne di Romolo',8).
-tourismRateOutOfTen('Basilica San Silvestro in Capite',5).
-tourismRateOutOfTen('Basilica del Sacro Cuore di Gesu',5).
-tourismRateOutOfTen('Largo di Torre Argentina',2).
-tourismRateOutOfTen('Chiesa di Santa Maria ai Monti',1).
+tourismRateOutOfTen('Palazzo Massimo alle Terme',6).
+tourismRateOutOfTen('Monument to Victor Emmanuel II',1).
+tourismRateOutOfTen('Campidoglio',10).
+tourismRateOutOfTen('Mercati di Traiano Museo dei Fori Imperiali',7).
+tourismRateOutOfTen('Equestrian Statue of Marcus Aurelius',2).
+tourismRateOutOfTen('Convento dei Frati Cappuccini',8).
+tourismRateOutOfTen('Quirinal Palace',2).
+tourismRateOutOfTen('Basilica di San Clemente',2).
+tourismRateOutOfTen('Chiesa di Sant  Ignazio di Loyola',7).
+tourismRateOutOfTen('Chiesa del Gesu',2).
+tourismRateOutOfTen('Piazza Barberini',8).
+tourismRateOutOfTen('Palazzo delle Esposizioni',3).
+tourismRateOutOfTen('Basilica di Santa Maria in Ara coeli',1).
+tourismRateOutOfTen('Palazzo Montecitorio',3).
+tourismRateOutOfTen('Domus Aurea',9).
+tourismRateOutOfTen('National Gallery of Ancient Art in Barberini Palace',6).
+tourismRateOutOfTen('Doria Pamphili Gallery',9).
+tourismRateOutOfTen('Piazza Venezia',1).
+tourismRateOutOfTen('Pantheon',10).
+tourismRateOutOfTen('Basilica of Saint Mary of Minerva',1).
+tourismRateOutOfTen('Santa Maria degli Angeli e dei Martiri',6).
+tourismRateOutOfTen('Parrocchia Santa Maria Maggiore',5).
+tourismRateOutOfTen('Mamertine Prison',1).
+tourismRateOutOfTen('Mose di Michelangelo',2).
+tourismRateOutOfTen('Capanne di Romolo',3).
+tourismRateOutOfTen('Basilica San Silvestro in Capite',7).
+tourismRateOutOfTen('Basilica del Sacro Cuore di Gesu',9).
+tourismRateOutOfTen('Largo di Torre Argentina',8).
+tourismRateOutOfTen('Chiesa di Santa Maria ai Monti',6).
 tourismRateOutOfTen('Basilica of St Mark Evangelist at Campidoglio',6).
-tourismRateOutOfTen('St. Paul s Within the Walls',1).
+tourismRateOutOfTen('St. Paul s Within the Walls',6).
 tourismRateOutOfTen('Septimius Severus Arch',5).
-tourismRateOutOfTen('Palazzo Sciarra Colonna Carbognano',4).
-tourismRateOutOfTen('The Keats - Shelley House',8).
-tourismRateOutOfTen('Basilica Ulpia',2).
+tourismRateOutOfTen('Palazzo Sciarra Colonna Carbognano',3).
+tourismRateOutOfTen('The Keats - Shelley House',1).
+tourismRateOutOfTen('Basilica Ulpia',6).
 tourismRateOutOfTen('Temple of Vesta',9).
-tourismRateOutOfTen('Chiesa San Marcello al Corso',9).
-tourismRateOutOfTen('San Stanislao alle Botteghe Oscure',2).
+tourismRateOutOfTen('Chiesa San Marcello al Corso',1).
+tourismRateOutOfTen('San Stanislao alle Botteghe Oscure',4).
 tourismRateOutOfTen('Column of Phocas',2).
-tourismRateOutOfTen('Antoninus and Faustina Temple',2).
-tourismRateOutOfTen('Marcello Theater',9).
-tourismRateOutOfTen('Chiesa di Santa Maria in Portico in Campitelli',4).
+tourismRateOutOfTen('Antoninus and Faustina Temple',7).
+tourismRateOutOfTen('Marcello Theater',7).
+tourismRateOutOfTen('Chiesa di Santa Maria in Portico in Campitelli',8).
 tourismRateOutOfTen('The Church of Santa Maria della Vittoria',1).
-tourismRateOutOfTen('The Last Judgment',5).
-tourismRateOutOfTen('Chiesa di Santo Stefano degli Abissini',1).
-tourismRateOutOfTen('Fontana di Piazza Farnese',7).
-tourismRateOutOfTen('Villa Abamelek',3).
-tourismRateOutOfTen('Palazzo Torres',7).
+tourismRateOutOfTen('The Last Judgment',6).
+tourismRateOutOfTen('Chiesa di Santo Stefano degli Abissini',9).
+tourismRateOutOfTen('Fontana di Piazza Farnese',3).
+tourismRateOutOfTen('Villa Abamelek',5).
+tourismRateOutOfTen('Palazzo Torres',8).
 tourismRateOutOfTen('Castel Sant Angelo',8).
 tourismRateOutOfTen('Vidoni Palace',1).
 tourismRateOutOfTen('Vatican Museums',10).
-tourismRateOutOfTen('Fontana di Piazza Nicosia',4).
+tourismRateOutOfTen('Fontana di Piazza Nicosia',1).
 tourismRateOutOfTen('St. Peter s Basilica',10).
-tourismRateOutOfTen('Church Holy Spirit in Sassia',7).
-tourismRateOutOfTen('Parrocchia Santuario Santa Maria in Traspontina',1).
-tourismRateOutOfTen('Gardens of Vatican City',9).
-tourismRateOutOfTen('Fiumi Fountain',6).
-tourismRateOutOfTen('Sistine Chapel',9).
-tourismRateOutOfTen('Villa Farnesina',7).
-tourismRateOutOfTen('Church of St. Louis of the French',3).
-tourismRateOutOfTen('Palazzo Madama',8).
-tourismRateOutOfTen('Galleria Spada',7).
-tourismRateOutOfTen('St. Angelo Bridge',1).
-tourismRateOutOfTen('Palazzo Farnese',5).
-tourismRateOutOfTen('Sant Agnese in Agone',3).
-tourismRateOutOfTen('Botanical Garden of Rome',2).
-tourismRateOutOfTen('Chiesa di Santa Maria della Pace',4).
-tourismRateOutOfTen('Obelisco Agonale',4).
-tourismRateOutOfTen('Basilica of Santa Maria in Trastevere',4).
-tourismRateOutOfTen('Church of St Onuphrius at the Janiculum',8).
-tourismRateOutOfTen('Biblioteca Angelica',9).
+tourismRateOutOfTen('Church Holy Spirit in Sassia',5).
+tourismRateOutOfTen('Parrocchia Santuario Santa Maria in Traspontina',7).
+tourismRateOutOfTen('Gardens of Vatican City',8).
+tourismRateOutOfTen('Fiumi Fountain',3).
+tourismRateOutOfTen('Sistine Chapel',1).
+tourismRateOutOfTen('Villa Farnesina',6).
+tourismRateOutOfTen('Church of St. Louis of the French',5).
+tourismRateOutOfTen('Palazzo Madama',6).
+tourismRateOutOfTen('Galleria Spada',3).
+tourismRateOutOfTen('St. Angelo Bridge',4).
+tourismRateOutOfTen('Palazzo Farnese',6).
+tourismRateOutOfTen('Sant Agnese in Agone',6).
+tourismRateOutOfTen('Botanical Garden of Rome',6).
+tourismRateOutOfTen('Chiesa di Santa Maria della Pace',3).
+tourismRateOutOfTen('Obelisco Agonale',1).
+tourismRateOutOfTen('Basilica of Santa Maria in Trastevere',8).
+tourismRateOutOfTen('Church of St Onuphrius at the Janiculum',1).
+tourismRateOutOfTen('Biblioteca Angelica',4).
 tourismRateOutOfTen('Campo de  Fiori',8).
 tourismRateOutOfTen('Piazza Navona',10).
-tourismRateOutOfTen('Corte Suprema di Cassazione',4).
+tourismRateOutOfTen('Corte Suprema di Cassazione',5).
 tourismRateOutOfTen('Museo di Roma - Palazzo Braschi',3).
-tourismRateOutOfTen('Parrocchia Santa Maria in Vallicella',9).
-tourismRateOutOfTen('Chiesa di San Pietro in Montorio',5).
+tourismRateOutOfTen('Parrocchia Santa Maria in Vallicella',10).
+tourismRateOutOfTen('Chiesa di San Pietro in Montorio',6).
 tourismRateOutOfTen('Saint Eligio of Orefici',1).
-tourismRateOutOfTen('Palazzo del Commendatore',1).
-tourismRateOutOfTen('Porta Santo Spirito',8).
-tourismRateOutOfTen('Bernini Fountain',9).
+tourismRateOutOfTen('Palazzo del Commendatore',9).
+tourismRateOutOfTen('Porta Santo Spirito',9).
+tourismRateOutOfTen('Bernini Fountain',8).
 tourismRateOutOfTen('Presepe dei Netturbini',7).
-tourismRateOutOfTen('Church of Saints Michael and Magnus',8).
-tourismRateOutOfTen('Museum Leonardo Da Vinci Experience',5).
-tourismRateOutOfTen('Vatican Necropolis',4).
-tourismRateOutOfTen('Apostolic Palace',3).
-tourismRateOutOfTen('Ponte Vittorio Emanuele II',4).
-tourismRateOutOfTen('Chiesa di Sant Anna dei Palafrenieri',4).
-tourismRateOutOfTen('Operativa Arte Contemporanea',2).
+tourismRateOutOfTen('Church of Saints Michael and Magnus',4).
+tourismRateOutOfTen('Museum Leonardo Da Vinci Experience',1).
+tourismRateOutOfTen('Vatican Necropolis',3).
+tourismRateOutOfTen('Apostolic Palace',5).
+tourismRateOutOfTen('Ponte Vittorio Emanuele II',9).
+tourismRateOutOfTen('Chiesa di Sant Anna dei Palafrenieri',1).
+tourismRateOutOfTen('Operativa Arte Contemporanea',4).
 tourismRateOutOfTen('Santa Maria del Suffragio',1).
-tourismRateOutOfTen('Vatican Apostolic Archive',5).
-tourismRateOutOfTen('Carriage Pavilion',1).
+tourismRateOutOfTen('Vatican Apostolic Archive',1).
+tourismRateOutOfTen('Carriage Pavilion',9).
 tourismRateOutOfTen('Monastero Mater Ecclesi',5).
-tourismRateOutOfTen('Oratorio dei Filippini (Oratory of St Philip Neri)',3).
-tourismRateOutOfTen('House of Hospitality Paul VI',2).
-tourismRateOutOfTen('Chiesa di Santa Maria del Rosario in Prati',8).
-tourismRateOutOfTen('Welcome To Rome',4).
-tourismRateOutOfTen('Stadium of Domitian',9).
-tourismRateOutOfTen('Palazzo Pamphili',4).
-tourismRateOutOfTen('Fountain of the Moro',6).
-tourismRateOutOfTen('Cappella Chigi',6).
-tourismRateOutOfTen('Chiesa di Gesu e Maria',8).
-tourismRateOutOfTen('Villa Borghese',3).
-tourismRateOutOfTen('Passeggiata del Pincio',2).
-tourismRateOutOfTen('Borghese Gallery and Museum',4).
-tourismRateOutOfTen('National Gallery of Modern and Contemporary Art',8).
-tourismRateOutOfTen('Mausoleum of Augustus',5).
-tourismRateOutOfTen('Chiesa Parrocchiale San Giacomo in Augusta',4).
-tourismRateOutOfTen('Villa Medici',7).
-tourismRateOutOfTen('Basilica of Saint Lawrence in Lucina',4).
+tourismRateOutOfTen('Oratorio dei Filippini (Oratory of St Philip Neri)',1).
+tourismRateOutOfTen('House of Hospitality Paul VI',8).
+tourismRateOutOfTen('Chiesa di Santa Maria del Rosario in Prati',3).
+tourismRateOutOfTen('Welcome To Rome',10).
+tourismRateOutOfTen('Stadium of Domitian',3).
+tourismRateOutOfTen('Palazzo Pamphili',1).
+tourismRateOutOfTen('Fountain of the Moro',1).
+tourismRateOutOfTen('Cappella Chigi',2).
+tourismRateOutOfTen('Chiesa di Gesu e Maria',2).
+tourismRateOutOfTen('Villa Borghese',4).
+tourismRateOutOfTen('Passeggiata del Pincio',3).
+tourismRateOutOfTen('Borghese Gallery and Museum',3).
+tourismRateOutOfTen('National Gallery of Modern and Contemporary Art',5).
+tourismRateOutOfTen('Mausoleum of Augustus',10).
+tourismRateOutOfTen('Chiesa Parrocchiale San Giacomo in Augusta',8).
+tourismRateOutOfTen('Villa Medici',3).
+tourismRateOutOfTen('Basilica of Saint Lawrence in Lucina',1).
 tourismRateOutOfTen('Basilica of SS. Ambrose and Charles on the Corso',7).
-tourismRateOutOfTen('Giorgio de Chirico House Museum',1).
-tourismRateOutOfTen('Santa Maria in Montesanto',8).
-tourismRateOutOfTen('Fontana della Barcaccia',3).
-tourismRateOutOfTen('Museo Leonardo da Vinci',3).
-tourismRateOutOfTen('Explora - Il Museo dei Bambini di Roma',8).
-tourismRateOutOfTen('Orologio ad acqua del Pincio',3).
-tourismRateOutOfTen('Ponte Giacomo Matteotti',9).
-tourismRateOutOfTen('National Etruscan Museum of Villa Giulia',1).
-tourismRateOutOfTen('Fontana del Babuino',4).
-tourismRateOutOfTen('Fontana del Bottino',9).
-tourismRateOutOfTen('Trinita dei Monti',1).
-tourismRateOutOfTen('Galleria del Cembalo',9).
-tourismRateOutOfTen('Chiesa di Santa Maria in Via',5).
-tourismRateOutOfTen('Palazzo di Propaganda Fide',8).
-tourismRateOutOfTen('Basilica di Sant Andrea delle Fratte',1).
-tourismRateOutOfTen('Piazza del Popolo',4).
-tourismRateOutOfTen('Marcus Aurelius Column',6).
-tourismRateOutOfTen('Piazza di Siena',7).
-tourismRateOutOfTen('All Saints  Anglican Church Rome',2).
-tourismRateOutOfTen('Church of Saint Roch  all Augusteo ',4).
-tourismRateOutOfTen('Church of Our Lady in Trivio',8).
-tourismRateOutOfTen('Il Tempio di Adriano',8).
-tourismRateOutOfTen('Museo Civico di Zoologia',4).
-tourismRateOutOfTen('Basilica of St. Augustine in Campo Marzio',7).
-tourismRateOutOfTen('Hendrik Christian Anderson Museum',3).
-tourismRateOutOfTen('Goethe House',3).
-tourismRateOutOfTen('Institute of Japanese Culture',5).
-tourismRateOutOfTen('Villa Balestra',3).
-tourismRateOutOfTen('Palazzo Borghese',7).
-tourismRateOutOfTen('National Academy of San Luca',4).
-tourismRateOutOfTen('Museo Carlo Bilotti',5).
-tourismRateOutOfTen('Palazzo Wedekind',8).
-tourismRateOutOfTen('Cloaca Maxima',8).
-tourismRateOutOfTen('Temple of Apollo Palatinus',5).
-tourismRateOutOfTen('Circus Maximus',8).
-tourismRateOutOfTen('Mouth of Truth',7).
-tourismRateOutOfTen('Basilica di Santa Sabina all Aventino',6).
+tourismRateOutOfTen('Giorgio de Chirico House Museum',3).
+tourismRateOutOfTen('Santa Maria in Montesanto',4).
+tourismRateOutOfTen('Fontana della Barcaccia',1).
+tourismRateOutOfTen('Museo Leonardo da Vinci',5).
+tourismRateOutOfTen('Explora - Il Museo dei Bambini di Roma',7).
+tourismRateOutOfTen('Orologio ad acqua del Pincio',9).
+tourismRateOutOfTen('Ponte Giacomo Matteotti',1).
+tourismRateOutOfTen('National Etruscan Museum of Villa Giulia',8).
+tourismRateOutOfTen('Fontana del Babuino',3).
+tourismRateOutOfTen('Fontana del Bottino',7).
+tourismRateOutOfTen('Trinita dei Monti',9).
+tourismRateOutOfTen('Galleria del Cembalo',5).
+tourismRateOutOfTen('Chiesa di Santa Maria in Via',4).
+tourismRateOutOfTen('Palazzo di Propaganda Fide',7).
+tourismRateOutOfTen('Basilica di Sant Andrea delle Fratte',7).
+tourismRateOutOfTen('Piazza del Popolo',3).
+tourismRateOutOfTen('Marcus Aurelius Column',4).
+tourismRateOutOfTen('Piazza di Siena',8).
+tourismRateOutOfTen('All Saints  Anglican Church Rome',6).
+tourismRateOutOfTen('Church of Saint Roch  all Augusteo ',8).
+tourismRateOutOfTen('Church of Our Lady in Trivio',4).
+tourismRateOutOfTen('Il Tempio di Adriano',1).
+tourismRateOutOfTen('Museo Civico di Zoologia',9).
+tourismRateOutOfTen('Basilica of St. Augustine in Campo Marzio',5).
+tourismRateOutOfTen('Hendrik Christian Anderson Museum',8).
+tourismRateOutOfTen('Goethe House',5).
+tourismRateOutOfTen('Institute of Japanese Culture',8).
+tourismRateOutOfTen('Villa Balestra',9).
+tourismRateOutOfTen('Palazzo Borghese',8).
+tourismRateOutOfTen('National Academy of San Luca',6).
+tourismRateOutOfTen('Museo Carlo Bilotti',2).
+tourismRateOutOfTen('Palazzo Wedekind',1).
+tourismRateOutOfTen('Cloaca Maxima',10).
+tourismRateOutOfTen('Temple of Apollo Palatinus',7).
+tourismRateOutOfTen('Circus Maximus',9).
+tourismRateOutOfTen('Mouth of Truth',1).
+tourismRateOutOfTen('Basilica di Santa Sabina all Aventino',8).
 tourismRateOutOfTen('Santa Maria in Cosmedin',1).
-tourismRateOutOfTen('Non-Catholic Cemetery',4).
-tourismRateOutOfTen('Basilica Santa Cecilia in Trastevere',1).
-tourismRateOutOfTen('Mattatoio',2).
-tourismRateOutOfTen('Pyramid of Caius Cestius',8).
+tourismRateOutOfTen('Non-Catholic Cemetery',9).
+tourismRateOutOfTen('Basilica Santa Cecilia in Trastevere',4).
+tourismRateOutOfTen('Mattatoio',4).
+tourismRateOutOfTen('Pyramid of Caius Cestius',5).
 tourismRateOutOfTen('Turtle Fountain',4).
-tourismRateOutOfTen('Basilica di San Bartolomeo all Isola',7).
-tourismRateOutOfTen('Chiesa di Santa Prisca',2).
-tourismRateOutOfTen('Tempio Maggiore di Roma',6).
-tourismRateOutOfTen('Portico of Octavia',4).
-tourismRateOutOfTen('Basilica Santi Giovanni e Paolo',1).
+tourismRateOutOfTen('Basilica di San Bartolomeo all Isola',3).
+tourismRateOutOfTen('Chiesa di Santa Prisca',3).
+tourismRateOutOfTen('Tempio Maggiore di Roma',9).
+tourismRateOutOfTen('Portico of Octavia',7).
+tourismRateOutOfTen('Basilica Santi Giovanni e Paolo',5).
