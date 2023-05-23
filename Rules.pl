@@ -69,3 +69,23 @@ normalizeSurface(Surface, NormSurface) :-
 
 normalizeHeight(Height, NormHeight) :-
     NormHeight is Height / 20.
+
+calculateTourismPriority(PoiName, TourismPriority) :-
+    rating(PoiName, Rating),
+    (popular(PoiName) ->
+        PopularWeight = 0.7;
+        PopularWeight = 0),
+    (closeToCityCentre(PoiName) ->
+        CloseToCityCentreWeight = 0.3;
+        CloseToCityCentreWeight = 0),
+    calculateTourismRateOutOfTen(PoiName, TourismRateOutOfTen),
+    (ancient(PoiName) ->
+        AncientWeight = 0.2;
+        AncientWeight = 0),
+    (impressive(PoiName) ->
+        ImpressiveWeight = 0.3;
+        ImpressiveWeight = 0),
+    calculateDensity(PoiName, Density),
+    NormalizedDensity is (Density - 1138) / (2846 - 1138),
+    DensityWeight = 0.6 * NormalizedDensity,
+    TourismPriority is Rating / 2 + PopularWeight + CloseToCityCentreWeight + TourismRateOutOfTen * 0.05 + AncientWeight + ImpressiveWeight + DensityWeight.

@@ -40,6 +40,8 @@ Cheap feature created correctly.
 
 TimeToVisit feature created correctly.
 
+TourismPriority feature created correctly.
+
 Place id: ChIJ6RRKjbRhLxMRKHHdS4QvkK4
 Name: Il Tempio dei Dioscuri
 Address: Rome
@@ -67,7 +69,7 @@ Price: 0
 Cheap: True
 Density: 1513
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 3.0
 
 Place id: ChIJM2qBt7RhLxMRBvo4dDqpXpw
 Name: Basilica Julia
@@ -96,7 +98,7 @@ Price: 0
 Cheap: True
 Density: 1469
 timeToVisit: 15
-tourismPriority: None
+tourismPriority: 2.7
 
 Place id: ChIJF_bCxathLxMRS4-5fHPJuAQ
 Name: Fountain of the Bees
@@ -125,7 +127,7 @@ Price: 0
 Cheap: True
 Density: 1514
 timeToVisit: 18
-tourismPriority: None
+tourismPriority: 2.6
 
 Place id: ChIJJ540e7dhLxMR05OTuWWdXow
 Name: Ludus Magnus
@@ -154,7 +156,7 @@ Price: 0
 Cheap: True
 Density: 2039
 timeToVisit: 35
-tourismPriority: None
+tourismPriority: 3.2
 
 Place id: ChIJjUhGK1VgLxMRbrvPHT8eqj4
 Name: Palazzetto Zuccari
@@ -183,7 +185,7 @@ Price: 0
 Cheap: True
 Density: 1374
 timeToVisit: 13
-tourismPriority: None
+tourismPriority: 2.6
 
 Place id: ChIJi9yyY6hhLxMRVNyx8X7arwA
 Name: Fontana del Mose
@@ -212,7 +214,7 @@ Price: 8
 Cheap: True
 Density: 1830
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 2.8
 
 Place id: ChIJnY3wKJhhLxMRnTjd-I90d-U
 Name: Chiesa di Santa Bibiana
@@ -241,7 +243,7 @@ Price: 0
 Cheap: True
 Density: 2846
 timeToVisit: 23
-tourismPriority: None
+tourismPriority: 3.7
 
 Place id: ChIJda54FlRgLxMRxStWVvnYaBA
 Name: Santissima Trinita degli Spagnoli
@@ -270,7 +272,7 @@ Price: 0
 Cheap: True
 Density: 1247
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 3.1
 
 Place id: ChIJrRMgU7ZhLxMRxAOFkC7I8Sg
 Name: Colosseum
@@ -299,7 +301,7 @@ Price: 16
 Cheap: False
 Density: 1885
 timeToVisit: 60
-tourismPriority: None
+tourismPriority: 4.3
 
 Place id: ChIJ1UCDJ1NgLxMRtrsCzOHxdvY
 Name: Trevi Fountain
@@ -328,7 +330,7 @@ Price: 0
 Cheap: True
 Density: 1225
 timeToVisit: 60
-tourismPriority: None
+tourismPriority: 3.9
 
 Place id: ChIJ8-wGeU9gLxMR--zJtnpGod4
 Name: Capitoline Museums
@@ -357,7 +359,7 @@ Price: 0
 Cheap: True
 Density: 1364
 timeToVisit: 25
-tourismPriority: None
+tourismPriority: 3.5
 
 Place id: ChIJn8yMY7ZhLxMRoGckLEOtWZU
 Name: Arch of Constantine
@@ -386,7 +388,7 @@ Price: 8
 Cheap: True
 Density: 1832
 timeToVisit: 15
-tourismPriority: None
+tourismPriority: 3.3
 
 Place id: ChIJd0eH3VFgLxMR59ZuxPeRwDE
 Name: Obelisco del Pantheon
@@ -415,7 +417,7 @@ Price: 9
 Cheap: True
 Density: 1138
 timeToVisit: 26
-tourismPriority: None
+tourismPriority: 3.9
 
 Place id: ChIJ4_TEG1VgLxMROFkd29jWdug
 Name: Piazza di Spagna
@@ -444,7 +446,7 @@ Price: 0
 Cheap: True
 Density: 1336
 timeToVisit: 11
-tourismPriority: None
+tourismPriority: 3.4
 
 Place id: ChIJ1zB926RhLxMRejWMj_tUs_c
 Name: Basilica Papale di Santa Maria Maggiore
@@ -473,7 +475,7 @@ Price: 10
 Cheap: False
 Density: 2020
 timeToVisit: 33
-tourismPriority: None
+tourismPriority: 4.2
 
 Place id: ChIJ782pg7NhLxMR5n3swAdAkfo
 Name: Roman Forum
@@ -502,7 +504,7 @@ Price: 16
 Cheap: False
 Density: 1460
 timeToVisit: 60
-tourismPriority: None
+tourismPriority: 4.2
 
 Place id: ChIJ9TEpHrFhLxMRMNSr5HbcOzI
 Name: Basilica of San Pietro in Vincoli
@@ -531,7 +533,7 @@ Price: 0
 Cheap: True
 Density: 1763
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 3.3
 
 Place id: ChIJ18PTgaZhLxMRvINaLw9AZ2w
 Name: Palazzo Massimo alle Terme
@@ -560,7 +562,7 @@ Price: 0
 Cheap: True
 Density: 2010
 timeToVisit: 23
-tourismPriority: None
+tourismPriority: 3.8
 
 Place id: ChIJ412AG01gLxMR4T-4pwdIFSE
 Name: Monument to Victor Emmanuel II
@@ -589,7 +591,7 @@ Price: 12
 Cheap: False
 Density: 1303
 timeToVisit: 20
-tourismPriority: None
+tourismPriority: 3.7
 
 Place id: ChIJOclom0xgLxMRURy9OLL7Hg4
 Name: Campidoglio
@@ -618,7 +620,7 @@ Price: 8
 Cheap: True
 Density: 1348
 timeToVisit: 27
-tourismPriority: None
+tourismPriority: 4.1
 
 Place id: ChIJYevd8bJhLxMRvaa0jU2aqLE
 Name: Mercati di Traiano Museo dei Fori Imperiali
@@ -647,7 +649,7 @@ Price: 6
 Cheap: True
 Density: 1372
 timeToVisit: 34
-tourismPriority: None
+tourismPriority: 3.9
 
 Place id: ChIJ8fvgXktgLxMROOqha2fxbkg
 Name: Equestrian Statue of Marcus Aurelius
@@ -676,7 +678,7 @@ Price: 0
 Cheap: True
 Density: 1352
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 2.7
 
 Place id: ChIJhURtyqthLxMRQXDqNoUFSkM
 Name: Convento dei Frati Cappuccini
@@ -705,7 +707,7 @@ Price: 0
 Cheap: True
 Density: 1517
 timeToVisit: 25
-tourismPriority: None
+tourismPriority: 2.6
 
 Place id: ChIJEZYsp61hLxMRjFL7eK0va78
 Name: Quirinal Palace
@@ -734,7 +736,7 @@ Price: 9
 Cheap: True
 Density: 1343
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 3.4
 
 Place id: ChIJ6V1-TbhhLxMRUbEhbeY44Zc
 Name: Basilica di San Clemente
@@ -763,7 +765,7 @@ Price: 6
 Cheap: True
 Density: 2238
 timeToVisit: 14
-tourismPriority: None
+tourismPriority: 3.7
 
 Place id: ChIJzeDkbVJgLxMRf9wy9vdWbgw
 Name: Chiesa di Sant  Ignazio di Loyola
@@ -792,7 +794,7 @@ Price: 0
 Cheap: True
 Density: 1152
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 4.0
 
 Place id: ChIJK1-CN0xgLxMRZukH0_lPL70
 Name: Chiesa del Gesu
@@ -821,7 +823,7 @@ Price: 6
 Cheap: True
 Density: 1206
 timeToVisit: 21
-tourismPriority: None
+tourismPriority: 3.7
 
 Place id: ChIJOfR_6athLxMRe5WMm35eHgc
 Name: Piazza Barberini
@@ -850,7 +852,7 @@ Price: 7
 Cheap: True
 Density: 1492
 timeToVisit: 35
-tourismPriority: None
+tourismPriority: 4.0
 
 Place id: ChIJbxxhZa5hLxMRRjFLUna6Ylk
 Name: Palazzo delle Esposizioni
@@ -879,7 +881,7 @@ Price: 0
 Cheap: True
 Density: 1504
 timeToVisit: 18
-tourismPriority: None
+tourismPriority: 3.2
 
 Place id: ChIJOclom0xgLxMRewulHSml3Vw
 Name: Basilica di Santa Maria in Ara coeli
@@ -908,7 +910,7 @@ Price: 0
 Cheap: True
 Density: 1343
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 3.4
 
 Place id: ChIJC9NzLFJgLxMRgfEuylx5Gu8
 Name: Palazzo Montecitorio
@@ -937,7 +939,7 @@ Price: 12
 Cheap: False
 Density: 1156
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 2.9
 
 Place id: ChIJp-3oaLdhLxMRS_bYIp1GB8w
 Name: Domus Aurea
@@ -966,7 +968,7 @@ Price: 0
 Cheap: True
 Density: 2050
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 3.8
 
 Place id: ChIJk7HQeqlhLxMRwIY3JsnfdjU
 Name: National Gallery of Ancient Art in Barberini Palace
@@ -995,7 +997,7 @@ Price: 9
 Cheap: True
 Density: 1536
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 3.6
 
 Place id: ChIJF0obe01gLxMR0JJHtlD0kMY
 Name: Doria Pamphili Gallery
@@ -1024,7 +1026,7 @@ Price: 0
 Cheap: True
 Density: 1186
 timeToVisit: 30
-tourismPriority: None
+tourismPriority: 3.8
 
 Place id: ChIJr3gt3ExgLxMRYaivihEa9K0
 Name: Piazza Venezia
@@ -1053,7 +1055,7 @@ Price: 9
 Cheap: True
 Density: 1253
 timeToVisit: 18
-tourismPriority: None
+tourismPriority: 3.3
 
 Place id: ChIJqUCGZ09gLxMRLM42IPpl0co
 Name: Pantheon
@@ -1082,7 +1084,7 @@ Price: 0
 Cheap: True
 Density: 1142
 timeToVisit: 60
-tourismPriority: None
+tourismPriority: 4.4
 
 Place id: ChIJU-kfDE5gLxMR1LRHd9Rfx04
 Name: Basilica of Saint Mary of Minerva
@@ -1111,7 +1113,7 @@ Price: 5
 Cheap: True
 Density: 1149
 timeToVisit: 29
-tourismPriority: None
+tourismPriority: 3.9
 
 Place id: ChIJSfQGGqZhLxMRMAy6MdWbTrA
 Name: Santa Maria degli Angeli e dei Martiri
@@ -1140,7 +1142,7 @@ Price: 11
 Cheap: False
 Density: 1954
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 3.8
 
 Place id: ChIJ1zB926RhLxMRbB4WoenMwOc
 Name: Parrocchia Santa Maria Maggiore
@@ -1169,7 +1171,7 @@ Price: 0
 Cheap: True
 Density: 2260
 timeToVisit: 29
-tourismPriority: None
+tourismPriority: 3.1
 
 Place id: ChIJhT_oa7NhLxMRfVMoVD43UJo
 Name: Mamertine Prison
@@ -1198,7 +1200,7 @@ Price: 0
 Cheap: True
 Density: 1395
 timeToVisit: 10
-tourismPriority: None
+tourismPriority: 2.0
 
 Place id: ChIJTzIpHrFhLxMR70pMGA-3MNQ
 Name: Mose di Michelangelo
@@ -1227,7 +1229,7 @@ Price: 0
 Cheap: True
 Density: 1749
 timeToVisit: 20
-tourismPriority: None
+tourismPriority: 3.5
 
 Place id: ChIJ782pg7NhLxMR_tYhslDn5Rc
 Name: Capanne di Romolo
@@ -1256,7 +1258,7 @@ Price: 0
 Cheap: True
 Density: 1657
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 2.6
 
 Place id: ChIJoc4Mg1NgLxMRy-lfNWgHdTw
 Name: Basilica San Silvestro in Capite
@@ -1285,7 +1287,7 @@ Price: 5
 Cheap: True
 Density: 1206
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 2.9
 
 Place id: ChIJNwyWP6FhLxMRh_kyLyxcnes
 Name: Basilica del Sacro Cuore di Gesu
@@ -1314,7 +1316,7 @@ Price: 0
 Cheap: True
 Density: 2320
 timeToVisit: 27
-tourismPriority: None
+tourismPriority: 3.2
 
 Place id: ChIJQ_PWjE5gLxMRzwPbBqolerU
 Name: Largo di Torre Argentina
@@ -1343,7 +1345,7 @@ Price: 0
 Cheap: True
 Density: 1220
 timeToVisit: 34
-tourismPriority: None
+tourismPriority: 4.2
 
 Place id: ChIJSaNEcbFhLxMRTPvGZ7sTDnM
 Name: Chiesa di Santa Maria ai Monti
@@ -1372,7 +1374,7 @@ Price: 10
 Cheap: False
 Density: 1605
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 3.0
 
 Place id: ChIJZbXD4kxgLxMRi_2_fAZuZkI
 Name: Basilica of St Mark Evangelist at Campidoglio
@@ -1401,7 +1403,7 @@ Price: 0
 Cheap: True
 Density: 1232
 timeToVisit: 27
-tourismPriority: None
+tourismPriority: 2.9
 
 Place id: ChIJ30sLQa9hLxMRMS8C0CtjqT0
 Name: St. Paul s Within the Walls
@@ -1430,7 +1432,7 @@ Price: 10
 Cheap: False
 Density: 1743
 timeToVisit: 27
-tourismPriority: None
+tourismPriority: 4.0
 
 Place id: ChIJBxt8qLRhLxMRhbiuqmVhI0I
 Name: Septimius Severus Arch
@@ -1459,7 +1461,7 @@ Price: 12
 Cheap: False
 Density: 1420
 timeToVisit: 26
-tourismPriority: None
+tourismPriority: 2.9
 
 Place id: ChIJnxXLilJgLxMRiieJjyBd86c
 Name: Palazzo Sciarra Colonna Carbognano
@@ -1488,7 +1490,7 @@ Price: 0
 Cheap: True
 Density: 1169
 timeToVisit: 29
-tourismPriority: None
+tourismPriority: 3.3
 
 Place id: ChIJXzcJH1VgLxMRoomAAmC-PuM
 Name: The Keats - Shelley House
@@ -1517,7 +1519,7 @@ Price: 9
 Cheap: True
 Density: 1343
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 2.4
 
 Place id: ChIJnyYXKLNhLxMRqlZ0PIvr7-4
 Name: Basilica Ulpia
@@ -1546,7 +1548,7 @@ Price: 0
 Cheap: True
 Density: 1314
 timeToVisit: 21
-tourismPriority: None
+tourismPriority: 2.6
 
 Place id: ChIJ6wDBX7RhLxMRoPSsr-r1FhQ
 Name: Temple of Vesta
@@ -1575,7 +1577,7 @@ Price: 0
 Cheap: True
 Density: 1531
 timeToVisit: 20
-tourismPriority: None
+tourismPriority: 3.1
 
 Place id: ChIJF-pEgVJgLxMR1EQ7fh-OH2U
 Name: Chiesa San Marcello al Corso
@@ -1604,7 +1606,7 @@ Price: 8
 Cheap: True
 Density: 1181
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 3.6
 
 Place id: ChIJvT7ZFUxgLxMRzqyc6ybolT4
 Name: San Stanislao alle Botteghe Oscure
@@ -1633,7 +1635,7 @@ Price: 0
 Cheap: True
 Density: 1240
 timeToVisit: 18
-tourismPriority: None
+tourismPriority: 2.5
 
 Place id: ChIJibQilrRhLxMRuIdk3El5H7w
 Name: Column of Phocas
@@ -1662,7 +1664,7 @@ Price: 5
 Cheap: True
 Density: 1445
 timeToVisit: 14
-tourismPriority: None
+tourismPriority: 2.7
 
 Place id: ChIJqRSsibRhLxMRZsvnYX4PlkY
 Name: Antoninus and Faustina Temple
@@ -1691,7 +1693,7 @@ Price: 0
 Cheap: True
 Density: 1525
 timeToVisit: 20
-tourismPriority: None
+tourismPriority: 3.0
 
 Place id: ChIJp3-BzEtgLxMRMyxlHO3Qw3Y
 Name: Marcello Theater
@@ -1720,7 +1722,7 @@ Price: 0
 Cheap: True
 Density: 1391
 timeToVisit: 23
-tourismPriority: None
+tourismPriority: 3.6
 
 Place id: ChIJSTrt8ktgLxMRJNAT-SobsKk
 Name: Chiesa di Santa Maria in Portico in Campitelli
@@ -1749,7 +1751,7 @@ Price: 12
 Cheap: False
 Density: 1323
 timeToVisit: 23
-tourismPriority: None
+tourismPriority: 2.8
 
 Place id: ChIJVbqwYKhhLxMRSAkyf1K0z1k
 Name: The Church of Santa Maria della Vittoria
@@ -1778,7 +1780,7 @@ Price: 6
 Cheap: True
 Density: 1834
 timeToVisit: 13
-tourismPriority: None
+tourismPriority: 3.3
 
 Place id: ChIJeb0jxWVgLxMR66bI7_F7PQA
 Name: The Last Judgment
@@ -1807,7 +1809,7 @@ Price: 12
 Cheap: False
 Density: 2135
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 3.2
 
 Place id: ChIJK95AfGVgLxMRc4Uvp1dYum8
 Name: Chiesa di Santo Stefano degli Abissini
@@ -1836,7 +1838,7 @@ Price: 0
 Cheap: True
 Density: 2311
 timeToVisit: 32
-tourismPriority: None
+tourismPriority: 3.6
 
 Place id: ChIJ6_1H5kVgLxMRmCp3rRLDv78
 Name: Fontana di Piazza Farnese
@@ -1865,7 +1867,7 @@ Price: 9
 Cheap: True
 Density: 1331
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 2.7
 
 Place id: ChIJ67JcihRgLxMRRZZfZh_8yYQ
 Name: Villa Abamelek
@@ -1894,7 +1896,7 @@ Price: 12
 Cheap: False
 Density: 2357
 timeToVisit: 21
-tourismPriority: None
+tourismPriority: 3.1
 
 Place id: ChIJI_Y5kk9gLxMRUjW2-zslhNQ
 Name: Palazzo Torres
@@ -1923,7 +1925,7 @@ Price: 12
 Cheap: False
 Density: 1195
 timeToVisit: 32
-tourismPriority: None
+tourismPriority: 3.4
 
 Place id: ChIJ0aTnEYeKJRMRiUF95xwRbDY
 Name: Castel Sant Angelo
@@ -1952,7 +1954,7 @@ Price: 15
 Cheap: False
 Density: 1475
 timeToVisit: 60
-tourismPriority: None
+tourismPriority: 4.1
 
 Place id: ChIJr4exBU9gLxMRWBY_STXdDKQ
 Name: Vidoni Palace
@@ -1981,7 +1983,7 @@ Price: 0
 Cheap: True
 Density: 1216
 timeToVisit: 16
-tourismPriority: None
+tourismPriority: 2.6
 
 Place id: ChIJKcGbg2NgLxMRthZkUqDs4M8
 Name: Vatican Museums
@@ -2010,7 +2012,7 @@ Price: 17
 Cheap: False
 Density: 2291
 timeToVisit: 60
-tourismPriority: None
+tourismPriority: 4.2
 
 Place id: ChIJQ7lx21BgLxMRFvhFw9yi0Zo
 Name: Fontana di Piazza Nicosia
@@ -2039,7 +2041,7 @@ Price: 0
 Cheap: True
 Density: 1216
 timeToVisit: 7
-tourismPriority: None
+tourismPriority: 2.7
 
 Place id: ChIJWZsUt2FgLxMRg1KHzXfwS3I
 Name: St. Peter s Basilica
@@ -2068,7 +2070,7 @@ Price: 0
 Cheap: True
 Density: 2161
 timeToVisit: 60
-tourismPriority: None
+tourismPriority: 4.3
 
 Place id: ChIJSWeM92dgLxMR0CGAWRyONtI
 Name: Church Holy Spirit in Sassia
@@ -2097,7 +2099,7 @@ Price: 7
 Cheap: True
 Density: 1705
 timeToVisit: 28
-tourismPriority: None
+tourismPriority: 3.7
 
 Place id: ChIJL-vHo11gLxMRcD2yiIungXY
 Name: Parrocchia Santuario Santa Maria in Traspontina
@@ -2126,7 +2128,7 @@ Price: 11
 Cheap: False
 Density: 1660
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 3.6
 
 Place id: ChIJd8x_N2VgLxMRBD6rNtS4NAw
 Name: Gardens of Vatican City
@@ -2155,7 +2157,7 @@ Price: 0
 Cheap: True
 Density: 2453
 timeToVisit: 31
-tourismPriority: None
+tourismPriority: 4.4
 
 Place id: ChIJG6cU-09gLxMR8hkxk2gJcFI
 Name: Fiumi Fountain
@@ -2184,7 +2186,7 @@ Price: 0
 Cheap: True
 Density: 1185
 timeToVisit: 21
-tourismPriority: None
+tourismPriority: 3.8
 
 Place id: ChIJ268jxWVgLxMRIj61f4fIFqs
 Name: Sistine Chapel
@@ -2213,7 +2215,7 @@ Price: 10
 Cheap: False
 Density: 2133
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 3.9
 
 Place id: ChIJmUUGzkZgLxMR-T6gV-Qsy4o
 Name: Villa Farnesina
@@ -2242,7 +2244,7 @@ Price: 8
 Cheap: True
 Density: 1547
 timeToVisit: 26
-tourismPriority: None
+tourismPriority: 3.7
 
 Place id: ChIJLQGCLlBgLxMRuYQp8kv6syI
 Name: Church of St. Louis of the French
@@ -2271,7 +2273,7 @@ Price: 7
 Cheap: True
 Density: 1158
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 3.7
 
 Place id: ChIJ9TYH3k9gLxMRxbpYbkbO7y4
 Name: Palazzo Madama
@@ -2300,7 +2302,7 @@ Price: 0
 Cheap: True
 Density: 1164
 timeToVisit: 23
-tourismPriority: None
+tourismPriority: 2.9
 
 Place id: ChIJ_-4QBEZgLxMRJTdhvXwscbM
 Name: Galleria Spada
@@ -2329,7 +2331,7 @@ Price: 6
 Cheap: True
 Density: 1354
 timeToVisit: 14
-tourismPriority: None
+tourismPriority: 3.2
 
 Place id: ChIJdQnXoVxgLxMRCQK0txZGq6g
 Name: St. Angelo Bridge
@@ -2358,7 +2360,7 @@ Price: 6
 Cheap: True
 Density: 1438
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 3.6
 
 Place id: ChIJr_HOwkVgLxMR4mpuNdNYM-k
 Name: Palazzo Farnese
@@ -2387,7 +2389,7 @@ Price: 5
 Cheap: True
 Density: 1362
 timeToVisit: 16
-tourismPriority: None
+tourismPriority: 3.4
 
 Place id: ChIJ88WtV0VgLxMRUbkqM8OUa4k
 Name: Sant Agnese in Agone
@@ -2416,7 +2418,7 @@ Price: 10
 Cheap: False
 Density: 1199
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 3.9
 
 Place id: ChIJa-FrY0BgLxMRDN1UR07SMIE
 Name: Botanical Garden of Rome
@@ -2445,7 +2447,7 @@ Price: 0
 Cheap: True
 Density: 1822
 timeToVisit: 30
-tourismPriority: None
+tourismPriority: 3.7
 
 Place id: ChIJVwUlsVpgLxMRPaJOt8e6icE
 Name: Chiesa di Santa Maria della Pace
@@ -2474,7 +2476,7 @@ Price: 0
 Cheap: True
 Density: 1224
 timeToVisit: 16
-tourismPriority: None
+tourismPriority: 3.5
 
 Place id: ChIJq37VjU9gLxMRiGir-sI8YSw
 Name: Obelisco Agonale
@@ -2503,7 +2505,7 @@ Price: 6
 Cheap: True
 Density: 1185
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 3.0
 
 Place id: ChIJs_RYejhgLxMRIkBM8PNSZzY
 Name: Basilica of Santa Maria in Trastevere
@@ -2532,7 +2534,7 @@ Price: 0
 Cheap: True
 Density: 1711
 timeToVisit: 28
-tourismPriority: None
+tourismPriority: 3.9
 
 Place id: ChIJsQN-cUJgLxMRs_cgmyCWY7g
 Name: Church of St Onuphrius at the Janiculum
@@ -2561,7 +2563,7 @@ Price: 0
 Cheap: True
 Density: 1726
 timeToVisit: 14
-tourismPriority: None
+tourismPriority: 2.7
 
 Place id: ChIJk5PiQ1BgLxMR0E0jB7DanBI
 Name: Biblioteca Angelica
@@ -2590,7 +2592,7 @@ Price: 12
 Cheap: False
 Density: 1168
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 3.0
 
 Place id: ChIJfc8DqVVgLxMRxPIIp3z8CBg
 Name: Campo de  Fiori
@@ -2619,7 +2621,7 @@ Price: 7
 Cheap: True
 Density: 1290
 timeToVisit: 30
-tourismPriority: None
+tourismPriority: 3.4
 
 Place id: ChIJPRydwYNgLxMRSjOCLlYkV6M
 Name: Piazza Navona
@@ -2648,7 +2650,7 @@ Price: 0
 Cheap: True
 Density: 1185
 timeToVisit: 60
-tourismPriority: None
+tourismPriority: 4.2
 
 Place id: ChIJtRMhPFpgLxMR7CRDfS2pipI
 Name: Corte Suprema di Cassazione
@@ -2677,7 +2679,7 @@ Price: 12
 Cheap: False
 Density: 1390
 timeToVisit: 27
-tourismPriority: None
+tourismPriority: 2.9
 
 Place id: ChIJbedagU9gLxMRdw-SiQm53EM
 Name: Museo di Roma - Palazzo Braschi
@@ -2706,7 +2708,7 @@ Price: 7
 Cheap: True
 Density: 1214
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 3.4
 
 Place id: ChIJkVJg0ERgLxMRGNnUp2rG6CI
 Name: Parrocchia Santa Maria in Vallicella
@@ -2735,7 +2737,7 @@ Price: 0
 Cheap: True
 Density: 1315
 timeToVisit: 26
-tourismPriority: None
+tourismPriority: 3.8
 
 Place id: ChIJ75A8Mz9gLxMRe-4AGT3T_tA
 Name: Chiesa di San Pietro in Montorio
@@ -2764,7 +2766,7 @@ Price: 10
 Cheap: False
 Density: 1878
 timeToVisit: 26
-tourismPriority: None
+tourismPriority: 3.8
 
 Place id: ChIJubv_FkRgLxMRvCMehfHmABc
 Name: Saint Eligio of Orefici
@@ -2793,7 +2795,7 @@ Price: 0
 Cheap: True
 Density: 1432
 timeToVisit: 14
-tourismPriority: None
+tourismPriority: 2.4
 
 Place id: ChIJ8VdjGF1gLxMRXRd3ED2rD3I
 Name: Palazzo del Commendatore
@@ -2822,7 +2824,7 @@ Price: 0
 Cheap: True
 Density: 1635
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 3.1
 
 Place id: ChIJo2jArUJgLxMR78rLtdu4xhc
 Name: Porta Santo Spirito
@@ -2851,7 +2853,7 @@ Price: 8
 Cheap: True
 Density: 1666
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 2.8
 
 Place id: ChIJkTHCOmZgLxMRSV23skC64Ws
 Name: Bernini Fountain
@@ -2880,7 +2882,7 @@ Price: 0
 Cheap: True
 Density: 1935
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 3.2
 
 Place id: ChIJ8WwVM29gLxMRz_tC56BF2xI
 Name: Presepe dei Netturbini
@@ -2909,7 +2911,7 @@ Price: 7
 Cheap: True
 Density: 2062
 timeToVisit: 27
-tourismPriority: None
+tourismPriority: 3.1
 
 Place id: ChIJwd_O2mdgLxMRHBXg6eMJ3bw
 Name: Church of Saints Michael and Magnus
@@ -2938,7 +2940,7 @@ Price: 9
 Cheap: True
 Density: 1705
 timeToVisit: 27
-tourismPriority: None
+tourismPriority: 2.8
 
 Place id: ChIJZRHMZV1gLxMR6BtzBP3JiUk
 Name: Museum Leonardo Da Vinci Experience
@@ -2967,7 +2969,7 @@ Price: 0
 Cheap: True
 Density: 1684
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 3.6
 
 Place id: ChIJ--YjlmVgLxMRunceWcJboGA
 Name: Vatican Necropolis
@@ -2996,7 +2998,7 @@ Price: 0
 Cheap: True
 Density: 2146
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 3.4
 
 Place id: ChIJVWdmB7yFJRMREeAYUl4bGwg
 Name: Apostolic Palace
@@ -3025,7 +3027,7 @@ Price: 12
 Cheap: False
 Density: 2035
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 3.1
 
 Place id: ChIJbcKVdkVgLxMRs6zkiUTdePk
 Name: Ponte Vittorio Emanuele II
@@ -3054,7 +3056,7 @@ Price: 0
 Cheap: True
 Density: 1529
 timeToVisit: 27
-tourismPriority: None
+tourismPriority: 3.8
 
 Place id: ChIJWwgj5WZgLxMR-0sdvDJvXAc
 Name: Chiesa di Sant Anna dei Palafrenieri
@@ -3083,7 +3085,7 @@ Price: 0
 Cheap: True
 Density: 1964
 timeToVisit: 27
-tourismPriority: None
+tourismPriority: 3.6
 
 Place id: ChIJddshSUNgLxMRDo-75IgOsso
 Name: Operativa Arte Contemporanea
@@ -3112,7 +3114,7 @@ Price: 0
 Cheap: True
 Density: 1448
 timeToVisit: 11
-tourismPriority: None
+tourismPriority: 2.6
 
 Place id: ChIJ3_05fENgLxMRbFQWaV-k50g
 Name: Santa Maria del Suffragio
@@ -3141,7 +3143,7 @@ Price: 11
 Cheap: False
 Density: 1443
 timeToVisit: 13
-tourismPriority: None
+tourismPriority: 2.7
 
 Place id: ChIJ4WgfImRgLxMRz8huI-_5GuU
 Name: Vatican Apostolic Archive
@@ -3170,7 +3172,7 @@ Price: 0
 Cheap: True
 Density: 2153
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 2.9
 
 Place id: ChIJPddZamRgLxMRO_hKl4xnJRI
 Name: Carriage Pavilion
@@ -3199,7 +3201,7 @@ Price: 5
 Cheap: True
 Density: 2251
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 3.3
 
 Place id: ChIJdee-GGVgLxMRxZLt-kK03Gg
 Name: Monastero Mater Ecclesi
@@ -3228,7 +3230,7 @@ Price: 0
 Cheap: True
 Density: 2402
 timeToVisit: 21
-tourismPriority: None
+tourismPriority: 3.1
 
 Place id: ChIJQ4m17kRgLxMRnesGKNbQMog
 Name: Oratorio dei Filippini (Oratory of St Philip Neri)
@@ -3257,7 +3259,7 @@ Price: 12
 Cheap: False
 Density: 1334
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 2.7
 
 Place id: ChIJPVqefmNgLxMRPmjlDfRHgiM
 Name: House of Hospitality Paul VI
@@ -3286,7 +3288,7 @@ Price: 0
 Cheap: True
 Density: 2402
 timeToVisit: 18
-tourismPriority: None
+tourismPriority: 3.4
 
 Place id: ChIJU3PZU2BgLxMRC9r6TejtTb0
 Name: Chiesa di Santa Maria del Rosario in Prati
@@ -3315,7 +3317,7 @@ Price: 0
 Cheap: True
 Density: 2093
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 2.8
 
 Place id: ChIJv8KZdEVgLxMR6gjh6Oagua0
 Name: Welcome To Rome
@@ -3344,7 +3346,7 @@ Price: 0
 Cheap: True
 Density: 1265
 timeToVisit: 33
-tourismPriority: None
+tourismPriority: 3.9
 
 Place id: ChIJYzIaClBgLxMRZtXO0N4-qH8
 Name: Stadium of Domitian
@@ -3373,7 +3375,7 @@ Price: 9
 Cheap: True
 Density: 1201
 timeToVisit: 25
-tourismPriority: None
+tourismPriority: 3.9
 
 Place id: ChIJ2Zuj9E9gLxMRHbQj4Eg9pqk
 Name: Palazzo Pamphili
@@ -3402,7 +3404,7 @@ Price: 0
 Cheap: True
 Density: 1203
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 2.8
 
 Place id: ChIJ406h8k9gLxMRlqpd69nZNak
 Name: Fountain of the Moro
@@ -3431,7 +3433,7 @@ Price: 8
 Cheap: True
 Density: 1193
 timeToVisit: 26
-tourismPriority: None
+tourismPriority: 3.0
 
 Place id: ChIJhxYLHPlgLxMRL5UeXkfISFI
 Name: Cappella Chigi
@@ -3460,7 +3462,7 @@ Price: 8
 Cheap: True
 Density: 1671
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 2.6
 
 Place id: ChIJWVoZSU1gLxMR15cWr5vaDQQ
 Name: Chiesa di Gesu e Maria
@@ -3489,7 +3491,7 @@ Price: 0
 Cheap: True
 Density: 1418
 timeToVisit: 17
-tourismPriority: None
+tourismPriority: 2.8
 
 Place id: ChIJj1M8HQJhLxMRRI6D_z18Pes
 Name: Villa Borghese
@@ -3518,7 +3520,7 @@ Price: 13
 Cheap: False
 Density: 1896
 timeToVisit: 60
-tourismPriority: None
+tourismPriority: 3.8
 
 Place id: ChIJafvZGP9gLxMRrpLcHHjYE48
 Name: Passeggiata del Pincio
@@ -3547,7 +3549,7 @@ Price: 8
 Cheap: True
 Density: 1653
 timeToVisit: 11
-tourismPriority: None
+tourismPriority: 3.6
 
 Place id: ChIJq-bXVgRhLxMRv3vgOXaktBs
 Name: Borghese Gallery and Museum
@@ -3576,7 +3578,7 @@ Price: 11
 Cheap: False
 Density: 2261
 timeToVisit: 20
-tourismPriority: None
+tourismPriority: 3.7
 
 Place id: ChIJxcyMIv1gLxMRKAH_Dv2q8iw
 Name: National Gallery of Modern and Contemporary Art
@@ -3605,7 +3607,7 @@ Price: 0
 Cheap: True
 Density: 2198
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 3.8
 
 Place id: ChIJ5SqI8VZgLxMRLOfAYh67Fkk
 Name: Mausoleum of Augustus
@@ -3634,7 +3636,7 @@ Price: 0
 Cheap: True
 Density: 1314
 timeToVisit: 36
-tourismPriority: None
+tourismPriority: 3.7
 
 Place id: ChIJoWEmG1ZgLxMRUNCJKbdBiBg
 Name: Chiesa Parrocchiale San Giacomo in Augusta
@@ -3663,7 +3665,7 @@ Price: 7
 Cheap: True
 Density: 1405
 timeToVisit: 31
-tourismPriority: None
+tourismPriority: 3.3
 
 Place id: ChIJW6tyLVVgLxMRMcCmwoGsrhs
 Name: Villa Medici
@@ -3692,7 +3694,7 @@ Price: 7
 Cheap: True
 Density: 1492
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 3.4
 
 Place id: ChIJcRtqUVFgLxMRhdJz_bh_KsM
 Name: Basilica of Saint Lawrence in Lucina
@@ -3721,7 +3723,7 @@ Price: 11
 Cheap: False
 Density: 1197
 timeToVisit: 21
-tourismPriority: None
+tourismPriority: 3.6
 
 Place id: ChIJjYC_KFRgLxMRJPS-7D_Qn1o
 Name: Basilica of SS. Ambrose and Charles on the Corso
@@ -3750,7 +3752,7 @@ Price: 0
 Cheap: True
 Density: 1273
 timeToVisit: 21
-tourismPriority: None
+tourismPriority: 3.6
 
 Place id: ChIJ-2xp4FRgLxMRk4FyKaXB6r0
 Name: Giorgio de Chirico House Museum
@@ -3779,7 +3781,7 @@ Price: 0
 Cheap: True
 Density: 1338
 timeToVisit: 14
-tourismPriority: None
+tourismPriority: 2.5
 
 Place id: ChIJf1IUx_hgLxMRTdcQVSZ4GnM
 Name: Santa Maria in Montesanto
@@ -3808,7 +3810,7 @@ Price: 0
 Cheap: True
 Density: 1563
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 2.8
 
 Place id: ChIJF7-JHlVgLxMRr2hebZ8dkOo
 Name: Fontana della Barcaccia
@@ -3837,7 +3839,7 @@ Price: 0
 Cheap: True
 Density: 1340
 timeToVisit: 18
-tourismPriority: None
+tourismPriority: 3.4
 
 Place id: ChIJJ18rA_lgLxMRsqDkxGa47QA
 Name: Museo Leonardo da Vinci
@@ -3866,7 +3868,7 @@ Price: 8
 Cheap: True
 Density: 1659
 timeToVisit: 20
-tourismPriority: None
+tourismPriority: 2.5
 
 Place id: ChIJa4nrN_pgLxMRfgsLR4Ulx04
 Name: Explora - Il Museo dei Bambini di Roma
@@ -3895,7 +3897,7 @@ Price: 10
 Cheap: False
 Density: 1993
 timeToVisit: 28
-tourismPriority: None
+tourismPriority: 3.8
 
 Place id: ChIJwRE-8_5gLxMRjKijNplM_Wg
 Name: Orologio ad acqua del Pincio
@@ -3924,7 +3926,7 @@ Price: 6
 Cheap: True
 Density: 1712
 timeToVisit: 32
-tourismPriority: None
+tourismPriority: 4.1
 
 Place id: ChIJs8uyy_BgLxMRVEcpdN_OsF4
 Name: Ponte Giacomo Matteotti
@@ -3953,7 +3955,7 @@ Price: 7
 Cheap: True
 Density: 2002
 timeToVisit: 14
-tourismPriority: None
+tourismPriority: 2.7
 
 Place id: ChIJlSkdkeRgLxMREkRxyk8IJEY
 Name: National Etruscan Museum of Villa Giulia
@@ -3982,7 +3984,7 @@ Price: 0
 Cheap: True
 Density: 2291
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 4.1
 
 Place id: ChIJE64kjVVgLxMRhGp8xxFtry8
 Name: Fontana del Babuino
@@ -4011,7 +4013,7 @@ Price: 0
 Cheap: True
 Density: 1411
 timeToVisit: 9
-tourismPriority: None
+tourismPriority: 2.7
 
 Place id: ChIJa5vaQFVgLxMRDjZQmbjNaqs
 Name: Fontana del Bottino
@@ -4040,7 +4042,7 @@ Price: 5
 Cheap: True
 Density: 1411
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 2.8
 
 Place id: ChIJq-rSL1VgLxMR6A0Gq_2J8Kw
 Name: Trinita dei Monti
@@ -4069,7 +4071,7 @@ Price: 5
 Cheap: True
 Density: 1400
 timeToVisit: 34
-tourismPriority: None
+tourismPriority: 4.0
 
 Place id: ChIJlW__TlFgLxMRM8-8Wox5L7g
 Name: Galleria del Cembalo
@@ -4098,7 +4100,7 @@ Price: 0
 Cheap: True
 Density: 1216
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 3.0
 
 Place id: ChIJw6p5ElNgLxMRQoyUcHl7xfY
 Name: Chiesa di Santa Maria in Via
@@ -4127,7 +4129,7 @@ Price: 0
 Cheap: True
 Density: 1189
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 2.9
 
 Place id: ChIJDdz5t1RgLxMRPR6rPH626DU
 Name: Palazzo di Propaganda Fide
@@ -4156,7 +4158,7 @@ Price: 0
 Cheap: True
 Density: 1307
 timeToVisit: 32
-tourismPriority: None
+tourismPriority: 2.9
 
 Place id: ChIJo50nr1RgLxMRItDIc3krMy8
 Name: Basilica di Sant Andrea delle Fratte
@@ -4185,7 +4187,7 @@ Price: 5
 Cheap: True
 Density: 1290
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 3.5
 
 Place id: ChIJhxbo5fhgLxMRUEPO_f-f7kM
 Name: Piazza del Popolo
@@ -4214,7 +4216,7 @@ Price: 0
 Cheap: True
 Density: 1613
 timeToVisit: 14
-tourismPriority: None
+tourismPriority: 3.5
 
 Place id: ChIJH302S1JgLxMRNdvADTR1BjQ
 Name: Marcus Aurelius Column
@@ -4243,7 +4245,7 @@ Price: 7
 Cheap: True
 Density: 1156
 timeToVisit: 15
-tourismPriority: None
+tourismPriority: 3.5
 
 Place id: ChIJtdwDrgBhLxMRI9c93_OGqqI
 Name: Piazza di Siena
@@ -4272,7 +4274,7 @@ Price: 7
 Cheap: True
 Density: 2012
 timeToVisit: 28
-tourismPriority: None
+tourismPriority: 4.1
 
 Place id: ChIJQ81d9lVgLxMRsTIGeOAlfhQ
 Name: All Saints  Anglican Church Rome
@@ -4301,7 +4303,7 @@ Price: 0
 Cheap: True
 Density: 1440
 timeToVisit: 32
-tourismPriority: None
+tourismPriority: 3.0
 
 Place id: ChIJY28H4VZgLxMRM_YQvr2XyTk
 Name: Church of Saint Roch  all Augusteo 
@@ -4330,7 +4332,7 @@ Price: 7
 Cheap: True
 Density: 1296
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 2.8
 
 Place id: ChIJ-b1xI1NgLxMR2pnx1W6KE3M
 Name: Church of Our Lady in Trivio
@@ -4359,7 +4361,7 @@ Price: 0
 Cheap: True
 Density: 1211
 timeToVisit: 18
-tourismPriority: None
+tourismPriority: 2.7
 
 Place id: ChIJj9JKPlJgLxMRm0m6p_5cGBw
 Name: Il Tempio di Adriano
@@ -4388,7 +4390,7 @@ Price: 0
 Cheap: True
 Density: 1144
 timeToVisit: 12
-tourismPriority: None
+tourismPriority: 3.5
 
 Place id: ChIJ3dLNixxhLxMRf32Jbrs9KBk
 Name: Museo Civico di Zoologia
@@ -4417,7 +4419,7 @@ Price: 10
 Cheap: False
 Density: 2558
 timeToVisit: 29
-tourismPriority: None
+tourismPriority: 3.9
 
 Place id: ChIJWb-7VlBgLxMRiW_fYnwl1lc
 Name: Basilica of St. Augustine in Campo Marzio
@@ -4446,7 +4448,7 @@ Price: 5
 Cheap: True
 Density: 1171
 timeToVisit: 20
-tourismPriority: None
+tourismPriority: 3.8
 
 Place id: ChIJ7VaTAfpgLxMRwEfk1Ti-F_Y
 Name: Hendrik Christian Anderson Museum
@@ -4475,7 +4477,7 @@ Price: 0
 Cheap: True
 Density: 1938
 timeToVisit: 26
-tourismPriority: None
+tourismPriority: 3.4
 
 Place id: ChIJ64C7o_hgLxMRUxdxDzuXysI
 Name: Goethe House
@@ -4504,7 +4506,7 @@ Price: 8
 Cheap: True
 Density: 1487
 timeToVisit: 26
-tourismPriority: None
+tourismPriority: 2.5
 
 Place id: ChIJk4g-MeNgLxMR_yICxC5Qpko
 Name: Institute of Japanese Culture
@@ -4533,7 +4535,7 @@ Price: 12
 Cheap: False
 Density: 2329
 timeToVisit: 35
-tourismPriority: None
+tourismPriority: 3.3
 
 Place id: ChIJF3BcdeVgLxMRYntd0c1eHyg
 Name: Villa Balestra
@@ -4562,7 +4564,7 @@ Price: 8
 Cheap: True
 Density: 2614
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 3.3
 
 Place id: ChIJVdeFz1ZgLxMRsut-vHdZP68
 Name: Palazzo Borghese
@@ -4591,7 +4593,7 @@ Price: 0
 Cheap: True
 Density: 1233
 timeToVisit: 21
-tourismPriority: None
+tourismPriority: 2.9
 
 Place id: ChIJ9w9RTVNgLxMR5nbcPixfnmE
 Name: National Academy of San Luca
@@ -4620,7 +4622,7 @@ Price: 0
 Cheap: True
 Density: 1245
 timeToVisit: 30
-tourismPriority: None
+tourismPriority: 2.8
 
 Place id: ChIJ8-wGeU9gLxMRdC2YjPSozAU
 Name: Museo Carlo Bilotti
@@ -4649,7 +4651,7 @@ Price: 5
 Cheap: True
 Density: 1891
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 2.7
 
 Place id: ChIJB6HASVJgLxMR8vNwwuuF9io
 Name: Palazzo Wedekind
@@ -4678,7 +4680,7 @@ Price: 8
 Cheap: True
 Density: 1150
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 2.6
 
 Place id: ChIJK0Ewh0pgLxMRI98BSNFE-wY
 Name: Cloaca Maxima
@@ -4707,7 +4709,7 @@ Price: 0
 Cheap: True
 Density: 1624
 timeToVisit: 25
-tourismPriority: None
+tourismPriority: 2.6
 
 Place id: ChIJl5cSjsphLxMRv85ELFf8Dk4
 Name: Temple of Apollo Palatinus
@@ -4736,7 +4738,7 @@ Price: 0
 Cheap: True
 Density: 1832
 timeToVisit: 28
-tourismPriority: None
+tourismPriority: 3.0
 
 Place id: ChIJxcVH3MphLxMRbNmoLfoNEWg
 Name: Circus Maximus
@@ -4765,7 +4767,7 @@ Price: 12
 Cheap: False
 Density: 1910
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 3.6
 
 Place id: ChIJm1_ZezVgLxMR57Hw653cZoI
 Name: Mouth of Truth
@@ -4794,7 +4796,7 @@ Price: 0
 Cheap: True
 Density: 1678
 timeToVisit: 25
-tourismPriority: None
+tourismPriority: 3.5
 
 Place id: ChIJ0-YHdDRgLxMRgU5yFAMRP5E
 Name: Basilica di Santa Sabina all Aventino
@@ -4823,7 +4825,7 @@ Price: 6
 Cheap: True
 Density: 1981
 timeToVisit: 21
-tourismPriority: None
+tourismPriority: 3.9
 
 Place id: ChIJm1_ZezVgLxMR7BAI4KmOwtY
 Name: Santa Maria in Cosmedin
@@ -4852,7 +4854,7 @@ Price: 0
 Cheap: True
 Density: 1683
 timeToVisit: 24
-tourismPriority: None
+tourismPriority: 3.5
 
 Place id: ChIJp3EzNCxgLxMRm11PYpmDx4Q
 Name: Non-Catholic Cemetery
@@ -4881,7 +4883,7 @@ Price: 0
 Cheap: True
 Density: 2787
 timeToVisit: 35
-tourismPriority: None
+tourismPriority: 4.5
 
 Place id: ChIJOcrkoX_2JRMRryj2EmIscVE
 Name: Basilica Santa Cecilia in Trastevere
@@ -4910,7 +4912,7 @@ Price: 0
 Cheap: True
 Density: 1750
 timeToVisit: 21
-tourismPriority: None
+tourismPriority: 3.7
 
 Place id: ChIJ8YOGbi9gLxMRTDnSf5wlZJc
 Name: Mattatoio
@@ -4939,7 +4941,7 @@ Price: 8
 Cheap: True
 Density: 2799
 timeToVisit: 11
-tourismPriority: None
+tourismPriority: 3.7
 
 Place id: ChIJfeOXqi1gLxMR9pvLiJ8yKSc
 Name: Pyramid of Caius Cestius
@@ -4968,7 +4970,7 @@ Price: 5
 Cheap: True
 Density: 2776
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 4.2
 
 Place id: ChIJpTNFTUlgLxMRRsPyX-_4X8c
 Name: Turtle Fountain
@@ -4997,7 +4999,7 @@ Price: 12
 Cheap: False
 Density: 1284
 timeToVisit: 18
-tourismPriority: None
+tourismPriority: 3.4
 
 Place id: ChIJ4wi0i0lgLxMRJsm7mqYENcU
 Name: Basilica di San Bartolomeo all Isola
@@ -5026,7 +5028,7 @@ Price: 11
 Cheap: False
 Density: 1495
 timeToVisit: 19
-tourismPriority: None
+tourismPriority: 3.3
 
 Place id: ChIJZcncVjNgLxMRj7cFCake7Oo
 Name: Chiesa di Santa Prisca
@@ -5055,7 +5057,7 @@ Price: 7
 Cheap: True
 Density: 2155
 timeToVisit: 22
-tourismPriority: None
+tourismPriority: 3.0
 
 Place id: ChIJU4KLC0lgLxMRBv0g7UlLt7c
 Name: Tempio Maggiore di Roma
@@ -5084,7 +5086,7 @@ Price: 0
 Cheap: True
 Density: 1384
 timeToVisit: 23
-tourismPriority: None
+tourismPriority: 3.5
 
 Place id: ChIJpTF0RUlgLxMRUMm5Pi9Tc10
 Name: Portico of Octavia
@@ -5113,7 +5115,7 @@ Price: 0
 Cheap: True
 Density: 1352
 timeToVisit: 25
-tourismPriority: None
+tourismPriority: 3.6
 
 Place id: ChIJZWJty8lhLxMRTlN7yv4S3kc
 Name: Basilica Santi Giovanni e Paolo
@@ -5142,7 +5144,7 @@ Price: 8
 Cheap: True
 Density: 2132
 timeToVisit: 27
-tourismPriority: None
+tourismPriority: 3.8
 
 Map populated correctly.
 

@@ -182,8 +182,12 @@ for value in poiMap.values():
 log.info("TimeToVisit feature created correctly.\n")
 
 # Creation new feature (tourismPriority)
-
-# log.info("TourismPriority feature created correctly.\n")
+for value in poiMap.values():
+    result = list(
+        prolog.query(f"calculateTourismPriority('{value.name}', TourismPriority)")
+    )
+    value.tourismPriority = round(result[0]["TourismPriority"], 1)
+log.info("TourismPriority feature created correctly.\n")
 
 for poi in poiMap.values():
     log.info(poi)
