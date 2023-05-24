@@ -1,2 +1,7 @@
 libs (pip install):
-requests
+- beautifulsoup4
+- geopy
+- pyswip
+- requests
+- swipl
+- 
