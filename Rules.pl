@@ -17,7 +17,7 @@ highlyRated(PoiName) :-
 
 popular(PoiName) :-
     ratingCount(PoiName, Count),
-    Count > 1000.
+    Count > 15000.
 
 highlyRecommended(PoiName) :-
     highlyRated(PoiName),
@@ -87,5 +87,5 @@ calculateTourismPriority(PoiName, TourismPriority) :-
         ImpressiveWeight = 0),
     calculateDensity(PoiName, Density),
     NormalizedDensity is (Density - 1138) / (2846 - 1138),
-    DensityWeight = 0.6 * NormalizedDensity,
+    DensityWeight = 0.6 - (0.6 * NormalizedDensity),
     TourismPriority is Rating / 2 + PopularWeight + CloseToCityCentreWeight + TourismRateOutOfTen * 0.05 + AncientWeight + ImpressiveWeight + DensityWeight.
