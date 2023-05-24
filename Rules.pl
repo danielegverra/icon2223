@@ -89,3 +89,14 @@ calculateTourismPriority(PoiName, TourismPriority) :-
     NormalizedDensity is (Density - 1138) / (2846 - 1138),
     DensityWeight = 0.6 - (0.6 * NormalizedDensity),
     TourismPriority is Rating / 2 + PopularWeight + CloseToCityCentreWeight + TourismRateOutOfTen * 0.05 + AncientWeight + ImpressiveWeight + DensityWeight.
+
+findDistance(PoiName1, PoiName2, Distance) :-
+    distance(PoiName1, PoiName2, Distance).
+
+findDistance(PoiName1, PoiName2, Distance) :-
+    distance(PoiName2, PoiName1, Distance).
+
+connectivityCheck(PoiName) :-
+    findall(Dist, (distance(PoiName, _, Dist); distance(_, PoiName, Dist)), Dists),
+    min_list(Dists, MinDistance),
+    MinDistance < 501.

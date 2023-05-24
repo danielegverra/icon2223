@@ -17776,7 +17776,6 @@ tourismRateOutOfTen('Fountain of the Bees',6).
 tourismRateOutOfTen('Ludus Magnus',5).
 tourismRateOutOfTen('Palazzetto Zuccari',7).
 tourismRateOutOfTen('Fontana del Mose',4).
-tourismRateOutOfTen('Chiesa di Santa Bibiana',2).
 tourismRateOutOfTen('Santissima Trinita degli Spagnoli',7).
 tourismRateOutOfTen('Colosseum',10).
 tourismRateOutOfTen('Trevi Fountain',10).
@@ -17833,7 +17832,6 @@ tourismRateOutOfTen('The Church of Santa Maria della Vittoria',6).
 tourismRateOutOfTen('The Last Judgment',3).
 tourismRateOutOfTen('Chiesa di Santo Stefano degli Abissini',8).
 tourismRateOutOfTen('Fontana di Piazza Farnese',1).
-tourismRateOutOfTen('Villa Abamelek',1).
 tourismRateOutOfTen('Palazzo Torres',7).
 tourismRateOutOfTen('Castel Sant Angelo',8).
 tourismRateOutOfTen('Vidoni Palace',7).
@@ -17920,7 +17918,6 @@ tourismRateOutOfTen('All Saints  Anglican Church Rome',5).
 tourismRateOutOfTen('Church of Saint Roch  all Augusteo ',1).
 tourismRateOutOfTen('Church of Our Lady in Trivio',5).
 tourismRateOutOfTen('Il Tempio di Adriano',9).
-tourismRateOutOfTen('Museo Civico di Zoologia',8).
 tourismRateOutOfTen('Basilica of St. Augustine in Campo Marzio',6).
 tourismRateOutOfTen('Hendrik Christian Anderson Museum',1).
 tourismRateOutOfTen('Goethe House',4).
@@ -17938,7 +17935,6 @@ tourismRateOutOfTen('Basilica di Santa Sabina all Aventino',1).
 tourismRateOutOfTen('Santa Maria in Cosmedin',1).
 tourismRateOutOfTen('Non-Catholic Cemetery',7).
 tourismRateOutOfTen('Basilica of St Cecilia in Trastevere',4).
-tourismRateOutOfTen('Mattatoio',4).
 tourismRateOutOfTen('Pyramid of Caius Cestius',3).
 tourismRateOutOfTen('Turtle Fountain',10).
 tourismRateOutOfTen('Basilica di San Bartolomeo all Isola',7).

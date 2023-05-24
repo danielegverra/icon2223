@@ -216,35 +216,6 @@ Density: 1830
 timeToVisit: 18
 tourismPriority: 3.1
 
-Place id: ChIJnY3wKJhhLxMRnTjd-I90d-U
-Name: Chiesa di Santa Bibiana
-Address: Via Giovanni Giolitti, 154, Roma
-Type: Castle
-Properties: ['Modern art', 'Entertainment']
-Latitude: 41.89555439999999
-Longitude: 12.5092224
-Rating: 4.6
-HighlyRated: True
-Rating count: 228
-Popular: False
-HighlyRecommended: False
-Centre distance: 2771
-CloseToCityCentre: False
-Handicap accessibility: True
-Tourism rate: 440738
-TurismRateOutOfTen: 2
-TopTourismAttraction: False
-Age: 1877
-Ancient: True
-Surface: 3845.94
-Height: 16.23
-Impressive: False
-Price: 0
-Cheap: True
-Density: 2846
-timeToVisit: 22
-tourismPriority: 2.6
-
 Place id: ChIJda54FlRgLxMRxStWVvnYaBA
 Name: Santissima Trinita degli Spagnoli
 Address: Via dei Condotti, 42, Roma
@@ -1868,35 +1839,6 @@ Cheap: True
 Density: 1331
 timeToVisit: 21
 tourismPriority: 3.0
-
-Place id: ChIJ67JcihRgLxMRRZZfZh_8yYQ
-Name: Villa Abamelek
-Address: Via Aurelia Antica, 12, Roma
-Type: Monument
-Properties: ['Entertainment']
-Latitude: 41.8890841
-Longitude: 12.4564241
-Rating: 4.5
-HighlyRated: False
-Rating count: 49
-Popular: False
-HighlyRecommended: False
-Centre distance: 2012
-CloseToCityCentre: False
-Handicap accessibility: False
-Tourism rate: 306210
-TurismRateOutOfTen: 1
-TopTourismAttraction: False
-Age: 579
-Ancient: False
-Surface: 4419.2
-Height: 14.06
-Impressive: False
-Price: 0
-Cheap: True
-Density: 2357
-timeToVisit: 20
-tourismPriority: 2.5
 
 Place id: ChIJI_Y5kk9gLxMRUjW2-zslhNQ
 Name: Palazzo Torres
@@ -4392,35 +4334,6 @@ Density: 1144
 timeToVisit: 32
 tourismPriority: 3.8
 
-Place id: ChIJ3dLNixxhLxMRf32Jbrs9KBk
-Name: Museo Civico di Zoologia
-Address: Via Ulisse Aldrovandi, 18, Roma
-Type: Square
-Properties: ['Historical', 'Educational']
-Latitude: 41.9192657
-Longitude: 12.4885519
-Rating: 4.2
-HighlyRated: False
-Rating count: 1591
-Popular: False
-HighlyRecommended: False
-Centre distance: 2419
-CloseToCityCentre: False
-Handicap accessibility: True
-Tourism rate: 1242757
-TurismRateOutOfTen: 8
-TopTourismAttraction: True
-Age: 1891
-Ancient: True
-Surface: 1131.0
-Height: 19.93
-Impressive: True
-Price: 0
-Cheap: True
-Density: 2558
-timeToVisit: 27
-tourismPriority: 3.1
-
 Place id: ChIJWb-7VlBgLxMRiW_fYnwl1lc
 Name: Basilica of St. Augustine in Campo Marzio
 Address: Piazza di S. Agostino, Roma
@@ -4913,35 +4826,6 @@ Cheap: True
 Density: 1750
 timeToVisit: 23
 tourismPriority: 3.1
-
-Place id: ChIJ8YOGbi9gLxMRTDnSf5wlZJc
-Name: Mattatoio
-Address: Piazza Orazio Giustiniani, 4, Roma
-Type: Place of warship
-Properties: ['Historical', 'Entertainment']
-Latitude: 41.8764877
-Longitude: 12.4732685
-Rating: 4.1
-HighlyRated: False
-Rating count: 1006
-Popular: False
-HighlyRecommended: False
-Centre distance: 2569
-CloseToCityCentre: False
-Handicap accessibility: True
-Tourism rate: 788351
-TurismRateOutOfTen: 4
-TopTourismAttraction: False
-Age: 412
-Ancient: False
-Surface: 2572.07
-Height: 9.15
-Impressive: False
-Price: 12
-Cheap: False
-Density: 2799
-timeToVisit: 19
-tourismPriority: 2.3
 
 Place id: ChIJfeOXqi1gLxMR9pvLiJ8yKSc
 Name: Pyramid of Caius Cestius
