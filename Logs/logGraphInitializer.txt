@@ -25,9 +25,9 @@ Convento dei Frati Cappuccini
 Quirinal Palace
 Basilica di San Clemente
 Chiesa di Sant  Ignazio di Loyola
-Chiesa del Gesu
 Piazza Barberini
 Palazzo delle Esposizioni
+Chiesa del Gesu
 Basilica di Santa Maria in Ara coeli
 Palazzo Montecitorio
 Domus Aurea
@@ -58,7 +58,7 @@ Column of Phocas
 Antoninus and Faustina Temple
 Marcello Theater
 Chiesa di Santa Maria in Portico in Campitelli
-The Church of Santa Maria della Vittoria
+Saint Mary of Victory
 The Last Judgment
 Chiesa di Santo Stefano degli Abissini
 Fontana di Piazza Farnese
@@ -74,9 +74,9 @@ Gardens of Vatican City
 Fiumi Fountain
 Sistine Chapel
 Villa Farnesina
-Church of St. Louis of the French
 Palazzo Madama
 Galleria Spada
+Church of St. Louis of the French
 St. Angelo Bridge
 Palazzo Farnese
 Sant Agnese in Agone
@@ -91,7 +91,7 @@ Piazza Navona
 Corte Suprema di Cassazione
 Museo di Roma - Palazzo Braschi
 Church of Santa Maria in Vallicella
-Chiesa di San Pietro in Montorio
+Church of San Pietro in Montorio
 Saint Eligio of Orefici
 Palazzo del Commendatore
 Porta Santo Spirito
@@ -156,7 +156,6 @@ Villa Balestra
 Palazzo Borghese
 National Academy of San Luca
 Museo Carlo Bilotti
-Palazzo Wedekind
 Cloaca Maxima
 Temple of Apollo Palatinus
 Circus Maximus
@@ -164,7 +163,7 @@ Mouth of Truth
 Basilica di Santa Sabina all Aventino
 Santa Maria in Cosmedin
 Non-Catholic Cemetery
-Basilica of St Cecilia in Trastevere
+Basilica di Santa Cecilia in Trastevere
 Pyramid of Caius Cestius
 Turtle Fountain
 Basilica di San Bartolomeo all Isola
@@ -215,7 +214,7 @@ Edge: Fountain of the Bees - Fontana del Mose, Weight: 472
 Edge: Fountain of the Bees - Convento dei Frati Cappuccini, Weight: 69
 Edge: Fountain of the Bees - Piazza Barberini, Weight: 57
 Edge: Fountain of the Bees - National Gallery of Ancient Art in Barberini Palace, Weight: 140
-Edge: Fountain of the Bees - The Church of Santa Maria della Vittoria, Weight: 466
+Edge: Fountain of the Bees - Saint Mary of Victory, Weight: 466
 Edge: Fountain of the Bees - Trinita dei Monti, Weight: 477
 Edge: Fountain of the Bees - Palazzo di Propaganda Fide, Weight: 468
 Edge: Fountain of the Bees - Basilica di Sant Andrea delle Fratte, Weight: 430
@@ -249,9 +248,9 @@ Edge: Fontana del Mose - Piazza Barberini, Weight: 488
 Edge: Fontana del Mose - National Gallery of Ancient Art in Barberini Palace, Weight: 404
 Edge: Fontana del Mose - Santa Maria degli Angeli e dei Martiri, Weight: 244
 Edge: Fontana del Mose - St. Paul s Within the Walls, Weight: 353
-Edge: Fontana del Mose - The Church of Santa Maria della Vittoria, Weight: 34
+Edge: Fontana del Mose - Saint Mary of Victory, Weight: 34
 Edge: Santissima Trinita degli Spagnoli - Piazza di Spagna, Weight: 277
-Edge: Santissima Trinita degli Spagnoli - Palazzo Montecitorio, Weight: 350
+Edge: Santissima Trinita degli Spagnoli - Palazzo Montecitorio, Weight: 394
 Edge: Santissima Trinita degli Spagnoli - Basilica San Silvestro in Capite, Weight: 225
 Edge: Santissima Trinita degli Spagnoli - The Keats - Shelley House, Weight: 293
 Edge: Santissima Trinita degli Spagnoli - Fontana di Piazza Nicosia, Weight: 412
@@ -276,7 +275,6 @@ Edge: Santissima Trinita degli Spagnoli - Church of Saint Roch  all Augusteo , W
 Edge: Santissima Trinita degli Spagnoli - Church of Our Lady in Trivio, Weight: 476
 Edge: Santissima Trinita degli Spagnoli - Palazzo Borghese, Weight: 263
 Edge: Santissima Trinita degli Spagnoli - National Academy of San Luca, Weight: 496
-Edge: Santissima Trinita degli Spagnoli - Palazzo Wedekind, Weight: 421
 Edge: Colosseum - Arch of Constantine, Weight: 143
 Edge: Colosseum - Basilica of San Pietro in Vincoli, Weight: 407
 Edge: Colosseum - Basilica di San Clemente, Weight: 454
@@ -285,7 +283,7 @@ Edge: Colosseum - Mose di Michelangelo, Weight: 400
 Edge: Colosseum - Basilica Santi Giovanni e Paolo, Weight: 415
 Edge: Trevi Fountain - Quirinal Palace, Weight: 314
 Edge: Trevi Fountain - Chiesa di Sant  Ignazio di Loyola, Weight: 374
-Edge: Trevi Fountain - Palazzo Montecitorio, Weight: 388
+Edge: Trevi Fountain - Palazzo Montecitorio, Weight: 384
 Edge: Trevi Fountain - Doria Pamphili Gallery, Weight: 358
 Edge: Trevi Fountain - Basilica San Silvestro in Capite, Weight: 305
 Edge: Trevi Fountain - Palazzo Sciarra Colonna Carbognano, Weight: 223
@@ -298,13 +296,12 @@ Edge: Trevi Fountain - Marcus Aurelius Column, Weight: 276
 Edge: Trevi Fountain - Church of Our Lady in Trivio, Weight: 56
 Edge: Trevi Fountain - Il Tempio di Adriano, Weight: 345
 Edge: Trevi Fountain - National Academy of San Luca, Weight: 79
-Edge: Trevi Fountain - Palazzo Wedekind, Weight: 321
 Edge: Capitoline Museums - Roman Forum, Weight: 235
 Edge: Capitoline Museums - Monument to Victor Emmanuel II, Weight: 189
 Edge: Capitoline Museums - Campidoglio, Weight: 50
 Edge: Capitoline Museums - Mercati di Traiano Museo dei Fori Imperiali, Weight: 428
 Edge: Capitoline Museums - Equestrian Statue of Marcus Aurelius, Weight: 52
-Edge: Capitoline Museums - Chiesa del Gesu, Weight: 399
+Edge: Capitoline Museums - Chiesa del Gesu, Weight: 422
 Edge: Capitoline Museums - Basilica di Santa Maria in Ara coeli, Weight: 123
 Edge: Capitoline Museums - Piazza Venezia, Weight: 313
 Edge: Capitoline Museums - Mamertine Prison, Weight: 165
@@ -331,8 +328,8 @@ Edge: Arch of Constantine - Antoninus and Faustina Temple, Weight: 417
 Edge: Arch of Constantine - Temple of Apollo Palatinus, Weight: 469
 Edge: Arch of Constantine - Basilica Santi Giovanni e Paolo, Weight: 386
 Edge: Obelisco del Pantheon - Chiesa di Sant  Ignazio di Loyola, Weight: 266
-Edge: Obelisco del Pantheon - Chiesa del Gesu, Weight: 457
-Edge: Obelisco del Pantheon - Palazzo Montecitorio, Weight: 291
+Edge: Obelisco del Pantheon - Chiesa del Gesu, Weight: 436
+Edge: Obelisco del Pantheon - Palazzo Montecitorio, Weight: 254
 Edge: Obelisco del Pantheon - Doria Pamphili Gallery, Weight: 427
 Edge: Obelisco del Pantheon - Pantheon, Weight: 79
 Edge: Obelisco del Pantheon - Basilica of Saint Mary of Minerva, Weight: 181
@@ -343,8 +340,8 @@ Edge: Obelisco del Pantheon - Palazzo Torres, Weight: 331
 Edge: Obelisco del Pantheon - Vidoni Palace, Weight: 394
 Edge: Obelisco del Pantheon - Fontana di Piazza Nicosia, Weight: 454
 Edge: Obelisco del Pantheon - Fiumi Fountain, Weight: 306
-Edge: Obelisco del Pantheon - Church of St. Louis of the French, Weight: 185
 Edge: Obelisco del Pantheon - Palazzo Madama, Weight: 217
+Edge: Obelisco del Pantheon - Church of St. Louis of the French, Weight: 164
 Edge: Obelisco del Pantheon - Sant Agnese in Agone, Weight: 352
 Edge: Obelisco del Pantheon - Chiesa di Santa Maria della Pace, Weight: 427
 Edge: Obelisco del Pantheon - Obelisco Agonale, Weight: 306
@@ -360,7 +357,6 @@ Edge: Obelisco del Pantheon - Chiesa di Santa Maria in Via, Weight: 467
 Edge: Obelisco del Pantheon - Marcus Aurelius Column, Weight: 317
 Edge: Obelisco del Pantheon - Il Tempio di Adriano, Weight: 228
 Edge: Obelisco del Pantheon - Basilica of St. Augustine in Campo Marzio, Weight: 265
-Edge: Obelisco del Pantheon - Palazzo Wedekind, Weight: 279
 Edge: Piazza di Spagna - Basilica San Silvestro in Capite, Weight: 335
 Edge: Piazza di Spagna - The Keats - Shelley House, Weight: 15
 Edge: Piazza di Spagna - Chiesa di Gesu e Maria, Weight: 464
@@ -405,7 +401,7 @@ Edge: Palazzo Massimo alle Terme - St. Paul s Within the Walls, Weight: 341
 Edge: Monument to Victor Emmanuel II - Campidoglio, Weight: 140
 Edge: Monument to Victor Emmanuel II - Mercati di Traiano Museo dei Fori Imperiali, Weight: 283
 Edge: Monument to Victor Emmanuel II - Equestrian Statue of Marcus Aurelius, Weight: 142
-Edge: Monument to Victor Emmanuel II - Chiesa del Gesu, Weight: 308
+Edge: Monument to Victor Emmanuel II - Chiesa del Gesu, Weight: 345
 Edge: Monument to Victor Emmanuel II - Basilica di Santa Maria in Ara coeli, Weight: 91
 Edge: Monument to Victor Emmanuel II - Doria Pamphili Gallery, Weight: 396
 Edge: Monument to Victor Emmanuel II - Piazza Venezia, Weight: 137
@@ -424,7 +420,7 @@ Edge: Monument to Victor Emmanuel II - Turtle Fountain, Weight: 468
 Edge: Monument to Victor Emmanuel II - Portico of Octavia, Weight: 445
 Edge: Campidoglio - Mercati di Traiano Museo dei Fori Imperiali, Weight: 382
 Edge: Campidoglio - Equestrian Statue of Marcus Aurelius, Weight: 11
-Edge: Campidoglio - Chiesa del Gesu, Weight: 375
+Edge: Campidoglio - Chiesa del Gesu, Weight: 402
 Edge: Campidoglio - Basilica di Santa Maria in Ara coeli, Weight: 75
 Edge: Campidoglio - Piazza Venezia, Weight: 268
 Edge: Campidoglio - Mamertine Prison, Weight: 141
@@ -455,7 +451,7 @@ Edge: Mercati di Traiano Museo dei Fori Imperiali - Temple of Vesta, Weight: 436
 Edge: Mercati di Traiano Museo dei Fori Imperiali - Chiesa San Marcello al Corso, Weight: 500
 Edge: Mercati di Traiano Museo dei Fori Imperiali - Column of Phocas, Weight: 371
 Edge: Mercati di Traiano Museo dei Fori Imperiali - Antoninus and Faustina Temple, Weight: 379
-Edge: Equestrian Statue of Marcus Aurelius - Chiesa del Gesu, Weight: 385
+Edge: Equestrian Statue of Marcus Aurelius - Chiesa del Gesu, Weight: 412
 Edge: Equestrian Statue of Marcus Aurelius - Basilica di Santa Maria in Ara coeli, Weight: 70
 Edge: Equestrian Statue of Marcus Aurelius - Piazza Venezia, Weight: 272
 Edge: Equestrian Statue of Marcus Aurelius - Mamertine Prison, Weight: 130
@@ -475,7 +471,7 @@ Edge: Equestrian Statue of Marcus Aurelius - Portico of Octavia, Weight: 375
 Edge: Convento dei Frati Cappuccini - Piazza Barberini, Weight: 119
 Edge: Convento dei Frati Cappuccini - National Gallery of Ancient Art in Barberini Palace, Weight: 208
 Edge: Convento dei Frati Cappuccini - The Keats - Shelley House, Weight: 498
-Edge: Convento dei Frati Cappuccini - The Church of Santa Maria della Vittoria, Weight: 496
+Edge: Convento dei Frati Cappuccini - Saint Mary of Victory, Weight: 496
 Edge: Convento dei Frati Cappuccini - Giorgio de Chirico House Museum, Weight: 485
 Edge: Convento dei Frati Cappuccini - Trinita dei Monti, Weight: 422
 Edge: Convento dei Frati Cappuccini - Palazzo di Propaganda Fide, Weight: 437
@@ -492,8 +488,8 @@ Edge: Quirinal Palace - Basilica di Sant Andrea delle Fratte, Weight: 494
 Edge: Quirinal Palace - Church of Our Lady in Trivio, Weight: 370
 Edge: Quirinal Palace - National Academy of San Luca, Weight: 326
 Edge: Basilica di San Clemente - Domus Aurea, Weight: 216
-Edge: Chiesa di Sant  Ignazio di Loyola - Chiesa del Gesu, Weight: 314
-Edge: Chiesa di Sant  Ignazio di Loyola - Palazzo Montecitorio, Weight: 321
+Edge: Chiesa di Sant  Ignazio di Loyola - Chiesa del Gesu, Weight: 319
+Edge: Chiesa di Sant  Ignazio di Loyola - Palazzo Montecitorio, Weight: 279
 Edge: Chiesa di Sant  Ignazio di Loyola - Doria Pamphili Gallery, Weight: 165
 Edge: Chiesa di Sant  Ignazio di Loyola - Piazza Venezia, Weight: 400
 Edge: Chiesa di Sant  Ignazio di Loyola - Pantheon, Weight: 249
@@ -504,42 +500,40 @@ Edge: Chiesa di Sant  Ignazio di Loyola - Basilica of St Mark Evangelist at Camp
 Edge: Chiesa di Sant  Ignazio di Loyola - Palazzo Sciarra Colonna Carbognano, Weight: 151
 Edge: Chiesa di Sant  Ignazio di Loyola - Chiesa San Marcello al Corso, Weight: 146
 Edge: Chiesa di Sant  Ignazio di Loyola - San Stanislao alle Botteghe Oscure, Weight: 433
-Edge: Chiesa di Sant  Ignazio di Loyola - Church of St. Louis of the French, Weight: 451
 Edge: Chiesa di Sant  Ignazio di Loyola - Palazzo Madama, Weight: 478
+Edge: Chiesa di Sant  Ignazio di Loyola - Church of St. Louis of the French, Weight: 430
 Edge: Chiesa di Sant  Ignazio di Loyola - Chiesa di Santa Maria in Via, Weight: 350
 Edge: Chiesa di Sant  Ignazio di Loyola - Marcus Aurelius Column, Weight: 233
 Edge: Chiesa di Sant  Ignazio di Loyola - Church of Our Lady in Trivio, Weight: 358
 Edge: Chiesa di Sant  Ignazio di Loyola - Il Tempio di Adriano, Weight: 132
 Edge: Chiesa di Sant  Ignazio di Loyola - National Academy of San Luca, Weight: 447
-Edge: Chiesa di Sant  Ignazio di Loyola - Palazzo Wedekind, Weight: 233
-Edge: Chiesa del Gesu - Basilica di Santa Maria in Ara coeli, Weight: 380
-Edge: Chiesa del Gesu - Doria Pamphili Gallery, Weight: 268
-Edge: Chiesa del Gesu - Piazza Venezia, Weight: 225
-Edge: Chiesa del Gesu - Pantheon, Weight: 388
-Edge: Chiesa del Gesu - Basilica of Saint Mary of Minerva, Weight: 275
-Edge: Chiesa del Gesu - Mamertine Prison, Weight: 486
-Edge: Chiesa del Gesu - Largo di Torre Argentina, Weight: 255
-Edge: Chiesa del Gesu - Basilica of St Mark Evangelist at Campidoglio, Weight: 149
-Edge: Chiesa del Gesu - Palazzo Sciarra Colonna Carbognano, Weight: 426
-Edge: Chiesa del Gesu - Basilica Ulpia, Weight: 393
-Edge: Chiesa del Gesu - Chiesa San Marcello al Corso, Weight: 322
-Edge: Chiesa del Gesu - San Stanislao alle Botteghe Oscure, Weight: 124
-Edge: Chiesa del Gesu - Marcello Theater, Weight: 443
-Edge: Chiesa del Gesu - Chiesa di Santa Maria in Portico in Campitelli, Weight: 323
-Edge: Chiesa del Gesu - Vidoni Palace, Weight: 412
-Edge: Chiesa del Gesu - Il Tempio di Adriano, Weight: 442
-Edge: Chiesa del Gesu - Turtle Fountain, Weight: 299
-Edge: Chiesa del Gesu - Tempio Maggiore, Weight: 462
-Edge: Chiesa del Gesu - Portico of Octavia, Weight: 394
 Edge: Piazza Barberini - Palazzo delle Esposizioni, Weight: 496
 Edge: Piazza Barberini - National Gallery of Ancient Art in Barberini Palace, Weight: 111
-Edge: Piazza Barberini - The Church of Santa Maria della Vittoria, Weight: 486
+Edge: Piazza Barberini - Saint Mary of Victory, Weight: 486
 Edge: Piazza Barberini - Trinita dei Monti, Weight: 496
 Edge: Piazza Barberini - Palazzo di Propaganda Fide, Weight: 464
 Edge: Piazza Barberini - Basilica di Sant Andrea delle Fratte, Weight: 412
 Edge: Piazza Barberini - National Academy of San Luca, Weight: 477
 Edge: Palazzo delle Esposizioni - National Gallery of Ancient Art in Barberini Palace, Weight: 426
 Edge: Palazzo delle Esposizioni - St. Paul s Within the Walls, Weight: 386
+Edge: Chiesa del Gesu - Basilica di Santa Maria in Ara coeli, Weight: 413
+Edge: Chiesa del Gesu - Doria Pamphili Gallery, Weight: 295
+Edge: Chiesa del Gesu - Piazza Venezia, Weight: 267
+Edge: Chiesa del Gesu - Pantheon, Weight: 364
+Edge: Chiesa del Gesu - Basilica of Saint Mary of Minerva, Weight: 256
+Edge: Chiesa del Gesu - Largo di Torre Argentina, Weight: 213
+Edge: Chiesa del Gesu - Basilica of St Mark Evangelist at Campidoglio, Weight: 191
+Edge: Chiesa del Gesu - Palazzo Sciarra Colonna Carbognano, Weight: 442
+Edge: Chiesa del Gesu - Basilica Ulpia, Weight: 435
+Edge: Chiesa del Gesu - Chiesa San Marcello al Corso, Weight: 346
+Edge: Chiesa del Gesu - San Stanislao alle Botteghe Oscure, Weight: 114
+Edge: Chiesa del Gesu - Marcello Theater, Weight: 443
+Edge: Chiesa del Gesu - Chiesa di Santa Maria in Portico in Campitelli, Weight: 316
+Edge: Chiesa del Gesu - Vidoni Palace, Weight: 370
+Edge: Chiesa del Gesu - Il Tempio di Adriano, Weight: 442
+Edge: Chiesa del Gesu - Turtle Fountain, Weight: 272
+Edge: Chiesa del Gesu - Tempio Maggiore, Weight: 447
+Edge: Chiesa del Gesu - Portico of Octavia, Weight: 382
 Edge: Basilica di Santa Maria in Ara coeli - Doria Pamphili Gallery, Weight: 488
 Edge: Basilica di Santa Maria in Ara coeli - Piazza Venezia, Weight: 229
 Edge: Basilica di Santa Maria in Ara coeli - Mamertine Prison, Weight: 105
@@ -555,32 +549,30 @@ Edge: Basilica di Santa Maria in Ara coeli - Chiesa di Santa Maria in Portico in
 Edge: Basilica di Santa Maria in Ara coeli - Turtle Fountain, Weight: 489
 Edge: Basilica di Santa Maria in Ara coeli - Tempio Maggiore, Weight: 495
 Edge: Basilica di Santa Maria in Ara coeli - Portico of Octavia, Weight: 434
-Edge: Palazzo Montecitorio - Doria Pamphili Gallery, Weight: 458
-Edge: Palazzo Montecitorio - Pantheon, Weight: 355
-Edge: Palazzo Montecitorio - Basilica of Saint Mary of Minerva, Weight: 394
-Edge: Palazzo Montecitorio - Basilica San Silvestro in Capite, Weight: 231
-Edge: Palazzo Montecitorio - Palazzo Sciarra Colonna Carbognano, Weight: 300
-Edge: Palazzo Montecitorio - Chiesa San Marcello al Corso, Weight: 410
-Edge: Palazzo Montecitorio - Fontana di Piazza Nicosia, Weight: 374
-Edge: Palazzo Montecitorio - Church of St. Louis of the French, Weight: 406
-Edge: Palazzo Montecitorio - Palazzo Madama, Weight: 454
-Edge: Palazzo Montecitorio - Biblioteca Angelica, Weight: 360
-Edge: Palazzo Montecitorio - Basilica of Saint Lawrence in Lucina, Weight: 199
-Edge: Palazzo Montecitorio - Basilica of SS. Ambrose and Charles on the Corso, Weight: 422
-Edge: Palazzo Montecitorio - Galleria del Cembalo, Weight: 303
-Edge: Palazzo Montecitorio - Chiesa di Santa Maria in Via, Weight: 225
-Edge: Palazzo Montecitorio - Palazzo di Propaganda Fide, Weight: 496
-Edge: Palazzo Montecitorio - Basilica di Sant Andrea delle Fratte, Weight: 471
-Edge: Palazzo Montecitorio - Marcus Aurelius Column, Weight: 129
+Edge: Palazzo Montecitorio - Doria Pamphili Gallery, Weight: 422
+Edge: Palazzo Montecitorio - Pantheon, Weight: 315
+Edge: Palazzo Montecitorio - Basilica of Saint Mary of Minerva, Weight: 350
+Edge: Palazzo Montecitorio - Basilica San Silvestro in Capite, Weight: 264
+Edge: Palazzo Montecitorio - Palazzo Sciarra Colonna Carbognano, Weight: 271
+Edge: Palazzo Montecitorio - Chiesa San Marcello al Corso, Weight: 376
+Edge: Palazzo Montecitorio - Fontana di Piazza Nicosia, Weight: 396
+Edge: Palazzo Montecitorio - Palazzo Madama, Weight: 430
+Edge: Palazzo Montecitorio - Church of St. Louis of the French, Weight: 360
+Edge: Palazzo Montecitorio - Biblioteca Angelica, Weight: 351
+Edge: Palazzo Montecitorio - Basilica of Saint Lawrence in Lucina, Weight: 243
+Edge: Palazzo Montecitorio - Basilica of SS. Ambrose and Charles on the Corso, Weight: 466
+Edge: Palazzo Montecitorio - Galleria del Cembalo, Weight: 341
+Edge: Palazzo Montecitorio - Chiesa di Santa Maria in Via, Weight: 234
+Edge: Palazzo Montecitorio - Basilica di Sant Andrea delle Fratte, Weight: 496
+Edge: Palazzo Montecitorio - Marcus Aurelius Column, Weight: 111
 Edge: Palazzo Montecitorio - Church of Our Lady in Trivio, Weight: 335
-Edge: Palazzo Montecitorio - Il Tempio di Adriano, Weight: 188
-Edge: Palazzo Montecitorio - Basilica of St. Augustine in Campo Marzio, Weight: 373
-Edge: Palazzo Montecitorio - Palazzo Borghese, Weight: 361
-Edge: Palazzo Montecitorio - National Academy of San Luca, Weight: 414
-Edge: Palazzo Montecitorio - Palazzo Wedekind, Weight: 97
+Edge: Palazzo Montecitorio - Il Tempio di Adriano, Weight: 147
+Edge: Palazzo Montecitorio - Basilica of St. Augustine in Campo Marzio, Weight: 366
+Edge: Palazzo Montecitorio - Palazzo Borghese, Weight: 398
+Edge: Palazzo Montecitorio - National Academy of San Luca, Weight: 419
 Edge: Domus Aurea - Mose di Michelangelo, Weight: 422
 Edge: National Gallery of Ancient Art in Barberini Palace - St. Paul s Within the Walls, Weight: 427
-Edge: National Gallery of Ancient Art in Barberini Palace - The Church of Santa Maria della Vittoria, Weight: 409
+Edge: National Gallery of Ancient Art in Barberini Palace - Saint Mary of Victory, Weight: 409
 Edge: Doria Pamphili Gallery - Piazza Venezia, Weight: 259
 Edge: Doria Pamphili Gallery - Pantheon, Weight: 396
 Edge: Doria Pamphili Gallery - Basilica of Saint Mary of Minerva, Weight: 294
@@ -595,7 +587,6 @@ Edge: Doria Pamphili Gallery - Marcus Aurelius Column, Weight: 345
 Edge: Doria Pamphili Gallery - Church of Our Lady in Trivio, Weight: 368
 Edge: Doria Pamphili Gallery - Il Tempio di Adriano, Weight: 278
 Edge: Doria Pamphili Gallery - National Academy of San Luca, Weight: 438
-Edge: Doria Pamphili Gallery - Palazzo Wedekind, Weight: 363
 Edge: Piazza Venezia - Basilica of Saint Mary of Minerva, Weight: 451
 Edge: Piazza Venezia - Mamertine Prison, Weight: 321
 Edge: Piazza Venezia - Largo di Torre Argentina, Weight: 475
@@ -618,8 +609,8 @@ Edge: Pantheon - San Stanislao alle Botteghe Oscure, Weight: 463
 Edge: Pantheon - Palazzo Torres, Weight: 308
 Edge: Pantheon - Vidoni Palace, Weight: 327
 Edge: Pantheon - Fiumi Fountain, Weight: 316
-Edge: Pantheon - Church of St. Louis of the French, Weight: 221
 Edge: Pantheon - Palazzo Madama, Weight: 237
+Edge: Pantheon - Church of St. Louis of the French, Weight: 205
 Edge: Pantheon - Sant Agnese in Agone, Weight: 359
 Edge: Pantheon - Chiesa di Santa Maria della Pace, Weight: 454
 Edge: Pantheon - Obelisco Agonale, Weight: 317
@@ -633,7 +624,6 @@ Edge: Pantheon - Fountain of the Moro, Weight: 313
 Edge: Pantheon - Marcus Aurelius Column, Weight: 358
 Edge: Pantheon - Il Tempio di Adriano, Weight: 252
 Edge: Pantheon - Basilica of St. Augustine in Campo Marzio, Weight: 328
-Edge: Pantheon - Palazzo Wedekind, Weight: 326
 Edge: Basilica of Saint Mary of Minerva - Largo di Torre Argentina, Weight: 302
 Edge: Basilica of Saint Mary of Minerva - Basilica of St Mark Evangelist at Campidoglio, Weight: 383
 Edge: Basilica of Saint Mary of Minerva - Palazzo Sciarra Colonna Carbognano, Weight: 325
@@ -642,8 +632,8 @@ Edge: Basilica of Saint Mary of Minerva - San Stanislao alle Botteghe Oscure, We
 Edge: Basilica of Saint Mary of Minerva - Palazzo Torres, Weight: 391
 Edge: Basilica of Saint Mary of Minerva - Vidoni Palace, Weight: 336
 Edge: Basilica of Saint Mary of Minerva - Fiumi Fountain, Weight: 423
-Edge: Basilica of Saint Mary of Minerva - Church of St. Louis of the French, Weight: 338
 Edge: Basilica of Saint Mary of Minerva - Palazzo Madama, Weight: 350
+Edge: Basilica of Saint Mary of Minerva - Church of St. Louis of the French, Weight: 323
 Edge: Basilica of Saint Mary of Minerva - Sant Agnese in Agone, Weight: 463
 Edge: Basilica of Saint Mary of Minerva - Obelisco Agonale, Weight: 424
 Edge: Basilica of Saint Mary of Minerva - Biblioteca Angelica, Weight: 429
@@ -655,11 +645,10 @@ Edge: Basilica of Saint Mary of Minerva - Chiesa di Santa Maria in Via, Weight: 
 Edge: Basilica of Saint Mary of Minerva - Marcus Aurelius Column, Weight: 357
 Edge: Basilica of Saint Mary of Minerva - Il Tempio di Adriano, Weight: 239
 Edge: Basilica of Saint Mary of Minerva - Basilica of St. Augustine in Campo Marzio, Weight: 443
-Edge: Basilica of Saint Mary of Minerva - Palazzo Wedekind, Weight: 337
 Edge: Basilica of Saint Mary of Minerva - Turtle Fountain, Weight: 462
 Edge: Santa Maria degli Angeli e dei Martiri - Basilica del Sacro Cuore di Gesu, Weight: 457
 Edge: Santa Maria degli Angeli e dei Martiri - St. Paul s Within the Walls, Weight: 317
-Edge: Santa Maria degli Angeli e dei Martiri - The Church of Santa Maria della Vittoria, Weight: 271
+Edge: Santa Maria degli Angeli e dei Martiri - Saint Mary of Victory, Weight: 271
 Edge: Mamertine Prison - Capanne di Romolo, Weight: 447
 Edge: Mamertine Prison - Basilica of St Mark Evangelist at Campidoglio, Weight: 373
 Edge: Mamertine Prison - Septimius Severus Arch, Weight: 45
@@ -700,7 +689,6 @@ Edge: Basilica San Silvestro in Capite - Church of Our Lady in Trivio, Weight: 2
 Edge: Basilica San Silvestro in Capite - Il Tempio di Adriano, Weight: 354
 Edge: Basilica San Silvestro in Capite - Palazzo Borghese, Weight: 404
 Edge: Basilica San Silvestro in Capite - National Academy of San Luca, Weight: 284
-Edge: Basilica San Silvestro in Capite - Palazzo Wedekind, Weight: 255
 Edge: Largo di Torre Argentina - Basilica of St Mark Evangelist at Campidoglio, Weight: 401
 Edge: Largo di Torre Argentina - San Stanislao alle Botteghe Oscure, Weight: 215
 Edge: Largo di Torre Argentina - Marcello Theater, Weight: 461
@@ -710,6 +698,7 @@ Edge: Largo di Torre Argentina - Palazzo Torres, Weight: 397
 Edge: Largo di Torre Argentina - Vidoni Palace, Weight: 178
 Edge: Largo di Torre Argentina - Palazzo Madama, Weight: 481
 Edge: Largo di Torre Argentina - Galleria Spada, Weight: 431
+Edge: Largo di Torre Argentina - Church of St. Louis of the French, Weight: 499
 Edge: Largo di Torre Argentina - Campo de  Fiori, Weight: 417
 Edge: Largo di Torre Argentina - Museo di Roma - Palazzo Braschi, Weight: 417
 Edge: Largo di Torre Argentina - Palazzo Pamphili, Weight: 437
@@ -730,7 +719,7 @@ Edge: Basilica of St Mark Evangelist at Campidoglio - Chiesa di Santa Maria in P
 Edge: Basilica of St Mark Evangelist at Campidoglio - Il Tempio di Adriano, Weight: 485
 Edge: Basilica of St Mark Evangelist at Campidoglio - Turtle Fountain, Weight: 406
 Edge: Basilica of St Mark Evangelist at Campidoglio - Portico of Octavia, Weight: 453
-Edge: St. Paul s Within the Walls - The Church of Santa Maria della Vittoria, Weight: 386
+Edge: St. Paul s Within the Walls - Saint Mary of Victory, Weight: 386
 Edge: Septimius Severus Arch - Basilica Ulpia, Weight: 298
 Edge: Septimius Severus Arch - Temple of Vesta, Weight: 177
 Edge: Septimius Severus Arch - San Stanislao alle Botteghe Oscure, Weight: 498
@@ -746,7 +735,6 @@ Edge: Palazzo Sciarra Colonna Carbognano - Marcus Aurelius Column, Weight: 174
 Edge: Palazzo Sciarra Colonna Carbognano - Church of Our Lady in Trivio, Weight: 211
 Edge: Palazzo Sciarra Colonna Carbognano - Il Tempio di Adriano, Weight: 159
 Edge: Palazzo Sciarra Colonna Carbognano - National Academy of San Luca, Weight: 296
-Edge: Palazzo Sciarra Colonna Carbognano - Palazzo Wedekind, Weight: 203
 Edge: The Keats - Shelley House - Chiesa di Gesu e Maria, Weight: 473
 Edge: The Keats - Shelley House - Chiesa Parrocchiale San Giacomo in Augusta, Weight: 476
 Edge: The Keats - Shelley House - Villa Medici, Weight: 282
@@ -776,7 +764,6 @@ Edge: Chiesa San Marcello al Corso - Marcus Aurelius Column, Weight: 292
 Edge: Chiesa San Marcello al Corso - Church of Our Lady in Trivio, Weight: 309
 Edge: Chiesa San Marcello al Corso - Il Tempio di Adriano, Weight: 238
 Edge: Chiesa San Marcello al Corso - National Academy of San Luca, Weight: 382
-Edge: Chiesa San Marcello al Corso - Palazzo Wedekind, Weight: 313
 Edge: San Stanislao alle Botteghe Oscure - Marcello Theater, Weight: 329
 Edge: San Stanislao alle Botteghe Oscure - Chiesa di Santa Maria in Portico in Campitelli, Weight: 202
 Edge: San Stanislao alle Botteghe Oscure - Vidoni Palace, Weight: 392
@@ -843,9 +830,9 @@ Edge: Fontana di Piazza Farnese - Palazzo Pamphili, Weight: 345
 Edge: Fontana di Piazza Farnese - Fountain of the Moro, Weight: 373
 Edge: Palazzo Torres - Vidoni Palace, Weight: 235
 Edge: Palazzo Torres - Fiumi Fountain, Weight: 129
-Edge: Palazzo Torres - Church of St. Louis of the French, Weight: 221
 Edge: Palazzo Torres - Palazzo Madama, Weight: 172
 Edge: Palazzo Torres - Galleria Spada, Weight: 417
+Edge: Palazzo Torres - Church of St. Louis of the French, Weight: 238
 Edge: Palazzo Torres - Palazzo Farnese, Weight: 398
 Edge: Palazzo Torres - Sant Agnese in Agone, Weight: 130
 Edge: Palazzo Torres - Chiesa di Santa Maria della Pace, Weight: 265
@@ -863,7 +850,7 @@ Edge: Palazzo Torres - Fountain of the Moro, Weight: 36
 Edge: Palazzo Torres - Basilica of St. Augustine in Campo Marzio, Weight: 346
 Edge: Castel Sant Angelo - Church Holy Spirit in Sassia, Weight: 476
 Edge: Castel Sant Angelo - Parrocchia Santuario Santa Maria in Traspontina, Weight: 342
-Edge: Castel Sant Angelo - St. Angelo Bridge, Weight: 142
+Edge: Castel Sant Angelo - St. Angelo Bridge, Weight: 129
 Edge: Castel Sant Angelo - Corte Suprema di Cassazione, Weight: 368
 Edge: Castel Sant Angelo - Palazzo del Commendatore, Weight: 384
 Edge: Castel Sant Angelo - Porta Santo Spirito, Weight: 488
@@ -873,9 +860,9 @@ Edge: Castel Sant Angelo - Ponte Vittorio Emanuele II, Weight: 266
 Edge: Castel Sant Angelo - Operativa Arte Contemporanea, Weight: 375
 Edge: Castel Sant Angelo - Oratorio dei Filippini (Oratory of St Philip Neri), Weight: 498
 Edge: Vidoni Palace - Fiumi Fountain, Weight: 356
-Edge: Vidoni Palace - Church of St. Louis of the French, Weight: 392
 Edge: Vidoni Palace - Palazzo Madama, Weight: 359
 Edge: Vidoni Palace - Galleria Spada, Weight: 321
+Edge: Vidoni Palace - Church of St. Louis of the French, Weight: 397
 Edge: Vidoni Palace - Palazzo Farnese, Weight: 370
 Edge: Vidoni Palace - Sant Agnese in Agone, Weight: 365
 Edge: Vidoni Palace - Chiesa di Santa Maria della Pace, Weight: 500
@@ -899,8 +886,8 @@ Edge: Vatican Museums - Monastero Mater Ecclesi, Weight: 374
 Edge: Vatican Museums - House of Hospitality Paul VI, Weight: 125
 Edge: Vatican Museums - Chiesa di Santa Maria del Rosario in Prati, Weight: 461
 Edge: Fontana di Piazza Nicosia - Fiumi Fountain, Weight: 482
-Edge: Fontana di Piazza Nicosia - Church of St. Louis of the French, Weight: 394
 Edge: Fontana di Piazza Nicosia - Palazzo Madama, Weight: 435
+Edge: Fontana di Piazza Nicosia - Church of St. Louis of the French, Weight: 388
 Edge: Fontana di Piazza Nicosia - Chiesa di Santa Maria della Pace, Weight: 445
 Edge: Fontana di Piazza Nicosia - Obelisco Agonale, Weight: 478
 Edge: Fontana di Piazza Nicosia - Biblioteca Angelica, Weight: 259
@@ -914,7 +901,6 @@ Edge: Fontana di Piazza Nicosia - Galleria del Cembalo, Weight: 179
 Edge: Fontana di Piazza Nicosia - Church of Saint Roch  all Augusteo , Weight: 281
 Edge: Fontana di Piazza Nicosia - Basilica of St. Augustine in Campo Marzio, Weight: 257
 Edge: Fontana di Piazza Nicosia - Palazzo Borghese, Weight: 165
-Edge: Fontana di Piazza Nicosia - Palazzo Wedekind, Weight: 466
 Edge: St. Peter s Basilica - Gardens of Vatican City, Weight: 346
 Edge: St. Peter s Basilica - Sistine Chapel, Weight: 97
 Edge: St. Peter s Basilica - Bernini Fountain, Weight: 281
@@ -926,7 +912,7 @@ Edge: St. Peter s Basilica - Vatican Apostolic Archive, Weight: 311
 Edge: St. Peter s Basilica - Carriage Pavilion, Weight: 345
 Edge: St. Peter s Basilica - Monastero Mater Ecclesi, Weight: 304
 Edge: Church Holy Spirit in Sassia - Parrocchia Santuario Santa Maria in Traspontina, Weight: 174
-Edge: Church Holy Spirit in Sassia - St. Angelo Bridge, Weight: 454
+Edge: Church Holy Spirit in Sassia - St. Angelo Bridge, Weight: 455
 Edge: Church Holy Spirit in Sassia - Church of St Onuphrius at the Janiculum, Weight: 431
 Edge: Church Holy Spirit in Sassia - Palazzo del Commendatore, Weight: 104
 Edge: Church Holy Spirit in Sassia - Porta Santo Spirito, Weight: 120
@@ -937,7 +923,7 @@ Edge: Church Holy Spirit in Sassia - Apostolic Palace, Weight: 471
 Edge: Church Holy Spirit in Sassia - Ponte Vittorio Emanuele II, Weight: 275
 Edge: Church Holy Spirit in Sassia - Chiesa di Sant Anna dei Palafrenieri, Weight: 421
 Edge: Church Holy Spirit in Sassia - Operativa Arte Contemporanea, Weight: 444
-Edge: Parrocchia Santuario Santa Maria in Traspontina - St. Angelo Bridge, Weight: 366
+Edge: Parrocchia Santuario Santa Maria in Traspontina - St. Angelo Bridge, Weight: 362
 Edge: Parrocchia Santuario Santa Maria in Traspontina - Palazzo del Commendatore, Weight: 147
 Edge: Parrocchia Santuario Santa Maria in Traspontina - Porta Santo Spirito, Weight: 257
 Edge: Parrocchia Santuario Santa Maria in Traspontina - Bernini Fountain, Weight: 420
@@ -953,8 +939,8 @@ Edge: Gardens of Vatican City - Vatican Apostolic Archive, Weight: 409
 Edge: Gardens of Vatican City - Carriage Pavilion, Weight: 332
 Edge: Gardens of Vatican City - Monastero Mater Ecclesi, Weight: 61
 Edge: Gardens of Vatican City - House of Hospitality Paul VI, Weight: 380
-Edge: Fiumi Fountain - Church of St. Louis of the French, Weight: 138
 Edge: Fiumi Fountain - Palazzo Madama, Weight: 92
+Edge: Fiumi Fountain - Church of St. Louis of the French, Weight: 161
 Edge: Fiumi Fountain - Sant Agnese in Agone, Weight: 46
 Edge: Fiumi Fountain - Chiesa di Santa Maria della Pace, Weight: 154
 Edge: Fiumi Fountain - Obelisco Agonale, Weight: 4
@@ -985,24 +971,7 @@ Edge: Villa Farnesina - Basilica of Santa Maria in Trastevere, Weight: 499
 Edge: Villa Farnesina - Campo de  Fiori, Weight: 447
 Edge: Villa Farnesina - Saint Eligio of Orefici, Weight: 239
 Edge: Villa Farnesina - Santa Maria del Suffragio, Weight: 480
-Edge: Church of St. Louis of the French - Palazzo Madama, Weight: 50
-Edge: Church of St. Louis of the French - Sant Agnese in Agone, Weight: 184
-Edge: Church of St. Louis of the French - Chiesa di Santa Maria della Pace, Weight: 241
-Edge: Church of St. Louis of the French - Obelisco Agonale, Weight: 136
-Edge: Church of St. Louis of the French - Biblioteca Angelica, Weight: 135
-Edge: Church of St. Louis of the French - Campo de  Fiori, Weight: 480
-Edge: Church of St. Louis of the French - Piazza Navona, Weight: 130
-Edge: Church of St. Louis of the French - Museo di Roma - Palazzo Braschi, Weight: 271
-Edge: Church of St. Louis of the French - Church of Santa Maria in Vallicella, Weight: 462
-Edge: Church of St. Louis of the French - Oratorio dei Filippini (Oratory of St Philip Neri), Weight: 500
-Edge: Church of St. Louis of the French - Welcome To Rome, Weight: 378
-Edge: Church of St. Louis of the French - Stadium of Domitian, Weight: 181
-Edge: Church of St. Louis of the French - Palazzo Pamphili, Weight: 230
-Edge: Church of St. Louis of the French - Fountain of the Moro, Weight: 198
-Edge: Church of St. Louis of the French - Marcus Aurelius Column, Weight: 473
-Edge: Church of St. Louis of the French - Il Tempio di Adriano, Weight: 404
-Edge: Church of St. Louis of the French - Basilica of St. Augustine in Campo Marzio, Weight: 141
-Edge: Church of St. Louis of the French - Palazzo Wedekind, Weight: 430
+Edge: Palazzo Madama - Church of St. Louis of the French, Weight: 71
 Edge: Palazzo Madama - Sant Agnese in Agone, Weight: 138
 Edge: Palazzo Madama - Chiesa di Santa Maria della Pace, Weight: 217
 Edge: Palazzo Madama - Obelisco Agonale, Weight: 90
@@ -1018,7 +987,6 @@ Edge: Palazzo Madama - Palazzo Pamphili, Weight: 180
 Edge: Palazzo Madama - Fountain of the Moro, Weight: 148
 Edge: Palazzo Madama - Il Tempio di Adriano, Weight: 442
 Edge: Palazzo Madama - Basilica of St. Augustine in Campo Marzio, Weight: 178
-Edge: Palazzo Madama - Palazzo Wedekind, Weight: 474
 Edge: Galleria Spada - Palazzo Farnese, Weight: 112
 Edge: Galleria Spada - Campo de  Fiori, Weight: 171
 Edge: Galleria Spada - Museo di Roma - Palazzo Braschi, Weight: 377
@@ -1027,17 +995,33 @@ Edge: Galleria Spada - Welcome To Rome, Weight: 356
 Edge: Galleria Spada - Palazzo Pamphili, Weight: 422
 Edge: Galleria Spada - Fountain of the Moro, Weight: 446
 Edge: Galleria Spada - Turtle Fountain, Weight: 471
-Edge: St. Angelo Bridge - Chiesa di Santa Maria della Pace, Weight: 481
-Edge: St. Angelo Bridge - Corte Suprema di Cassazione, Weight: 447
-Edge: St. Angelo Bridge - Church of Santa Maria in Vallicella, Weight: 430
-Edge: St. Angelo Bridge - Palazzo del Commendatore, Weight: 351
-Edge: St. Angelo Bridge - Porta Santo Spirito, Weight: 430
-Edge: St. Angelo Bridge - Church of Saints Michael and Magnus, Weight: 453
-Edge: St. Angelo Bridge - Museum Leonardo Da Vinci Experience, Weight: 407
-Edge: St. Angelo Bridge - Ponte Vittorio Emanuele II, Weight: 190
-Edge: St. Angelo Bridge - Operativa Arte Contemporanea, Weight: 237
-Edge: St. Angelo Bridge - Santa Maria del Suffragio, Weight: 435
-Edge: St. Angelo Bridge - Oratorio dei Filippini (Oratory of St Philip Neri), Weight: 363
+Edge: Church of St. Louis of the French - Sant Agnese in Agone, Weight: 207
+Edge: Church of St. Louis of the French - Chiesa di Santa Maria della Pace, Weight: 263
+Edge: Church of St. Louis of the French - Obelisco Agonale, Weight: 159
+Edge: Church of St. Louis of the French - Biblioteca Angelica, Weight: 132
+Edge: Church of St. Louis of the French - Campo de  Fiori, Weight: 497
+Edge: Church of St. Louis of the French - Piazza Navona, Weight: 153
+Edge: Church of St. Louis of the French - Museo di Roma - Palazzo Braschi, Weight: 289
+Edge: Church of St. Louis of the French - Church of Santa Maria in Vallicella, Weight: 486
+Edge: Church of St. Louis of the French - Welcome To Rome, Weight: 399
+Edge: Church of St. Louis of the French - Stadium of Domitian, Weight: 199
+Edge: Church of St. Louis of the French - Palazzo Pamphili, Weight: 249
+Edge: Church of St. Louis of the French - Fountain of the Moro, Weight: 217
+Edge: Church of St. Louis of the French - Galleria del Cembalo, Weight: 489
+Edge: Church of St. Louis of the French - Marcus Aurelius Column, Weight: 450
+Edge: Church of St. Louis of the French - Il Tempio di Adriano, Weight: 381
+Edge: Church of St. Louis of the French - Basilica of St. Augustine in Campo Marzio, Weight: 141
+Edge: St. Angelo Bridge - Chiesa di Santa Maria della Pace, Weight: 487
+Edge: St. Angelo Bridge - Corte Suprema di Cassazione, Weight: 438
+Edge: St. Angelo Bridge - Church of Santa Maria in Vallicella, Weight: 441
+Edge: St. Angelo Bridge - Palazzo del Commendatore, Weight: 352
+Edge: St. Angelo Bridge - Porta Santo Spirito, Weight: 434
+Edge: St. Angelo Bridge - Church of Saints Michael and Magnus, Weight: 454
+Edge: St. Angelo Bridge - Museum Leonardo Da Vinci Experience, Weight: 405
+Edge: St. Angelo Bridge - Ponte Vittorio Emanuele II, Weight: 194
+Edge: St. Angelo Bridge - Operativa Arte Contemporanea, Weight: 249
+Edge: St. Angelo Bridge - Santa Maria del Suffragio, Weight: 447
+Edge: St. Angelo Bridge - Oratorio dei Filippini (Oratory of St Philip Neri), Weight: 375
 Edge: Palazzo Farnese - Sant Agnese in Agone, Weight: 476
 Edge: Palazzo Farnese - Campo de  Fiori, Weight: 140
 Edge: Palazzo Farnese - Museo di Roma - Palazzo Braschi, Weight: 349
@@ -1060,7 +1044,7 @@ Edge: Sant Agnese in Agone - Stadium of Domitian, Weight: 152
 Edge: Sant Agnese in Agone - Palazzo Pamphili, Weight: 102
 Edge: Sant Agnese in Agone - Fountain of the Moro, Weight: 94
 Edge: Sant Agnese in Agone - Basilica of St. Augustine in Campo Marzio, Weight: 264
-Edge: Botanical Garden of Rome - Chiesa di San Pietro in Montorio, Weight: 496
+Edge: Botanical Garden of Rome - Church of San Pietro in Montorio, Weight: 496
 Edge: Chiesa di Santa Maria della Pace - Obelisco Agonale, Weight: 152
 Edge: Chiesa di Santa Maria della Pace - Biblioteca Angelica, Weight: 255
 Edge: Chiesa di Santa Maria della Pace - Campo de  Fiori, Weight: 456
@@ -1086,7 +1070,7 @@ Edge: Obelisco Agonale - Stadium of Domitian, Weight: 141
 Edge: Obelisco Agonale - Palazzo Pamphili, Weight: 119
 Edge: Obelisco Agonale - Fountain of the Moro, Weight: 98
 Edge: Obelisco Agonale - Basilica of St. Augustine in Campo Marzio, Weight: 226
-Edge: Basilica of Santa Maria in Trastevere - Chiesa di San Pietro in Montorio, Weight: 282
+Edge: Basilica of Santa Maria in Trastevere - Church of San Pietro in Montorio, Weight: 282
 Edge: Church of St Onuphrius at the Janiculum - Palazzo del Commendatore, Weight: 438
 Edge: Church of St Onuphrius at the Janiculum - Porta Santo Spirito, Weight: 324
 Edge: Church of St Onuphrius at the Janiculum - Church of Saints Michael and Magnus, Weight: 432
@@ -1105,7 +1089,6 @@ Edge: Biblioteca Angelica - Marcus Aurelius Column, Weight: 458
 Edge: Biblioteca Angelica - Il Tempio di Adriano, Weight: 421
 Edge: Biblioteca Angelica - Basilica of St. Augustine in Campo Marzio, Weight: 15
 Edge: Biblioteca Angelica - Palazzo Borghese, Weight: 400
-Edge: Biblioteca Angelica - Palazzo Wedekind, Weight: 413
 Edge: Campo de  Fiori - Piazza Navona, Weight: 392
 Edge: Campo de  Fiori - Museo di Roma - Palazzo Braschi, Weight: 213
 Edge: Campo de  Fiori - Church of Santa Maria in Vallicella, Weight: 377
@@ -1315,7 +1298,6 @@ Edge: Basilica of Saint Lawrence in Lucina - Il Tempio di Adriano, Weight: 383
 Edge: Basilica of Saint Lawrence in Lucina - Basilica of St. Augustine in Campo Marzio, Weight: 455
 Edge: Basilica of Saint Lawrence in Lucina - Palazzo Borghese, Weight: 228
 Edge: Basilica of Saint Lawrence in Lucina - National Academy of San Luca, Weight: 457
-Edge: Basilica of Saint Lawrence in Lucina - Palazzo Wedekind, Weight: 281
 Edge: Basilica of SS. Ambrose and Charles on the Corso - Giorgio de Chirico House Museum, Weight: 350
 Edge: Basilica of SS. Ambrose and Charles on the Corso - Fontana della Barcaccia, Weight: 322
 Edge: Basilica of SS. Ambrose and Charles on the Corso - Fontana del Babuino, Weight: 291
@@ -1393,14 +1375,12 @@ Edge: Galleria del Cembalo - Church of Saint Roch  all Augusteo , Weight: 206
 Edge: Galleria del Cembalo - Il Tempio di Adriano, Weight: 488
 Edge: Galleria del Cembalo - Basilica of St. Augustine in Campo Marzio, Weight: 385
 Edge: Galleria del Cembalo - Palazzo Borghese, Weight: 59
-Edge: Galleria del Cembalo - Palazzo Wedekind, Weight: 400
 Edge: Chiesa di Santa Maria in Via - Palazzo di Propaganda Fide, Weight: 344
 Edge: Chiesa di Santa Maria in Via - Basilica di Sant Andrea delle Fratte, Weight: 280
 Edge: Chiesa di Santa Maria in Via - Marcus Aurelius Column, Weight: 149
 Edge: Chiesa di Santa Maria in Via - Church of Our Lady in Trivio, Weight: 123
 Edge: Chiesa di Santa Maria in Via - Il Tempio di Adriano, Weight: 260
 Edge: Chiesa di Santa Maria in Via - National Academy of San Luca, Weight: 190
-Edge: Chiesa di Santa Maria in Via - Palazzo Wedekind, Weight: 188
 Edge: Palazzo di Propaganda Fide - Basilica di Sant Andrea delle Fratte, Weight: 114
 Edge: Palazzo di Propaganda Fide - Marcus Aurelius Column, Weight: 482
 Edge: Palazzo di Propaganda Fide - Church of Our Lady in Trivio, Weight: 370
@@ -1408,7 +1388,6 @@ Edge: Palazzo di Propaganda Fide - National Academy of San Luca, Weight: 327
 Edge: Basilica di Sant Andrea delle Fratte - Marcus Aurelius Column, Weight: 429
 Edge: Basilica di Sant Andrea delle Fratte - Church of Our Lady in Trivio, Weight: 275
 Edge: Basilica di Sant Andrea delle Fratte - National Academy of San Luca, Weight: 219
-Edge: Basilica di Sant Andrea delle Fratte - Palazzo Wedekind, Weight: 463
 Edge: Piazza del Popolo - All Saints  Anglican Church Rome, Weight: 342
 Edge: Piazza del Popolo - Hendrik Christian Anderson Museum, Weight: 485
 Edge: Piazza del Popolo - Goethe House, Weight: 201
@@ -1417,7 +1396,6 @@ Edge: Marcus Aurelius Column - Il Tempio di Adriano, Weight: 117
 Edge: Marcus Aurelius Column - Basilica of St. Augustine in Campo Marzio, Weight: 473
 Edge: Marcus Aurelius Column - Palazzo Borghese, Weight: 484
 Edge: Marcus Aurelius Column - National Academy of San Luca, Weight: 318
-Edge: Marcus Aurelius Column - Palazzo Wedekind, Weight: 44
 Edge: Piazza di Siena - Museo Carlo Bilotti, Weight: 315
 Edge: All Saints  Anglican Church Rome - Church of Saint Roch  all Augusteo , Weight: 400
 Edge: All Saints  Anglican Church Rome - Goethe House, Weight: 159
@@ -1425,19 +1403,14 @@ Edge: Church of Saint Roch  all Augusteo  - Goethe House, Weight: 405
 Edge: Church of Saint Roch  all Augusteo  - Palazzo Borghese, Weight: 155
 Edge: Church of Our Lady in Trivio - Il Tempio di Adriano, Weight: 310
 Edge: Church of Our Lady in Trivio - National Academy of San Luca, Weight: 92
-Edge: Church of Our Lady in Trivio - Palazzo Wedekind, Weight: 274
 Edge: Il Tempio di Adriano - Basilica of St. Augustine in Campo Marzio, Weight: 437
 Edge: Il Tempio di Adriano - National Academy of San Luca, Weight: 403
-Edge: Il Tempio di Adriano - Palazzo Wedekind, Weight: 104
 Edge: Basilica of St. Augustine in Campo Marzio - Palazzo Borghese, Weight: 401
-Edge: Basilica of St. Augustine in Campo Marzio - Palazzo Wedekind, Weight: 428
-Edge: Palazzo Borghese - Palazzo Wedekind, Weight: 458
-Edge: National Academy of San Luca - Palazzo Wedekind, Weight: 362
 Edge: Cloaca Maxima - Circus Maximus, Weight: 497
 Edge: Cloaca Maxima - Mouth of Truth, Weight: 122
 Edge: Cloaca Maxima - Basilica di Santa Sabina all Aventino, Weight: 462
 Edge: Cloaca Maxima - Santa Maria in Cosmedin, Weight: 137
-Edge: Cloaca Maxima - Basilica of St Cecilia in Trastevere, Weight: 340
+Edge: Cloaca Maxima - Basilica di Santa Cecilia in Trastevere, Weight: 340
 Edge: Cloaca Maxima - Basilica di San Bartolomeo all Isola, Weight: 247
 Edge: Cloaca Maxima - Tempio Maggiore, Weight: 411
 Edge: Cloaca Maxima - Portico of Octavia, Weight: 449
@@ -1450,15 +1423,15 @@ Edge: Circus Maximus - Santa Maria in Cosmedin, Weight: 361
 Edge: Circus Maximus - Chiesa di Santa Prisca, Weight: 362
 Edge: Mouth of Truth - Basilica di Santa Sabina all Aventino, Weight: 423
 Edge: Mouth of Truth - Santa Maria in Cosmedin, Weight: 15
-Edge: Mouth of Truth - Basilica of St Cecilia in Trastevere, Weight: 417
+Edge: Mouth of Truth - Basilica di Santa Cecilia in Trastevere, Weight: 417
 Edge: Mouth of Truth - Basilica di San Bartolomeo all Isola, Weight: 365
 Edge: Basilica di Santa Sabina all Aventino - Santa Maria in Cosmedin, Weight: 425
-Edge: Basilica di Santa Sabina all Aventino - Basilica of St Cecilia in Trastevere, Weight: 398
+Edge: Basilica di Santa Sabina all Aventino - Basilica di Santa Cecilia in Trastevere, Weight: 398
 Edge: Basilica di Santa Sabina all Aventino - Chiesa di Santa Prisca, Weight: 357
-Edge: Santa Maria in Cosmedin - Basilica of St Cecilia in Trastevere, Weight: 431
+Edge: Santa Maria in Cosmedin - Basilica di Santa Cecilia in Trastevere, Weight: 431
 Edge: Santa Maria in Cosmedin - Basilica di San Bartolomeo all Isola, Weight: 378
 Edge: Non-Catholic Cemetery - Pyramid of Caius Cestius, Weight: 118
-Edge: Basilica of St Cecilia in Trastevere - Basilica di San Bartolomeo all Isola, Weight: 375
+Edge: Basilica di Santa Cecilia in Trastevere - Basilica di San Bartolomeo all Isola, Weight: 375
 Edge: Turtle Fountain - Basilica di San Bartolomeo all Isola, Weight: 392
 Edge: Turtle Fountain - Tempio Maggiore, Weight: 207
 Edge: Turtle Fountain - Portico of Octavia, Weight: 167

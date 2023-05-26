@@ -103,7 +103,7 @@ def generateStringList(l: list):
 
 # Log configuration
 log.basicConfig(level=log.INFO)
-handler = log.FileHandler("logPreprocessor.txt", mode="w")
+handler = log.FileHandler("Logs/logPreprocessor.txt", mode="w")
 handler.setLevel(log.INFO)
 log.getLogger("").addHandler(handler)
 
@@ -136,7 +136,8 @@ log.info("Map populated correctly.\n")
 
 # Colosseo
 poiMap["ChIJrRMgU7ZhLxMRxAOFkC7I8Sg"].type = "Monument"
-poiMap["ChIJrRMgU7ZhLxMRxAOFkC7I8Sg"].properties = ["Historical", "Educational"]
+poiMap["ChIJrRMgU7ZhLxMRxAOFkC7I8Sg"].properties = [
+    "Historical", "Educational"]
 poiMap["ChIJrRMgU7ZhLxMRxAOFkC7I8Sg"].tourismRate = 6400000
 poiMap["ChIJrRMgU7ZhLxMRxAOFkC7I8Sg"].age = 1936
 poiMap["ChIJrRMgU7ZhLxMRxAOFkC7I8Sg"].surface = 20000
@@ -145,7 +146,8 @@ poiMap["ChIJrRMgU7ZhLxMRxAOFkC7I8Sg"].price = 16
 
 # Basilica San Pietro
 poiMap["ChIJWZsUt2FgLxMRg1KHzXfwS3I"].type = "Place of warship"
-poiMap["ChIJWZsUt2FgLxMRg1KHzXfwS3I"].properties = ["Historical", "Educational"]
+poiMap["ChIJWZsUt2FgLxMRg1KHzXfwS3I"].properties = [
+    "Historical", "Educational"]
 poiMap["ChIJWZsUt2FgLxMRg1KHzXfwS3I"].tourismRate = 11400000
 poiMap["ChIJWZsUt2FgLxMRg1KHzXfwS3I"].age = 506
 poiMap["ChIJWZsUt2FgLxMRg1KHzXfwS3I"].surface = 22000
@@ -154,7 +156,8 @@ poiMap["ChIJWZsUt2FgLxMRg1KHzXfwS3I"].price = 0
 
 # Foro Romano
 poiMap["ChIJ782pg7NhLxMR5n3swAdAkfo"].type = "Monument"
-poiMap["ChIJ782pg7NhLxMR5n3swAdAkfo"].properties = ["Historical", "Educational"]
+poiMap["ChIJ782pg7NhLxMR5n3swAdAkfo"].properties = [
+    "Historical", "Educational"]
 poiMap["ChIJ782pg7NhLxMR5n3swAdAkfo"].tourismRate = 4500000
 poiMap["ChIJ782pg7NhLxMR5n3swAdAkfo"].age = 2500
 poiMap["ChIJ782pg7NhLxMR5n3swAdAkfo"].surface = 160000
@@ -162,7 +165,8 @@ poiMap["ChIJ782pg7NhLxMR5n3swAdAkfo"].price = 16
 
 # Musei Vaticani
 poiMap["ChIJKcGbg2NgLxMRthZkUqDs4M8"].type = "Museum"
-poiMap["ChIJKcGbg2NgLxMRthZkUqDs4M8"].properties = ["Historical", "Educational"]
+poiMap["ChIJKcGbg2NgLxMRthZkUqDs4M8"].properties = [
+    "Historical", "Educational"]
 poiMap["ChIJKcGbg2NgLxMRthZkUqDs4M8"].tourismRate = 6700000
 poiMap["ChIJKcGbg2NgLxMRthZkUqDs4M8"].age = 500
 poiMap["ChIJKcGbg2NgLxMRthZkUqDs4M8"].surface = 420000
@@ -170,7 +174,8 @@ poiMap["ChIJKcGbg2NgLxMRthZkUqDs4M8"].price = 17
 
 # Fontana di Trevi
 poiMap["ChIJ1UCDJ1NgLxMRtrsCzOHxdvY"].type = "Fountain"
-poiMap["ChIJ1UCDJ1NgLxMRtrsCzOHxdvY"].properties = ["Historical", "Entertainment"]
+poiMap["ChIJ1UCDJ1NgLxMRtrsCzOHxdvY"].properties = [
+    "Historical", "Entertainment"]
 poiMap["ChIJ1UCDJ1NgLxMRtrsCzOHxdvY"].tourismRate = 6500000
 poiMap["ChIJ1UCDJ1NgLxMRtrsCzOHxdvY"].age = 260
 poiMap["ChIJ1UCDJ1NgLxMRtrsCzOHxdvY"].surface = 2400
@@ -179,7 +184,8 @@ poiMap["ChIJ1UCDJ1NgLxMRtrsCzOHxdvY"].price = 0
 
 # Pantheon
 poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].type = "Museum"
-poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].properties = ["Historical", "Educational"]
+poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].properties = [
+    "Historical", "Educational"]
 poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].tourismRate = 7400000
 poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].age = 2000
 poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].surface = 680
@@ -188,7 +194,8 @@ poiMap["ChIJqUCGZ09gLxMRLM42IPpl0co"].price = 0
 
 # Piazza Navona
 poiMap["ChIJPRydwYNgLxMRSjOCLlYkV6M"].type = "Square"
-poiMap["ChIJPRydwYNgLxMRSjOCLlYkV6M"].properties = ["Historical", "Entertainment"]
+poiMap["ChIJPRydwYNgLxMRSjOCLlYkV6M"].properties = [
+    "Historical", "Entertainment"]
 poiMap["ChIJPRydwYNgLxMRSjOCLlYkV6M"].tourismRate = 5700000
 poiMap["ChIJPRydwYNgLxMRSjOCLlYkV6M"].age = 400
 poiMap["ChIJPRydwYNgLxMRSjOCLlYkV6M"].surface = 14000
@@ -204,7 +211,8 @@ poiMap["ChIJj1M8HQJhLxMRRI6D_z18Pes"].price = 13
 
 # Castel San Angelo
 poiMap["ChIJ0aTnEYeKJRMRiUF95xwRbDY"].type = "Castle"
-poiMap["ChIJ0aTnEYeKJRMRiUF95xwRbDY"].properties = ["Historical", "Educational"]
+poiMap["ChIJ0aTnEYeKJRMRiUF95xwRbDY"].properties = [
+    "Historical", "Educational"]
 poiMap["ChIJ0aTnEYeKJRMRiUF95xwRbDY"].tourismRate = 1300000
 poiMap["ChIJ0aTnEYeKJRMRiUF95xwRbDY"].age = 1900
 poiMap["ChIJ0aTnEYeKJRMRiUF95xwRbDY"].surface = 49000
@@ -213,6 +221,6 @@ poiMap["ChIJ0aTnEYeKJRMRiUF95xwRbDY"].price = 15
 log.info("Most important poi modified correctly.\n")
 
 # Dictionary serialization
-with open("poiDictionary.pickle", "wb") as f:
+with open("Storage/poiDictionary.pickle", "wb") as f:
     pk.dump(poiMap, f)
 log.info("Map serialized correctly.\n")

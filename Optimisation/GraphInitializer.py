@@ -1,9 +1,12 @@
-import pickle as pk
-import networkx as nx
 import logging as log
-
+import networkx as nx
+import pickle as pk
+import sys
 
 from pyswip import Prolog
+
+
+sys.path.append("Knowledge")
 
 
 # Function to query the knowledge base and obtain the distance between two nodes
@@ -15,19 +18,19 @@ def query_prolog_distance(attraction1, attraction2):
 
 # Log configuration
 log.basicConfig(level=log.INFO)
-handler = log.FileHandler("logGraph.txt", mode="w")
+handler = log.FileHandler("Logs/logGraphInitializer.txt", mode="w")
 handler.setLevel(log.INFO)
 log.getLogger("").addHandler(handler)
 
 # Dictionary de-serialization
-with open("poiDictionaryEnhanced.pickle", "rb") as f:
+with open("Storage/poiDictionaryEnhanced.pickle", "rb") as f:
     poiMap = pk.load(f)
 log.info("Map de-serialized correctly.\n")
 
 # Prolog KB initialization
 prolog = Prolog()
-prolog.consult('Facts.pl')
-prolog.consult('Rules.pl')
+prolog.consult('Knowledge/Facts.pl')
+prolog.consult('Knowledge/Rules.pl')
 
 # Graph construction
 graph = nx.Graph()
@@ -55,12 +58,26 @@ for u, v, attr in graph.edges(data=True):
 
 log.info("\nAll edges have been correctly added.\n")
 
-connected = nx.is_connected(graph)
-num_nodes = graph.number_of_nodes()
 
-if connected and num_nodes > 1:
-    print("Tutti i nodi sono collegati ad almeno un altro nodo.")
-else:
-    print("Alcuni nodi non sono collegati ad altri nodi.")
+def check_node_connectivity(graph):
+    disconnected_nodes = []
 
-print(poiMap.__len__())
+    for node in graph.nodes():
+        if not any(graph.neighbors(node)):
+            print(node)
+            disconnected_nodes.append(node)
+    if disconnected_nodes.__len__() != 0:
+        print("Nodes without connections:")
+        for node in disconnected_nodes:
+            print(node)
+    else:
+        print("All nodes have at least one connection.")
+
+
+# Example usage
+# Assuming you have a graph called 'graph'
+check_node_connectivity(graph)
+
+# Serialize the graph to a file
+with open('Storage/basicGraph.pickle', 'wb') as file:
+    pk.dump(graph, file)
