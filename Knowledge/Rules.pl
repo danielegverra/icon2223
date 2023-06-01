@@ -8,8 +8,8 @@ calculateDensity(PoiName, Density) :-
     average(Dists, Density).
 
 nextTo(FirstPoiName, SecondPoiName) :-
-    distance(FirstPoiName, SecondPoiName, Distance),
-    Distance < 300.
+    (distance(FirstPoiName, SecondPoiName, Distance); distance(SecondPoiName, FirstPoiName, Distance)),
+    Distance < 501.
 
 highlyRated(PoiName) :-
     rating(PoiName, Rating),
@@ -100,3 +100,7 @@ connectivityCheck(PoiName) :-
     findall(Dist, (distance(PoiName, _, Dist); distance(_, PoiName, Dist)), Dists),
     min_list(Dists, MinDistance),
     MinDistance < 501.
+
+findNeighbors(PoiName, Neighbors) :-
+    findall(Neigh, nextTo(PoiName, _), Neighbors).
+
