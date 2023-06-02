@@ -5,18 +5,26 @@ from NodeGraph import NodeGraph
 from pyswip import Prolog
 
 import sys
+
 sys.path.append("Knowledge")
 
 # Prolog KB initialization
 prolog = Prolog()
-prolog.consult('Knowledge/Facts.pl')
-prolog.consult('Knowledge/Rules.pl')
+prolog.consult("Knowledge/Facts.pl")
+prolog.consult("Knowledge/Rules.pl")
 
-node = NodeGraph("Trevi Fountain", 0, 100, 100, ["Colosseum", "Bailica"])
+node = NodeGraph("Trevi Fountain", 0, 100, 100, [])
 
-problem = ItinerarySearchProblem(
-    prolog,
-    node, 
-)
+problem = ItinerarySearchProblem(prolog, node)
 searcher = Searcher(problem)
-searcher.search()
+print(searcher.search())
+
+print()
+print(searcher.search())
+print()
+print(searcher.search())
+print()
+print(searcher.search())
+print()
+print(searcher.search())
+print()
