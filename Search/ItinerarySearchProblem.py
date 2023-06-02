@@ -28,14 +28,15 @@ class ItinerarySearchProblem(Search_problem):
 
     def is_goal(self, node):
         """is True if node is a goal"""
-        neighs = list(self.prolog.query(f"findNeighbors({node.name})"))
+        neighs = list(self.prolog.query(f"findNeighbors('{node.name}', Neighbors)"))[0]["Neighbors"]
         isGoal = True
+        print(node.visitedNodes)
         for neigh in neighs:
             if neigh not in node.visitedNodes:
                 dist = list(
-                    self.prolog.query(f"findDistance({node.name}, {neigh}, Distance)")
+                    self.prolog.query(f"findDistance('{node.name}', '{neigh}', Distance)")
                 )
-                cost = list(self.prolog.query(f"price({neigh}, Price)"))
+                cost = list(self.prolog.query(f"price('{neigh}', Price)"))
                 time = list(
                     self.prolog.query(f"calculateTimeToVisit('{neigh}', TimeToVisit)")
                 )
@@ -47,14 +48,14 @@ class ItinerarySearchProblem(Search_problem):
         return isGoal
 
     def neighbors(self, node):
-        neighs = list(self.prolog.query(f"findNeighbors({node.name})"))
+        neighs = list(self.prolog.query(f"findNeighbors('{node.name}', Neighbors)"))[0]["Neighbors"]
         arcs = []
         for neigh in neighs:
             if neigh not in node.visitedNodes:
                 dist = list(
-                    self.prolog.query(f"findDistance({node.name}, {neigh}, Distance)")
+                    self.prolog.query(f"findDistance('{node.name}', '{neigh}', Distance)")
                 )
-                cost = list(self.prolog.query(f"price({neigh}, Price)"))
+                cost = list(self.prolog.query(f"price('{neigh}', Price)"))
                 time = list(
                     self.prolog.query(f"calculateTimeToVisit('{neigh}', TimeToVisit)")
                 )
@@ -63,10 +64,10 @@ class ItinerarySearchProblem(Search_problem):
                     node.coveredDistance + int(dist[0]["Distance"]),
                     node.remainingBudget - int(cost[0]["Price"]),
                     node.remainingTime - int(time[0]["TimeToVisit"]),
-                    node.visitedNodes.append(node),
+                    node.visitedNodes.append(node.name),
                 )
                 if nodeGraph.remainingBudget >= 0 and nodeGraph.remainingTime >= 0:
-                    arcs.append(Arc(node, nodeGraph, dist, None))
+                    arcs.append(Arc(node, nodeGraph, int(dist[0]["Distance"])))
         return arcs
 
     def heuristic(self, node):

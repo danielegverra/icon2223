@@ -16,5 +16,5 @@ class NodeGraph:
             f"Covered Distance: {self.coveredDistance}\n"
             f"Remaining Budget: {self.remainingBudget}\n"
             f"Remaining Time: {self.remainingTime}\n"
-            f"Visited Nodes: {', '.join(self.visitedNodes)}"
+            f"Visited Nodes: {self.visitedNodes}"
         )

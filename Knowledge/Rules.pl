@@ -102,5 +102,5 @@ connectivityCheck(PoiName) :-
     MinDistance < 501.
 
 findNeighbors(PoiName, Neighbors) :-
-    findall(Neigh, nextTo(PoiName, _), Neighbors).
+    findall(Neigh, nextTo(PoiName, Neigh), Neighbors).
 
