@@ -63,8 +63,7 @@ for i in range(len(keys)):
     for j in range(i + 1, len(keys)):
         key2 = keys[j]
         value2 = poiMap[key2]
-        dist = int(distance((value1.lat, value1.lon),
-                   (value2.lat, value2.lon)).meters)
+        dist = int(distance((value1.lat, value1.lon), (value2.lat, value2.lon)).meters)
         file.write(f"distance('{value1.name}','{value2.name}',{dist}).\n")
 log.info("Distance facts created.\n")
 
@@ -105,8 +104,7 @@ for value in poiMap.values():
         )
     )
     value.tourismRateOutOfTen = int(result[0]["TourismRateOutOfTen"])
-    file.write(
-        f"tourismRateOutOfTen('{value.name}',{value.tourismRateOutOfTen}).\n")
+    file.write(f"tourismRateOutOfTen('{value.name}',{value.tourismRateOutOfTen}).\n")
 log.info("TourismRateOutOfTen feature created correctly.\n")
 
 # Closing prolog facts file
@@ -187,23 +185,21 @@ log.info("Cheap feature created correctly.\n")
 
 # Creation new feature (timeToVisit)
 for value in poiMap.values():
-    result = list(prolog.query(
-        f"calculateTimeToVisit('{value.name}', TimeToVisit)"))
+    result = list(prolog.query(f"calculateTimeToVisit('{value.name}', TimeToVisit)"))
     value.timeToVisit = result[0]["TimeToVisit"]
 log.info("TimeToVisit feature created correctly.\n")
 
 # Creation new feature (tourismPriority)
 for value in poiMap.values():
     result = list(
-        prolog.query(
-            f"calculateTourismPriority('{value.name}', TourismPriority)")
+        prolog.query(f"calculateTourismPriority('{value.name}', TourismPriority)")
     )
     value.tourismPriority = round(result[0]["TourismPriority"], 1)
 log.info("TourismPriority feature created correctly.\n")
 
 for poi in poiMap.values():
     log.info(poi)
-log.info("Map populated correctly.\n")
+log.info(f"Map populated correctly ({poiMap.__len__()}).\n")
 
 # Dictionary serialization
 with open("Storage/poiDictionaryEnhanced.pickle", "wb") as f:

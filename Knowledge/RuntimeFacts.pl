@@ -17591,6 +17591,181 @@ distance('Chiesa di Santa Prisca','Tempio Maggiore',1094).
 distance('Chiesa di Santa Prisca','Portico of Octavia',1130).
 distance('Chiesa di Santa Prisca','Basilica Santi Giovanni e Paolo',799).
 distance('Tempio Maggiore','Portico of Octavia',71).
+distance('Start','Il Tempio dei Dioscuri',1125).
+distance('Start','Basilica Julia',1052).
+distance('Start','Fountain of the Bees',1190).
+distance('Start','Ludus Magnus',1839).
+distance('Start','Palazzetto Zuccari',967).
+distance('Start','Fontana del Mose',1623).
+distance('Start','Chiesa di Santa Bibiana',2761).
+distance('Start','Santissima Trinita degli Spagnoli',671).
+distance('Start','Colosseum',1646).
+distance('Start','Trevi Fountain',621).
+distance('Start','Capitoline Museums',852).
+distance('Start','Arch of Constantine',1571).
+distance('Start','Obelisco del Pantheon',52).
+distance('Start','Piazza di Spagna',896).
+distance('Start','Basilica Papale di Santa Maria Maggiore',1843).
+distance('Start','Roman Forum',1046).
+distance('Start','Basilica of San Pietro in Vincoli',1492).
+distance('Start','National Roman Museum - Palazzo Massimo',1841).
+distance('Start','Monument to Victor Emmanuel II',751).
+distance('Start','Campidoglio',829).
+distance('Start','Mercati di Traiano Museo dei Fori Imperiali',908).
+distance('Start','Equestrian Statue of Marcus Aurelius',839).
+distance('Start','Convento dei Frati Cappuccini',1195).
+distance('Start','Quirinal Palace',874).
+distance('Start','Basilica di San Clemente',2069).
+distance('Start','Chiesa di Sant  Ignazio di Loyola',299).
+distance('Start','Piazza Barberini',1154).
+distance('Start','Palazzo delle Esposizioni',1152).
+distance('Start','Chiesa del Gesu',430).
+distance('Start','Basilica di Santa Maria in Ara coeli',831).
+distance('Start','Palazzo Montecitorio',306).
+distance('Start','Domus Aurea',1856).
+distance('Start','National Gallery of Ancient Art in Barberini Palace',1219).
+distance('Start','Doria Pamphili Gallery',454).
+distance('Start','Piazza Venezia',635).
+distance('Start','Pantheon',67).
+distance('Start','Basilica of Saint Mary of Minerva',184).
+distance('Start','Basilica of Saint Mary of the Angels and Martyrs',1776).
+distance('Start','Parrocchia Santa Maria Maggiore',2120).
+distance('Start','Mamertine Prison',936).
+distance('Start','Mose di Michelangelo',1489).
+distance('Start','Capanne di Romolo',1303).
+distance('Start','Basilica San Silvestro in Capite',570).
+distance('Start','Basilica del Sacro Cuore di Gesu',2201).
+distance('Start','Largo di Torre Argentina',403).
+distance('Start','Chiesa di Santa Maria ai Monti',1289).
+distance('Start','Basilica of St Mark Evangelist at Campidoglio',568).
+distance('Start','St. Paul s Within the Walls',1504).
+distance('Start','Septimius Severus Arch',978).
+distance('Start','Palazzo Sciarra Colonna Carbognano',420).
+distance('Start','The Keats - Shelley House',909).
+distance('Start','Basilica Ulpia',788).
+distance('Start','Temple of Vesta',1156).
+distance('Start','Chiesa San Marcello al Corso',446).
+distance('Start','San Stanislao alle Botteghe Oscure',526).
+distance('Start','Column of Phocas',1019).
+distance('Start','Antoninus and Faustina Temple',1153).
+distance('Start','Marcello Theater',842).
+distance('Start','Chiesa di Santa Maria in Portico in Campitelli',705).
+distance('Start','Church of Santa Maria della Vittoria',1629).
+distance('Start','The Last Judgment',1862).
+distance('Start','Chiesa di Santo Stefano degli Abissini',2050).
+distance('Start','Fontana di Piazza Farnese',598).
+distance('Start','Villa Abamelek',1982).
+distance('Start','Palazzo Torres',280).
+distance('Start','Castel Sant Angelo',943).
+distance('Start','Vidoni Palace',348).
+distance('Start','Vatican Museums',2053).
+distance('Start','Fontana di Piazza Nicosia',474).
+distance('Start','St. Peter s Basilica',1886).
+distance('Start','Church Holy Spirit in Sassia',1291).
+distance('Start','Parrocchia Santuario Santa Maria in Traspontina',1235).
+distance('Start','Gardens of Vatican City',2219).
+distance('Start','Fiumi Fountain',264).
+distance('Start','Sistine Chapel',1859).
+distance('Start','Villa Farnesina',958).
+distance('Start','Palazzo Madama',178).
+distance('Start','Galleria Spada',645).
+distance('Start','Church of St. Louis of the French',139).
+distance('Start','St. Angelo Bridge',875).
+distance('Start','Palazzo Farnese',656).
+distance('Start','Sant Agnese in Agone',309).
+distance('Start','Botanical Garden of Rome',1340).
+distance('Start','Chiesa di Santa Maria della Pace',394).
+distance('Start','Obelisco Agonale',264).
+distance('Start','Basilica of Santa Maria in Trastevere',1194).
+distance('Start','Church of St Onuphrius at the Janiculum',1265).
+distance('Start','Biblioteca Angelica',248).
+distance('Start','Campo de  Fiori',516).
+distance('Start','Piazza Navona',265).
+distance('Start','Corte Suprema di Cassazione',818).
+distance('Start','Museo di Roma - Palazzo Braschi',336).
+distance('Start','Church of Santa Maria in Vallicella',599).
+distance('Start','Church of San Pietro in Montorio',1404).
+distance('Start','Saint Eligio of Orefici',785).
+distance('Start','Palazzo del Commendatore',1189).
+distance('Start','Porta Santo Spirito',1223).
+distance('Start','Bernini Fountain',1604).
+distance('Start','Presepe dei Netturbini',1738).
+distance('Start','Church of Saints Michael and Magnus',1291).
+distance('Start','Museum Leonardo Da Vinci Experience',1267).
+distance('Start','Vatican Necropolis',1864).
+distance('Start','Apostolic Palace',1744).
+distance('Start','Ponte Vittorio Emanuele II',1019).
+distance('Start','Chiesa di Sant Anna dei Palafrenieri',1656).
+distance('Start','Operativa Arte Contemporanea',863).
+distance('Start','Santa Maria del Suffragio',830).
+distance('Start','Vatican Apostolic Archive',1890).
+distance('Start','Carriage Pavilion',2005).
+distance('Start','Monastero Mater Ecclesi',2165).
+distance('Start','Oratorio dei Filippini (Oratory of St Philip Neri)',639).
+distance('Start','House of Hospitality Paul VI',2175).
+distance('Start','Chiesa di Santa Maria del Rosario in Prati',1817).
+distance('Start','Welcome To Rome',468).
+distance('Start','Stadium of Domitian',337).
+distance('Start','Palazzo Pamphili',309).
+distance('Start','Fountain of the Moro',277).
+distance('Start','Cappella Chigi',1381).
+distance('Start','Chiesa di Gesu e Maria',1003).
+distance('Start','Villa Borghese',1709).
+distance('Start','Passeggiata del Pincio',1384).
+distance('Start','Borghese Gallery and Museum',2140).
+distance('Start','National Gallery of Modern and Contemporary Art',2061).
+distance('Start','Mausoleum of Augustus',779).
+distance('Start','Chiesa Parrocchiale San Giacomo in Augusta',976).
+distance('Start','Villa Medici',1157).
+distance('Start','Basilica of Saint Lawrence in Lucina',516).
+distance('Start','Basilica of SS. Ambrose and Charles on the Corso',720).
+distance('Start','Giorgio de Chirico House Museum',901).
+distance('Start','Santa Maria in Montesanto',1228).
+distance('Start','Fontana della Barcaccia',902).
+distance('Start','Museo Leonardo da Vinci',1363).
+distance('Start','Explora - Il Museo dei Bambini di Roma',1786).
+distance('Start','Orologio ad acqua del Pincio',1464).
+distance('Start','Ponte Giacomo Matteotti',1766).
+distance('Start','National Etruscan Museum of Villa Giulia',2151).
+distance('Start','Fontana del Babuino',1011).
+distance('Start','Fontana del Bottino',1029).
+distance('Start','Trinita dei Monti',1012).
+distance('Start','Galleria del Cembalo',533).
+distance('Start','Chiesa di Santa Maria in Via',519).
+distance('Start','Palazzo di Propaganda Fide',834).
+distance('Start','Basilica di Sant Andrea delle Fratte',795).
+distance('Start','Piazza del Popolo',1298).
+distance('Start','Marcus Aurelius Column',369).
+distance('Start','Piazza di Siena',1852).
+distance('Start','All Saints  Anglican Church Rome',1053).
+distance('Start','Church of Saint Roch  all Augusteo ',725).
+distance('Start','Church of Our Lady in Trivio',586).
+distance('Start','Il Tempio di Adriano',276).
+distance('Start','Museo Civico di Zoologia',2469).
+distance('Start','Basilica of St. Augustine in Campo Marzio',261).
+distance('Start','Hendrik Christian Anderson Museum',1700).
+distance('Start','Goethe House',1114).
+distance('Start','Institute of Japanese Culture',2200).
+distance('Start','Villa Balestra',2491).
+distance('Start','Palazzo Borghese',572).
+distance('Start','National Academy of San Luca',678).
+distance('Start','Museo Carlo Bilotti',1701).
+distance('Start','Cloaca Maxima',1195).
+distance('Start','Temple of Apollo Palatinus',1527).
+distance('Start','Circus Maximus',1608).
+distance('Start','Mouth of Truth',1285).
+distance('Start','Basilica di Santa Sabina all Aventino',1637).
+distance('Start','Santa Maria in Cosmedin',1294).
+distance('Start','Non-Catholic Cemetery',2536).
+distance('Start','Basilica di Santa Cecilia in Trastevere',1314).
+distance('Start','Mattatoio',2514).
+distance('Start','Pyramid of Caius Cestius',2531).
+distance('Start','Turtle Fountain',585).
+distance('Start','Basilica di San Bartolomeo all Isola',977).
+distance('Start','Chiesa di Santa Prisca',1872).
+distance('Start','Tempio Maggiore',793).
+distance('Start','Portico of Octavia',746).
+distance('Start','Basilica Santi Giovanni e Paolo',1915).
 distance('Tempio Maggiore','Basilica Santi Giovanni e Paolo',1319).
 distance('Portico of Octavia','Basilica Santi Giovanni e Paolo',1311).
 tourismRateOutOfTen('Il Tempio dei Dioscuri',1).

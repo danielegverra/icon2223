@@ -14,10 +14,8 @@ class ItinerarySearchProblem(Search_problem):
     * a dictionary that maps each node into its (x,y) position
     """
 
-    def __init__(self, prolog=None, start=None, goals=set(), positions={}):
-        self.prolog = Prolog()
-        self.prolog.consult("Knowledge/Facts.pl")
-        self.prolog.consult("Knowledge/Rules.pl")
+    def __init__(self, prolog, start=None, goals=set(), positions={}):
+        self.prolog = prolog
         self.start = start
         self.goals = goals
         self.positions = positions
