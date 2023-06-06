@@ -27,7 +27,6 @@ fileWrite = open("Knowledge/RuntimeFacts.pl", "w")
 log.info("File opened correctly.\n")
 fileWrite.writelines(text[:17593])
 
-
 print(
     "#####   Welcome to Rome Rome's treasures unveiled: an insider's journey.   #####"
 )
@@ -64,14 +63,22 @@ userBudget = int(input("--> Insert your budget in euro (integer): "))
 userTimeAvailable = int(input("--> Insert the time in minutes available (integer): "))
 log.info("Input data received correctly.\n")
 
-node = NodeGraph("Start", 0, userBudget, userTimeAvailable, [])
+node = NodeGraph("Start", 0, userBudget, userTimeAvailable, [], 0)
 log.info("Starting node initialized correctly.\n")
 
 problem = ItinerarySearchProblem(prolog, node)
 log.info("Search problem defined correctly.\n")
 
-searcher = Searcher(problem)
+baseSearcher = Searcher(problem)
 log.info("Search problem defined correctly.\n")
 
-print(searcher.search())
+print("PERCORSO TROVATO CON SEARCHER BASE:")
+print(baseSearcher.search())
+log.info("Path found correctly.\n")
+
+aStarSearcher = AStarSearcher(problem)
+log.info("Search problem defined correctly.\n")
+
+print("PERCORSO TROVATO CON SEARCHER A STAR:")
+print(aStarSearcher.search())
 log.info("Path found correctly.\n")

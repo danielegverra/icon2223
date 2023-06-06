@@ -104,3 +104,14 @@ connectivityCheck(PoiName) :-
 findNeighbors(PoiName, Neighbors) :-
     findall(Neigh, nextTo(PoiName, Neigh), Neighbors).
 
+findMinDistance(Distance) :-
+    findall(Dist, distance(_, _, Dist), Distances),
+    min_list(Distances, Distance).
+
+findMaxPrice(MaxPrice) :-
+    findall(Price, price(_, Price), Prices),
+    max_list(Prices, MaxPrice).
+
+findMaxTimeToVisit(MaxTimeToVisit) :-
+    findall(TimeToVisit, calculateTimeToVisit(_, TimeToVisit), TimesToVisit),
+    max_list(TimesToVisit, MaxTimeToVisit).
