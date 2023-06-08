@@ -6,6 +6,8 @@ import logging as log
 from NodeGraph import NodeGraph
 import pickle as pk
 from pyswip import Prolog
+import random as rd
+import math
 
 import sys
 
@@ -82,3 +84,16 @@ log.info("Search problem defined correctly.\n")
 print("PERCORSO TROVATO CON SEARCHER A STAR:")
 print(aStarSearcher.search())
 log.info("Path found correctly.\n")
+
+visitedNodes = aStarSearcher.solution.end().visitedNodes[:]
+visitedNodes.remove("Start")
+
+feedbackNodes = rd.sample(visitedNodes, math.ceil(visitedNodes.__len__()*0.3))
+
+fileFeedback = open("Storage/UserFeedback.txt", "a")
+
+for node in feedbackNodes:
+    print(f"What do you think about {node}?")
+    userFeedback = int(input("--> Insert a number from 1 to 5: "))
+    print(userFeedback)
+    fileFeedback.write(f"{node},{userFeedback}\n")
