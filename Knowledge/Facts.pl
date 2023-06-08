@@ -15,7 +15,7 @@ place_id('ChIJ4_TEG1VgLxMROFkd29jWdug','Piazza di Spagna').
 place_id('ChIJ1zB926RhLxMRejWMj_tUs_c','Basilica Papale di Santa Maria Maggiore').
 place_id('ChIJ782pg7NhLxMR5n3swAdAkfo','Roman Forum').
 place_id('ChIJ9TEpHrFhLxMRMNSr5HbcOzI','Basilica of San Pietro in Vincoli').
-place_id('ChIJ18PTgaZhLxMRvINaLw9AZ2w','Palazzo Massimo alle Terme').
+place_id('ChIJ18PTgaZhLxMRvINaLw9AZ2w','National Roman Museum - Palazzo Massimo').
 place_id('ChIJ412AG01gLxMR4T-4pwdIFSE','Monument to Victor Emmanuel II').
 place_id('ChIJOclom0xgLxMRURy9OLL7Hg4','Campidoglio').
 place_id('ChIJYevd8bJhLxMRvaa0jU2aqLE','Mercati di Traiano Museo dei Fori Imperiali').
@@ -24,9 +24,9 @@ place_id('ChIJhURtyqthLxMRQXDqNoUFSkM','Convento dei Frati Cappuccini').
 place_id('ChIJEZYsp61hLxMRjFL7eK0va78','Quirinal Palace').
 place_id('ChIJ6V1-TbhhLxMRUbEhbeY44Zc','Basilica di San Clemente').
 place_id('ChIJzeDkbVJgLxMRf9wy9vdWbgw','Chiesa di Sant  Ignazio di Loyola').
-place_id('ChIJK1-CN0xgLxMRZukH0_lPL70','Chiesa del Gesu').
 place_id('ChIJOfR_6athLxMRe5WMm35eHgc','Piazza Barberini').
 place_id('ChIJbxxhZa5hLxMRRjFLUna6Ylk','Palazzo delle Esposizioni').
+place_id('ChIJK1-CN0xgLxMRZukH0_lPL70','Chiesa del Gesu').
 place_id('ChIJOclom0xgLxMRewulHSml3Vw','Basilica di Santa Maria in Ara coeli').
 place_id('ChIJC9NzLFJgLxMRgfEuylx5Gu8','Palazzo Montecitorio').
 place_id('ChIJp-3oaLdhLxMRS_bYIp1GB8w','Domus Aurea').
@@ -35,7 +35,7 @@ place_id('ChIJF0obe01gLxMR0JJHtlD0kMY','Doria Pamphili Gallery').
 place_id('ChIJr3gt3ExgLxMRYaivihEa9K0','Piazza Venezia').
 place_id('ChIJqUCGZ09gLxMRLM42IPpl0co','Pantheon').
 place_id('ChIJU-kfDE5gLxMR1LRHd9Rfx04','Basilica of Saint Mary of Minerva').
-place_id('ChIJSfQGGqZhLxMRMAy6MdWbTrA','Santa Maria degli Angeli e dei Martiri').
+place_id('ChIJSfQGGqZhLxMRMAy6MdWbTrA','Basilica of Saint Mary of the Angels and Martyrs').
 place_id('ChIJ1zB926RhLxMRbB4WoenMwOc','Parrocchia Santa Maria Maggiore').
 place_id('ChIJhT_oa7NhLxMRfVMoVD43UJo','Mamertine Prison').
 place_id('ChIJTzIpHrFhLxMR70pMGA-3MNQ','Mose di Michelangelo').
@@ -57,7 +57,7 @@ place_id('ChIJibQilrRhLxMRuIdk3El5H7w','Column of Phocas').
 place_id('ChIJqRSsibRhLxMRZsvnYX4PlkY','Antoninus and Faustina Temple').
 place_id('ChIJp3-BzEtgLxMRMyxlHO3Qw3Y','Marcello Theater').
 place_id('ChIJSTrt8ktgLxMRJNAT-SobsKk','Chiesa di Santa Maria in Portico in Campitelli').
-place_id('ChIJVbqwYKhhLxMRSAkyf1K0z1k','The Church of Santa Maria della Vittoria').
+place_id('ChIJVbqwYKhhLxMRSAkyf1K0z1k','Church of Santa Maria della Vittoria').
 place_id('ChIJeb0jxWVgLxMR66bI7_F7PQA','The Last Judgment').
 place_id('ChIJK95AfGVgLxMRc4Uvp1dYum8','Chiesa di Santo Stefano degli Abissini').
 place_id('ChIJ6_1H5kVgLxMRmCp3rRLDv78','Fontana di Piazza Farnese').
@@ -74,9 +74,9 @@ place_id('ChIJd8x_N2VgLxMRBD6rNtS4NAw','Gardens of Vatican City').
 place_id('ChIJG6cU-09gLxMR8hkxk2gJcFI','Fiumi Fountain').
 place_id('ChIJ268jxWVgLxMRIj61f4fIFqs','Sistine Chapel').
 place_id('ChIJmUUGzkZgLxMR-T6gV-Qsy4o','Villa Farnesina').
-place_id('ChIJLQGCLlBgLxMRuYQp8kv6syI','Church of St. Louis of the French').
 place_id('ChIJ9TYH3k9gLxMRxbpYbkbO7y4','Palazzo Madama').
 place_id('ChIJ_-4QBEZgLxMRJTdhvXwscbM','Galleria Spada').
+place_id('ChIJLQGCLlBgLxMRuYQp8kv6syI','Church of St. Louis of the French').
 place_id('ChIJdQnXoVxgLxMRCQK0txZGq6g','St. Angelo Bridge').
 place_id('ChIJr_HOwkVgLxMR4mpuNdNYM-k','Palazzo Farnese').
 place_id('ChIJ88WtV0VgLxMRUbkqM8OUa4k','Sant Agnese in Agone').
@@ -90,8 +90,8 @@ place_id('ChIJfc8DqVVgLxMRxPIIp3z8CBg','Campo de  Fiori').
 place_id('ChIJPRydwYNgLxMRSjOCLlYkV6M','Piazza Navona').
 place_id('ChIJtRMhPFpgLxMR7CRDfS2pipI','Corte Suprema di Cassazione').
 place_id('ChIJbedagU9gLxMRdw-SiQm53EM','Museo di Roma - Palazzo Braschi').
-place_id('ChIJkVJg0ERgLxMRGNnUp2rG6CI','Parrocchia Santa Maria in Vallicella').
-place_id('ChIJ75A8Mz9gLxMRe-4AGT3T_tA','Chiesa di San Pietro in Montorio').
+place_id('ChIJkVJg0ERgLxMRGNnUp2rG6CI','Church of Santa Maria in Vallicella').
+place_id('ChIJ75A8Mz9gLxMRe-4AGT3T_tA','Church of San Pietro in Montorio').
 place_id('ChIJubv_FkRgLxMRvCMehfHmABc','Saint Eligio of Orefici').
 place_id('ChIJ8VdjGF1gLxMRXRd3ED2rD3I','Palazzo del Commendatore').
 place_id('ChIJo2jArUJgLxMR78rLtdu4xhc','Porta Santo Spirito').
@@ -157,7 +157,6 @@ place_id('ChIJF3BcdeVgLxMRYntd0c1eHyg','Villa Balestra').
 place_id('ChIJVdeFz1ZgLxMRsut-vHdZP68','Palazzo Borghese').
 place_id('ChIJ9w9RTVNgLxMR5nbcPixfnmE','National Academy of San Luca').
 place_id('ChIJ8-wGeU9gLxMRdC2YjPSozAU','Museo Carlo Bilotti').
-place_id('ChIJB6HASVJgLxMR8vNwwuuF9io','Palazzo Wedekind').
 place_id('ChIJK0Ewh0pgLxMRI98BSNFE-wY','Cloaca Maxima').
 place_id('ChIJl5cSjsphLxMRv85ELFf8Dk4','Temple of Apollo Palatinus').
 place_id('ChIJxcVH3MphLxMRbNmoLfoNEWg','Circus Maximus').
@@ -165,13 +164,13 @@ place_id('ChIJm1_ZezVgLxMR57Hw653cZoI','Mouth of Truth').
 place_id('ChIJ0-YHdDRgLxMRgU5yFAMRP5E','Basilica di Santa Sabina all Aventino').
 place_id('ChIJm1_ZezVgLxMR7BAI4KmOwtY','Santa Maria in Cosmedin').
 place_id('ChIJp3EzNCxgLxMRm11PYpmDx4Q','Non-Catholic Cemetery').
-place_id('ChIJOcrkoX_2JRMRryj2EmIscVE','Basilica Santa Cecilia in Trastevere').
+place_id('ChIJOcrkoX_2JRMRryj2EmIscVE','Basilica di Santa Cecilia in Trastevere').
 place_id('ChIJ8YOGbi9gLxMRTDnSf5wlZJc','Mattatoio').
 place_id('ChIJfeOXqi1gLxMR9pvLiJ8yKSc','Pyramid of Caius Cestius').
 place_id('ChIJpTNFTUlgLxMRRsPyX-_4X8c','Turtle Fountain').
 place_id('ChIJ4wi0i0lgLxMRJsm7mqYENcU','Basilica di San Bartolomeo all Isola').
 place_id('ChIJZcncVjNgLxMRj7cFCake7Oo','Chiesa di Santa Prisca').
-place_id('ChIJU4KLC0lgLxMRBv0g7UlLt7c','Tempio Maggiore di Roma').
+place_id('ChIJU4KLC0lgLxMRBv0g7UlLt7c','Tempio Maggiore').
 place_id('ChIJpTF0RUlgLxMRUMm5Pi9Tc10','Portico of Octavia').
 place_id('ChIJZWJty8lhLxMRTlN7yv4S3kc','Basilica Santi Giovanni e Paolo').
 address('Il Tempio dei Dioscuri','Rome').
@@ -191,18 +190,18 @@ address('Piazza di Spagna','Piazza di Spagna, Roma').
 address('Basilica Papale di Santa Maria Maggiore','Piazza di Santa Maria Maggiore, Roma').
 address('Roman Forum','Via della Salara Vecchia, 5/6, Roma').
 address('Basilica of San Pietro in Vincoli','Piazza di San Pietro in Vincoli, 4/a, Roma').
-address('Palazzo Massimo alle Terme','Largo di Villa Peretti, 2, Roma').
+address('National Roman Museum - Palazzo Massimo','Largo di Villa Peretti, 2, Roma').
 address('Monument to Victor Emmanuel II','Piazza Venezia, Roma').
 address('Campidoglio','Piazza del Campidoglio, Roma').
 address('Mercati di Traiano Museo dei Fori Imperiali','Via Quattro Novembre, 94, Roma').
 address('Equestrian Statue of Marcus Aurelius','Piazza del Campidoglio, 1, Roma').
 address('Convento dei Frati Cappuccini','Via Vittorio Veneto, 27, Roma').
 address('Quirinal Palace','Piazza del Quirinale, Roma').
-address('Basilica di San Clemente','Via Labicana, 95, Roma').
+address('Basilica di San Clemente','Piazza di San Clemente, Roma').
 address('Chiesa di Sant  Ignazio di Loyola','Via del Caravita, 8a, Roma').
-address('Chiesa del Gesu','Via degli Astalli, 16, Roma').
 address('Piazza Barberini','Piazza Barberini, Roma').
 address('Palazzo delle Esposizioni','Via Nazionale, 194, Roma').
+address('Chiesa del Gesu','Piazza del Gesu, Roma').
 address('Basilica di Santa Maria in Ara coeli','Scala dell Arce Capitolina, 12, Roma').
 address('Palazzo Montecitorio','Piazza di Monte Citorio, Roma').
 address('Domus Aurea','Via della Domus Aurea, Roma').
@@ -211,7 +210,7 @@ address('Doria Pamphili Gallery','Via del Corso, 305, Roma').
 address('Piazza Venezia','Piazza Venezia, Roma').
 address('Pantheon','Piazza della Rotonda, Roma').
 address('Basilica of Saint Mary of Minerva','Piazza della Minerva, 42, Roma').
-address('Santa Maria degli Angeli e dei Martiri','Piazza della Repubblica, Roma').
+address('Basilica of Saint Mary of the Angels and Martyrs','Piazza della Repubblica, Roma').
 address('Parrocchia Santa Maria Maggiore','Via Carlo Alberto, 47 Ingresso Chiesa: via di S. Vito s.n.c, Via Carlo Alberto, 47, Roma').
 address('Mamertine Prison','Clivo Argentario, 1, Roma').
 address('Mose di Michelangelo','Piazza di San Pietro in Vincoli, 4/A, Roma').
@@ -233,7 +232,7 @@ address('Column of Phocas','Via dei Fori Imperiali, 1, Roma').
 address('Antoninus and Faustina Temple','Via in Miranda, 1, Roma').
 address('Marcello Theater','Via del Teatro di Marcello, Roma').
 address('Chiesa di Santa Maria in Portico in Campitelli','Piazza di Campitelli, 9, Roma').
-address('The Church of Santa Maria della Vittoria','Via Venti Settembre, 17, Roma').
+address('Church of Santa Maria della Vittoria','Via Venti Settembre, 17, Roma').
 address('The Last Judgment','00120 Citta del Vaticano VA').
 address('Chiesa di Santo Stefano degli Abissini','').
 address('Fontana di Piazza Farnese','Piazza Farnese, Roma').
@@ -250,9 +249,9 @@ address('Gardens of Vatican City','Via Paolo VI, 29').
 address('Fiumi Fountain','Fontana dei Quattro Fiumi, Piazza Navona, 90, Roma').
 address('Sistine Chapel','').
 address('Villa Farnesina','Via della Lungara, 230, Roma').
-address('Church of St. Louis of the French','Piazza di San Luigi de  Francesi, Roma').
 address('Palazzo Madama','Piazza Madama, Roma').
 address('Galleria Spada','Piazza Capo di Ferro, 13, Roma').
+address('Church of St. Louis of the French','Piazza di San Luigi de  Francesi, Roma').
 address('St. Angelo Bridge','Ponte Sant Angelo, Roma').
 address('Palazzo Farnese','Piazza Farnese, 67, Roma').
 address('Sant Agnese in Agone','Via di Santa Maria dell Anima, 30/A, Roma').
@@ -266,8 +265,8 @@ address('Campo de  Fiori','Campo de  Fiori, Roma').
 address('Piazza Navona','Piazza Navona, Roma').
 address('Corte Suprema di Cassazione','Piazza Cavour, Roma').
 address('Museo di Roma - Palazzo Braschi','Piazza di San Pantaleo, 10, Piazza Navona, 2, Roma').
-address('Parrocchia Santa Maria in Vallicella','Via del Governo Vecchio, 134, Roma').
-address('Chiesa di San Pietro in Montorio','Piazza di San Pietro in Montorio, 3, Roma').
+address('Church of Santa Maria in Vallicella','Via del Governo Vecchio, 134, Roma').
+address('Church of San Pietro in Montorio','Piazza di San Pietro in Montorio, 3, Roma').
 address('Saint Eligio of Orefici','Via di Sant Eligio, 9, Roma').
 address('Palazzo del Commendatore','Borgo Santo Spirito, 3, Roma').
 address('Porta Santo Spirito','Rampa del Sangallo, Roma').
@@ -285,7 +284,7 @@ address('Vatican Apostolic Archive','Cortile del Belvedere').
 address('Carriage Pavilion','WF43+4C5, Viale Centro del Bosco, Citta del Vaticano').
 address('Monastero Mater Ecclesi','').
 address('Oratorio dei Filippini (Oratory of St Philip Neri)','Via della Chiesa Nuova, Roma').
-address('House of Hospitality Paul VI','Viale Vaticano, 94, Roma').
+address('House of Hospitality Paul VI','Viale Vaticano, 92, Roma').
 address('Chiesa di Santa Maria del Rosario in Prati','Via degli Scipioni, 88, Roma').
 address('Welcome To Rome','Corso Vittorio Emanuele II, 203, Roma').
 address('Stadium of Domitian','Via di Tor Sanguigna, 3, Roma').
@@ -333,7 +332,6 @@ address('Villa Balestra','Via Bartolomeo Ammannati, 3, Roma').
 address('Palazzo Borghese','Piazza Borghese, 9, Roma').
 address('National Academy of San Luca','Piazza Accademia di San Luca, 77, Roma').
 address('Museo Carlo Bilotti','Viale Fiorello la Guardia, 6, Roma').
-address('Palazzo Wedekind','Piazza Colonna, 366, Roma').
 address('Cloaca Maxima','Via del Velabro, 3, Roma').
 address('Temple of Apollo Palatinus','Rome').
 address('Circus Maximus','Via del Circo Massimo, Roma').
@@ -341,367 +339,365 @@ address('Mouth of Truth','Piazza della Bocca della Verita, 18, Roma').
 address('Basilica di Santa Sabina all Aventino','Piazza Pietro D Illiria, 1, Roma').
 address('Santa Maria in Cosmedin','Piazza della Bocca della Verita, 18, Roma').
 address('Non-Catholic Cemetery','Via Caio Cestio, 6, Roma').
-address('Basilica Santa Cecilia in Trastevere','Piazza di Santa Cecilia, 22, Roma').
+address('Basilica di Santa Cecilia in Trastevere','Piazza di Santa Cecilia, 22, Roma').
 address('Mattatoio','Piazza Orazio Giustiniani, 4, Roma').
 address('Pyramid of Caius Cestius','Via Raffaele Persichetti, Roma').
 address('Turtle Fountain','Piazza Mattei, Roma').
 address('Basilica di San Bartolomeo all Isola','Piazza San Bartolomeo All Isola, 22, Roma').
 address('Chiesa di Santa Prisca','Via di Santa Prisca, 11, Roma').
-address('Tempio Maggiore di Roma','Lungotevere de  Cenci, Roma').
+address('Tempio Maggiore','Lungotevere de  Cenci, Roma').
 address('Portico of Octavia','Via del Portico d Ottavia, 29').
 address('Basilica Santi Giovanni e Paolo','Piazza Dei SS. Giovanni e Paolo, Roma').
 type('Il Tempio dei Dioscuri','Museum').
-type('Basilica Julia','Park').
-type('Fountain of the Bees','Fountain').
-type('Ludus Magnus','Square').
-type('Palazzetto Zuccari','Bridge').
-type('Fontana del Mose','Museum').
-type('Chiesa di Santa Bibiana','Viewpoint').
-type('Santissima Trinita degli Spagnoli','Fountain').
+type('Basilica Julia','Monument').
+type('Fountain of the Bees','Place of warship').
+type('Ludus Magnus','Bridge').
+type('Palazzetto Zuccari','Museum').
+type('Fontana del Mose','Monument').
+type('Chiesa di Santa Bibiana','Bridge').
+type('Santissima Trinita degli Spagnoli','Museum').
 type('Colosseum','Monument').
 type('Trevi Fountain','Fountain').
 type('Capitoline Museums','Castle').
-type('Arch of Constantine','Park').
+type('Arch of Constantine','Fountain').
 type('Obelisco del Pantheon','Place of warship').
-type('Piazza di Spagna','Bridge').
-type('Basilica Papale di Santa Maria Maggiore','Viewpoint').
+type('Piazza di Spagna','Museum').
+type('Basilica Papale di Santa Maria Maggiore','Park').
 type('Roman Forum','Monument').
-type('Basilica of San Pietro in Vincoli','Museum').
-type('Palazzo Massimo alle Terme','Fountain').
-type('Monument to Victor Emmanuel II','Castle').
-type('Campidoglio','Park').
-type('Mercati di Traiano Museo dei Fori Imperiali','Square').
-type('Equestrian Statue of Marcus Aurelius','Square').
+type('Basilica of San Pietro in Vincoli','Castle').
+type('National Roman Museum - Palazzo Massimo','Place of warship').
+type('Monument to Victor Emmanuel II','Monument').
+type('Campidoglio','Bridge').
+type('Mercati di Traiano Museo dei Fori Imperiali','Place of warship').
+type('Equestrian Statue of Marcus Aurelius','Fountain').
 type('Convento dei Frati Cappuccini','Castle').
-type('Quirinal Palace','Museum').
-type('Basilica di San Clemente','Square').
-type('Chiesa di Sant  Ignazio di Loyola','Museum').
-type('Chiesa del Gesu','Fountain').
-type('Piazza Barberini','Fountain').
-type('Palazzo delle Esposizioni','Fountain').
-type('Basilica di Santa Maria in Ara coeli','Bridge').
-type('Palazzo Montecitorio','Monument').
-type('Domus Aurea','Museum').
-type('National Gallery of Ancient Art in Barberini Palace','Viewpoint').
-type('Doria Pamphili Gallery','Viewpoint').
-type('Piazza Venezia','Place of warship').
+type('Quirinal Palace','Place of warship').
+type('Basilica di San Clemente','Bridge').
+type('Chiesa di Sant  Ignazio di Loyola','Bridge').
+type('Piazza Barberini','Viewpoint').
+type('Palazzo delle Esposizioni','Viewpoint').
+type('Chiesa del Gesu','Viewpoint').
+type('Basilica di Santa Maria in Ara coeli','Viewpoint').
+type('Palazzo Montecitorio','Museum').
+type('Domus Aurea','Fountain').
+type('National Gallery of Ancient Art in Barberini Palace','Bridge').
+type('Doria Pamphili Gallery','Park').
+type('Piazza Venezia','Monument').
 type('Pantheon','Museum').
 type('Basilica of Saint Mary of Minerva','Viewpoint').
-type('Santa Maria degli Angeli e dei Martiri','Square').
-type('Parrocchia Santa Maria Maggiore','Viewpoint').
-type('Mamertine Prison','Viewpoint').
-type('Mose di Michelangelo','Viewpoint').
-type('Capanne di Romolo','Bridge').
-type('Basilica San Silvestro in Capite','Bridge').
-type('Basilica del Sacro Cuore di Gesu','Bridge').
+type('Basilica of Saint Mary of the Angels and Martyrs','Place of warship').
+type('Parrocchia Santa Maria Maggiore','Fountain').
+type('Mamertine Prison','Monument').
+type('Mose di Michelangelo','Square').
+type('Capanne di Romolo','Fountain').
+type('Basilica San Silvestro in Capite','Castle').
+type('Basilica del Sacro Cuore di Gesu','Park').
 type('Largo di Torre Argentina','Fountain').
-type('Chiesa di Santa Maria ai Monti','Fountain').
-type('Basilica of St Mark Evangelist at Campidoglio','Castle').
-type('St. Paul s Within the Walls','Square').
-type('Septimius Severus Arch','Bridge').
-type('Palazzo Sciarra Colonna Carbognano','Fountain').
-type('The Keats - Shelley House','Park').
-type('Basilica Ulpia','Monument').
-type('Temple of Vesta','Monument').
-type('Chiesa San Marcello al Corso','Park').
-type('San Stanislao alle Botteghe Oscure','Place of warship').
-type('Column of Phocas','Place of warship').
-type('Antoninus and Faustina Temple','Park').
+type('Chiesa di Santa Maria ai Monti','Museum').
+type('Basilica of St Mark Evangelist at Campidoglio','Museum').
+type('St. Paul s Within the Walls','Castle').
+type('Septimius Severus Arch','Castle').
+type('Palazzo Sciarra Colonna Carbognano','Monument').
+type('The Keats - Shelley House','Bridge').
+type('Basilica Ulpia','Bridge').
+type('Temple of Vesta','Castle').
+type('Chiesa San Marcello al Corso','Square').
+type('San Stanislao alle Botteghe Oscure','Fountain').
+type('Column of Phocas','Museum').
+type('Antoninus and Faustina Temple','Square').
 type('Marcello Theater','Fountain').
 type('Chiesa di Santa Maria in Portico in Campitelli','Museum').
-type('The Church of Santa Maria della Vittoria','Castle').
-type('The Last Judgment','Castle').
-type('Chiesa di Santo Stefano degli Abissini','Square').
-type('Fontana di Piazza Farnese','Monument').
-type('Villa Abamelek','Fountain').
-type('Palazzo Torres','Viewpoint').
+type('Church of Santa Maria della Vittoria','Monument').
+type('The Last Judgment','Bridge').
+type('Chiesa di Santo Stefano degli Abissini','Park').
+type('Fontana di Piazza Farnese','Place of warship').
+type('Villa Abamelek','Bridge').
+type('Palazzo Torres','Fountain').
 type('Castel Sant Angelo','Castle').
 type('Vidoni Palace','Fountain').
 type('Vatican Museums','Museum').
-type('Fontana di Piazza Nicosia','Museum').
+type('Fontana di Piazza Nicosia','Fountain').
 type('St. Peter s Basilica','Place of warship').
-type('Church Holy Spirit in Sassia','Viewpoint').
-type('Parrocchia Santuario Santa Maria in Traspontina','Square').
-type('Gardens of Vatican City','Park').
-type('Fiumi Fountain','Fountain').
-type('Sistine Chapel','Museum').
-type('Villa Farnesina','Square').
-type('Church of St. Louis of the French','Viewpoint').
-type('Palazzo Madama','Park').
-type('Galleria Spada','Fountain').
-type('St. Angelo Bridge','Castle').
-type('Palazzo Farnese','Museum').
-type('Sant Agnese in Agone','Monument').
-type('Botanical Garden of Rome','Square').
-type('Chiesa di Santa Maria della Pace','Fountain').
-type('Obelisco Agonale','Fountain').
-type('Basilica of Santa Maria in Trastevere','Bridge').
-type('Church of St Onuphrius at the Janiculum','Place of warship').
-type('Biblioteca Angelica','Monument').
+type('Church Holy Spirit in Sassia','Museum').
+type('Parrocchia Santuario Santa Maria in Traspontina','Museum').
+type('Gardens of Vatican City','Monument').
+type('Fiumi Fountain','Park').
+type('Sistine Chapel','Place of warship').
+type('Villa Farnesina','Bridge').
+type('Palazzo Madama','Place of warship').
+type('Galleria Spada','Place of warship').
+type('Church of St. Louis of the French','Castle').
+type('St. Angelo Bridge','Square').
+type('Palazzo Farnese','Monument').
+type('Sant Agnese in Agone','Park').
+type('Botanical Garden of Rome','Monument').
+type('Chiesa di Santa Maria della Pace','Square').
+type('Obelisco Agonale','Viewpoint').
+type('Basilica of Santa Maria in Trastevere','Castle').
+type('Church of St Onuphrius at the Janiculum','Bridge').
+type('Biblioteca Angelica','Fountain').
 type('Campo de  Fiori','Bridge').
 type('Piazza Navona','Square').
-type('Corte Suprema di Cassazione','Viewpoint').
-type('Museo di Roma - Palazzo Braschi','Museum').
-type('Parrocchia Santa Maria in Vallicella','Viewpoint').
-type('Chiesa di San Pietro in Montorio','Square').
-type('Saint Eligio of Orefici','Museum').
-type('Palazzo del Commendatore','Fountain').
-type('Porta Santo Spirito','Park').
-type('Bernini Fountain','Castle').
-type('Presepe dei Netturbini','Museum').
-type('Church of Saints Michael and Magnus','Bridge').
-type('Museum Leonardo Da Vinci Experience','Castle').
-type('Vatican Necropolis','Monument').
-type('Apostolic Palace','Viewpoint').
-type('Ponte Vittorio Emanuele II','Square').
-type('Chiesa di Sant Anna dei Palafrenieri','Castle').
-type('Operativa Arte Contemporanea','Square').
-type('Santa Maria del Suffragio','Monument').
-type('Vatican Apostolic Archive','Park').
-type('Carriage Pavilion','Castle').
-type('Monastero Mater Ecclesi','Monument').
-type('Oratorio dei Filippini (Oratory of St Philip Neri)','Park').
-type('House of Hospitality Paul VI','Castle').
-type('Chiesa di Santa Maria del Rosario in Prati','Place of warship').
-type('Welcome To Rome','Place of warship').
-type('Stadium of Domitian','Bridge').
-type('Palazzo Pamphili','Monument').
-type('Fountain of the Moro','Fountain').
-type('Cappella Chigi','Monument').
-type('Chiesa di Gesu e Maria','Museum').
+type('Corte Suprema di Cassazione','Square').
+type('Museo di Roma - Palazzo Braschi','Monument').
+type('Church of Santa Maria in Vallicella','Park').
+type('Church of San Pietro in Montorio','Bridge').
+type('Saint Eligio of Orefici','Place of warship').
+type('Palazzo del Commendatore','Castle').
+type('Porta Santo Spirito','Square').
+type('Bernini Fountain','Viewpoint').
+type('Presepe dei Netturbini','Park').
+type('Church of Saints Michael and Magnus','Viewpoint').
+type('Museum Leonardo Da Vinci Experience','Square').
+type('Vatican Necropolis','Square').
+type('Apostolic Palace','Bridge').
+type('Ponte Vittorio Emanuele II','Museum').
+type('Chiesa di Sant Anna dei Palafrenieri','Square').
+type('Operativa Arte Contemporanea','Place of warship').
+type('Santa Maria del Suffragio','Fountain').
+type('Vatican Apostolic Archive','Square').
+type('Carriage Pavilion','Bridge').
+type('Monastero Mater Ecclesi','Fountain').
+type('Oratorio dei Filippini (Oratory of St Philip Neri)','Viewpoint').
+type('House of Hospitality Paul VI','Fountain').
+type('Chiesa di Santa Maria del Rosario in Prati','Fountain').
+type('Welcome To Rome','Museum').
+type('Stadium of Domitian','Viewpoint').
+type('Palazzo Pamphili','Place of warship').
+type('Fountain of the Moro','Viewpoint').
+type('Cappella Chigi','Museum').
+type('Chiesa di Gesu e Maria','Bridge').
 type('Villa Borghese','Park').
-type('Passeggiata del Pincio','Castle').
-type('Borghese Gallery and Museum','Viewpoint').
+type('Passeggiata del Pincio','Square').
+type('Borghese Gallery and Museum','Monument').
 type('National Gallery of Modern and Contemporary Art','Castle').
-type('Mausoleum of Augustus','Museum').
-type('Chiesa Parrocchiale San Giacomo in Augusta','Viewpoint').
-type('Villa Medici','Square').
-type('Basilica of Saint Lawrence in Lucina','Museum').
+type('Mausoleum of Augustus','Castle').
+type('Chiesa Parrocchiale San Giacomo in Augusta','Bridge').
+type('Villa Medici','Monument').
+type('Basilica of Saint Lawrence in Lucina','Square').
 type('Basilica of SS. Ambrose and Charles on the Corso','Museum').
-type('Giorgio de Chirico House Museum','Castle').
-type('Santa Maria in Montesanto','Bridge').
+type('Giorgio de Chirico House Museum','Viewpoint').
+type('Santa Maria in Montesanto','Fountain').
 type('Fontana della Barcaccia','Park').
-type('Museo Leonardo da Vinci','Bridge').
-type('Explora - Il Museo dei Bambini di Roma','Bridge').
-type('Orologio ad acqua del Pincio','Fountain').
-type('Ponte Giacomo Matteotti','Viewpoint').
-type('National Etruscan Museum of Villa Giulia','Viewpoint').
-type('Fontana del Babuino','Square').
-type('Fontana del Bottino','Castle').
-type('Trinita dei Monti','Park').
-type('Galleria del Cembalo','Monument').
-type('Chiesa di Santa Maria in Via','Castle').
-type('Palazzo di Propaganda Fide','Park').
-type('Basilica di Sant Andrea delle Fratte','Fountain').
+type('Museo Leonardo da Vinci','Park').
+type('Explora - Il Museo dei Bambini di Roma','Castle').
+type('Orologio ad acqua del Pincio','Park').
+type('Ponte Giacomo Matteotti','Bridge').
+type('National Etruscan Museum of Villa Giulia','Museum').
+type('Fontana del Babuino','Place of warship').
+type('Fontana del Bottino','Monument').
+type('Trinita dei Monti','Viewpoint').
+type('Galleria del Cembalo','Park').
+type('Chiesa di Santa Maria in Via','Place of warship').
+type('Palazzo di Propaganda Fide','Fountain').
+type('Basilica di Sant Andrea delle Fratte','Place of warship').
 type('Piazza del Popolo','Park').
 type('Marcus Aurelius Column','Castle').
-type('Piazza di Siena','Park').
-type('All Saints  Anglican Church Rome','Bridge').
-type('Church of Saint Roch  all Augusteo ','Park').
-type('Church of Our Lady in Trivio','Place of warship').
-type('Il Tempio di Adriano','Park').
-type('Museo Civico di Zoologia','Square').
+type('Piazza di Siena','Place of warship').
+type('All Saints  Anglican Church Rome','Monument').
+type('Church of Saint Roch  all Augusteo ','Place of warship').
+type('Church of Our Lady in Trivio','Park').
+type('Il Tempio di Adriano','Bridge').
+type('Museo Civico di Zoologia','Monument').
 type('Basilica of St. Augustine in Campo Marzio','Square').
-type('Hendrik Christian Anderson Museum','Bridge').
-type('Goethe House','Museum').
-type('Institute of Japanese Culture','Square').
-type('Villa Balestra','Square').
-type('Palazzo Borghese','Viewpoint').
-type('National Academy of San Luca','Fountain').
-type('Museo Carlo Bilotti','Park').
-type('Palazzo Wedekind','Viewpoint').
-type('Cloaca Maxima','Bridge').
-type('Temple of Apollo Palatinus','Museum').
-type('Circus Maximus','Bridge').
-type('Mouth of Truth','Square').
-type('Basilica di Santa Sabina all Aventino','Place of warship').
-type('Santa Maria in Cosmedin','Square').
-type('Non-Catholic Cemetery','Fountain').
-type('Basilica Santa Cecilia in Trastevere','Castle').
+type('Hendrik Christian Anderson Museum','Castle').
+type('Goethe House','Park').
+type('Institute of Japanese Culture','Place of warship').
+type('Villa Balestra','Fountain').
+type('Palazzo Borghese','Monument').
+type('National Academy of San Luca','Museum').
+type('Museo Carlo Bilotti','Fountain').
+type('Cloaca Maxima','Park').
+type('Temple of Apollo Palatinus','Fountain').
+type('Circus Maximus','Museum').
+type('Mouth of Truth','Fountain').
+type('Basilica di Santa Sabina all Aventino','Castle').
+type('Santa Maria in Cosmedin','Park').
+type('Non-Catholic Cemetery','Museum').
+type('Basilica di Santa Cecilia in Trastevere','Monument').
 type('Mattatoio','Castle').
-type('Pyramid of Caius Cestius','Viewpoint').
+type('Pyramid of Caius Cestius','Park').
 type('Turtle Fountain','Castle').
-type('Basilica di San Bartolomeo all Isola','Park').
-type('Chiesa di Santa Prisca','Castle').
-type('Tempio Maggiore di Roma','Square').
-type('Portico of Octavia','Park').
-type('Basilica Santi Giovanni e Paolo','Museum').
-properties('Il Tempio dei Dioscuri',['Modern art', 'Historical', 'Educational']).
-properties('Basilica Julia',['Historical']).
-properties('Fountain of the Bees',['Educational']).
-properties('Ludus Magnus',['Modern art', 'Historical']).
-properties('Palazzetto Zuccari',['Historical']).
-properties('Fontana del Mose',['Historical']).
-properties('Chiesa di Santa Bibiana',['Modern art', 'Educational']).
-properties('Santissima Trinita degli Spagnoli',['Historical']).
+type('Basilica di San Bartolomeo all Isola','Castle').
+type('Chiesa di Santa Prisca','Monument').
+type('Tempio Maggiore','Castle').
+type('Portico of Octavia','Monument').
+type('Basilica Santi Giovanni e Paolo','Viewpoint').
+properties('Il Tempio dei Dioscuri',['Educational']).
+properties('Basilica Julia',['Modern art', 'Historical']).
+properties('Fountain of the Bees',['Educational', 'Historical']).
+properties('Ludus Magnus',['Educational']).
+properties('Palazzetto Zuccari',['Entertainment', 'Educational']).
+properties('Fontana del Mose',['Educational', 'Modern art']).
+properties('Chiesa di Santa Bibiana',['Modern art', 'Historical']).
+properties('Santissima Trinita degli Spagnoli',['Educational', 'Historical']).
 properties('Colosseum',['Historical', 'Educational']).
 properties('Trevi Fountain',['Historical', 'Entertainment']).
-properties('Capitoline Museums',['Modern art']).
-properties('Arch of Constantine',['Modern art']).
-properties('Obelisco del Pantheon',['Entertainment', 'Modern art', 'Historical']).
-properties('Piazza di Spagna',['Entertainment']).
-properties('Basilica Papale di Santa Maria Maggiore',['Entertainment', 'Modern art', 'Historical']).
+properties('Capitoline Museums',['Entertainment', 'Historical']).
+properties('Arch of Constantine',['Educational', 'Historical']).
+properties('Obelisco del Pantheon',['Entertainment', 'Educational']).
+properties('Piazza di Spagna',['Educational']).
+properties('Basilica Papale di Santa Maria Maggiore',['Entertainment', 'Modern art']).
 properties('Roman Forum',['Historical', 'Educational']).
-properties('Basilica of San Pietro in Vincoli',['Entertainment', 'Modern art', 'Historical']).
-properties('Palazzo Massimo alle Terme',['Educational']).
-properties('Monument to Victor Emmanuel II',['Modern art']).
-properties('Campidoglio',['Entertainment', 'Historical']).
-properties('Mercati di Traiano Museo dei Fori Imperiali',['Educational']).
-properties('Equestrian Statue of Marcus Aurelius',['Modern art']).
-properties('Convento dei Frati Cappuccini',['Modern art']).
-properties('Quirinal Palace',['Modern art', 'Educational']).
-properties('Basilica di San Clemente',['Entertainment']).
-properties('Chiesa di Sant  Ignazio di Loyola',['Historical']).
-properties('Chiesa del Gesu',['Entertainment', 'Educational']).
-properties('Piazza Barberini',['Modern art', 'Historical']).
-properties('Palazzo delle Esposizioni',['Modern art', 'Educational']).
-properties('Basilica di Santa Maria in Ara coeli',['Modern art', 'Historical']).
-properties('Palazzo Montecitorio',['Entertainment', 'Historical']).
-properties('Domus Aurea',['Entertainment', 'Historical']).
-properties('National Gallery of Ancient Art in Barberini Palace',['Entertainment']).
-properties('Doria Pamphili Gallery',['Modern art', 'Educational']).
-properties('Piazza Venezia',['Historical', 'Educational']).
+properties('Basilica of San Pietro in Vincoli',['Entertainment', 'Educational']).
+properties('National Roman Museum - Palazzo Massimo',['Historical']).
+properties('Monument to Victor Emmanuel II',['Entertainment', 'Historical']).
+properties('Campidoglio',['Educational']).
+properties('Mercati di Traiano Museo dei Fori Imperiali',['Educational', 'Modern art']).
+properties('Equestrian Statue of Marcus Aurelius',['Educational']).
+properties('Convento dei Frati Cappuccini',['Modern art', 'Historical']).
+properties('Quirinal Palace',['Entertainment', 'Historical']).
+properties('Basilica di San Clemente',['Entertainment', 'Educational']).
+properties('Chiesa di Sant  Ignazio di Loyola',['Educational']).
+properties('Piazza Barberini',['Educational']).
+properties('Palazzo delle Esposizioni',['Educational', 'Modern art', 'Historical']).
+properties('Chiesa del Gesu',['Entertainment', 'Historical']).
+properties('Basilica di Santa Maria in Ara coeli',['Educational', 'Historical']).
+properties('Palazzo Montecitorio',['Entertainment']).
+properties('Domus Aurea',['Entertainment']).
+properties('National Gallery of Ancient Art in Barberini Palace',['Educational']).
+properties('Doria Pamphili Gallery',['Entertainment', 'Historical']).
+properties('Piazza Venezia',['Educational', 'Modern art']).
 properties('Pantheon',['Historical', 'Educational']).
-properties('Basilica of Saint Mary of Minerva',['Entertainment', 'Modern art', 'Historical']).
-properties('Santa Maria degli Angeli e dei Martiri',['Entertainment']).
-properties('Parrocchia Santa Maria Maggiore',['Entertainment', 'Educational']).
-properties('Mamertine Prison',['Entertainment']).
-properties('Mose di Michelangelo',['Entertainment', 'Modern art']).
-properties('Capanne di Romolo',['Educational']).
-properties('Basilica San Silvestro in Capite',['Entertainment', 'Historical', 'Educational']).
-properties('Basilica del Sacro Cuore di Gesu',['Entertainment']).
-properties('Largo di Torre Argentina',['Entertainment', 'Modern art', 'Historical']).
-properties('Chiesa di Santa Maria ai Monti',['Historical']).
-properties('Basilica of St Mark Evangelist at Campidoglio',['Historical', 'Educational']).
-properties('St. Paul s Within the Walls',['Educational']).
-properties('Septimius Severus Arch',['Modern art', 'Historical', 'Educational']).
-properties('Palazzo Sciarra Colonna Carbognano',['Modern art']).
-properties('The Keats - Shelley House',['Entertainment']).
-properties('Basilica Ulpia',['Entertainment', 'Modern art', 'Historical']).
-properties('Temple of Vesta',['Entertainment']).
-properties('Chiesa San Marcello al Corso',['Historical']).
-properties('San Stanislao alle Botteghe Oscure',['Entertainment', 'Modern art']).
-properties('Column of Phocas',['Entertainment', 'Historical', 'Educational']).
-properties('Antoninus and Faustina Temple',['Modern art']).
-properties('Marcello Theater',['Modern art', 'Historical']).
-properties('Chiesa di Santa Maria in Portico in Campitelli',['Entertainment', 'Modern art', 'Educational']).
-properties('The Church of Santa Maria della Vittoria',['Modern art', 'Historical', 'Educational']).
-properties('The Last Judgment',['Entertainment']).
-properties('Chiesa di Santo Stefano degli Abissini',['Entertainment', 'Historical', 'Educational']).
-properties('Fontana di Piazza Farnese',['Educational']).
-properties('Villa Abamelek',['Historical']).
-properties('Palazzo Torres',['Historical', 'Educational']).
+properties('Basilica of Saint Mary of Minerva',['Historical']).
+properties('Basilica of Saint Mary of the Angels and Martyrs',['Educational']).
+properties('Parrocchia Santa Maria Maggiore',['Entertainment', 'Historical']).
+properties('Mamertine Prison',['Historical']).
+properties('Mose di Michelangelo',['Educational']).
+properties('Capanne di Romolo',['Historical']).
+properties('Basilica San Silvestro in Capite',['Entertainment', 'Modern art']).
+properties('Basilica del Sacro Cuore di Gesu',['Educational', 'Historical']).
+properties('Largo di Torre Argentina',['Historical']).
+properties('Chiesa di Santa Maria ai Monti',['Educational', 'Historical']).
+properties('Basilica of St Mark Evangelist at Campidoglio',['Entertainment', 'Historical']).
+properties('St. Paul s Within the Walls',['Modern art', 'Historical']).
+properties('Septimius Severus Arch',['Entertainment']).
+properties('Palazzo Sciarra Colonna Carbognano',['Entertainment', 'Modern art', 'Historical']).
+properties('The Keats - Shelley House',['Entertainment', 'Modern art']).
+properties('Basilica Ulpia',['Educational']).
+properties('Temple of Vesta',['Modern art']).
+properties('Chiesa San Marcello al Corso',['Entertainment', 'Educational']).
+properties('San Stanislao alle Botteghe Oscure',['Historical']).
+properties('Column of Phocas',['Modern art']).
+properties('Antoninus and Faustina Temple',['Educational', 'Modern art', 'Historical']).
+properties('Marcello Theater',['Entertainment', 'Historical']).
+properties('Chiesa di Santa Maria in Portico in Campitelli',['Entertainment']).
+properties('Church of Santa Maria della Vittoria',['Entertainment', 'Educational', 'Historical']).
+properties('The Last Judgment',['Educational', 'Historical']).
+properties('Chiesa di Santo Stefano degli Abissini',['Entertainment', 'Modern art']).
+properties('Fontana di Piazza Farnese',['Entertainment', 'Modern art']).
+properties('Villa Abamelek',['Educational']).
+properties('Palazzo Torres',['Entertainment', 'Modern art', 'Historical']).
 properties('Castel Sant Angelo',['Historical', 'Educational']).
-properties('Vidoni Palace',['Modern art', 'Historical']).
+properties('Vidoni Palace',['Entertainment']).
 properties('Vatican Museums',['Historical', 'Educational']).
-properties('Fontana di Piazza Nicosia',['Modern art', 'Historical', 'Educational']).
+properties('Fontana di Piazza Nicosia',['Modern art', 'Historical']).
 properties('St. Peter s Basilica',['Historical', 'Educational']).
-properties('Church Holy Spirit in Sassia',['Modern art', 'Educational']).
-properties('Parrocchia Santuario Santa Maria in Traspontina',['Entertainment']).
-properties('Gardens of Vatican City',['Modern art', 'Historical']).
-properties('Fiumi Fountain',['Modern art', 'Educational']).
-properties('Sistine Chapel',['Entertainment', 'Modern art']).
-properties('Villa Farnesina',['Historical', 'Educational']).
-properties('Church of St. Louis of the French',['Entertainment', 'Historical']).
-properties('Palazzo Madama',['Modern art', 'Educational']).
-properties('Galleria Spada',['Modern art']).
+properties('Church Holy Spirit in Sassia',['Modern art', 'Historical']).
+properties('Parrocchia Santuario Santa Maria in Traspontina',['Entertainment', 'Educational', 'Historical']).
+properties('Gardens of Vatican City',['Educational', 'Historical']).
+properties('Fiumi Fountain',['Modern art']).
+properties('Sistine Chapel',['Educational', 'Modern art']).
+properties('Villa Farnesina',['Entertainment']).
+properties('Palazzo Madama',['Historical']).
+properties('Galleria Spada',['Historical']).
+properties('Church of St. Louis of the French',['Educational', 'Historical']).
 properties('St. Angelo Bridge',['Entertainment', 'Modern art']).
-properties('Palazzo Farnese',['Entertainment', 'Modern art']).
-properties('Sant Agnese in Agone',['Entertainment']).
-properties('Botanical Garden of Rome',['Historical']).
-properties('Chiesa di Santa Maria della Pace',['Historical', 'Educational']).
-properties('Obelisco Agonale',['Modern art', 'Historical']).
+properties('Palazzo Farnese',['Educational']).
+properties('Sant Agnese in Agone',['Entertainment', 'Modern art', 'Historical']).
+properties('Botanical Garden of Rome',['Educational', 'Historical']).
+properties('Chiesa di Santa Maria della Pace',['Entertainment', 'Educational']).
+properties('Obelisco Agonale',['Modern art']).
 properties('Basilica of Santa Maria in Trastevere',['Modern art', 'Historical']).
 properties('Church of St Onuphrius at the Janiculum',['Entertainment']).
-properties('Biblioteca Angelica',['Modern art', 'Historical']).
-properties('Campo de  Fiori',['Entertainment', 'Historical', 'Educational']).
+properties('Biblioteca Angelica',['Entertainment', 'Modern art', 'Historical']).
+properties('Campo de  Fiori',['Entertainment', 'Modern art']).
 properties('Piazza Navona',['Historical', 'Entertainment']).
-properties('Corte Suprema di Cassazione',['Historical']).
+properties('Corte Suprema di Cassazione',['Entertainment', 'Historical']).
 properties('Museo di Roma - Palazzo Braschi',['Entertainment']).
-properties('Parrocchia Santa Maria in Vallicella',['Entertainment', 'Modern art']).
-properties('Chiesa di San Pietro in Montorio',['Modern art', 'Historical', 'Educational']).
-properties('Saint Eligio of Orefici',['Entertainment']).
-properties('Palazzo del Commendatore',['Entertainment', 'Historical']).
-properties('Porta Santo Spirito',['Entertainment', 'Modern art']).
-properties('Bernini Fountain',['Entertainment', 'Modern art', 'Historical']).
+properties('Church of Santa Maria in Vallicella',['Entertainment', 'Educational']).
+properties('Church of San Pietro in Montorio',['Entertainment', 'Modern art', 'Historical']).
+properties('Saint Eligio of Orefici',['Educational', 'Historical']).
+properties('Palazzo del Commendatore',['Educational', 'Modern art', 'Historical']).
+properties('Porta Santo Spirito',['Educational', 'Historical']).
+properties('Bernini Fountain',['Educational', 'Modern art', 'Historical']).
 properties('Presepe dei Netturbini',['Historical']).
-properties('Church of Saints Michael and Magnus',['Historical', 'Educational']).
-properties('Museum Leonardo Da Vinci Experience',['Entertainment', 'Modern art', 'Historical']).
-properties('Vatican Necropolis',['Historical', 'Educational']).
-properties('Apostolic Palace',['Modern art', 'Educational']).
-properties('Ponte Vittorio Emanuele II',['Historical', 'Educational']).
-properties('Chiesa di Sant Anna dei Palafrenieri',['Entertainment']).
-properties('Operativa Arte Contemporanea',['Educational']).
-properties('Santa Maria del Suffragio',['Educational']).
-properties('Vatican Apostolic Archive',['Modern art']).
-properties('Carriage Pavilion',['Modern art']).
-properties('Monastero Mater Ecclesi',['Historical', 'Educational']).
-properties('Oratorio dei Filippini (Oratory of St Philip Neri)',['Educational']).
-properties('House of Hospitality Paul VI',['Entertainment']).
+properties('Church of Saints Michael and Magnus',['Modern art']).
+properties('Museum Leonardo Da Vinci Experience',['Educational', 'Modern art']).
+properties('Vatican Necropolis',['Entertainment', 'Historical']).
+properties('Apostolic Palace',['Educational', 'Modern art']).
+properties('Ponte Vittorio Emanuele II',['Educational', 'Modern art']).
+properties('Chiesa di Sant Anna dei Palafrenieri',['Educational']).
+properties('Operativa Arte Contemporanea',['Entertainment', 'Modern art']).
+properties('Santa Maria del Suffragio',['Educational', 'Historical']).
+properties('Vatican Apostolic Archive',['Historical']).
+properties('Carriage Pavilion',['Entertainment', 'Educational', 'Modern art']).
+properties('Monastero Mater Ecclesi',['Entertainment', 'Modern art']).
+properties('Oratorio dei Filippini (Oratory of St Philip Neri)',['Historical']).
+properties('House of Hospitality Paul VI',['Entertainment', 'Historical']).
 properties('Chiesa di Santa Maria del Rosario in Prati',['Modern art']).
-properties('Welcome To Rome',['Modern art', 'Historical']).
-properties('Stadium of Domitian',['Entertainment']).
-properties('Palazzo Pamphili',['Modern art', 'Educational']).
-properties('Fountain of the Moro',['Entertainment', 'Educational']).
-properties('Cappella Chigi',['Historical']).
-properties('Chiesa di Gesu e Maria',['Modern art', 'Historical', 'Educational']).
+properties('Welcome To Rome',['Entertainment', 'Modern art']).
+properties('Stadium of Domitian',['Entertainment', 'Modern art', 'Historical']).
+properties('Palazzo Pamphili',['Modern art']).
+properties('Fountain of the Moro',['Educational', 'Historical']).
+properties('Cappella Chigi',['Educational', 'Modern art', 'Historical']).
+properties('Chiesa di Gesu e Maria',['Educational', 'Modern art']).
 properties('Villa Borghese',['Entertainment']).
-properties('Passeggiata del Pincio',['Modern art', 'Historical']).
-properties('Borghese Gallery and Museum',['Entertainment', 'Modern art']).
+properties('Passeggiata del Pincio',['Entertainment']).
+properties('Borghese Gallery and Museum',['Modern art']).
 properties('National Gallery of Modern and Contemporary Art',['Historical']).
-properties('Mausoleum of Augustus',['Historical', 'Educational']).
-properties('Chiesa Parrocchiale San Giacomo in Augusta',['Entertainment', 'Historical']).
-properties('Villa Medici',['Entertainment', 'Educational']).
-properties('Basilica of Saint Lawrence in Lucina',['Entertainment', 'Modern art']).
-properties('Basilica of SS. Ambrose and Charles on the Corso',['Educational']).
-properties('Giorgio de Chirico House Museum',['Historical']).
-properties('Santa Maria in Montesanto',['Educational']).
-properties('Fontana della Barcaccia',['Entertainment', 'Modern art', 'Historical']).
-properties('Museo Leonardo da Vinci',['Entertainment']).
-properties('Explora - Il Museo dei Bambini di Roma',['Modern art', 'Historical', 'Educational']).
-properties('Orologio ad acqua del Pincio',['Educational']).
-properties('Ponte Giacomo Matteotti',['Educational']).
+properties('Mausoleum of Augustus',['Historical']).
+properties('Chiesa Parrocchiale San Giacomo in Augusta',['Historical']).
+properties('Villa Medici',['Educational']).
+properties('Basilica of Saint Lawrence in Lucina',['Entertainment', 'Educational', 'Modern art']).
+properties('Basilica of SS. Ambrose and Charles on the Corso',['Modern art']).
+properties('Giorgio de Chirico House Museum',['Entertainment', 'Educational']).
+properties('Santa Maria in Montesanto',['Entertainment', 'Historical']).
+properties('Fontana della Barcaccia',['Educational']).
+properties('Museo Leonardo da Vinci',['Educational']).
+properties('Explora - Il Museo dei Bambini di Roma',['Entertainment']).
+properties('Orologio ad acqua del Pincio',['Entertainment', 'Educational']).
+properties('Ponte Giacomo Matteotti',['Entertainment', 'Historical']).
 properties('National Etruscan Museum of Villa Giulia',['Entertainment', 'Historical']).
 properties('Fontana del Babuino',['Entertainment', 'Educational']).
-properties('Fontana del Bottino',['Historical']).
-properties('Trinita dei Monti',['Educational']).
-properties('Galleria del Cembalo',['Educational']).
-properties('Chiesa di Santa Maria in Via',['Historical', 'Educational']).
-properties('Palazzo di Propaganda Fide',['Entertainment']).
-properties('Basilica di Sant Andrea delle Fratte',['Modern art']).
-properties('Piazza del Popolo',['Entertainment']).
+properties('Fontana del Bottino',['Modern art']).
+properties('Trinita dei Monti',['Entertainment', 'Modern art']).
+properties('Galleria del Cembalo',['Entertainment']).
+properties('Chiesa di Santa Maria in Via',['Entertainment', 'Modern art']).
+properties('Palazzo di Propaganda Fide',['Educational']).
+properties('Basilica di Sant Andrea delle Fratte',['Educational']).
+properties('Piazza del Popolo',['Entertainment', 'Educational', 'Historical']).
 properties('Marcus Aurelius Column',['Entertainment']).
-properties('Piazza di Siena',['Educational']).
-properties('All Saints  Anglican Church Rome',['Modern art']).
-properties('Church of Saint Roch  all Augusteo ',['Entertainment', 'Historical']).
-properties('Church of Our Lady in Trivio',['Historical']).
-properties('Il Tempio di Adriano',['Modern art', 'Historical', 'Educational']).
-properties('Museo Civico di Zoologia',['Historical', 'Educational']).
-properties('Basilica of St. Augustine in Campo Marzio',['Modern art', 'Educational']).
-properties('Hendrik Christian Anderson Museum',['Entertainment', 'Educational']).
-properties('Goethe House',['Modern art', 'Historical']).
-properties('Institute of Japanese Culture',['Entertainment', 'Historical']).
-properties('Villa Balestra',['Entertainment', 'Historical', 'Educational']).
-properties('Palazzo Borghese',['Entertainment', 'Modern art', 'Historical']).
-properties('National Academy of San Luca',['Entertainment', 'Modern art']).
-properties('Museo Carlo Bilotti',['Historical', 'Educational']).
-properties('Palazzo Wedekind',['Entertainment']).
-properties('Cloaca Maxima',['Historical']).
-properties('Temple of Apollo Palatinus',['Entertainment', 'Modern art', 'Educational']).
-properties('Circus Maximus',['Entertainment', 'Historical']).
-properties('Mouth of Truth',['Historical']).
-properties('Basilica di Santa Sabina all Aventino',['Entertainment', 'Modern art']).
-properties('Santa Maria in Cosmedin',['Entertainment', 'Modern art']).
-properties('Non-Catholic Cemetery',['Historical', 'Educational']).
-properties('Basilica Santa Cecilia in Trastevere',['Educational']).
-properties('Mattatoio',['Modern art']).
-properties('Pyramid of Caius Cestius',['Modern art', 'Educational']).
+properties('Piazza di Siena',['Entertainment', 'Modern art']).
+properties('All Saints  Anglican Church Rome',['Historical']).
+properties('Church of Saint Roch  all Augusteo ',['Educational', 'Modern art', 'Historical']).
+properties('Church of Our Lady in Trivio',['Entertainment', 'Modern art']).
+properties('Il Tempio di Adriano',['Educational', 'Modern art', 'Historical']).
+properties('Museo Civico di Zoologia',['Historical']).
+properties('Basilica of St. Augustine in Campo Marzio',['Entertainment', 'Modern art']).
+properties('Hendrik Christian Anderson Museum',['Modern art']).
+properties('Goethe House',['Entertainment', 'Modern art']).
+properties('Institute of Japanese Culture',['Educational', 'Historical']).
+properties('Villa Balestra',['Entertainment', 'Modern art']).
+properties('Palazzo Borghese',['Entertainment', 'Modern art']).
+properties('National Academy of San Luca',['Historical']).
+properties('Museo Carlo Bilotti',['Modern art']).
+properties('Cloaca Maxima',['Educational']).
+properties('Temple of Apollo Palatinus',['Historical']).
+properties('Circus Maximus',['Modern art']).
+properties('Mouth of Truth',['Entertainment', 'Educational']).
+properties('Basilica di Santa Sabina all Aventino',['Entertainment', 'Educational', 'Modern art']).
+properties('Santa Maria in Cosmedin',['Entertainment']).
+properties('Non-Catholic Cemetery',['Entertainment', 'Educational']).
+properties('Basilica di Santa Cecilia in Trastevere',['Entertainment', 'Modern art']).
+properties('Mattatoio',['Entertainment', 'Educational']).
+properties('Pyramid of Caius Cestius',['Educational']).
 properties('Turtle Fountain',['Entertainment', 'Educational']).
 properties('Basilica di San Bartolomeo all Isola',['Entertainment']).
-properties('Chiesa di Santa Prisca',['Educational']).
-properties('Tempio Maggiore di Roma',['Entertainment']).
-properties('Portico of Octavia',['Entertainment', 'Modern art', 'Educational']).
-properties('Basilica Santi Giovanni e Paolo',['Entertainment', 'Modern art', 'Educational']).
+properties('Chiesa di Santa Prisca',['Entertainment', 'Educational', 'Historical']).
+properties('Tempio Maggiore',['Modern art']).
+properties('Portico of Octavia',['Modern art']).
+properties('Basilica Santi Giovanni e Paolo',['Entertainment', 'Educational', 'Modern art']).
 coordinates('Il Tempio dei Dioscuri',41.89170310000001,12.4856645).
 coordinates('Basilica Julia',41.89199659999999,12.4847898).
 coordinates('Fountain of the Bees',41.90428929999999,12.4887696).
@@ -718,8 +714,8 @@ coordinates('Obelisco del Pantheon',41.8993212,12.4767522).
 coordinates('Piazza di Spagna',41.9056978,12.482327).
 coordinates('Basilica Papale di Santa Maria Maggiore',41.89759859999999,12.4984084).
 coordinates('Roman Forum',41.8924623,12.485325).
-coordinates('Basilica of San Pietro in Vincoli',41.8938283,12.4930664).
-coordinates('Palazzo Massimo alle Terme',41.9012198,12.4982643).
+coordinates('Basilica of San Pietro in Vincoli',41.8937522,12.492819).
+coordinates('National Roman Museum - Palazzo Massimo',41.9012198,12.4982643).
 coordinates('Monument to Victor Emmanuel II',41.8945976,12.4831269).
 coordinates('Campidoglio',41.89335920000001,12.4828018).
 coordinates('Mercati di Traiano Museo dei Fori Imperiali',41.89564130000001,12.4862481).
@@ -728,18 +724,18 @@ coordinates('Convento dei Frati Cappuccini',41.9048411,12.4883873).
 coordinates('Quirinal Palace',41.8997546,12.4867586).
 coordinates('Basilica di San Clemente',41.8893347,12.4975757).
 coordinates('Chiesa di Sant  Ignazio di Loyola',41.8987532,12.4798693).
-coordinates('Chiesa del Gesu',41.89592440000001,12.4798623).
 coordinates('Piazza Barberini',41.90378459999999,12.4886381).
 coordinates('Palazzo delle Esposizioni',41.8994596,12.4901464).
+coordinates('Chiesa del Gesu',41.8959012,12.4793513).
 coordinates('Basilica di Santa Maria in Ara coeli',41.89381509999999,12.4834796).
-coordinates('Palazzo Montecitorio',41.9015668,12.4787435).
+coordinates('Palazzo Montecitorio',41.90110689999999,12.4786817).
 coordinates('Domus Aurea',41.8906222,12.4956124).
 coordinates('National Gallery of Ancient Art in Barberini Palace',41.90329080000001,12.4898145).
 coordinates('Doria Pamphili Gallery',41.89797819999999,12.4815742).
 coordinates('Piazza Venezia',41.89576630000001,12.4825739).
 coordinates('Pantheon',41.8986108,12.4768729).
 coordinates('Basilica of Saint Mary of Minerva',41.8979888,12.4780226).
-coordinates('Santa Maria degli Angeli e dei Martiri',41.9031888,12.4969341).
+coordinates('Basilica of Saint Mary of the Angels and Martyrs',41.9031888,12.4969341).
 coordinates('Parrocchia Santa Maria Maggiore',41.8959969,12.5015035).
 coordinates('Mamertine Prison',41.89325289999999,12.484504).
 coordinates('Mose di Michelangelo',41.89379449999999,12.4928006).
@@ -761,7 +757,7 @@ coordinates('Column of Phocas',41.8924626,12.4848656).
 coordinates('Antoninus and Faustina Temple',41.8922512,12.4868264).
 coordinates('Marcello Theater',41.8919308,12.4799083).
 coordinates('Chiesa di Santa Maria in Portico in Campitelli',41.8930531,12.4791914).
-coordinates('The Church of Santa Maria della Vittoria',41.90470079999999,12.4943693).
+coordinates('Church of Santa Maria della Vittoria',41.90470079999999,12.4943693).
 coordinates('The Last Judgment',41.902953,12.454456).
 coordinates('Chiesa di Santo Stefano degli Abissini',41.9017865,12.4518432).
 coordinates('Fontana di Piazza Farnese',41.89500969999999,12.4714431).
@@ -778,10 +774,10 @@ coordinates('Gardens of Vatican City',41.9036267,12.4502458).
 coordinates('Fiumi Fountain',41.8989673,12.4730872).
 coordinates('Sistine Chapel',41.9029468,12.4544835).
 coordinates('Villa Farnesina',41.89359939999999,12.4672868).
-coordinates('Church of St. Louis of the French',41.899581,12.4745405).
 coordinates('Palazzo Madama',41.8992385,12.4741376).
 coordinates('Galleria Spada',41.89420339999999,12.4719221).
-coordinates('St. Angelo Bridge',41.901788,12.4664617).
+coordinates('Church of St. Louis of the French',41.8996366,12.4748126).
+coordinates('St. Angelo Bridge',41.901901,12.4664498).
 coordinates('Palazzo Farnese',41.8947597,12.4707851).
 coordinates('Sant Agnese in Agone',41.8988438,12.4725517).
 coordinates('Botanical Garden of Rome',41.8923247,12.4628307).
@@ -794,8 +790,8 @@ coordinates('Campo de  Fiori',41.8957466,12.4718497).
 coordinates('Piazza Navona',41.8991633,12.4730742).
 coordinates('Corte Suprema di Cassazione',41.9047619,12.4700938).
 coordinates('Museo di Roma - Palazzo Braschi',41.897551,12.4727241).
-coordinates('Parrocchia Santa Maria in Vallicella',41.8984826,12.46916).
-coordinates('Chiesa di San Pietro in Montorio',41.888744,12.4664056).
+coordinates('Church of Santa Maria in Vallicella',41.8982461,12.469125).
+coordinates('Church of San Pietro in Montorio',41.888744,12.4664056).
 coordinates('Saint Eligio of Orefici',41.8957023,12.467916).
 coordinates('Palazzo del Commendatore',41.90131359999999,12.4622736).
 coordinates('Porta Santo Spirito',41.900358,12.4616346).
@@ -861,7 +857,6 @@ coordinates('Villa Balestra',41.92137,12.4737079).
 coordinates('Palazzo Borghese',41.904169,12.4761837).
 coordinates('National Academy of San Luca',41.9015916,12.4836896).
 coordinates('Museo Carlo Bilotti',41.91340290000001,12.4833072).
-coordinates('Palazzo Wedekind',41.9008333,12.4794444).
 coordinates('Cloaca Maxima',41.888658,12.4801767).
 coordinates('Temple of Apollo Palatinus',41.8873346,12.4859766).
 coordinates('Circus Maximus',41.88613340000001,12.4851335).
@@ -869,13 +864,13 @@ coordinates('Mouth of Truth',41.8881061,12.4814498).
 coordinates('Basilica di Santa Sabina all Aventino',41.8845076,12.4797654).
 coordinates('Santa Maria in Cosmedin',41.8880752,12.4816333).
 coordinates('Non-Catholic Cemetery',41.8763105,12.4794911).
-coordinates('Basilica Santa Cecilia in Trastevere',41.8871859,12.4765738).
+coordinates('Basilica di Santa Cecilia in Trastevere',41.8871859,12.4765738).
 coordinates('Mattatoio',41.8764877,12.4732685).
 coordinates('Pyramid of Caius Cestius',41.876489,12.4808979).
 coordinates('Turtle Fountain',41.89383429999999,12.4775765).
 coordinates('Basilica di San Bartolomeo all Isola',41.8903329,12.4782114).
 coordinates('Chiesa di Santa Prisca',41.8830743,12.4836264).
-coordinates('Tempio Maggiore di Roma',41.89199519999999,12.4780297).
+coordinates('Tempio Maggiore',41.89199519999999,12.4780297).
 coordinates('Portico of Octavia',41.8925126,12.4785372).
 coordinates('Basilica Santi Giovanni e Paolo',41.88647479999999,12.492111).
 rating('Il Tempio dei Dioscuri',4.7).
@@ -895,7 +890,7 @@ rating('Piazza di Spagna',4.7).
 rating('Basilica Papale di Santa Maria Maggiore',4.8).
 rating('Roman Forum',4.7).
 rating('Basilica of San Pietro in Vincoli',4.7).
-rating('Palazzo Massimo alle Terme',4.6).
+rating('National Roman Museum - Palazzo Massimo',4.6).
 rating('Monument to Victor Emmanuel II',4.8).
 rating('Campidoglio',4.7).
 rating('Mercati di Traiano Museo dei Fori Imperiali',4.6).
@@ -904,9 +899,9 @@ rating('Convento dei Frati Cappuccini',4.2).
 rating('Quirinal Palace',4.6).
 rating('Basilica di San Clemente',4.7).
 rating('Chiesa di Sant  Ignazio di Loyola',4.8).
-rating('Chiesa del Gesu',4.8).
 rating('Piazza Barberini',4.5).
 rating('Palazzo delle Esposizioni',4.5).
+rating('Chiesa del Gesu',4.8).
 rating('Basilica di Santa Maria in Ara coeli',4.8).
 rating('Palazzo Montecitorio',4.2).
 rating('Domus Aurea',4.6).
@@ -915,7 +910,7 @@ rating('Doria Pamphili Gallery',4.6).
 rating('Piazza Venezia',4.7).
 rating('Pantheon',4.8).
 rating('Basilica of Saint Mary of Minerva',4.7).
-rating('Santa Maria degli Angeli e dei Martiri',4.7).
+rating('Basilica of Saint Mary of the Angels and Martyrs',4.7).
 rating('Parrocchia Santa Maria Maggiore',4.6).
 rating('Mamertine Prison',3.8).
 rating('Mose di Michelangelo',4.9).
@@ -937,7 +932,7 @@ rating('Column of Phocas',4.6).
 rating('Antoninus and Faustina Temple',4.7).
 rating('Marcello Theater',4.6).
 rating('Chiesa di Santa Maria in Portico in Campitelli',4.7).
-rating('The Church of Santa Maria della Vittoria',4.7).
+rating('Church of Santa Maria della Vittoria',4.7).
 rating('The Last Judgment',4.7).
 rating('Chiesa di Santo Stefano degli Abissini',4.4).
 rating('Fontana di Piazza Farnese',4.5).
@@ -954,9 +949,9 @@ rating('Gardens of Vatican City',4.7).
 rating('Fiumi Fountain',4.8).
 rating('Sistine Chapel',4.7).
 rating('Villa Farnesina',4.6).
-rating('Church of St. Louis of the French',4.8).
-rating('Palazzo Madama',4.2).
+rating('Palazzo Madama',4.3).
 rating('Galleria Spada',4.5).
+rating('Church of St. Louis of the French',4.8).
 rating('St. Angelo Bridge',4.7).
 rating('Palazzo Farnese',4.6).
 rating('Sant Agnese in Agone',4.7).
@@ -970,8 +965,8 @@ rating('Campo de  Fiori',4.4).
 rating('Piazza Navona',4.7).
 rating('Corte Suprema di Cassazione',4.7).
 rating('Museo di Roma - Palazzo Braschi',4.5).
-rating('Parrocchia Santa Maria in Vallicella',4.7).
-rating('Chiesa di San Pietro in Montorio',4.7).
+rating('Church of Santa Maria in Vallicella',4.7).
+rating('Church of San Pietro in Montorio',4.7).
 rating('Saint Eligio of Orefici',4.5).
 rating('Palazzo del Commendatore',4.5).
 rating('Porta Santo Spirito',4.3).
@@ -1037,7 +1032,6 @@ rating('Villa Balestra',4.2).
 rating('Palazzo Borghese',4.5).
 rating('National Academy of San Luca',4.5).
 rating('Museo Carlo Bilotti',4.3).
-rating('Palazzo Wedekind',4.5).
 rating('Cloaca Maxima',3.9).
 rating('Temple of Apollo Palatinus',4.4).
 rating('Circus Maximus',4.4).
@@ -1045,191 +1039,190 @@ rating('Mouth of Truth',4.2).
 rating('Basilica di Santa Sabina all Aventino',4.7).
 rating('Santa Maria in Cosmedin',4.5).
 rating('Non-Catholic Cemetery',4.6).
-rating('Basilica Santa Cecilia in Trastevere',4.7).
+rating('Basilica di Santa Cecilia in Trastevere',4.7).
 rating('Mattatoio',4.1).
 rating('Pyramid of Caius Cestius',4.3).
 rating('Turtle Fountain',4.5).
 rating('Basilica di San Bartolomeo all Isola',4.6).
 rating('Chiesa di Santa Prisca',4.6).
-rating('Tempio Maggiore di Roma',4.6).
+rating('Tempio Maggiore',4.6).
 rating('Portico of Octavia',4.6).
 rating('Basilica Santi Giovanni e Paolo',4.7).
-ratingCount('Il Tempio dei Dioscuri',111).
-ratingCount('Basilica Julia',144).
-ratingCount('Fountain of the Bees',113).
-ratingCount('Ludus Magnus',332).
-ratingCount('Palazzetto Zuccari',201).
-ratingCount('Fontana del Mose',807).
+ratingCount('Il Tempio dei Dioscuri',112).
+ratingCount('Basilica Julia',145).
+ratingCount('Fountain of the Bees',115).
+ratingCount('Ludus Magnus',335).
+ratingCount('Palazzetto Zuccari',202).
+ratingCount('Fontana del Mose',816).
 ratingCount('Chiesa di Santa Bibiana',229).
 ratingCount('Santissima Trinita degli Spagnoli',322).
-ratingCount('Colosseum',345838).
-ratingCount('Trevi Fountain',361436).
-ratingCount('Capitoline Museums',13772).
-ratingCount('Arch of Constantine',4570).
-ratingCount('Obelisco del Pantheon',1602).
-ratingCount('Piazza di Spagna',119187).
-ratingCount('Basilica Papale di Santa Maria Maggiore',29726).
-ratingCount('Roman Forum',117548).
-ratingCount('Basilica of San Pietro in Vincoli',12779).
-ratingCount('Palazzo Massimo alle Terme',4481).
-ratingCount('Monument to Victor Emmanuel II',54604).
-ratingCount('Campidoglio',20231).
-ratingCount('Mercati di Traiano Museo dei Fori Imperiali',7977).
-ratingCount('Equestrian Statue of Marcus Aurelius',285).
-ratingCount('Convento dei Frati Cappuccini',337).
-ratingCount('Quirinal Palace',3464).
-ratingCount('Basilica di San Clemente',5018).
-ratingCount('Chiesa di Sant  Ignazio di Loyola',8693).
-ratingCount('Chiesa del Gesu',4653).
-ratingCount('Piazza Barberini',23223).
-ratingCount('Palazzo delle Esposizioni',5801).
-ratingCount('Basilica di Santa Maria in Ara coeli',2344).
-ratingCount('Palazzo Montecitorio',727).
-ratingCount('Domus Aurea',2413).
-ratingCount('National Gallery of Ancient Art in Barberini Palace',5016).
-ratingCount('Doria Pamphili Gallery',5024).
-ratingCount('Piazza Venezia',53400).
-ratingCount('Pantheon',200625).
-ratingCount('Basilica of Saint Mary of Minerva',1993).
-ratingCount('Santa Maria degli Angeli e dei Martiri',6642).
+ratingCount('Colosseum',347719).
+ratingCount('Trevi Fountain',363431).
+ratingCount('Capitoline Museums',13818).
+ratingCount('Arch of Constantine',4601).
+ratingCount('Obelisco del Pantheon',1605).
+ratingCount('Piazza di Spagna',119780).
+ratingCount('Basilica Papale di Santa Maria Maggiore',29939).
+ratingCount('Roman Forum',117912).
+ratingCount('Basilica of San Pietro in Vincoli',12822).
+ratingCount('National Roman Museum - Palazzo Massimo',4505).
+ratingCount('Monument to Victor Emmanuel II',55078).
+ratingCount('Campidoglio',20293).
+ratingCount('Mercati di Traiano Museo dei Fori Imperiali',7997).
+ratingCount('Equestrian Statue of Marcus Aurelius',288).
+ratingCount('Convento dei Frati Cappuccini',339).
+ratingCount('Quirinal Palace',3492).
+ratingCount('Basilica di San Clemente',5054).
+ratingCount('Chiesa di Sant  Ignazio di Loyola',8769).
+ratingCount('Piazza Barberini',23259).
+ratingCount('Palazzo delle Esposizioni',5828).
+ratingCount('Chiesa del Gesu',4672).
+ratingCount('Basilica di Santa Maria in Ara coeli',2355).
+ratingCount('Palazzo Montecitorio',731).
+ratingCount('Domus Aurea',2424).
+ratingCount('National Gallery of Ancient Art in Barberini Palace',5042).
+ratingCount('Doria Pamphili Gallery',5075).
+ratingCount('Piazza Venezia',53468).
+ratingCount('Pantheon',201854).
+ratingCount('Basilica of Saint Mary of Minerva',2009).
+ratingCount('Basilica of Saint Mary of the Angels and Martyrs',6682).
 ratingCount('Parrocchia Santa Maria Maggiore',100).
-ratingCount('Mamertine Prison',579).
-ratingCount('Mose di Michelangelo',4933).
+ratingCount('Mamertine Prison',595).
+ratingCount('Mose di Michelangelo',4974).
 ratingCount('Capanne di Romolo',98).
-ratingCount('Basilica San Silvestro in Capite',783).
+ratingCount('Basilica San Silvestro in Capite',784).
 ratingCount('Basilica del Sacro Cuore di Gesu',478).
-ratingCount('Largo di Torre Argentina',31715).
-ratingCount('Chiesa di Santa Maria ai Monti',591).
+ratingCount('Largo di Torre Argentina',31817).
+ratingCount('Chiesa di Santa Maria ai Monti',594).
 ratingCount('Basilica of St Mark Evangelist at Campidoglio',423).
-ratingCount('St. Paul s Within the Walls',1206).
-ratingCount('Septimius Severus Arch',456).
+ratingCount('St. Paul s Within the Walls',1209).
+ratingCount('Septimius Severus Arch',458).
 ratingCount('Palazzo Sciarra Colonna Carbognano',68).
-ratingCount('The Keats - Shelley House',196).
+ratingCount('The Keats - Shelley House',198).
 ratingCount('Basilica Ulpia',44).
-ratingCount('Temple of Vesta',214).
-ratingCount('Chiesa San Marcello al Corso',1796).
+ratingCount('Temple of Vesta',216).
+ratingCount('Chiesa San Marcello al Corso',1803).
 ratingCount('San Stanislao alle Botteghe Oscure',64).
-ratingCount('Column of Phocas',84).
-ratingCount('Antoninus and Faustina Temple',282).
-ratingCount('Marcello Theater',8651).
-ratingCount('Chiesa di Santa Maria in Portico in Campitelli',748).
-ratingCount('The Church of Santa Maria della Vittoria',5712).
-ratingCount('The Last Judgment',251).
+ratingCount('Column of Phocas',85).
+ratingCount('Antoninus and Faustina Temple',283).
+ratingCount('Marcello Theater',8704).
+ratingCount('Chiesa di Santa Maria in Portico in Campitelli',749).
+ratingCount('Church of Santa Maria della Vittoria',5726).
+ratingCount('The Last Judgment',253).
 ratingCount('Chiesa di Santo Stefano degli Abissini',110).
 ratingCount('Fontana di Piazza Farnese',184).
 ratingCount('Villa Abamelek',49).
 ratingCount('Palazzo Torres',24).
-ratingCount('Castel Sant Angelo',76259).
+ratingCount('Castel Sant Angelo',76628).
 ratingCount('Vidoni Palace',53).
-ratingCount('Vatican Museums',148402).
+ratingCount('Vatican Museums',149356).
 ratingCount('Fontana di Piazza Nicosia',26).
-ratingCount('St. Peter s Basilica',135384).
-ratingCount('Church Holy Spirit in Sassia',1601).
-ratingCount('Parrocchia Santuario Santa Maria in Traspontina',1424).
-ratingCount('Gardens of Vatican City',2185).
-ratingCount('Fiumi Fountain',8440).
-ratingCount('Sistine Chapel',63304).
-ratingCount('Villa Farnesina',2114).
-ratingCount('Church of St. Louis of the French',5936).
-ratingCount('Palazzo Madama',315).
-ratingCount('Galleria Spada',1995).
-ratingCount('St. Angelo Bridge',18043).
-ratingCount('Palazzo Farnese',1296).
-ratingCount('Sant Agnese in Agone',1429).
-ratingCount('Botanical Garden of Rome',8251).
-ratingCount('Chiesa di Santa Maria della Pace',1024).
-ratingCount('Obelisco Agonale',239).
-ratingCount('Basilica of Santa Maria in Trastevere',15843).
+ratingCount('St. Peter s Basilica',135661).
+ratingCount('Church Holy Spirit in Sassia',1606).
+ratingCount('Parrocchia Santuario Santa Maria in Traspontina',1426).
+ratingCount('Gardens of Vatican City',2191).
+ratingCount('Fiumi Fountain',8472).
+ratingCount('Sistine Chapel',63969).
+ratingCount('Villa Farnesina',2140).
+ratingCount('Palazzo Madama',313).
+ratingCount('Galleria Spada',2005).
+ratingCount('Church of St. Louis of the French',5951).
+ratingCount('St. Angelo Bridge',18145).
+ratingCount('Palazzo Farnese',1300).
+ratingCount('Sant Agnese in Agone',1439).
+ratingCount('Botanical Garden of Rome',8331).
+ratingCount('Chiesa di Santa Maria della Pace',1027).
+ratingCount('Obelisco Agonale',240).
+ratingCount('Basilica of Santa Maria in Trastevere',15916).
 ratingCount('Church of St Onuphrius at the Janiculum',189).
 ratingCount('Biblioteca Angelica',76).
-ratingCount('Campo de  Fiori',53683).
-ratingCount('Piazza Navona',166407).
-ratingCount('Corte Suprema di Cassazione',951).
-ratingCount('Museo di Roma - Palazzo Braschi',4363).
-ratingCount('Parrocchia Santa Maria in Vallicella',1841).
-ratingCount('Chiesa di San Pietro in Montorio',1651).
+ratingCount('Campo de  Fiori',53943).
+ratingCount('Piazza Navona',167260).
+ratingCount('Corte Suprema di Cassazione',950).
+ratingCount('Museo di Roma - Palazzo Braschi',4365).
+ratingCount('Church of Santa Maria in Vallicella',1849).
+ratingCount('Church of San Pietro in Montorio',1664).
 ratingCount('Saint Eligio of Orefici',60).
 ratingCount('Palazzo del Commendatore',19).
 ratingCount('Porta Santo Spirito',48).
 ratingCount('Bernini Fountain',278).
 ratingCount('Presepe dei Netturbini',326).
-ratingCount('Church of Saints Michael and Magnus',113).
-ratingCount('Museum Leonardo Da Vinci Experience',2885).
-ratingCount('Vatican Necropolis',659).
-ratingCount('Apostolic Palace',714).
-ratingCount('Ponte Vittorio Emanuele II',2050).
-ratingCount('Chiesa di Sant Anna dei Palafrenieri',1282).
+ratingCount('Church of Saints Michael and Magnus',114).
+ratingCount('Museum Leonardo Da Vinci Experience',2910).
+ratingCount('Vatican Necropolis',662).
+ratingCount('Apostolic Palace',719).
+ratingCount('Ponte Vittorio Emanuele II',2064).
+ratingCount('Chiesa di Sant Anna dei Palafrenieri',1286).
 ratingCount('Operativa Arte Contemporanea',23).
 ratingCount('Santa Maria del Suffragio',20).
 ratingCount('Vatican Apostolic Archive',110).
 ratingCount('Carriage Pavilion',122).
 ratingCount('Monastero Mater Ecclesi',78).
 ratingCount('Oratorio dei Filippini (Oratory of St Philip Neri)',58).
-ratingCount('House of Hospitality Paul VI',114).
-ratingCount('Chiesa di Santa Maria del Rosario in Prati',218).
-ratingCount('Welcome To Rome',1112).
-ratingCount('Stadium of Domitian',1442).
+ratingCount('House of Hospitality Paul VI',115).
+ratingCount('Chiesa di Santa Maria del Rosario in Prati',220).
+ratingCount('Welcome To Rome',1132).
+ratingCount('Stadium of Domitian',1451).
 ratingCount('Palazzo Pamphili',62).
-ratingCount('Fountain of the Moro',798).
-ratingCount('Cappella Chigi',121).
-ratingCount('Chiesa di Gesu e Maria',289).
-ratingCount('Villa Borghese',72818).
-ratingCount('Passeggiata del Pincio',11341).
-ratingCount('Borghese Gallery and Museum',19532).
-ratingCount('National Gallery of Modern and Contemporary Art',7556).
-ratingCount('Mausoleum of Augustus',2336).
-ratingCount('Chiesa Parrocchiale San Giacomo in Augusta',714).
-ratingCount('Villa Medici',1722).
-ratingCount('Basilica of Saint Lawrence in Lucina',1258).
-ratingCount('Basilica of SS. Ambrose and Charles on the Corso',1948).
-ratingCount('Giorgio de Chirico House Museum',69).
-ratingCount('Santa Maria in Montesanto',417).
-ratingCount('Fontana della Barcaccia',1619).
-ratingCount('Museo Leonardo da Vinci',896).
-ratingCount('Explora - Il Museo dei Bambini di Roma',3956).
-ratingCount('Orologio ad acqua del Pincio',1471).
-ratingCount('Ponte Giacomo Matteotti',93).
-ratingCount('National Etruscan Museum of Villa Giulia',2925).
-ratingCount('Fontana del Babuino',174).
+ratingCount('Fountain of the Moro',806).
+ratingCount('Cappella Chigi',123).
+ratingCount('Chiesa di Gesu e Maria',291).
+ratingCount('Villa Borghese',73182).
+ratingCount('Passeggiata del Pincio',11366).
+ratingCount('Borghese Gallery and Museum',19643).
+ratingCount('National Gallery of Modern and Contemporary Art',7598).
+ratingCount('Mausoleum of Augustus',2340).
+ratingCount('Chiesa Parrocchiale San Giacomo in Augusta',715).
+ratingCount('Villa Medici',1750).
+ratingCount('Basilica of Saint Lawrence in Lucina',1259).
+ratingCount('Basilica of SS. Ambrose and Charles on the Corso',1959).
+ratingCount('Giorgio de Chirico House Museum',71).
+ratingCount('Santa Maria in Montesanto',419).
+ratingCount('Fontana della Barcaccia',1632).
+ratingCount('Museo Leonardo da Vinci',899).
+ratingCount('Explora - Il Museo dei Bambini di Roma',3972).
+ratingCount('Orologio ad acqua del Pincio',1481).
+ratingCount('Ponte Giacomo Matteotti',95).
+ratingCount('National Etruscan Museum of Villa Giulia',2940).
+ratingCount('Fontana del Babuino',175).
 ratingCount('Fontana del Bottino',16).
-ratingCount('Trinita dei Monti',2054).
+ratingCount('Trinita dei Monti',2065).
 ratingCount('Galleria del Cembalo',79).
-ratingCount('Chiesa di Santa Maria in Via',600).
-ratingCount('Palazzo di Propaganda Fide',55).
-ratingCount('Basilica di Sant Andrea delle Fratte',3430).
-ratingCount('Piazza del Popolo',94481).
-ratingCount('Marcus Aurelius Column',1858).
-ratingCount('Piazza di Siena',2493).
-ratingCount('All Saints  Anglican Church Rome',211).
+ratingCount('Chiesa di Santa Maria in Via',599).
+ratingCount('Palazzo di Propaganda Fide',56).
+ratingCount('Basilica di Sant Andrea delle Fratte',3441).
+ratingCount('Piazza del Popolo',94946).
+ratingCount('Marcus Aurelius Column',1864).
+ratingCount('Piazza di Siena',2559).
+ratingCount('All Saints  Anglican Church Rome',212).
 ratingCount('Church of Saint Roch  all Augusteo ',166).
-ratingCount('Church of Our Lady in Trivio',126).
-ratingCount('Il Tempio di Adriano',5153).
-ratingCount('Museo Civico di Zoologia',1590).
-ratingCount('Basilica of St. Augustine in Campo Marzio',1411).
-ratingCount('Hendrik Christian Anderson Museum',518).
+ratingCount('Church of Our Lady in Trivio',128).
+ratingCount('Il Tempio di Adriano',5189).
+ratingCount('Museo Civico di Zoologia',1601).
+ratingCount('Basilica of St. Augustine in Campo Marzio',1420).
+ratingCount('Hendrik Christian Anderson Museum',522).
 ratingCount('Goethe House',59).
-ratingCount('Institute of Japanese Culture',808).
-ratingCount('Villa Balestra',782).
-ratingCount('Palazzo Borghese',875).
-ratingCount('National Academy of San Luca',179).
-ratingCount('Museo Carlo Bilotti',591).
-ratingCount('Palazzo Wedekind',91).
+ratingCount('Institute of Japanese Culture',817).
+ratingCount('Villa Balestra',787).
+ratingCount('Palazzo Borghese',879).
+ratingCount('National Academy of San Luca',183).
+ratingCount('Museo Carlo Bilotti',593).
 ratingCount('Cloaca Maxima',95).
 ratingCount('Temple of Apollo Palatinus',44).
-ratingCount('Circus Maximus',47112).
-ratingCount('Mouth of Truth',15560).
-ratingCount('Basilica di Santa Sabina all Aventino',1255).
-ratingCount('Santa Maria in Cosmedin',6172).
-ratingCount('Non-Catholic Cemetery',1589).
-ratingCount('Basilica Santa Cecilia in Trastevere',2872).
-ratingCount('Mattatoio',1005).
-ratingCount('Pyramid of Caius Cestius',4992).
-ratingCount('Turtle Fountain',5616).
-ratingCount('Basilica di San Bartolomeo all Isola',1861).
-ratingCount('Chiesa di Santa Prisca',412).
-ratingCount('Tempio Maggiore di Roma',2689).
-ratingCount('Portico of Octavia',2137).
-ratingCount('Basilica Santi Giovanni e Paolo',1412).
+ratingCount('Circus Maximus',47498).
+ratingCount('Mouth of Truth',15610).
+ratingCount('Basilica di Santa Sabina all Aventino',1259).
+ratingCount('Santa Maria in Cosmedin',6179).
+ratingCount('Non-Catholic Cemetery',1593).
+ratingCount('Basilica di Santa Cecilia in Trastevere',2893).
+ratingCount('Mattatoio',1009).
+ratingCount('Pyramid of Caius Cestius',5008).
+ratingCount('Turtle Fountain',5629).
+ratingCount('Basilica di San Bartolomeo all Isola',1871).
+ratingCount('Chiesa di Santa Prisca',414).
+ratingCount('Tempio Maggiore',2708).
+ratingCount('Portico of Octavia',2144).
+ratingCount('Basilica Santi Giovanni e Paolo',1420).
 centreDistance('Il Tempio dei Dioscuri',1167).
 centreDistance('Basilica Julia',1095).
 centreDistance('Fountain of the Bees',1166).
@@ -1246,8 +1239,8 @@ centreDistance('Obelisco del Pantheon',46).
 centreDistance('Piazza di Spagna',852).
 centreDistance('Basilica Papale di Santa Maria Maggiore',1850).
 centreDistance('Roman Forum',1086).
-centreDistance('Basilica of San Pietro in Vincoli',1531).
-centreDistance('Palazzo Massimo alle Terme',1836).
+centreDistance('Basilica of San Pietro in Vincoli',1516).
+centreDistance('National Roman Museum - Palazzo Massimo',1836).
 centreDistance('Monument to Victor Emmanuel II',789).
 centreDistance('Campidoglio',873).
 centreDistance('Mercati di Traiano Museo dei Fori Imperiali',934).
@@ -1256,18 +1249,18 @@ centreDistance('Convento dei Frati Cappuccini',1168).
 centreDistance('Quirinal Palace',872).
 centreDistance('Basilica di San Clemente',2100).
 centreDistance('Chiesa di Sant  Ignazio di Loyola',311).
-centreDistance('Chiesa del Gesu',498).
 centreDistance('Piazza Barberini',1132).
 centreDistance('Palazzo delle Esposizioni',1153).
+centreDistance('Chiesa del Gesu',476).
 centreDistance('Basilica di Santa Maria in Ara coeli',872).
-centreDistance('Palazzo Montecitorio',307).
+centreDistance('Palazzo Montecitorio',268).
 centreDistance('Domus Aurea',1886).
 centreDistance('National Gallery of Ancient Art in Barberini Palace',1201).
 centreDistance('Doria Pamphili Gallery',473).
 centreDistance('Piazza Venezia',669).
 centreDistance('Pantheon',112).
 centreDistance('Basilica of Saint Mary of Minerva',224).
-centreDistance('Santa Maria degli Angeli e dei Martiri',1764).
+centreDistance('Basilica of Saint Mary of the Angels and Martyrs',1764).
 centreDistance('Parrocchia Santa Maria Maggiore',2131).
 centreDistance('Mamertine Prison',976).
 centreDistance('Mose di Michelangelo',1513).
@@ -1289,7 +1282,7 @@ centreDistance('Column of Phocas',1060).
 centreDistance('Antoninus and Faustina Temple',1192).
 centreDistance('Marcello Theater',895).
 centreDistance('Chiesa di Santa Maria in Portico in Campitelli',757).
-centreDistance('The Church of Santa Maria della Vittoria',1610).
+centreDistance('Church of Santa Maria della Vittoria',1610).
 centreDistance('The Last Judgment',1848).
 centreDistance('Chiesa di Santo Stefano degli Abissini',2040).
 centreDistance('Fontana di Piazza Farnese',639).
@@ -1306,10 +1299,10 @@ centreDistance('Gardens of Vatican City',2205).
 centreDistance('Fiumi Fountain',269).
 centreDistance('Sistine Chapel',1846).
 centreDistance('Villa Farnesina',992).
-centreDistance('Church of St. Louis of the French',142).
 centreDistance('Palazzo Madama',177).
 centreDistance('Galleria Spada',690).
-centreDistance('St. Angelo Bridge',850).
+centreDistance('Church of St. Louis of the French',120).
+centreDistance('St. Angelo Bridge',855).
 centreDistance('Palazzo Farnese',696).
 centreDistance('Sant Agnese in Agone',315).
 centreDistance('Botanical Garden of Rome',1370).
@@ -1322,8 +1315,8 @@ centreDistance('Campo de  Fiori',555).
 centreDistance('Piazza Navona',266).
 centreDistance('Corte Suprema di Cassazione',775).
 centreDistance('Museo di Roma - Palazzo Braschi',364).
-centreDistance('Parrocchia Santa Maria in Vallicella',599).
-centreDistance('Chiesa di San Pietro in Montorio',1448).
+centreDistance('Church of Santa Maria in Vallicella',607).
+centreDistance('Church of San Pietro in Montorio',1448).
 centreDistance('Saint Eligio of Orefici',810).
 centreDistance('Palazzo del Commendatore',1176).
 centreDistance('Porta Santo Spirito',1216).
@@ -1389,7 +1382,6 @@ centreDistance('Villa Balestra',2436).
 centreDistance('Palazzo Borghese',517).
 centreDistance('National Academy of San Luca',659).
 centreDistance('Museo Carlo Bilotti',1650).
-centreDistance('Palazzo Wedekind',302).
 centreDistance('Cloaca Maxima',1248).
 centreDistance('Temple of Apollo Palatinus',1575).
 centreDistance('Circus Maximus',1658).
@@ -1397,973 +1389,985 @@ centreDistance('Mouth of Truth',1338).
 centreDistance('Basilica di Santa Sabina all Aventino',1692).
 centreDistance('Santa Maria in Cosmedin',1346).
 centreDistance('Non-Catholic Cemetery',2591).
-centreDistance('Basilica Santa Cecilia in Trastevere',1369).
+centreDistance('Basilica di Santa Cecilia in Trastevere',1369).
 centreDistance('Mattatoio',2569).
 centreDistance('Pyramid of Caius Cestius',2586).
 centreDistance('Turtle Fountain',640).
 centreDistance('Basilica di San Bartolomeo all Isola',1032).
 centreDistance('Chiesa di Santa Prisca',1925).
-centreDistance('Tempio Maggiore di Roma',848).
+centreDistance('Tempio Maggiore',848).
 centreDistance('Portico of Octavia',800).
 centreDistance('Basilica Santi Giovanni e Paolo',1956).
-handicapAccessibility('Fountain of the Bees').
+handicapAccessibility('Basilica Julia').
 handicapAccessibility('Palazzetto Zuccari').
-handicapAccessibility('Santissima Trinita degli Spagnoli').
-handicapAccessibility('Colosseum').
+handicapAccessibility('Chiesa di Santa Bibiana').
 handicapAccessibility('Trevi Fountain').
 handicapAccessibility('Capitoline Museums').
 handicapAccessibility('Obelisco del Pantheon').
-handicapAccessibility('Mercati di Traiano Museo dei Fori Imperiali').
+handicapAccessibility('Piazza di Spagna').
+handicapAccessibility('Basilica Papale di Santa Maria Maggiore').
+handicapAccessibility('Roman Forum').
+handicapAccessibility('National Roman Museum - Palazzo Massimo').
+handicapAccessibility('Campidoglio').
+handicapAccessibility('Equestrian Statue of Marcus Aurelius').
 handicapAccessibility('Quirinal Palace').
-handicapAccessibility('Basilica di San Clemente').
-handicapAccessibility('Chiesa di Sant  Ignazio di Loyola').
 handicapAccessibility('Palazzo delle Esposizioni').
-handicapAccessibility('Basilica di Santa Maria in Ara coeli').
+handicapAccessibility('Chiesa del Gesu').
 handicapAccessibility('Palazzo Montecitorio').
 handicapAccessibility('Domus Aurea').
 handicapAccessibility('National Gallery of Ancient Art in Barberini Palace').
-handicapAccessibility('Mamertine Prison').
+handicapAccessibility('Piazza Venezia').
+handicapAccessibility('Basilica of Saint Mary of Minerva').
+handicapAccessibility('Parrocchia Santa Maria Maggiore').
 handicapAccessibility('Basilica San Silvestro in Capite').
-handicapAccessibility('Largo di Torre Argentina').
 handicapAccessibility('Chiesa di Santa Maria ai Monti').
-handicapAccessibility('Septimius Severus Arch').
-handicapAccessibility('The Keats - Shelley House').
-handicapAccessibility('Chiesa San Marcello al Corso').
-handicapAccessibility('Column of Phocas').
+handicapAccessibility('Basilica of St Mark Evangelist at Campidoglio').
+handicapAccessibility('St. Paul s Within the Walls').
+handicapAccessibility('Temple of Vesta').
+handicapAccessibility('San Stanislao alle Botteghe Oscure').
+handicapAccessibility('Antoninus and Faustina Temple').
+handicapAccessibility('Marcello Theater').
 handicapAccessibility('Chiesa di Santa Maria in Portico in Campitelli').
-handicapAccessibility('The Church of Santa Maria della Vittoria').
-handicapAccessibility('Chiesa di Santo Stefano degli Abissini').
-handicapAccessibility('Fontana di Piazza Farnese').
-handicapAccessibility('Palazzo Torres').
+handicapAccessibility('Church of Santa Maria della Vittoria').
+handicapAccessibility('Villa Abamelek').
+handicapAccessibility('Castel Sant Angelo').
+handicapAccessibility('Vidoni Palace').
+handicapAccessibility('Vatican Museums').
 handicapAccessibility('St. Peter s Basilica').
 handicapAccessibility('Parrocchia Santuario Santa Maria in Traspontina').
-handicapAccessibility('Gardens of Vatican City').
-handicapAccessibility('Fiumi Fountain').
+handicapAccessibility('Villa Farnesina').
+handicapAccessibility('Palazzo Madama').
+handicapAccessibility('Galleria Spada').
+handicapAccessibility('Church of St. Louis of the French').
+handicapAccessibility('Palazzo Farnese').
 handicapAccessibility('Sant Agnese in Agone').
-handicapAccessibility('Botanical Garden of Rome').
-handicapAccessibility('Chiesa di Santa Maria della Pace').
+handicapAccessibility('Obelisco Agonale').
 handicapAccessibility('Basilica of Santa Maria in Trastevere').
 handicapAccessibility('Piazza Navona').
-handicapAccessibility('Corte Suprema di Cassazione').
-handicapAccessibility('Parrocchia Santa Maria in Vallicella').
+handicapAccessibility('Church of Santa Maria in Vallicella').
 handicapAccessibility('Saint Eligio of Orefici').
-handicapAccessibility('Vatican Necropolis').
-handicapAccessibility('Operativa Arte Contemporanea').
+handicapAccessibility('Palazzo del Commendatore').
+handicapAccessibility('Porta Santo Spirito').
+handicapAccessibility('Presepe dei Netturbini').
+handicapAccessibility('Museum Leonardo Da Vinci Experience').
+handicapAccessibility('Apostolic Palace').
+handicapAccessibility('Chiesa di Sant Anna dei Palafrenieri').
+handicapAccessibility('Vatican Apostolic Archive').
+handicapAccessibility('Carriage Pavilion').
 handicapAccessibility('Oratorio dei Filippini (Oratory of St Philip Neri)').
-handicapAccessibility('House of Hospitality Paul VI').
-handicapAccessibility('Chiesa di Santa Maria del Rosario in Prati').
 handicapAccessibility('Welcome To Rome').
 handicapAccessibility('Stadium of Domitian').
-handicapAccessibility('Fountain of the Moro').
+handicapAccessibility('Palazzo Pamphili').
+handicapAccessibility('Chiesa di Gesu e Maria').
+handicapAccessibility('Villa Borghese').
+handicapAccessibility('Passeggiata del Pincio').
 handicapAccessibility('Borghese Gallery and Museum').
-handicapAccessibility('Mausoleum of Augustus').
-handicapAccessibility('Basilica of Saint Lawrence in Lucina').
+handicapAccessibility('National Gallery of Modern and Contemporary Art').
+handicapAccessibility('Villa Medici').
+handicapAccessibility('Basilica of SS. Ambrose and Charles on the Corso').
 handicapAccessibility('Giorgio de Chirico House Museum').
 handicapAccessibility('Santa Maria in Montesanto').
 handicapAccessibility('Fontana della Barcaccia').
 handicapAccessibility('Explora - Il Museo dei Bambini di Roma').
 handicapAccessibility('Orologio ad acqua del Pincio').
-handicapAccessibility('Ponte Giacomo Matteotti').
-handicapAccessibility('National Etruscan Museum of Villa Giulia').
-handicapAccessibility('Fontana del Bottino').
-handicapAccessibility('Chiesa di Santa Maria in Via').
+handicapAccessibility('Fontana del Babuino').
+handicapAccessibility('Trinita dei Monti').
+handicapAccessibility('Galleria del Cembalo').
 handicapAccessibility('Palazzo di Propaganda Fide').
+handicapAccessibility('Basilica di Sant Andrea delle Fratte').
 handicapAccessibility('Piazza del Popolo').
+handicapAccessibility('All Saints  Anglican Church Rome').
 handicapAccessibility('Church of Our Lady in Trivio').
 handicapAccessibility('Basilica of St. Augustine in Campo Marzio').
-handicapAccessibility('Hendrik Christian Anderson Museum').
-handicapAccessibility('Institute of Japanese Culture').
+handicapAccessibility('Goethe House').
+handicapAccessibility('Villa Balestra').
 handicapAccessibility('Palazzo Borghese').
 handicapAccessibility('Museo Carlo Bilotti').
-handicapAccessibility('Cloaca Maxima').
 handicapAccessibility('Temple of Apollo Palatinus').
+handicapAccessibility('Circus Maximus').
 handicapAccessibility('Mouth of Truth').
-handicapAccessibility('Basilica di Santa Sabina all Aventino').
-handicapAccessibility('Santa Maria in Cosmedin').
 handicapAccessibility('Non-Catholic Cemetery').
-handicapAccessibility('Mattatoio').
 handicapAccessibility('Pyramid of Caius Cestius').
+handicapAccessibility('Turtle Fountain').
 handicapAccessibility('Basilica di San Bartolomeo all Isola').
-tourismRate('Il Tempio dei Dioscuri',963399).
-tourismRate('Basilica Julia',481901).
-tourismRate('Fountain of the Bees',1004162).
-tourismRate('Ludus Magnus',1103600).
-tourismRate('Palazzetto Zuccari',226498).
-tourismRate('Fontana del Mose',209520).
-tourismRate('Chiesa di Santa Bibiana',860470).
-tourismRate('Santissima Trinita degli Spagnoli',1469554).
+handicapAccessibility('Chiesa di Santa Prisca').
+handicapAccessibility('Tempio Maggiore').
+handicapAccessibility('Basilica Santi Giovanni e Paolo').
+tourismRate('Il Tempio dei Dioscuri',288473).
+tourismRate('Basilica Julia',1403967).
+tourismRate('Fountain of the Bees',952460).
+tourismRate('Ludus Magnus',399907).
+tourismRate('Palazzetto Zuccari',587538).
+tourismRate('Fontana del Mose',259588).
+tourismRate('Chiesa di Santa Bibiana',620421).
+tourismRate('Santissima Trinita degli Spagnoli',1239361).
 tourismRate('Colosseum',6400000).
 tourismRate('Trevi Fountain',6500000).
-tourismRate('Capitoline Museums',635987).
-tourismRate('Arch of Constantine',349044).
-tourismRate('Obelisco del Pantheon',306799).
-tourismRate('Piazza di Spagna',398123).
-tourismRate('Basilica Papale di Santa Maria Maggiore',1003664).
+tourismRate('Capitoline Museums',1046461).
+tourismRate('Arch of Constantine',1019432).
+tourismRate('Obelisco del Pantheon',1047282).
+tourismRate('Piazza di Spagna',269057).
+tourismRate('Basilica Papale di Santa Maria Maggiore',608338).
 tourismRate('Roman Forum',4500000).
-tourismRate('Basilica of San Pietro in Vincoli',241769).
-tourismRate('Palazzo Massimo alle Terme',1028679).
-tourismRate('Monument to Victor Emmanuel II',315497).
-tourismRate('Campidoglio',1474284).
-tourismRate('Mercati di Traiano Museo dei Fori Imperiali',1111416).
-tourismRate('Equestrian Statue of Marcus Aurelius',431570).
-tourismRate('Convento dei Frati Cappuccini',1221920).
-tourismRate('Quirinal Palace',422439).
-tourismRate('Basilica di San Clemente',521876).
-tourismRate('Chiesa di Sant  Ignazio di Loyola',1197878).
-tourismRate('Chiesa del Gesu',429471).
-tourismRate('Piazza Barberini',1250547).
-tourismRate('Palazzo delle Esposizioni',622890).
-tourismRate('Basilica di Santa Maria in Ara coeli',310891).
-tourismRate('Palazzo Montecitorio',600889).
-tourismRate('Domus Aurea',1382430).
-tourismRate('National Gallery of Ancient Art in Barberini Palace',1019144).
-tourismRate('Doria Pamphili Gallery',1410917).
-tourismRate('Piazza Venezia',233356).
+tourismRate('Basilica of San Pietro in Vincoli',572077).
+tourismRate('National Roman Museum - Palazzo Massimo',1185574).
+tourismRate('Monument to Victor Emmanuel II',548220).
+tourismRate('Campidoglio',656627).
+tourismRate('Mercati di Traiano Museo dei Fori Imperiali',1379568).
+tourismRate('Equestrian Statue of Marcus Aurelius',1481963).
+tourismRate('Convento dei Frati Cappuccini',1440361).
+tourismRate('Quirinal Palace',211890).
+tourismRate('Basilica di San Clemente',302539).
+tourismRate('Chiesa di Sant  Ignazio di Loyola',596117).
+tourismRate('Piazza Barberini',993522).
+tourismRate('Palazzo delle Esposizioni',643205).
+tourismRate('Chiesa del Gesu',604845).
+tourismRate('Basilica di Santa Maria in Ara coeli',384694).
+tourismRate('Palazzo Montecitorio',433486).
+tourismRate('Domus Aurea',1372074).
+tourismRate('National Gallery of Ancient Art in Barberini Palace',522969).
+tourismRate('Doria Pamphili Gallery',868475).
+tourismRate('Piazza Venezia',782947).
 tourismRate('Pantheon',7400000).
-tourismRate('Basilica of Saint Mary of Minerva',376709).
-tourismRate('Santa Maria degli Angeli e dei Martiri',1064857).
-tourismRate('Parrocchia Santa Maria Maggiore',876507).
-tourismRate('Mamertine Prison',315659).
-tourismRate('Mose di Michelangelo',514579).
-tourismRate('Capanne di Romolo',598255).
-tourismRate('Basilica San Silvestro in Capite',1069921).
-tourismRate('Basilica del Sacro Cuore di Gesu',1446158).
-tourismRate('Largo di Torre Argentina',1237394).
-tourismRate('Chiesa di Santa Maria ai Monti',1038072).
-tourismRate('Basilica of St Mark Evangelist at Campidoglio',938068).
-tourismRate('St. Paul s Within the Walls',997647).
-tourismRate('Septimius Severus Arch',823083).
-tourismRate('Palazzo Sciarra Colonna Carbognano',547472).
-tourismRate('The Keats - Shelley House',246023).
-tourismRate('Basilica Ulpia',996454).
-tourismRate('Temple of Vesta',1446793).
-tourismRate('Chiesa San Marcello al Corso',267779).
-tourismRate('San Stanislao alle Botteghe Oscure',699950).
-tourismRate('Column of Phocas',439921).
-tourismRate('Antoninus and Faustina Temple',1106886).
-tourismRate('Marcello Theater',1174328).
-tourismRate('Chiesa di Santa Maria in Portico in Campitelli',1275100).
-tourismRate('The Church of Santa Maria della Vittoria',331846).
-tourismRate('The Last Judgment',1011276).
-tourismRate('Chiesa di Santo Stefano degli Abissini',1421575).
-tourismRate('Fontana di Piazza Farnese',637308).
-tourismRate('Villa Abamelek',845020).
-tourismRate('Palazzo Torres',1203966).
+tourismRate('Basilica of Saint Mary of Minerva',1106815).
+tourismRate('Basilica of Saint Mary of the Angels and Martyrs',1038399).
+tourismRate('Parrocchia Santa Maria Maggiore',827499).
+tourismRate('Mamertine Prison',380686).
+tourismRate('Mose di Michelangelo',1132165).
+tourismRate('Capanne di Romolo',542627).
+tourismRate('Basilica San Silvestro in Capite',1435401).
+tourismRate('Basilica del Sacro Cuore di Gesu',320446).
+tourismRate('Largo di Torre Argentina',1337291).
+tourismRate('Chiesa di Santa Maria ai Monti',1340679).
+tourismRate('Basilica of St Mark Evangelist at Campidoglio',992030).
+tourismRate('St. Paul s Within the Walls',995314).
+tourismRate('Septimius Severus Arch',1331820).
+tourismRate('Palazzo Sciarra Colonna Carbognano',1169526).
+tourismRate('The Keats - Shelley House',658292).
+tourismRate('Basilica Ulpia',815497).
+tourismRate('Temple of Vesta',1191550).
+tourismRate('Chiesa San Marcello al Corso',842581).
+tourismRate('San Stanislao alle Botteghe Oscure',323756).
+tourismRate('Column of Phocas',1349752).
+tourismRate('Antoninus and Faustina Temple',1038882).
+tourismRate('Marcello Theater',1338748).
+tourismRate('Chiesa di Santa Maria in Portico in Campitelli',1480833).
+tourismRate('Church of Santa Maria della Vittoria',1489161).
+tourismRate('The Last Judgment',1086273).
+tourismRate('Chiesa di Santo Stefano degli Abissini',1352310).
+tourismRate('Fontana di Piazza Farnese',1328641).
+tourismRate('Villa Abamelek',1149351).
+tourismRate('Palazzo Torres',718750).
 tourismRate('Castel Sant Angelo',1300000).
-tourismRate('Vidoni Palace',202029).
+tourismRate('Vidoni Palace',442698).
 tourismRate('Vatican Museums',6700000).
-tourismRate('Fontana di Piazza Nicosia',275534).
+tourismRate('Fontana di Piazza Nicosia',325412).
 tourismRate('St. Peter s Basilica',11400000).
-tourismRate('Church Holy Spirit in Sassia',926182).
-tourismRate('Parrocchia Santuario Santa Maria in Traspontina',1109704).
-tourismRate('Gardens of Vatican City',1265264).
-tourismRate('Fiumi Fountain',584407).
-tourismRate('Sistine Chapel',310702).
-tourismRate('Villa Farnesina',1036502).
-tourismRate('Church of St. Louis of the French',886787).
-tourismRate('Palazzo Madama',1046202).
-tourismRate('Galleria Spada',551033).
-tourismRate('St. Angelo Bridge',771771).
-tourismRate('Palazzo Farnese',957910).
-tourismRate('Sant Agnese in Agone',985074).
-tourismRate('Botanical Garden of Rome',948792).
-tourismRate('Chiesa di Santa Maria della Pace',664638).
-tourismRate('Obelisco Agonale',349249).
-tourismRate('Basilica of Santa Maria in Trastevere',1283573).
-tourismRate('Church of St Onuphrius at the Janiculum',385323).
-tourismRate('Biblioteca Angelica',786097).
-tourismRate('Campo de  Fiori',1307780).
+tourismRate('Church Holy Spirit in Sassia',525889).
+tourismRate('Parrocchia Santuario Santa Maria in Traspontina',1222233).
+tourismRate('Gardens of Vatican City',754891).
+tourismRate('Fiumi Fountain',433263).
+tourismRate('Sistine Chapel',244900).
+tourismRate('Villa Farnesina',281567).
+tourismRate('Palazzo Madama',464972).
+tourismRate('Galleria Spada',1174862).
+tourismRate('Church of St. Louis of the French',961109).
+tourismRate('St. Angelo Bridge',1239461).
+tourismRate('Palazzo Farnese',1298776).
+tourismRate('Sant Agnese in Agone',1430449).
+tourismRate('Botanical Garden of Rome',1177104).
+tourismRate('Chiesa di Santa Maria della Pace',1305137).
+tourismRate('Obelisco Agonale',799337).
+tourismRate('Basilica of Santa Maria in Trastevere',440523).
+tourismRate('Church of St Onuphrius at the Janiculum',1038776).
+tourismRate('Biblioteca Angelica',915934).
+tourismRate('Campo de  Fiori',852412).
 tourismRate('Piazza Navona',5700000).
-tourismRate('Corte Suprema di Cassazione',918410).
-tourismRate('Museo di Roma - Palazzo Braschi',546847).
-tourismRate('Parrocchia Santa Maria in Vallicella',1495735).
-tourismRate('Chiesa di San Pietro in Montorio',1005498).
-tourismRate('Saint Eligio of Orefici',382792).
-tourismRate('Palazzo del Commendatore',1333548).
-tourismRate('Porta Santo Spirito',1374470).
-tourismRate('Bernini Fountain',1264228).
-tourismRate('Presepe dei Netturbini',1195989).
-tourismRate('Church of Saints Michael and Magnus',756113).
-tourismRate('Museum Leonardo Da Vinci Experience',257450).
-tourismRate('Vatican Necropolis',538954).
-tourismRate('Apostolic Palace',835860).
-tourismRate('Ponte Vittorio Emanuele II',1334377).
-tourismRate('Chiesa di Sant Anna dei Palafrenieri',396071).
-tourismRate('Operativa Arte Contemporanea',683056).
-tourismRate('Santa Maria del Suffragio',302146).
-tourismRate('Vatican Apostolic Archive',246775).
-tourismRate('Carriage Pavilion',1439569).
-tourismRate('Monastero Mater Ecclesi',895430).
-tourismRate('Oratorio dei Filippini (Oratory of St Philip Neri)',387542).
-tourismRate('House of Hospitality Paul VI',1297007).
-tourismRate('Chiesa di Santa Maria del Rosario in Prati',645427).
-tourismRate('Welcome To Rome',1486636).
-tourismRate('Stadium of Domitian',539125).
-tourismRate('Palazzo Pamphili',289911).
-tourismRate('Fountain of the Moro',358143).
-tourismRate('Cappella Chigi',508255).
-tourismRate('Chiesa di Gesu e Maria',502320).
-tourismRate('Villa Borghese',748989).
-tourismRate('Passeggiata del Pincio',575421).
-tourismRate('Borghese Gallery and Museum',641640).
-tourismRate('National Gallery of Modern and Contemporary Art',931610).
-tourismRate('Mausoleum of Augustus',1479501).
-tourismRate('Chiesa Parrocchiale San Giacomo in Augusta',1274694).
-tourismRate('Villa Medici',634942).
-tourismRate('Basilica of Saint Lawrence in Lucina',208968).
-tourismRate('Basilica of SS. Ambrose and Charles on the Corso',1148092).
-tourismRate('Giorgio de Chirico House Museum',608660).
-tourismRate('Santa Maria in Montesanto',742623).
-tourismRate('Fontana della Barcaccia',389183).
-tourismRate('Museo Leonardo da Vinci',818178).
-tourismRate('Explora - Il Museo dei Bambini di Roma',1160250).
-tourismRate('Orologio ad acqua del Pincio',1406024).
-tourismRate('Ponte Giacomo Matteotti',296100).
-tourismRate('National Etruscan Museum of Villa Giulia',1228940).
-tourismRate('Fontana del Babuino',572346).
-tourismRate('Fontana del Bottino',1144721).
-tourismRate('Trinita dei Monti',1341220).
-tourismRate('Galleria del Cembalo',877081).
-tourismRate('Chiesa di Santa Maria in Via',722791).
-tourismRate('Palazzo di Propaganda Fide',1137832).
-tourismRate('Basilica di Sant Andrea delle Fratte',1140549).
-tourismRate('Piazza del Popolo',627547).
-tourismRate('Marcus Aurelius Column',748317).
-tourismRate('Piazza di Siena',1311105).
-tourismRate('All Saints  Anglican Church Rome',1023266).
-tourismRate('Church of Saint Roch  all Augusteo ',1305634).
-tourismRate('Church of Our Lady in Trivio',739626).
-tourismRate('Il Tempio di Adriano',374011).
-tourismRate('Museo Civico di Zoologia',1364044).
-tourismRate('Basilica of St. Augustine in Campo Marzio',874894).
-tourismRate('Hendrik Christian Anderson Museum',1214633).
-tourismRate('Goethe House',818740).
-tourismRate('Institute of Japanese Culture',1295186).
-tourismRate('Villa Balestra',1376084).
-tourismRate('Palazzo Borghese',1275533).
-tourismRate('National Academy of San Luca',984576).
-tourismRate('Museo Carlo Bilotti',426227).
-tourismRate('Palazzo Wedekind',395232).
-tourismRate('Cloaca Maxima',1484372).
-tourismRate('Temple of Apollo Palatinus',1182544).
-tourismRate('Circus Maximus',1397169).
-tourismRate('Mouth of Truth',295979).
-tourismRate('Basilica di Santa Sabina all Aventino',1234005).
-tourismRate('Santa Maria in Cosmedin',346681).
-tourismRate('Non-Catholic Cemetery',1400283).
-tourismRate('Basilica Santa Cecilia in Trastevere',703122).
-tourismRate('Mattatoio',765756).
-tourismRate('Pyramid of Caius Cestius',851719).
-tourismRate('Turtle Fountain',794970).
-tourismRate('Basilica di San Bartolomeo all Isola',626309).
-tourismRate('Chiesa di Santa Prisca',566423).
-tourismRate('Tempio Maggiore di Roma',1340502).
-tourismRate('Portico of Octavia',1179290).
-tourismRate('Basilica Santi Giovanni e Paolo',836404).
-age('Il Tempio dei Dioscuri',927).
-age('Basilica Julia',1156).
-age('Fountain of the Bees',660).
-age('Ludus Magnus',245).
-age('Palazzetto Zuccari',1709).
-age('Fontana del Mose',1413).
-age('Chiesa di Santa Bibiana',1417).
-age('Santissima Trinita degli Spagnoli',1811).
+tourismRate('Corte Suprema di Cassazione',1415129).
+tourismRate('Museo di Roma - Palazzo Braschi',1267662).
+tourismRate('Church of Santa Maria in Vallicella',230847).
+tourismRate('Church of San Pietro in Montorio',452326).
+tourismRate('Saint Eligio of Orefici',1099395).
+tourismRate('Palazzo del Commendatore',742918).
+tourismRate('Porta Santo Spirito',1137342).
+tourismRate('Bernini Fountain',1160010).
+tourismRate('Presepe dei Netturbini',1223865).
+tourismRate('Church of Saints Michael and Magnus',481056).
+tourismRate('Museum Leonardo Da Vinci Experience',674976).
+tourismRate('Vatican Necropolis',1395795).
+tourismRate('Apostolic Palace',838217).
+tourismRate('Ponte Vittorio Emanuele II',290861).
+tourismRate('Chiesa di Sant Anna dei Palafrenieri',1162826).
+tourismRate('Operativa Arte Contemporanea',661090).
+tourismRate('Santa Maria del Suffragio',364750).
+tourismRate('Vatican Apostolic Archive',452275).
+tourismRate('Carriage Pavilion',868832).
+tourismRate('Monastero Mater Ecclesi',845540).
+tourismRate('Oratorio dei Filippini (Oratory of St Philip Neri)',289331).
+tourismRate('House of Hospitality Paul VI',248489).
+tourismRate('Chiesa di Santa Maria del Rosario in Prati',824115).
+tourismRate('Welcome To Rome',250772).
+tourismRate('Stadium of Domitian',1110379).
+tourismRate('Palazzo Pamphili',756889).
+tourismRate('Fountain of the Moro',1352775).
+tourismRate('Cappella Chigi',1428332).
+tourismRate('Chiesa di Gesu e Maria',398484).
+tourismRate('Villa Borghese',1140418).
+tourismRate('Passeggiata del Pincio',235528).
+tourismRate('Borghese Gallery and Museum',433581).
+tourismRate('National Gallery of Modern and Contemporary Art',853120).
+tourismRate('Mausoleum of Augustus',957027).
+tourismRate('Chiesa Parrocchiale San Giacomo in Augusta',421717).
+tourismRate('Villa Medici',869665).
+tourismRate('Basilica of Saint Lawrence in Lucina',540924).
+tourismRate('Basilica of SS. Ambrose and Charles on the Corso',888528).
+tourismRate('Giorgio de Chirico House Museum',677237).
+tourismRate('Santa Maria in Montesanto',1450420).
+tourismRate('Fontana della Barcaccia',938002).
+tourismRate('Museo Leonardo da Vinci',469066).
+tourismRate('Explora - Il Museo dei Bambini di Roma',532570).
+tourismRate('Orologio ad acqua del Pincio',279623).
+tourismRate('Ponte Giacomo Matteotti',619784).
+tourismRate('National Etruscan Museum of Villa Giulia',911002).
+tourismRate('Fontana del Babuino',233902).
+tourismRate('Fontana del Bottino',862639).
+tourismRate('Trinita dei Monti',998347).
+tourismRate('Galleria del Cembalo',908943).
+tourismRate('Chiesa di Santa Maria in Via',1029170).
+tourismRate('Palazzo di Propaganda Fide',406045).
+tourismRate('Basilica di Sant Andrea delle Fratte',268839).
+tourismRate('Piazza del Popolo',681211).
+tourismRate('Marcus Aurelius Column',830500).
+tourismRate('Piazza di Siena',1289183).
+tourismRate('All Saints  Anglican Church Rome',894401).
+tourismRate('Church of Saint Roch  all Augusteo ',469795).
+tourismRate('Church of Our Lady in Trivio',515108).
+tourismRate('Il Tempio di Adriano',1278819).
+tourismRate('Museo Civico di Zoologia',562777).
+tourismRate('Basilica of St. Augustine in Campo Marzio',607641).
+tourismRate('Hendrik Christian Anderson Museum',1372732).
+tourismRate('Goethe House',511001).
+tourismRate('Institute of Japanese Culture',1467290).
+tourismRate('Villa Balestra',1323224).
+tourismRate('Palazzo Borghese',1375047).
+tourismRate('National Academy of San Luca',1288009).
+tourismRate('Museo Carlo Bilotti',708467).
+tourismRate('Cloaca Maxima',1158589).
+tourismRate('Temple of Apollo Palatinus',665792).
+tourismRate('Circus Maximus',1124451).
+tourismRate('Mouth of Truth',1488917).
+tourismRate('Basilica di Santa Sabina all Aventino',430911).
+tourismRate('Santa Maria in Cosmedin',861483).
+tourismRate('Non-Catholic Cemetery',861982).
+tourismRate('Basilica di Santa Cecilia in Trastevere',1310241).
+tourismRate('Mattatoio',869556).
+tourismRate('Pyramid of Caius Cestius',969971).
+tourismRate('Turtle Fountain',1338266).
+tourismRate('Basilica di San Bartolomeo all Isola',1179645).
+tourismRate('Chiesa di Santa Prisca',1377947).
+tourismRate('Tempio Maggiore',565647).
+tourismRate('Portico of Octavia',1075336).
+tourismRate('Basilica Santi Giovanni e Paolo',1310044).
+age('Il Tempio dei Dioscuri',1764).
+age('Basilica Julia',1295).
+age('Fountain of the Bees',1641).
+age('Ludus Magnus',233).
+age('Palazzetto Zuccari',1736).
+age('Fontana del Mose',1622).
+age('Chiesa di Santa Bibiana',1957).
+age('Santissima Trinita degli Spagnoli',1350).
 age('Colosseum',1936).
 age('Trevi Fountain',260).
-age('Capitoline Museums',1216).
-age('Arch of Constantine',222).
-age('Obelisco del Pantheon',1923).
-age('Piazza di Spagna',1359).
-age('Basilica Papale di Santa Maria Maggiore',915).
+age('Capitoline Museums',1274).
+age('Arch of Constantine',784).
+age('Obelisco del Pantheon',1096).
+age('Piazza di Spagna',558).
+age('Basilica Papale di Santa Maria Maggiore',798).
 age('Roman Forum',2500).
-age('Basilica of San Pietro in Vincoli',690).
-age('Palazzo Massimo alle Terme',1464).
-age('Monument to Victor Emmanuel II',1505).
-age('Campidoglio',1873).
-age('Mercati di Traiano Museo dei Fori Imperiali',1582).
-age('Equestrian Statue of Marcus Aurelius',1334).
-age('Convento dei Frati Cappuccini',370).
-age('Quirinal Palace',1629).
-age('Basilica di San Clemente',1636).
-age('Chiesa di Sant  Ignazio di Loyola',1555).
-age('Chiesa del Gesu',1917).
-age('Piazza Barberini',1174).
-age('Palazzo delle Esposizioni',315).
-age('Basilica di Santa Maria in Ara coeli',1045).
-age('Palazzo Montecitorio',582).
-age('Domus Aurea',327).
-age('National Gallery of Ancient Art in Barberini Palace',1056).
-age('Doria Pamphili Gallery',680).
-age('Piazza Venezia',1490).
+age('Basilica of San Pietro in Vincoli',921).
+age('National Roman Museum - Palazzo Massimo',646).
+age('Monument to Victor Emmanuel II',1062).
+age('Campidoglio',889).
+age('Mercati di Traiano Museo dei Fori Imperiali',1803).
+age('Equestrian Statue of Marcus Aurelius',1661).
+age('Convento dei Frati Cappuccini',989).
+age('Quirinal Palace',234).
+age('Basilica di San Clemente',926).
+age('Chiesa di Sant  Ignazio di Loyola',916).
+age('Piazza Barberini',1469).
+age('Palazzo delle Esposizioni',268).
+age('Chiesa del Gesu',1536).
+age('Basilica di Santa Maria in Ara coeli',1527).
+age('Palazzo Montecitorio',941).
+age('Domus Aurea',1877).
+age('National Gallery of Ancient Art in Barberini Palace',962).
+age('Doria Pamphili Gallery',1257).
+age('Piazza Venezia',1328).
 age('Pantheon',2000).
-age('Basilica of Saint Mary of Minerva',1493).
-age('Santa Maria degli Angeli e dei Martiri',829).
-age('Parrocchia Santa Maria Maggiore',1503).
-age('Mamertine Prison',689).
-age('Mose di Michelangelo',546).
-age('Capanne di Romolo',686).
-age('Basilica San Silvestro in Capite',1389).
-age('Basilica del Sacro Cuore di Gesu',610).
-age('Largo di Torre Argentina',1021).
-age('Chiesa di Santa Maria ai Monti',939).
-age('Basilica of St Mark Evangelist at Campidoglio',1124).
-age('St. Paul s Within the Walls',925).
-age('Septimius Severus Arch',1476).
-age('Palazzo Sciarra Colonna Carbognano',1389).
-age('The Keats - Shelley House',405).
-age('Basilica Ulpia',204).
-age('Temple of Vesta',1362).
-age('Chiesa San Marcello al Corso',1122).
-age('San Stanislao alle Botteghe Oscure',668).
-age('Column of Phocas',1441).
-age('Antoninus and Faustina Temple',1216).
-age('Marcello Theater',1856).
-age('Chiesa di Santa Maria in Portico in Campitelli',498).
-age('The Church of Santa Maria della Vittoria',794).
-age('The Last Judgment',1070).
-age('Chiesa di Santo Stefano degli Abissini',1045).
-age('Fontana di Piazza Farnese',1433).
-age('Villa Abamelek',1651).
-age('Palazzo Torres',1765).
+age('Basilica of Saint Mary of Minerva',1995).
+age('Basilica of Saint Mary of the Angels and Martyrs',844).
+age('Parrocchia Santa Maria Maggiore',1135).
+age('Mamertine Prison',1585).
+age('Mose di Michelangelo',1431).
+age('Capanne di Romolo',206).
+age('Basilica San Silvestro in Capite',1099).
+age('Basilica del Sacro Cuore di Gesu',1514).
+age('Largo di Torre Argentina',1935).
+age('Chiesa di Santa Maria ai Monti',1403).
+age('Basilica of St Mark Evangelist at Campidoglio',467).
+age('St. Paul s Within the Walls',591).
+age('Septimius Severus Arch',1946).
+age('Palazzo Sciarra Colonna Carbognano',1406).
+age('The Keats - Shelley House',1142).
+age('Basilica Ulpia',1256).
+age('Temple of Vesta',342).
+age('Chiesa San Marcello al Corso',247).
+age('San Stanislao alle Botteghe Oscure',880).
+age('Column of Phocas',1243).
+age('Antoninus and Faustina Temple',308).
+age('Marcello Theater',233).
+age('Chiesa di Santa Maria in Portico in Campitelli',626).
+age('Church of Santa Maria della Vittoria',880).
+age('The Last Judgment',223).
+age('Chiesa di Santo Stefano degli Abissini',1008).
+age('Fontana di Piazza Farnese',1911).
+age('Villa Abamelek',419).
+age('Palazzo Torres',588).
 age('Castel Sant Angelo',1900).
-age('Vidoni Palace',625).
+age('Vidoni Palace',1505).
 age('Vatican Museums',500).
-age('Fontana di Piazza Nicosia',1022).
+age('Fontana di Piazza Nicosia',1590).
 age('St. Peter s Basilica',506).
-age('Church Holy Spirit in Sassia',897).
-age('Parrocchia Santuario Santa Maria in Traspontina',565).
-age('Gardens of Vatican City',1294).
-age('Fiumi Fountain',1813).
-age('Sistine Chapel',1655).
-age('Villa Farnesina',436).
-age('Church of St. Louis of the French',628).
-age('Palazzo Madama',1020).
-age('Galleria Spada',520).
-age('St. Angelo Bridge',1502).
-age('Palazzo Farnese',759).
-age('Sant Agnese in Agone',1442).
-age('Botanical Garden of Rome',1852).
-age('Chiesa di Santa Maria della Pace',671).
-age('Obelisco Agonale',859).
-age('Basilica of Santa Maria in Trastevere',1101).
-age('Church of St Onuphrius at the Janiculum',1131).
-age('Biblioteca Angelica',1920).
-age('Campo de  Fiori',291).
+age('Church Holy Spirit in Sassia',1078).
+age('Parrocchia Santuario Santa Maria in Traspontina',1614).
+age('Gardens of Vatican City',1482).
+age('Fiumi Fountain',1606).
+age('Sistine Chapel',1288).
+age('Villa Farnesina',1150).
+age('Palazzo Madama',384).
+age('Galleria Spada',644).
+age('Church of St. Louis of the French',766).
+age('St. Angelo Bridge',1748).
+age('Palazzo Farnese',1576).
+age('Sant Agnese in Agone',1682).
+age('Botanical Garden of Rome',1617).
+age('Chiesa di Santa Maria della Pace',1932).
+age('Obelisco Agonale',901).
+age('Basilica of Santa Maria in Trastevere',1829).
+age('Church of St Onuphrius at the Janiculum',1955).
+age('Biblioteca Angelica',343).
+age('Campo de  Fiori',1815).
 age('Piazza Navona',400).
-age('Corte Suprema di Cassazione',1229).
-age('Museo di Roma - Palazzo Braschi',510).
-age('Parrocchia Santa Maria in Vallicella',978).
-age('Chiesa di San Pietro in Montorio',1208).
-age('Saint Eligio of Orefici',388).
-age('Palazzo del Commendatore',1150).
-age('Porta Santo Spirito',683).
-age('Bernini Fountain',969).
-age('Presepe dei Netturbini',1986).
-age('Church of Saints Michael and Magnus',1132).
-age('Museum Leonardo Da Vinci Experience',1143).
-age('Vatican Necropolis',1518).
-age('Apostolic Palace',1250).
-age('Ponte Vittorio Emanuele II',1086).
-age('Chiesa di Sant Anna dei Palafrenieri',272).
-age('Operativa Arte Contemporanea',1374).
-age('Santa Maria del Suffragio',1304).
-age('Vatican Apostolic Archive',1418).
-age('Carriage Pavilion',1782).
-age('Monastero Mater Ecclesi',1639).
-age('Oratorio dei Filippini (Oratory of St Philip Neri)',1576).
-age('House of Hospitality Paul VI',1157).
-age('Chiesa di Santa Maria del Rosario in Prati',334).
-age('Welcome To Rome',219).
-age('Stadium of Domitian',1446).
-age('Palazzo Pamphili',1531).
-age('Fountain of the Moro',324).
-age('Cappella Chigi',699).
-age('Chiesa di Gesu e Maria',1530).
+age('Corte Suprema di Cassazione',287).
+age('Museo di Roma - Palazzo Braschi',1769).
+age('Church of Santa Maria in Vallicella',810).
+age('Church of San Pietro in Montorio',277).
+age('Saint Eligio of Orefici',1345).
+age('Palazzo del Commendatore',1477).
+age('Porta Santo Spirito',1278).
+age('Bernini Fountain',1292).
+age('Presepe dei Netturbini',1030).
+age('Church of Saints Michael and Magnus',980).
+age('Museum Leonardo Da Vinci Experience',1347).
+age('Vatican Necropolis',1563).
+age('Apostolic Palace',1141).
+age('Ponte Vittorio Emanuele II',431).
+age('Chiesa di Sant Anna dei Palafrenieri',267).
+age('Operativa Arte Contemporanea',1036).
+age('Santa Maria del Suffragio',775).
+age('Vatican Apostolic Archive',1140).
+age('Carriage Pavilion',1821).
+age('Monastero Mater Ecclesi',1313).
+age('Oratorio dei Filippini (Oratory of St Philip Neri)',1665).
+age('House of Hospitality Paul VI',1502).
+age('Chiesa di Santa Maria del Rosario in Prati',1668).
+age('Welcome To Rome',718).
+age('Stadium of Domitian',1087).
+age('Palazzo Pamphili',1048).
+age('Fountain of the Moro',325).
+age('Cappella Chigi',1539).
+age('Chiesa di Gesu e Maria',746).
 age('Villa Borghese',400).
-age('Passeggiata del Pincio',844).
-age('Borghese Gallery and Museum',1780).
-age('National Gallery of Modern and Contemporary Art',992).
-age('Mausoleum of Augustus',466).
-age('Chiesa Parrocchiale San Giacomo in Augusta',1801).
-age('Villa Medici',910).
-age('Basilica of Saint Lawrence in Lucina',886).
-age('Basilica of SS. Ambrose and Charles on the Corso',1721).
-age('Giorgio de Chirico House Museum',565).
-age('Santa Maria in Montesanto',897).
-age('Fontana della Barcaccia',1086).
-age('Museo Leonardo da Vinci',1791).
-age('Explora - Il Museo dei Bambini di Roma',1505).
-age('Orologio ad acqua del Pincio',1287).
-age('Ponte Giacomo Matteotti',1132).
-age('National Etruscan Museum of Villa Giulia',822).
-age('Fontana del Babuino',1887).
-age('Fontana del Bottino',1753).
-age('Trinita dei Monti',1991).
-age('Galleria del Cembalo',1224).
-age('Chiesa di Santa Maria in Via',563).
-age('Palazzo di Propaganda Fide',1655).
-age('Basilica di Sant Andrea delle Fratte',254).
-age('Piazza del Popolo',1176).
-age('Marcus Aurelius Column',262).
-age('Piazza di Siena',482).
-age('All Saints  Anglican Church Rome',461).
-age('Church of Saint Roch  all Augusteo ',493).
-age('Church of Our Lady in Trivio',1413).
-age('Il Tempio di Adriano',917).
-age('Museo Civico di Zoologia',1841).
-age('Basilica of St. Augustine in Campo Marzio',1593).
-age('Hendrik Christian Anderson Museum',1145).
-age('Goethe House',473).
-age('Institute of Japanese Culture',291).
-age('Villa Balestra',858).
-age('Palazzo Borghese',1524).
-age('National Academy of San Luca',1236).
-age('Museo Carlo Bilotti',1935).
-age('Palazzo Wedekind',364).
-age('Cloaca Maxima',735).
-age('Temple of Apollo Palatinus',1040).
-age('Circus Maximus',346).
-age('Mouth of Truth',1556).
-age('Basilica di Santa Sabina all Aventino',862).
-age('Santa Maria in Cosmedin',301).
-age('Non-Catholic Cemetery',1448).
-age('Basilica Santa Cecilia in Trastevere',1618).
-age('Mattatoio',1522).
-age('Pyramid of Caius Cestius',1073).
-age('Turtle Fountain',897).
-age('Basilica di San Bartolomeo all Isola',361).
-age('Chiesa di Santa Prisca',867).
-age('Tempio Maggiore di Roma',627).
-age('Portico of Octavia',1381).
-age('Basilica Santi Giovanni e Paolo',1525).
-surface('Il Tempio dei Dioscuri',1346.24).
-surface('Basilica Julia',2858.75).
-surface('Fountain of the Bees',2853.93).
-surface('Ludus Magnus',7902.88).
-surface('Palazzetto Zuccari',5322.94).
-surface('Fontana del Mose',5815.83).
-surface('Chiesa di Santa Bibiana',7917.71).
-surface('Santissima Trinita degli Spagnoli',4128.57).
+age('Passeggiata del Pincio',237).
+age('Borghese Gallery and Museum',1230).
+age('National Gallery of Modern and Contemporary Art',213).
+age('Mausoleum of Augustus',487).
+age('Chiesa Parrocchiale San Giacomo in Augusta',1444).
+age('Villa Medici',411).
+age('Basilica of Saint Lawrence in Lucina',651).
+age('Basilica of SS. Ambrose and Charles on the Corso',1386).
+age('Giorgio de Chirico House Museum',872).
+age('Santa Maria in Montesanto',1320).
+age('Fontana della Barcaccia',1301).
+age('Museo Leonardo da Vinci',1786).
+age('Explora - Il Museo dei Bambini di Roma',908).
+age('Orologio ad acqua del Pincio',1403).
+age('Ponte Giacomo Matteotti',637).
+age('National Etruscan Museum of Villa Giulia',855).
+age('Fontana del Babuino',1286).
+age('Fontana del Bottino',647).
+age('Trinita dei Monti',1137).
+age('Galleria del Cembalo',1509).
+age('Chiesa di Santa Maria in Via',1414).
+age('Palazzo di Propaganda Fide',1250).
+age('Basilica di Sant Andrea delle Fratte',698).
+age('Piazza del Popolo',410).
+age('Marcus Aurelius Column',1105).
+age('Piazza di Siena',476).
+age('All Saints  Anglican Church Rome',1744).
+age('Church of Saint Roch  all Augusteo ',710).
+age('Church of Our Lady in Trivio',668).
+age('Il Tempio di Adriano',578).
+age('Museo Civico di Zoologia',1689).
+age('Basilica of St. Augustine in Campo Marzio',1322).
+age('Hendrik Christian Anderson Museum',1280).
+age('Goethe House',1935).
+age('Institute of Japanese Culture',1332).
+age('Villa Balestra',937).
+age('Palazzo Borghese',979).
+age('National Academy of San Luca',1711).
+age('Museo Carlo Bilotti',1207).
+age('Cloaca Maxima',1551).
+age('Temple of Apollo Palatinus',1066).
+age('Circus Maximus',1718).
+age('Mouth of Truth',1419).
+age('Basilica di Santa Sabina all Aventino',1573).
+age('Santa Maria in Cosmedin',1920).
+age('Non-Catholic Cemetery',872).
+age('Basilica di Santa Cecilia in Trastevere',779).
+age('Mattatoio',784).
+age('Pyramid of Caius Cestius',285).
+age('Turtle Fountain',981).
+age('Basilica di San Bartolomeo all Isola',1267).
+age('Chiesa di Santa Prisca',513).
+age('Tempio Maggiore',1418).
+age('Portico of Octavia',1482).
+age('Basilica Santi Giovanni e Paolo',1267).
+surface('Il Tempio dei Dioscuri',5529.96).
+surface('Basilica Julia',5247.71).
+surface('Fountain of the Bees',6295.38).
+surface('Ludus Magnus',7964.99).
+surface('Palazzetto Zuccari',7999.13).
+surface('Fontana del Mose',4099.12).
+surface('Chiesa di Santa Bibiana',3501.63).
+surface('Santissima Trinita degli Spagnoli',3350.85).
 surface('Colosseum',20000).
 surface('Trevi Fountain',2400).
-surface('Capitoline Museums',5411.76).
-surface('Arch of Constantine',2460.22).
-surface('Obelisco del Pantheon',7887.89).
-surface('Piazza di Spagna',835.19).
-surface('Basilica Papale di Santa Maria Maggiore',7073.87).
+surface('Capitoline Museums',6119.53).
+surface('Arch of Constantine',6853.83).
+surface('Obelisco del Pantheon',4989.82).
+surface('Piazza di Spagna',7243.16).
+surface('Basilica Papale di Santa Maria Maggiore',3934.55).
 surface('Roman Forum',160000).
-surface('Basilica of San Pietro in Vincoli',5688.1).
-surface('Palazzo Massimo alle Terme',4630.77).
-surface('Monument to Victor Emmanuel II',2251.84).
-surface('Campidoglio',7188.03).
-surface('Mercati di Traiano Museo dei Fori Imperiali',7799.15).
-surface('Equestrian Statue of Marcus Aurelius',5900.1).
-surface('Convento dei Frati Cappuccini',4642.19).
-surface('Quirinal Palace',3954.18).
-surface('Basilica di San Clemente',3144.23).
-surface('Chiesa di Sant  Ignazio di Loyola',3633.78).
-surface('Chiesa del Gesu',6346.81).
-surface('Piazza Barberini',7075.28).
-surface('Palazzo delle Esposizioni',6322.11).
-surface('Basilica di Santa Maria in Ara coeli',2559.91).
-surface('Palazzo Montecitorio',2307.39).
-surface('Domus Aurea',975.46).
-surface('National Gallery of Ancient Art in Barberini Palace',5973.39).
-surface('Doria Pamphili Gallery',4732.15).
-surface('Piazza Venezia',3123.68).
+surface('Basilica of San Pietro in Vincoli',1875.18).
+surface('National Roman Museum - Palazzo Massimo',528.71).
+surface('Monument to Victor Emmanuel II',1395.8).
+surface('Campidoglio',4498.92).
+surface('Mercati di Traiano Museo dei Fori Imperiali',2292.7).
+surface('Equestrian Statue of Marcus Aurelius',849.39).
+surface('Convento dei Frati Cappuccini',1953.02).
+surface('Quirinal Palace',7605.95).
+surface('Basilica di San Clemente',4556.13).
+surface('Chiesa di Sant  Ignazio di Loyola',6407.83).
+surface('Piazza Barberini',6943.96).
+surface('Palazzo delle Esposizioni',2163.35).
+surface('Chiesa del Gesu',1137.67).
+surface('Basilica di Santa Maria in Ara coeli',1442.31).
+surface('Palazzo Montecitorio',5247.25).
+surface('Domus Aurea',7153.89).
+surface('National Gallery of Ancient Art in Barberini Palace',4961.35).
+surface('Doria Pamphili Gallery',4104.1).
+surface('Piazza Venezia',3092.25).
 surface('Pantheon',680).
-surface('Basilica of Saint Mary of Minerva',7714.96).
-surface('Santa Maria degli Angeli e dei Martiri',1594.48).
-surface('Parrocchia Santa Maria Maggiore',6484.48).
-surface('Mamertine Prison',816.1).
-surface('Mose di Michelangelo',1913.51).
-surface('Capanne di Romolo',2287.6).
-surface('Basilica San Silvestro in Capite',2858.26).
-surface('Basilica del Sacro Cuore di Gesu',5494.04).
-surface('Largo di Torre Argentina',6059.1).
-surface('Chiesa di Santa Maria ai Monti',3093.33).
-surface('Basilica of St Mark Evangelist at Campidoglio',5509.43).
-surface('St. Paul s Within the Walls',3618.85).
-surface('Septimius Severus Arch',4259.21).
-surface('Palazzo Sciarra Colonna Carbognano',6843.97).
-surface('The Keats - Shelley House',6337.74).
-surface('Basilica Ulpia',4337.44).
-surface('Temple of Vesta',2524.01).
-surface('Chiesa San Marcello al Corso',5386.75).
-surface('San Stanislao alle Botteghe Oscure',1600.99).
-surface('Column of Phocas',2956.29).
-surface('Antoninus and Faustina Temple',3907.14).
-surface('Marcello Theater',3355.11).
-surface('Chiesa di Santa Maria in Portico in Campitelli',3787.88).
-surface('The Church of Santa Maria della Vittoria',2335.41).
-surface('The Last Judgment',1973.31).
-surface('Chiesa di Santo Stefano degli Abissini',7345.73).
-surface('Fontana di Piazza Farnese',2818.3).
-surface('Villa Abamelek',3495.27).
-surface('Palazzo Torres',4846.17).
+surface('Basilica of Saint Mary of Minerva',799.9).
+surface('Basilica of Saint Mary of the Angels and Martyrs',7854.86).
+surface('Parrocchia Santa Maria Maggiore',2435.35).
+surface('Mamertine Prison',3291.14).
+surface('Mose di Michelangelo',1874.69).
+surface('Capanne di Romolo',2153.17).
+surface('Basilica San Silvestro in Capite',4557.87).
+surface('Basilica del Sacro Cuore di Gesu',7567.06).
+surface('Largo di Torre Argentina',6139.35).
+surface('Chiesa di Santa Maria ai Monti',727.52).
+surface('Basilica of St Mark Evangelist at Campidoglio',6302.06).
+surface('St. Paul s Within the Walls',1243.31).
+surface('Septimius Severus Arch',3265.67).
+surface('Palazzo Sciarra Colonna Carbognano',6899.39).
+surface('The Keats - Shelley House',7807.66).
+surface('Basilica Ulpia',2119.64).
+surface('Temple of Vesta',5065.27).
+surface('Chiesa San Marcello al Corso',6659.64).
+surface('San Stanislao alle Botteghe Oscure',891.65).
+surface('Column of Phocas',3608.67).
+surface('Antoninus and Faustina Temple',921.47).
+surface('Marcello Theater',7505.45).
+surface('Chiesa di Santa Maria in Portico in Campitelli',1668.73).
+surface('Church of Santa Maria della Vittoria',5461.39).
+surface('The Last Judgment',6948.0).
+surface('Chiesa di Santo Stefano degli Abissini',4096.15).
+surface('Fontana di Piazza Farnese',4130.93).
+surface('Villa Abamelek',7104.34).
+surface('Palazzo Torres',3401.36).
 surface('Castel Sant Angelo',49000).
-surface('Vidoni Palace',3583.48).
+surface('Vidoni Palace',2681.47).
 surface('Vatican Museums',420000).
-surface('Fontana di Piazza Nicosia',886.72).
+surface('Fontana di Piazza Nicosia',2358.31).
 surface('St. Peter s Basilica',22000).
-surface('Church Holy Spirit in Sassia',6859.8).
-surface('Parrocchia Santuario Santa Maria in Traspontina',2062.1).
-surface('Gardens of Vatican City',4315.98).
-surface('Fiumi Fountain',5772.44).
-surface('Sistine Chapel',7134.53).
-surface('Villa Farnesina',2021.31).
-surface('Church of St. Louis of the French',4365.65).
-surface('Palazzo Madama',5210.82).
-surface('Galleria Spada',3345.03).
-surface('St. Angelo Bridge',1270.46).
-surface('Palazzo Farnese',2903.04).
-surface('Sant Agnese in Agone',4564.39).
-surface('Botanical Garden of Rome',6409.96).
-surface('Chiesa di Santa Maria della Pace',3761.72).
-surface('Obelisco Agonale',1525.68).
-surface('Basilica of Santa Maria in Trastevere',5606.48).
-surface('Church of St Onuphrius at the Janiculum',1888.72).
-surface('Biblioteca Angelica',2664.19).
-surface('Campo de  Fiori',4186.92).
+surface('Church Holy Spirit in Sassia',7165.03).
+surface('Parrocchia Santuario Santa Maria in Traspontina',1454.38).
+surface('Gardens of Vatican City',3010.89).
+surface('Fiumi Fountain',4528.33).
+surface('Sistine Chapel',1097.92).
+surface('Villa Farnesina',1750.93).
+surface('Palazzo Madama',1001.93).
+surface('Galleria Spada',2692.05).
+surface('Church of St. Louis of the French',4228.69).
+surface('St. Angelo Bridge',2945.28).
+surface('Palazzo Farnese',2282.15).
+surface('Sant Agnese in Agone',5053.79).
+surface('Botanical Garden of Rome',2518.4).
+surface('Chiesa di Santa Maria della Pace',3276.92).
+surface('Obelisco Agonale',6794.38).
+surface('Basilica of Santa Maria in Trastevere',6711.64).
+surface('Church of St Onuphrius at the Janiculum',2718.9).
+surface('Biblioteca Angelica',633.16).
+surface('Campo de  Fiori',1554.02).
 surface('Piazza Navona',14000).
-surface('Corte Suprema di Cassazione',4584.75).
-surface('Museo di Roma - Palazzo Braschi',3459.14).
-surface('Parrocchia Santa Maria in Vallicella',4938.09).
-surface('Chiesa di San Pietro in Montorio',4563.57).
-surface('Saint Eligio of Orefici',3494.51).
-surface('Palazzo del Commendatore',779.52).
-surface('Porta Santo Spirito',524.0).
-surface('Bernini Fountain',2928.73).
-surface('Presepe dei Netturbini',2612.43).
-surface('Church of Saints Michael and Magnus',6521.85).
-surface('Museum Leonardo Da Vinci Experience',2320.41).
-surface('Vatican Necropolis',3367.42).
-surface('Apostolic Palace',1171.65).
-surface('Ponte Vittorio Emanuele II',6488.98).
-surface('Chiesa di Sant Anna dei Palafrenieri',7208.73).
-surface('Operativa Arte Contemporanea',415.61).
-surface('Santa Maria del Suffragio',984.91).
-surface('Vatican Apostolic Archive',3283.47).
-surface('Carriage Pavilion',3041.81).
-surface('Monastero Mater Ecclesi',1170.68).
-surface('Oratorio dei Filippini (Oratory of St Philip Neri)',4017.86).
-surface('House of Hospitality Paul VI',1520.2).
-surface('Chiesa di Santa Maria del Rosario in Prati',5995.78).
-surface('Welcome To Rome',5087.32).
-surface('Stadium of Domitian',4323.66).
-surface('Palazzo Pamphili',5752.28).
-surface('Fountain of the Moro',5608.49).
-surface('Cappella Chigi',6636.94).
-surface('Chiesa di Gesu e Maria',4332.31).
+surface('Corte Suprema di Cassazione',821.75).
+surface('Museo di Roma - Palazzo Braschi',4607.23).
+surface('Church of Santa Maria in Vallicella',4856.06).
+surface('Church of San Pietro in Montorio',6156.24).
+surface('Saint Eligio of Orefici',1522.09).
+surface('Palazzo del Commendatore',3253.01).
+surface('Porta Santo Spirito',3156.55).
+surface('Bernini Fountain',4776.48).
+surface('Presepe dei Netturbini',7534.17).
+surface('Church of Saints Michael and Magnus',1832.26).
+surface('Museum Leonardo Da Vinci Experience',1447.17).
+surface('Vatican Necropolis',1860.93).
+surface('Apostolic Palace',5257.65).
+surface('Ponte Vittorio Emanuele II',6178.61).
+surface('Chiesa di Sant Anna dei Palafrenieri',6818.02).
+surface('Operativa Arte Contemporanea',6211.7).
+surface('Santa Maria del Suffragio',1604.3).
+surface('Vatican Apostolic Archive',1005.26).
+surface('Carriage Pavilion',5080.09).
+surface('Monastero Mater Ecclesi',2542.07).
+surface('Oratorio dei Filippini (Oratory of St Philip Neri)',409.41).
+surface('House of Hospitality Paul VI',5876.93).
+surface('Chiesa di Santa Maria del Rosario in Prati',1444.75).
+surface('Welcome To Rome',7011.1).
+surface('Stadium of Domitian',1705.29).
+surface('Palazzo Pamphili',4796.22).
+surface('Fountain of the Moro',5296.23).
+surface('Cappella Chigi',3145.97).
+surface('Chiesa di Gesu e Maria',4531.44).
 surface('Villa Borghese',80000).
-surface('Passeggiata del Pincio',1909.68).
-surface('Borghese Gallery and Museum',2461.64).
-surface('National Gallery of Modern and Contemporary Art',2880.53).
-surface('Mausoleum of Augustus',7621.29).
-surface('Chiesa Parrocchiale San Giacomo in Augusta',4715.34).
-surface('Villa Medici',5058.95).
-surface('Basilica of Saint Lawrence in Lucina',4700.55).
-surface('Basilica of SS. Ambrose and Charles on the Corso',3745.73).
-surface('Giorgio de Chirico House Museum',3269.12).
-surface('Santa Maria in Montesanto',6232.13).
-surface('Fontana della Barcaccia',6717.32).
-surface('Museo Leonardo da Vinci',5809.92).
-surface('Explora - Il Museo dei Bambini di Roma',6529.43).
-surface('Orologio ad acqua del Pincio',7085.24).
-surface('Ponte Giacomo Matteotti',4390.9).
-surface('National Etruscan Museum of Villa Giulia',4503.96).
-surface('Fontana del Babuino',803.01).
-surface('Fontana del Bottino',1989.75).
-surface('Trinita dei Monti',5856.54).
-surface('Galleria del Cembalo',5848.62).
-surface('Chiesa di Santa Maria in Via',6858.15).
-surface('Palazzo di Propaganda Fide',6731.03).
-surface('Basilica di Sant Andrea delle Fratte',904.98).
-surface('Piazza del Popolo',2367.31).
-surface('Marcus Aurelius Column',2826.35).
-surface('Piazza di Siena',2394.97).
-surface('All Saints  Anglican Church Rome',5649.61).
-surface('Church of Saint Roch  all Augusteo ',1185.02).
-surface('Church of Our Lady in Trivio',2376.64).
-surface('Il Tempio di Adriano',823.47).
-surface('Museo Civico di Zoologia',5429.75).
-surface('Basilica of St. Augustine in Campo Marzio',733.59).
-surface('Hendrik Christian Anderson Museum',7857.2).
-surface('Goethe House',5046.46).
-surface('Institute of Japanese Culture',7018.93).
-surface('Villa Balestra',5384.68).
-surface('Palazzo Borghese',4432.89).
-surface('National Academy of San Luca',6733.54).
-surface('Museo Carlo Bilotti',3374.69).
-surface('Palazzo Wedekind',4456.81).
-surface('Cloaca Maxima',3361.76).
-surface('Temple of Apollo Palatinus',4657.94).
-surface('Circus Maximus',597.32).
-surface('Mouth of Truth',6060.24).
-surface('Basilica di Santa Sabina all Aventino',3902.85).
-surface('Santa Maria in Cosmedin',4998.9).
-surface('Non-Catholic Cemetery',7496.98).
-surface('Basilica Santa Cecilia in Trastevere',1819.53).
-surface('Mattatoio',1048.47).
-surface('Pyramid of Caius Cestius',7675.34).
-surface('Turtle Fountain',1078.49).
-surface('Basilica di San Bartolomeo all Isola',2084.9).
-surface('Chiesa di Santa Prisca',5129.98).
-surface('Tempio Maggiore di Roma',931.17).
-surface('Portico of Octavia',2630.26).
-surface('Basilica Santi Giovanni e Paolo',5850.02).
-height('Il Tempio dei Dioscuri',6.52).
-height('Basilica Julia',5.65).
-height('Fountain of the Bees',3.68).
-height('Ludus Magnus',17.46).
-height('Palazzetto Zuccari',0.41).
-height('Fontana del Mose',9.43).
-height('Chiesa di Santa Bibiana',1.3).
-height('Santissima Trinita degli Spagnoli',3.86).
+surface('Passeggiata del Pincio',5326.65).
+surface('Borghese Gallery and Museum',4107.97).
+surface('National Gallery of Modern and Contemporary Art',4281.43).
+surface('Mausoleum of Augustus',5865.93).
+surface('Chiesa Parrocchiale San Giacomo in Augusta',4074.06).
+surface('Villa Medici',4282.51).
+surface('Basilica of Saint Lawrence in Lucina',1168.34).
+surface('Basilica of SS. Ambrose and Charles on the Corso',1811.71).
+surface('Giorgio de Chirico House Museum',1182.26).
+surface('Santa Maria in Montesanto',7816.81).
+surface('Fontana della Barcaccia',5535.48).
+surface('Museo Leonardo da Vinci',1630.16).
+surface('Explora - Il Museo dei Bambini di Roma',1918.32).
+surface('Orologio ad acqua del Pincio',3384.04).
+surface('Ponte Giacomo Matteotti',3506.52).
+surface('National Etruscan Museum of Villa Giulia',3685.85).
+surface('Fontana del Babuino',984.09).
+surface('Fontana del Bottino',5593.91).
+surface('Trinita dei Monti',6295.18).
+surface('Galleria del Cembalo',4450.01).
+surface('Chiesa di Santa Maria in Via',5285.7).
+surface('Palazzo di Propaganda Fide',713.65).
+surface('Basilica di Sant Andrea delle Fratte',6383.86).
+surface('Piazza del Popolo',4798.69).
+surface('Marcus Aurelius Column',4732.71).
+surface('Piazza di Siena',2301.8).
+surface('All Saints  Anglican Church Rome',1347.87).
+surface('Church of Saint Roch  all Augusteo ',6993.21).
+surface('Church of Our Lady in Trivio',1126.86).
+surface('Il Tempio di Adriano',3806.91).
+surface('Museo Civico di Zoologia',526.78).
+surface('Basilica of St. Augustine in Campo Marzio',6098.96).
+surface('Hendrik Christian Anderson Museum',6964.8).
+surface('Goethe House',3229.98).
+surface('Institute of Japanese Culture',3456.71).
+surface('Villa Balestra',3229.89).
+surface('Palazzo Borghese',1248.76).
+surface('National Academy of San Luca',6101.89).
+surface('Museo Carlo Bilotti',7571.39).
+surface('Cloaca Maxima',6249.62).
+surface('Temple of Apollo Palatinus',5523.95).
+surface('Circus Maximus',7940.09).
+surface('Mouth of Truth',7177.1).
+surface('Basilica di Santa Sabina all Aventino',681.26).
+surface('Santa Maria in Cosmedin',424.09).
+surface('Non-Catholic Cemetery',5283.2).
+surface('Basilica di Santa Cecilia in Trastevere',1434.94).
+surface('Mattatoio',7592.31).
+surface('Pyramid of Caius Cestius',4483.57).
+surface('Turtle Fountain',7027.68).
+surface('Basilica di San Bartolomeo all Isola',1438.59).
+surface('Chiesa di Santa Prisca',5563.73).
+surface('Tempio Maggiore',5509.95).
+surface('Portico of Octavia',482.67).
+surface('Basilica Santi Giovanni e Paolo',1032.66).
+height('Il Tempio dei Dioscuri',19.9).
+height('Basilica Julia',19.17).
+height('Fountain of the Bees',15.36).
+height('Ludus Magnus',19.43).
+height('Palazzetto Zuccari',9.26).
+height('Fontana del Mose',5.0).
+height('Chiesa di Santa Bibiana',3.29).
+height('Santissima Trinita degli Spagnoli',16.65).
 height('Colosseum',48).
 height('Trevi Fountain',26).
-height('Capitoline Museums',14.43).
-height('Arch of Constantine',9.14).
-height('Obelisco del Pantheon',14.95).
-height('Piazza di Spagna',5.76).
-height('Basilica Papale di Santa Maria Maggiore',18.79).
-height('Roman Forum',13.65).
-height('Basilica of San Pietro in Vincoli',5.52).
-height('Palazzo Massimo alle Terme',6.93).
-height('Monument to Victor Emmanuel II',18.8).
-height('Campidoglio',0.15).
-height('Mercati di Traiano Museo dei Fori Imperiali',15.83).
-height('Equestrian Statue of Marcus Aurelius',5.92).
-height('Convento dei Frati Cappuccini',7.96).
-height('Quirinal Palace',7.08).
-height('Basilica di San Clemente',2.66).
-height('Chiesa di Sant  Ignazio di Loyola',0.18).
-height('Chiesa del Gesu',8.23).
-height('Piazza Barberini',17.85).
-height('Palazzo delle Esposizioni',0.64).
-height('Basilica di Santa Maria in Ara coeli',13.73).
-height('Palazzo Montecitorio',18.5).
-height('Domus Aurea',1.54).
-height('National Gallery of Ancient Art in Barberini Palace',1.41).
-height('Doria Pamphili Gallery',13.54).
-height('Piazza Venezia',14.06).
+height('Capitoline Museums',6.89).
+height('Arch of Constantine',7.17).
+height('Obelisco del Pantheon',18.48).
+height('Piazza di Spagna',10.14).
+height('Basilica Papale di Santa Maria Maggiore',10.54).
+height('Roman Forum',4.93).
+height('Basilica of San Pietro in Vincoli',13.2).
+height('National Roman Museum - Palazzo Massimo',2.24).
+height('Monument to Victor Emmanuel II',17.7).
+height('Campidoglio',7.2).
+height('Mercati di Traiano Museo dei Fori Imperiali',19.84).
+height('Equestrian Statue of Marcus Aurelius',19.93).
+height('Convento dei Frati Cappuccini',15.57).
+height('Quirinal Palace',18.44).
+height('Basilica di San Clemente',15.26).
+height('Chiesa di Sant  Ignazio di Loyola',13.01).
+height('Piazza Barberini',12.92).
+height('Palazzo delle Esposizioni',10.58).
+height('Chiesa del Gesu',11.43).
+height('Basilica di Santa Maria in Ara coeli',9.58).
+height('Palazzo Montecitorio',7.04).
+height('Domus Aurea',14.15).
+height('National Gallery of Ancient Art in Barberini Palace',15.11).
+height('Doria Pamphili Gallery',19.28).
+height('Piazza Venezia',16.76).
 height('Pantheon',43).
-height('Basilica of Saint Mary of Minerva',19.33).
-height('Santa Maria degli Angeli e dei Martiri',7.63).
-height('Parrocchia Santa Maria Maggiore',14.66).
-height('Mamertine Prison',6.06).
-height('Mose di Michelangelo',16.46).
-height('Capanne di Romolo',9.1).
-height('Basilica San Silvestro in Capite',10.15).
-height('Basilica del Sacro Cuore di Gesu',5.35).
-height('Largo di Torre Argentina',18.96).
-height('Chiesa di Santa Maria ai Monti',13.68).
-height('Basilica of St Mark Evangelist at Campidoglio',13.1).
-height('St. Paul s Within the Walls',17.84).
-height('Septimius Severus Arch',16.8).
-height('Palazzo Sciarra Colonna Carbognano',18.62).
-height('The Keats - Shelley House',4.84).
-height('Basilica Ulpia',4.36).
-height('Temple of Vesta',0.68).
-height('Chiesa San Marcello al Corso',14.95).
-height('San Stanislao alle Botteghe Oscure',12.22).
-height('Column of Phocas',5.72).
-height('Antoninus and Faustina Temple',3.72).
-height('Marcello Theater',8.65).
-height('Chiesa di Santa Maria in Portico in Campitelli',6.28).
-height('The Church of Santa Maria della Vittoria',7.48).
-height('The Last Judgment',16.5).
-height('Chiesa di Santo Stefano degli Abissini',9.13).
-height('Fontana di Piazza Farnese',15.9).
-height('Villa Abamelek',8.77).
-height('Palazzo Torres',19.51).
+height('Basilica of Saint Mary of Minerva',2.74).
+height('Basilica of Saint Mary of the Angels and Martyrs',3.55).
+height('Parrocchia Santa Maria Maggiore',12.7).
+height('Mamertine Prison',3.2).
+height('Mose di Michelangelo',13.99).
+height('Capanne di Romolo',10.37).
+height('Basilica San Silvestro in Capite',7.83).
+height('Basilica del Sacro Cuore di Gesu',10.64).
+height('Largo di Torre Argentina',17.16).
+height('Chiesa di Santa Maria ai Monti',9.66).
+height('Basilica of St Mark Evangelist at Campidoglio',1.7).
+height('St. Paul s Within the Walls',12.07).
+height('Septimius Severus Arch',18.4).
+height('Palazzo Sciarra Colonna Carbognano',4.38).
+height('The Keats - Shelley House',16.19).
+height('Basilica Ulpia',18.61).
+height('Temple of Vesta',8.11).
+height('Chiesa San Marcello al Corso',18.87).
+height('San Stanislao alle Botteghe Oscure',0.19).
+height('Column of Phocas',18.92).
+height('Antoninus and Faustina Temple',14.44).
+height('Marcello Theater',5.66).
+height('Chiesa di Santa Maria in Portico in Campitelli',1.2).
+height('Church of Santa Maria della Vittoria',16.63).
+height('The Last Judgment',18.92).
+height('Chiesa di Santo Stefano degli Abissini',16.63).
+height('Fontana di Piazza Farnese',3.15).
+height('Villa Abamelek',11.05).
+height('Palazzo Torres',14.04).
 height('Castel Sant Angelo',57).
-height('Vidoni Palace',10.16).
-height('Vatican Museums',6.79).
-height('Fontana di Piazza Nicosia',1.77).
+height('Vidoni Palace',16.54).
+height('Vatican Museums',8.34).
+height('Fontana di Piazza Nicosia',0.56).
 height('St. Peter s Basilica',136).
-height('Church Holy Spirit in Sassia',10.7).
-height('Parrocchia Santuario Santa Maria in Traspontina',6.52).
-height('Gardens of Vatican City',18.67).
-height('Fiumi Fountain',7.05).
-height('Sistine Chapel',1.84).
-height('Villa Farnesina',18.79).
-height('Church of St. Louis of the French',2.48).
-height('Palazzo Madama',5.53).
-height('Galleria Spada',3.13).
-height('St. Angelo Bridge',12.52).
-height('Palazzo Farnese',0.64).
-height('Sant Agnese in Agone',6.65).
-height('Botanical Garden of Rome',15.7).
-height('Chiesa di Santa Maria della Pace',3.0).
-height('Obelisco Agonale',14.86).
-height('Basilica of Santa Maria in Trastevere',9.3).
-height('Church of St Onuphrius at the Janiculum',8.57).
-height('Biblioteca Angelica',5.98).
-height('Campo de  Fiori',16.69).
+height('Church Holy Spirit in Sassia',1.42).
+height('Parrocchia Santuario Santa Maria in Traspontina',16.7).
+height('Gardens of Vatican City',5.37).
+height('Fiumi Fountain',5.3).
+height('Sistine Chapel',4.2).
+height('Villa Farnesina',11.39).
+height('Palazzo Madama',6.55).
+height('Galleria Spada',9.28).
+height('Church of St. Louis of the French',2.21).
+height('St. Angelo Bridge',13.72).
+height('Palazzo Farnese',1.72).
+height('Sant Agnese in Agone',6.23).
+height('Botanical Garden of Rome',8.96).
+height('Chiesa di Santa Maria della Pace',2.02).
+height('Obelisco Agonale',8.41).
+height('Basilica of Santa Maria in Trastevere',11.25).
+height('Church of St Onuphrius at the Janiculum',11.4).
+height('Biblioteca Angelica',4.58).
+height('Campo de  Fiori',17.72).
 height('Piazza Navona',0).
-height('Corte Suprema di Cassazione',15.92).
-height('Museo di Roma - Palazzo Braschi',6.49).
-height('Parrocchia Santa Maria in Vallicella',4.69).
-height('Chiesa di San Pietro in Montorio',13.63).
-height('Saint Eligio of Orefici',4.98).
-height('Palazzo del Commendatore',11.4).
-height('Porta Santo Spirito',14.74).
-height('Bernini Fountain',6.65).
-height('Presepe dei Netturbini',16.9).
-height('Church of Saints Michael and Magnus',12.53).
-height('Museum Leonardo Da Vinci Experience',18.54).
-height('Vatican Necropolis',19.49).
-height('Apostolic Palace',8.4).
-height('Ponte Vittorio Emanuele II',5.53).
-height('Chiesa di Sant Anna dei Palafrenieri',17.41).
-height('Operativa Arte Contemporanea',3.46).
-height('Santa Maria del Suffragio',10.07).
-height('Vatican Apostolic Archive',16.2).
-height('Carriage Pavilion',6.81).
-height('Monastero Mater Ecclesi',14.51).
-height('Oratorio dei Filippini (Oratory of St Philip Neri)',16.25).
-height('House of Hospitality Paul VI',2.85).
-height('Chiesa di Santa Maria del Rosario in Prati',10.79).
-height('Welcome To Rome',16.02).
-height('Stadium of Domitian',19.01).
-height('Palazzo Pamphili',5.2).
-height('Fountain of the Moro',19.32).
-height('Cappella Chigi',2.73).
-height('Chiesa di Gesu e Maria',5.55).
-height('Villa Borghese',11.6).
-height('Passeggiata del Pincio',0.89).
-height('Borghese Gallery and Museum',14.19).
-height('National Gallery of Modern and Contemporary Art',12.39).
-height('Mausoleum of Augustus',15.44).
-height('Chiesa Parrocchiale San Giacomo in Augusta',17.65).
-height('Villa Medici',10.84).
-height('Basilica of Saint Lawrence in Lucina',15.55).
-height('Basilica of SS. Ambrose and Charles on the Corso',4.4).
-height('Giorgio de Chirico House Museum',1.24).
-height('Santa Maria in Montesanto',8.83).
-height('Fontana della Barcaccia',2.31).
-height('Museo Leonardo da Vinci',2.12).
-height('Explora - Il Museo dei Bambini di Roma',8.37).
-height('Orologio ad acqua del Pincio',10.17).
-height('Ponte Giacomo Matteotti',4.34).
-height('National Etruscan Museum of Villa Giulia',5.97).
-height('Fontana del Babuino',0.81).
-height('Fontana del Bottino',14.93).
-height('Trinita dei Monti',18.49).
-height('Galleria del Cembalo',7.42).
-height('Chiesa di Santa Maria in Via',3.53).
-height('Palazzo di Propaganda Fide',14.83).
-height('Basilica di Sant Andrea delle Fratte',9.37).
-height('Piazza del Popolo',3.15).
-height('Marcus Aurelius Column',1.94).
-height('Piazza di Siena',17.06).
-height('All Saints  Anglican Church Rome',19.47).
-height('Church of Saint Roch  all Augusteo ',9.73).
-height('Church of Our Lady in Trivio',8.54).
-height('Il Tempio di Adriano',8.38).
-height('Museo Civico di Zoologia',10.51).
-height('Basilica of St. Augustine in Campo Marzio',15.31).
-height('Hendrik Christian Anderson Museum',1.46).
-height('Goethe House',14.01).
-height('Institute of Japanese Culture',17.97).
-height('Villa Balestra',1.89).
-height('Palazzo Borghese',0.84).
-height('National Academy of San Luca',14.3).
-height('Museo Carlo Bilotti',11.99).
-height('Palazzo Wedekind',9.56).
-height('Cloaca Maxima',7.91).
-height('Temple of Apollo Palatinus',13.87).
-height('Circus Maximus',13.83).
-height('Mouth of Truth',18.78).
-height('Basilica di Santa Sabina all Aventino',2.66).
-height('Santa Maria in Cosmedin',18.87).
-height('Non-Catholic Cemetery',14.46).
-height('Basilica Santa Cecilia in Trastevere',15.78).
-height('Mattatoio',0.25).
-height('Pyramid of Caius Cestius',0.27).
-height('Turtle Fountain',12.37).
-height('Basilica di San Bartolomeo all Isola',12.38).
-height('Chiesa di Santa Prisca',10.49).
-height('Tempio Maggiore di Roma',12.77).
-height('Portico of Octavia',13.65).
-height('Basilica Santi Giovanni e Paolo',14.18).
+height('Corte Suprema di Cassazione',8.79).
+height('Museo di Roma - Palazzo Braschi',9.62).
+height('Church of Santa Maria in Vallicella',10.54).
+height('Church of San Pietro in Montorio',1.89).
+height('Saint Eligio of Orefici',6.59).
+height('Palazzo del Commendatore',0.89).
+height('Porta Santo Spirito',4.33).
+height('Bernini Fountain',3.54).
+height('Presepe dei Netturbini',11.55).
+height('Church of Saints Michael and Magnus',7.71).
+height('Museum Leonardo Da Vinci Experience',15.3).
+height('Vatican Necropolis',14.58).
+height('Apostolic Palace',13.54).
+height('Ponte Vittorio Emanuele II',13.51).
+height('Chiesa di Sant Anna dei Palafrenieri',14.32).
+height('Operativa Arte Contemporanea',18.99).
+height('Santa Maria del Suffragio',11.29).
+height('Vatican Apostolic Archive',19.01).
+height('Carriage Pavilion',13.84).
+height('Monastero Mater Ecclesi',5.64).
+height('Oratorio dei Filippini (Oratory of St Philip Neri)',11.7).
+height('House of Hospitality Paul VI',13.88).
+height('Chiesa di Santa Maria del Rosario in Prati',8.29).
+height('Welcome To Rome',14.35).
+height('Stadium of Domitian',7.35).
+height('Palazzo Pamphili',17.36).
+height('Fountain of the Moro',18.47).
+height('Cappella Chigi',1.36).
+height('Chiesa di Gesu e Maria',3.65).
+height('Villa Borghese',8.32).
+height('Passeggiata del Pincio',11.69).
+height('Borghese Gallery and Museum',4.74).
+height('National Gallery of Modern and Contemporary Art',10.44).
+height('Mausoleum of Augustus',20.0).
+height('Chiesa Parrocchiale San Giacomo in Augusta',2.21).
+height('Villa Medici',17.21).
+height('Basilica of Saint Lawrence in Lucina',12.7).
+height('Basilica of SS. Ambrose and Charles on the Corso',3.79).
+height('Giorgio de Chirico House Museum',10.2).
+height('Santa Maria in Montesanto',3.56).
+height('Fontana della Barcaccia',15.22).
+height('Museo Leonardo da Vinci',11.24).
+height('Explora - Il Museo dei Bambini di Roma',16.8).
+height('Orologio ad acqua del Pincio',11.05).
+height('Ponte Giacomo Matteotti',15.2).
+height('National Etruscan Museum of Villa Giulia',16.58).
+height('Fontana del Babuino',0.32).
+height('Fontana del Bottino',17.27).
+height('Trinita dei Monti',4.11).
+height('Galleria del Cembalo',5.42).
+height('Chiesa di Santa Maria in Via',17.27).
+height('Palazzo di Propaganda Fide',2.79).
+height('Basilica di Sant Andrea delle Fratte',19.99).
+height('Piazza del Popolo',6.24).
+height('Marcus Aurelius Column',18.79).
+height('Piazza di Siena',19.6).
+height('All Saints  Anglican Church Rome',12.2).
+height('Church of Saint Roch  all Augusteo ',2.39).
+height('Church of Our Lady in Trivio',9.21).
+height('Il Tempio di Adriano',11.1).
+height('Museo Civico di Zoologia',2.3).
+height('Basilica of St. Augustine in Campo Marzio',12.4).
+height('Hendrik Christian Anderson Museum',8.24).
+height('Goethe House',9.99).
+height('Institute of Japanese Culture',15.09).
+height('Villa Balestra',11.79).
+height('Palazzo Borghese',4.21).
+height('National Academy of San Luca',18.16).
+height('Museo Carlo Bilotti',7.75).
+height('Cloaca Maxima',4.84).
+height('Temple of Apollo Palatinus',16.22).
+height('Circus Maximus',1.3).
+height('Mouth of Truth',2.02).
+height('Basilica di Santa Sabina all Aventino',18.74).
+height('Santa Maria in Cosmedin',6.72).
+height('Non-Catholic Cemetery',13.46).
+height('Basilica di Santa Cecilia in Trastevere',2.14).
+height('Mattatoio',11.27).
+height('Pyramid of Caius Cestius',17.06).
+height('Turtle Fountain',5.75).
+height('Basilica di San Bartolomeo all Isola',19.61).
+height('Chiesa di Santa Prisca',2.1).
+height('Tempio Maggiore',18.03).
+height('Portico of Octavia',18.7).
+height('Basilica Santi Giovanni e Paolo',8.68).
 price('Il Tempio dei Dioscuri',0).
-price('Basilica Julia',0).
+price('Basilica Julia',12).
 price('Fountain of the Bees',0).
-price('Ludus Magnus',0).
-price('Palazzetto Zuccari',0).
+price('Ludus Magnus',5).
+price('Palazzetto Zuccari',10).
 price('Fontana del Mose',8).
 price('Chiesa di Santa Bibiana',0).
-price('Santissima Trinita degli Spagnoli',0).
+price('Santissima Trinita degli Spagnoli',6).
 price('Colosseum',16).
 price('Trevi Fountain',0).
-price('Capitoline Museums',0).
-price('Arch of Constantine',8).
-price('Obelisco del Pantheon',9).
-price('Piazza di Spagna',0).
-price('Basilica Papale di Santa Maria Maggiore',10).
+price('Capitoline Museums',9).
+price('Arch of Constantine',9).
+price('Obelisco del Pantheon',0).
+price('Piazza di Spagna',9).
+price('Basilica Papale di Santa Maria Maggiore',9).
 price('Roman Forum',16).
-price('Basilica of San Pietro in Vincoli',0).
-price('Palazzo Massimo alle Terme',0).
-price('Monument to Victor Emmanuel II',12).
-price('Campidoglio',8).
-price('Mercati di Traiano Museo dei Fori Imperiali',6).
+price('Basilica of San Pietro in Vincoli',12).
+price('National Roman Museum - Palazzo Massimo',0).
+price('Monument to Victor Emmanuel II',0).
+price('Campidoglio',10).
+price('Mercati di Traiano Museo dei Fori Imperiali',7).
 price('Equestrian Statue of Marcus Aurelius',0).
 price('Convento dei Frati Cappuccini',0).
-price('Quirinal Palace',9).
+price('Quirinal Palace',5).
 price('Basilica di San Clemente',6).
-price('Chiesa di Sant  Ignazio di Loyola',0).
-price('Chiesa del Gesu',6).
-price('Piazza Barberini',7).
+price('Chiesa di Sant  Ignazio di Loyola',7).
+price('Piazza Barberini',12).
 price('Palazzo delle Esposizioni',0).
+price('Chiesa del Gesu',9).
 price('Basilica di Santa Maria in Ara coeli',0).
-price('Palazzo Montecitorio',12).
-price('Domus Aurea',0).
-price('National Gallery of Ancient Art in Barberini Palace',9).
-price('Doria Pamphili Gallery',0).
-price('Piazza Venezia',9).
+price('Palazzo Montecitorio',0).
+price('Domus Aurea',7).
+price('National Gallery of Ancient Art in Barberini Palace',0).
+price('Doria Pamphili Gallery',7).
+price('Piazza Venezia',0).
 price('Pantheon',0).
-price('Basilica of Saint Mary of Minerva',5).
-price('Santa Maria degli Angeli e dei Martiri',11).
-price('Parrocchia Santa Maria Maggiore',0).
-price('Mamertine Prison',0).
+price('Basilica of Saint Mary of Minerva',7).
+price('Basilica of Saint Mary of the Angels and Martyrs',6).
+price('Parrocchia Santa Maria Maggiore',5).
+price('Mamertine Prison',9).
 price('Mose di Michelangelo',0).
 price('Capanne di Romolo',0).
-price('Basilica San Silvestro in Capite',5).
-price('Basilica del Sacro Cuore di Gesu',0).
-price('Largo di Torre Argentina',0).
-price('Chiesa di Santa Maria ai Monti',10).
-price('Basilica of St Mark Evangelist at Campidoglio',0).
-price('St. Paul s Within the Walls',10).
-price('Septimius Severus Arch',12).
-price('Palazzo Sciarra Colonna Carbognano',0).
-price('The Keats - Shelley House',9).
-price('Basilica Ulpia',0).
+price('Basilica San Silvestro in Capite',0).
+price('Basilica del Sacro Cuore di Gesu',9).
+price('Largo di Torre Argentina',6).
+price('Chiesa di Santa Maria ai Monti',5).
+price('Basilica of St Mark Evangelist at Campidoglio',6).
+price('St. Paul s Within the Walls',0).
+price('Septimius Severus Arch',0).
+price('Palazzo Sciarra Colonna Carbognano',11).
+price('The Keats - Shelley House',0).
+price('Basilica Ulpia',10).
 price('Temple of Vesta',0).
-price('Chiesa San Marcello al Corso',8).
-price('San Stanislao alle Botteghe Oscure',0).
-price('Column of Phocas',5).
-price('Antoninus and Faustina Temple',0).
+price('Chiesa San Marcello al Corso',6).
+price('San Stanislao alle Botteghe Oscure',9).
+price('Column of Phocas',0).
+price('Antoninus and Faustina Temple',6).
 price('Marcello Theater',0).
-price('Chiesa di Santa Maria in Portico in Campitelli',12).
-price('The Church of Santa Maria della Vittoria',6).
-price('The Last Judgment',12).
-price('Chiesa di Santo Stefano degli Abissini',0).
-price('Fontana di Piazza Farnese',9).
+price('Chiesa di Santa Maria in Portico in Campitelli',10).
+price('Church of Santa Maria della Vittoria',0).
+price('The Last Judgment',0).
+price('Chiesa di Santo Stefano degli Abissini',11).
+price('Fontana di Piazza Farnese',5).
 price('Villa Abamelek',12).
-price('Palazzo Torres',12).
+price('Palazzo Torres',6).
 price('Castel Sant Angelo',15).
-price('Vidoni Palace',0).
+price('Vidoni Palace',7).
 price('Vatican Museums',17).
 price('Fontana di Piazza Nicosia',0).
 price('St. Peter s Basilica',0).
-price('Church Holy Spirit in Sassia',7).
-price('Parrocchia Santuario Santa Maria in Traspontina',11).
-price('Gardens of Vatican City',0).
+price('Church Holy Spirit in Sassia',12).
+price('Parrocchia Santuario Santa Maria in Traspontina',6).
+price('Gardens of Vatican City',5).
 price('Fiumi Fountain',0).
-price('Sistine Chapel',10).
-price('Villa Farnesina',8).
-price('Church of St. Louis of the French',7).
-price('Palazzo Madama',0).
-price('Galleria Spada',6).
-price('St. Angelo Bridge',6).
-price('Palazzo Farnese',5).
-price('Sant Agnese in Agone',10).
-price('Botanical Garden of Rome',0).
+price('Sistine Chapel',8).
+price('Villa Farnesina',5).
+price('Palazzo Madama',10).
+price('Galleria Spada',9).
+price('Church of St. Louis of the French',8).
+price('St. Angelo Bridge',12).
+price('Palazzo Farnese',8).
+price('Sant Agnese in Agone',6).
+price('Botanical Garden of Rome',12).
 price('Chiesa di Santa Maria della Pace',0).
-price('Obelisco Agonale',6).
+price('Obelisco Agonale',5).
 price('Basilica of Santa Maria in Trastevere',0).
-price('Church of St Onuphrius at the Janiculum',0).
-price('Biblioteca Angelica',12).
-price('Campo de  Fiori',7).
+price('Church of St Onuphrius at the Janiculum',8).
+price('Biblioteca Angelica',6).
+price('Campo de  Fiori',0).
 price('Piazza Navona',0).
-price('Corte Suprema di Cassazione',12).
-price('Museo di Roma - Palazzo Braschi',7).
-price('Parrocchia Santa Maria in Vallicella',0).
-price('Chiesa di San Pietro in Montorio',10).
-price('Saint Eligio of Orefici',0).
+price('Corte Suprema di Cassazione',0).
+price('Museo di Roma - Palazzo Braschi',0).
+price('Church of Santa Maria in Vallicella',0).
+price('Church of San Pietro in Montorio',0).
+price('Saint Eligio of Orefici',12).
 price('Palazzo del Commendatore',0).
-price('Porta Santo Spirito',8).
-price('Bernini Fountain',0).
-price('Presepe dei Netturbini',7).
-price('Church of Saints Michael and Magnus',9).
+price('Porta Santo Spirito',11).
+price('Bernini Fountain',7).
+price('Presepe dei Netturbini',0).
+price('Church of Saints Michael and Magnus',6).
 price('Museum Leonardo Da Vinci Experience',0).
-price('Vatican Necropolis',0).
-price('Apostolic Palace',12).
-price('Ponte Vittorio Emanuele II',0).
-price('Chiesa di Sant Anna dei Palafrenieri',0).
-price('Operativa Arte Contemporanea',0).
-price('Santa Maria del Suffragio',11).
+price('Vatican Necropolis',11).
+price('Apostolic Palace',11).
+price('Ponte Vittorio Emanuele II',5).
+price('Chiesa di Sant Anna dei Palafrenieri',12).
+price('Operativa Arte Contemporanea',7).
+price('Santa Maria del Suffragio',7).
 price('Vatican Apostolic Archive',0).
-price('Carriage Pavilion',5).
-price('Monastero Mater Ecclesi',0).
-price('Oratorio dei Filippini (Oratory of St Philip Neri)',12).
+price('Carriage Pavilion',12).
+price('Monastero Mater Ecclesi',11).
+price('Oratorio dei Filippini (Oratory of St Philip Neri)',6).
 price('House of Hospitality Paul VI',0).
-price('Chiesa di Santa Maria del Rosario in Prati',0).
-price('Welcome To Rome',0).
-price('Stadium of Domitian',9).
+price('Chiesa di Santa Maria del Rosario in Prati',12).
+price('Welcome To Rome',9).
+price('Stadium of Domitian',7).
 price('Palazzo Pamphili',0).
-price('Fountain of the Moro',8).
-price('Cappella Chigi',8).
-price('Chiesa di Gesu e Maria',0).
+price('Fountain of the Moro',11).
+price('Cappella Chigi',0).
+price('Chiesa di Gesu e Maria',10).
 price('Villa Borghese',13).
-price('Passeggiata del Pincio',8).
-price('Borghese Gallery and Museum',11).
+price('Passeggiata del Pincio',0).
+price('Borghese Gallery and Museum',0).
 price('National Gallery of Modern and Contemporary Art',0).
 price('Mausoleum of Augustus',0).
-price('Chiesa Parrocchiale San Giacomo in Augusta',7).
-price('Villa Medici',7).
-price('Basilica of Saint Lawrence in Lucina',11).
+price('Chiesa Parrocchiale San Giacomo in Augusta',12).
+price('Villa Medici',0).
+price('Basilica of Saint Lawrence in Lucina',0).
 price('Basilica of SS. Ambrose and Charles on the Corso',0).
-price('Giorgio de Chirico House Museum',0).
-price('Santa Maria in Montesanto',0).
-price('Fontana della Barcaccia',0).
-price('Museo Leonardo da Vinci',8).
-price('Explora - Il Museo dei Bambini di Roma',10).
-price('Orologio ad acqua del Pincio',6).
-price('Ponte Giacomo Matteotti',7).
-price('National Etruscan Museum of Villa Giulia',0).
+price('Giorgio de Chirico House Museum',6).
+price('Santa Maria in Montesanto',9).
+price('Fontana della Barcaccia',7).
+price('Museo Leonardo da Vinci',10).
+price('Explora - Il Museo dei Bambini di Roma',0).
+price('Orologio ad acqua del Pincio',0).
+price('Ponte Giacomo Matteotti',9).
+price('National Etruscan Museum of Villa Giulia',11).
 price('Fontana del Babuino',0).
 price('Fontana del Bottino',5).
-price('Trinita dei Monti',5).
+price('Trinita dei Monti',0).
 price('Galleria del Cembalo',0).
-price('Chiesa di Santa Maria in Via',0).
-price('Palazzo di Propaganda Fide',0).
-price('Basilica di Sant Andrea delle Fratte',5).
-price('Piazza del Popolo',0).
-price('Marcus Aurelius Column',7).
-price('Piazza di Siena',7).
+price('Chiesa di Santa Maria in Via',9).
+price('Palazzo di Propaganda Fide',6).
+price('Basilica di Sant Andrea delle Fratte',9).
+price('Piazza del Popolo',5).
+price('Marcus Aurelius Column',6).
+price('Piazza di Siena',12).
 price('All Saints  Anglican Church Rome',0).
-price('Church of Saint Roch  all Augusteo ',7).
+price('Church of Saint Roch  all Augusteo ',11).
 price('Church of Our Lady in Trivio',0).
-price('Il Tempio di Adriano',0).
-price('Museo Civico di Zoologia',10).
-price('Basilica of St. Augustine in Campo Marzio',5).
-price('Hendrik Christian Anderson Museum',0).
-price('Goethe House',8).
-price('Institute of Japanese Culture',12).
-price('Villa Balestra',8).
+price('Il Tempio di Adriano',6).
+price('Museo Civico di Zoologia',0).
+price('Basilica of St. Augustine in Campo Marzio',0).
+price('Hendrik Christian Anderson Museum',5).
+price('Goethe House',5).
+price('Institute of Japanese Culture',10).
+price('Villa Balestra',7).
 price('Palazzo Borghese',0).
-price('National Academy of San Luca',0).
-price('Museo Carlo Bilotti',5).
-price('Palazzo Wedekind',8).
-price('Cloaca Maxima',0).
-price('Temple of Apollo Palatinus',0).
-price('Circus Maximus',12).
-price('Mouth of Truth',0).
-price('Basilica di Santa Sabina all Aventino',6).
+price('National Academy of San Luca',9).
+price('Museo Carlo Bilotti',0).
+price('Cloaca Maxima',7).
+price('Temple of Apollo Palatinus',11).
+price('Circus Maximus',0).
+price('Mouth of Truth',12).
+price('Basilica di Santa Sabina all Aventino',0).
 price('Santa Maria in Cosmedin',0).
 price('Non-Catholic Cemetery',0).
-price('Basilica Santa Cecilia in Trastevere',0).
-price('Mattatoio',8).
+price('Basilica di Santa Cecilia in Trastevere',7).
+price('Mattatoio',0).
 price('Pyramid of Caius Cestius',5).
-price('Turtle Fountain',12).
-price('Basilica di San Bartolomeo all Isola',11).
-price('Chiesa di Santa Prisca',7).
-price('Tempio Maggiore di Roma',0).
-price('Portico of Octavia',0).
-price('Basilica Santi Giovanni e Paolo',8).
+price('Turtle Fountain',0).
+price('Basilica di San Bartolomeo all Isola',12).
+price('Chiesa di Santa Prisca',8).
+price('Tempio Maggiore',12).
+price('Portico of Octavia',11).
+price('Basilica Santi Giovanni e Paolo',0).
 distance('Il Tempio dei Dioscuri','Basilica Julia',79).
 distance('Il Tempio dei Dioscuri','Fountain of the Bees',1421).
 distance('Il Tempio dei Dioscuri','Ludus Magnus',790).
@@ -2379,8 +2383,8 @@ distance('Il Tempio dei Dioscuri','Obelisco del Pantheon',1123).
 distance('Il Tempio dei Dioscuri','Piazza di Spagna',1578).
 distance('Il Tempio dei Dioscuri','Basilica Papale di Santa Maria Maggiore',1243).
 distance('Il Tempio dei Dioscuri','Roman Forum',88).
-distance('Il Tempio dei Dioscuri','Basilica of San Pietro in Vincoli',658).
-distance('Il Tempio dei Dioscuri','Palazzo Massimo alle Terme',1486).
+distance('Il Tempio dei Dioscuri','Basilica of San Pietro in Vincoli',635).
+distance('Il Tempio dei Dioscuri','National Roman Museum - Palazzo Massimo',1486).
 distance('Il Tempio dei Dioscuri','Monument to Victor Emmanuel II',384).
 distance('Il Tempio dei Dioscuri','Campidoglio',300).
 distance('Il Tempio dei Dioscuri','Mercati di Traiano Museo dei Fori Imperiali',440).
@@ -2389,18 +2393,18 @@ distance('Il Tempio dei Dioscuri','Convento dei Frati Cappuccini',1476).
 distance('Il Tempio dei Dioscuri','Quirinal Palace',898).
 distance('Il Tempio dei Dioscuri','Basilica di San Clemente',1022).
 distance('Il Tempio dei Dioscuri','Chiesa di Sant  Ignazio di Loyola',918).
-distance('Il Tempio dei Dioscuri','Chiesa del Gesu',672).
 distance('Il Tempio dei Dioscuri','Piazza Barberini',1364).
 distance('Il Tempio dei Dioscuri','Palazzo delle Esposizioni',938).
+distance('Il Tempio dei Dioscuri','Chiesa del Gesu',701).
 distance('Il Tempio dei Dioscuri','Basilica di Santa Maria in Ara coeli',296).
-distance('Il Tempio dei Dioscuri','Palazzo Montecitorio',1236).
+distance('Il Tempio dei Dioscuri','Palazzo Montecitorio',1194).
 distance('Il Tempio dei Dioscuri','Domus Aurea',834).
 distance('Il Tempio dei Dioscuri','National Gallery of Ancient Art in Barberini Palace',1332).
 distance('Il Tempio dei Dioscuri','Doria Pamphili Gallery',775).
 distance('Il Tempio dei Dioscuri','Piazza Venezia',519).
 distance('Il Tempio dei Dioscuri','Pantheon',1058).
 distance('Il Tempio dei Dioscuri','Basilica of Saint Mary of Minerva',943).
-distance('Il Tempio dei Dioscuri','Santa Maria degli Angeli e dei Martiri',1581).
+distance('Il Tempio dei Dioscuri','Basilica of Saint Mary of the Angels and Martyrs',1581).
 distance('Il Tempio dei Dioscuri','Parrocchia Santa Maria Maggiore',1398).
 distance('Il Tempio dei Dioscuri','Mamertine Prison',197).
 distance('Il Tempio dei Dioscuri','Mose di Michelangelo',636).
@@ -2422,7 +2426,7 @@ distance('Il Tempio dei Dioscuri','Column of Phocas',107).
 distance('Il Tempio dei Dioscuri','Antoninus and Faustina Temple',114).
 distance('Il Tempio dei Dioscuri','Marcello Theater',478).
 distance('Il Tempio dei Dioscuri','Chiesa di Santa Maria in Portico in Campitelli',557).
-distance('Il Tempio dei Dioscuri','The Church of Santa Maria della Vittoria',1614).
+distance('Il Tempio dei Dioscuri','Church of Santa Maria della Vittoria',1614).
 distance('Il Tempio dei Dioscuri','The Last Judgment',2875).
 distance('Il Tempio dei Dioscuri','Chiesa di Santo Stefano degli Abissini',3021).
 distance('Il Tempio dei Dioscuri','Fontana di Piazza Farnese',1236).
@@ -2439,10 +2443,10 @@ distance('Il Tempio dei Dioscuri','Gardens of Vatican City',3223).
 distance('Il Tempio dei Dioscuri','Fiumi Fountain',1319).
 distance('Il Tempio dei Dioscuri','Sistine Chapel',2873).
 distance('Il Tempio dei Dioscuri','Villa Farnesina',1539).
-distance('Il Tempio dei Dioscuri','Church of St. Louis of the French',1271).
 distance('Il Tempio dei Dioscuri','Palazzo Madama',1271).
 distance('Il Tempio dei Dioscuri','Galleria Spada',1173).
-distance('Il Tempio dei Dioscuri','St. Angelo Bridge',1947).
+distance('Il Tempio dei Dioscuri','Church of St. Louis of the French',1259).
+distance('Il Tempio dei Dioscuri','St. Angelo Bridge',1955).
 distance('Il Tempio dei Dioscuri','Palazzo Farnese',1280).
 distance('Il Tempio dei Dioscuri','Sant Agnese in Agone',1346).
 distance('Il Tempio dei Dioscuri','Botanical Garden of Rome',1896).
@@ -2455,8 +2459,8 @@ distance('Il Tempio dei Dioscuri','Campo de  Fiori',1231).
 distance('Il Tempio dei Dioscuri','Piazza Navona',1333).
 distance('Il Tempio dei Dioscuri','Corte Suprema di Cassazione',1942).
 distance('Il Tempio dei Dioscuri','Museo di Roma - Palazzo Braschi',1255).
-distance('Il Tempio dei Dioscuri','Parrocchia Santa Maria in Vallicella',1563).
-distance('Il Tempio dei Dioscuri','Chiesa di San Pietro in Montorio',1631).
+distance('Il Tempio dei Dioscuri','Church of Santa Maria in Vallicella',1553).
+distance('Il Tempio dei Dioscuri','Church of San Pietro in Montorio',1631).
 distance('Il Tempio dei Dioscuri','Saint Eligio of Orefici',1538).
 distance('Il Tempio dei Dioscuri','Palazzo del Commendatore',2215).
 distance('Il Tempio dei Dioscuri','Porta Santo Spirito',2213).
@@ -2522,7 +2526,6 @@ distance('Il Tempio dei Dioscuri','Villa Balestra',3441).
 distance('Il Tempio dei Dioscuri','Palazzo Borghese',1592).
 distance('Il Tempio dei Dioscuri','National Academy of San Luca',1110).
 distance('Il Tempio dei Dioscuri','Museo Carlo Bilotti',2418).
-distance('Il Tempio dei Dioscuri','Palazzo Wedekind',1137).
 distance('Il Tempio dei Dioscuri','Cloaca Maxima',567).
 distance('Il Tempio dei Dioscuri','Temple of Apollo Palatinus',485).
 distance('Il Tempio dei Dioscuri','Circus Maximus',620).
@@ -2530,13 +2533,13 @@ distance('Il Tempio dei Dioscuri','Mouth of Truth',531).
 distance('Il Tempio dei Dioscuri','Basilica di Santa Sabina all Aventino',937).
 distance('Il Tempio dei Dioscuri','Santa Maria in Cosmedin',523).
 distance('Il Tempio dei Dioscuri','Non-Catholic Cemetery',1784).
-distance('Il Tempio dei Dioscuri','Basilica Santa Cecilia in Trastevere',906).
+distance('Il Tempio dei Dioscuri','Basilica di Santa Cecilia in Trastevere',906).
 distance('Il Tempio dei Dioscuri','Mattatoio',1978).
 distance('Il Tempio dei Dioscuri','Pyramid of Caius Cestius',1735).
 distance('Il Tempio dei Dioscuri','Turtle Fountain',711).
 distance('Il Tempio dei Dioscuri','Basilica di San Bartolomeo all Isola',636).
 distance('Il Tempio dei Dioscuri','Chiesa di Santa Prisca',973).
-distance('Il Tempio dei Dioscuri','Tempio Maggiore di Roma',634).
+distance('Il Tempio dei Dioscuri','Tempio Maggiore',634).
 distance('Il Tempio dei Dioscuri','Portico of Octavia',598).
 distance('Il Tempio dei Dioscuri','Basilica Santi Giovanni e Paolo',789).
 distance('Basilica Julia','Fountain of the Bees',1404).
@@ -2553,8 +2556,8 @@ distance('Basilica Julia','Obelisco del Pantheon',1052).
 distance('Basilica Julia','Piazza di Spagna',1535).
 distance('Basilica Julia','Basilica Papale di Santa Maria Maggiore',1290).
 distance('Basilica Julia','Roman Forum',68).
-distance('Basilica Julia','Basilica of San Pietro in Vincoli',716).
-distance('Basilica Julia','Palazzo Massimo alle Terme',1516).
+distance('Basilica Julia','Basilica of San Pietro in Vincoli',694).
+distance('Basilica Julia','National Roman Museum - Palazzo Massimo',1516).
 distance('Basilica Julia','Monument to Victor Emmanuel II',320).
 distance('Basilica Julia','Campidoglio',223).
 distance('Basilica Julia','Mercati di Traiano Museo dei Fori Imperiali',422).
@@ -2563,18 +2566,18 @@ distance('Basilica Julia','Convento dei Frati Cappuccini',1457).
 distance('Basilica Julia','Quirinal Palace',877).
 distance('Basilica Julia','Basilica di San Clemente',1101).
 distance('Basilica Julia','Chiesa di Sant  Ignazio di Loyola',854).
-distance('Basilica Julia','Chiesa del Gesu',597).
 distance('Basilica Julia','Piazza Barberini',1347).
 distance('Basilica Julia','Palazzo delle Esposizioni',940).
+distance('Basilica Julia','Chiesa del Gesu',625).
 distance('Basilica Julia','Basilica di Santa Maria in Ara coeli',229).
-distance('Basilica Julia','Palazzo Montecitorio',1175).
+distance('Basilica Julia','Palazzo Montecitorio',1131).
 distance('Basilica Julia','Domus Aurea',911).
 distance('Basilica Julia','National Gallery of Ancient Art in Barberini Palace',1321).
 distance('Basilica Julia','Doria Pamphili Gallery',715).
 distance('Basilica Julia','Piazza Venezia',457).
 distance('Basilica Julia','Pantheon',985).
 distance('Basilica Julia','Basilica of Saint Mary of Minerva',870).
-distance('Basilica Julia','Santa Maria degli Angeli e dei Martiri',1600).
+distance('Basilica Julia','Basilica of Saint Mary of the Angels and Martyrs',1600).
 distance('Basilica Julia','Parrocchia Santa Maria Maggiore',1456).
 distance('Basilica Julia','Mamertine Prison',141).
 distance('Basilica Julia','Mose di Michelangelo',694).
@@ -2596,7 +2599,7 @@ distance('Basilica Julia','Column of Phocas',52).
 distance('Basilica Julia','Antoninus and Faustina Temple',171).
 distance('Basilica Julia','Marcello Theater',405).
 distance('Basilica Julia','Chiesa di Santa Maria in Portico in Campitelli',479).
-distance('Basilica Julia','The Church of Santa Maria della Vittoria',1619).
+distance('Basilica Julia','Church of Santa Maria della Vittoria',1619).
 distance('Basilica Julia','The Last Judgment',2795).
 distance('Basilica Julia','Chiesa di Santo Stefano degli Abissini',2942).
 distance('Basilica Julia','Fontana di Piazza Farnese',1157).
@@ -2613,10 +2616,10 @@ distance('Basilica Julia','Gardens of Vatican City',3144).
 distance('Basilica Julia','Fiumi Fountain',1242).
 distance('Basilica Julia','Sistine Chapel',2793).
 distance('Basilica Julia','Villa Farnesina',1463).
-distance('Basilica Julia','Church of St. Louis of the French',1197).
 distance('Basilica Julia','Palazzo Madama',1195).
 distance('Basilica Julia','Galleria Spada',1095).
-distance('Basilica Julia','St. Angelo Bridge',1869).
+distance('Basilica Julia','Church of St. Louis of the French',1185).
+distance('Basilica Julia','St. Angelo Bridge',1877).
 distance('Basilica Julia','Palazzo Farnese',1202).
 distance('Basilica Julia','Sant Agnese in Agone',1268).
 distance('Basilica Julia','Botanical Garden of Rome',1822).
@@ -2629,8 +2632,8 @@ distance('Basilica Julia','Campo de  Fiori',1151).
 distance('Basilica Julia','Piazza Navona',1256).
 distance('Basilica Julia','Corte Suprema di Cassazione',1870).
 distance('Basilica Julia','Museo di Roma - Palazzo Braschi',1176).
-distance('Basilica Julia','Parrocchia Santa Maria in Vallicella',1483).
-distance('Basilica Julia','Chiesa di San Pietro in Montorio',1567).
+distance('Basilica Julia','Church of Santa Maria in Vallicella',1473).
+distance('Basilica Julia','Church of San Pietro in Montorio',1567).
 distance('Basilica Julia','Saint Eligio of Orefici',1459).
 distance('Basilica Julia','Palazzo del Commendatore',2135).
 distance('Basilica Julia','Porta Santo Spirito',2134).
@@ -2696,7 +2699,6 @@ distance('Basilica Julia','Villa Balestra',3389).
 distance('Basilica Julia','Palazzo Borghese',1529).
 distance('Basilica Julia','National Academy of San Luca',1069).
 distance('Basilica Julia','Museo Carlo Bilotti',2380).
-distance('Basilica Julia','Palazzo Wedekind',1077).
 distance('Basilica Julia','Cloaca Maxima',532).
 distance('Basilica Julia','Temple of Apollo Palatinus',527).
 distance('Basilica Julia','Circus Maximus',651).
@@ -2704,13 +2706,13 @@ distance('Basilica Julia','Mouth of Truth',513).
 distance('Basilica Julia','Basilica di Santa Sabina all Aventino',930).
 distance('Basilica Julia','Santa Maria in Cosmedin',508).
 distance('Basilica Julia','Non-Catholic Cemetery',1796).
-distance('Basilica Julia','Basilica Santa Cecilia in Trastevere',866).
+distance('Basilica Julia','Basilica di Santa Cecilia in Trastevere',866).
 distance('Basilica Julia','Mattatoio',1970).
 distance('Basilica Julia','Pyramid of Caius Cestius',1752).
 distance('Basilica Julia','Turtle Fountain',632).
 distance('Basilica Julia','Basilica di San Bartolomeo all Isola',576).
 distance('Basilica Julia','Chiesa di Santa Prisca',995).
-distance('Basilica Julia','Tempio Maggiore di Roma',561).
+distance('Basilica Julia','Tempio Maggiore',561).
 distance('Basilica Julia','Portico of Octavia',522).
 distance('Basilica Julia','Basilica Santi Giovanni e Paolo',863).
 distance('Fountain of the Bees','Ludus Magnus',1658).
@@ -2726,8 +2728,8 @@ distance('Fountain of the Bees','Obelisco del Pantheon',1139).
 distance('Fountain of the Bees','Piazza di Spagna',556).
 distance('Fountain of the Bees','Basilica Papale di Santa Maria Maggiore',1091).
 distance('Fountain of the Bees','Roman Forum',1344).
-distance('Fountain of the Bees','Basilica of San Pietro in Vincoli',1215).
-distance('Fountain of the Bees','Palazzo Massimo alle Terme',858).
+distance('Fountain of the Bees','Basilica of San Pietro in Vincoli',1217).
+distance('Fountain of the Bees','National Roman Museum - Palazzo Massimo',858).
 distance('Fountain of the Bees','Monument to Victor Emmanuel II',1173).
 distance('Fountain of the Bees','Campidoglio',1311).
 distance('Fountain of the Bees','Mercati di Traiano Museo dei Fori Imperiali',983).
@@ -2736,18 +2738,18 @@ distance('Fountain of the Bees','Convento dei Frati Cappuccini',69).
 distance('Fountain of the Bees','Quirinal Palace',530).
 distance('Fountain of the Bees','Basilica di San Clemente',1814).
 distance('Fountain of the Bees','Chiesa di Sant  Ignazio di Loyola',961).
-distance('Fountain of the Bees','Chiesa del Gesu',1187).
 distance('Fountain of the Bees','Piazza Barberini',57).
 distance('Fountain of the Bees','Palazzo delle Esposizioni',548).
+distance('Fountain of the Bees','Chiesa del Gesu',1216).
 distance('Fountain of the Bees','Basilica di Santa Maria in Ara coeli',1243).
-distance('Fountain of the Bees','Palazzo Montecitorio',885).
+distance('Fountain of the Bees','Palazzo Montecitorio',908).
 distance('Fountain of the Bees','Domus Aurea',1620).
 distance('Fountain of the Bees','National Gallery of Ancient Art in Barberini Palace',140).
 distance('Fountain of the Bees','Doria Pamphili Gallery',920).
 distance('Fountain of the Bees','Piazza Venezia',1077).
 distance('Fountain of the Bees','Pantheon',1171).
 distance('Fountain of the Bees','Basilica of Saint Mary of Minerva',1133).
-distance('Fountain of the Bees','Santa Maria degli Angeli e dei Martiri',688).
+distance('Fountain of the Bees','Basilica of Saint Mary of the Angels and Martyrs',688).
 distance('Fountain of the Bees','Parrocchia Santa Maria Maggiore',1401).
 distance('Fountain of the Bees','Mamertine Prison',1275).
 distance('Fountain of the Bees','Mose di Michelangelo',1212).
@@ -2769,7 +2771,7 @@ distance('Fountain of the Bees','Column of Phocas',1352).
 distance('Fountain of the Bees','Antoninus and Faustina Temple',1346).
 distance('Fountain of the Bees','Marcello Theater',1557).
 distance('Fountain of the Bees','Chiesa di Santa Maria in Portico in Campitelli',1479).
-distance('Fountain of the Bees','The Church of Santa Maria della Vittoria',466).
+distance('Fountain of the Bees','Church of Santa Maria della Vittoria',466).
 distance('Fountain of the Bees','The Last Judgment',2851).
 distance('Fountain of the Bees','Chiesa di Santo Stefano degli Abissini',3076).
 distance('Fountain of the Bees','Fontana di Piazza Farnese',1769).
@@ -2786,10 +2788,10 @@ distance('Fountain of the Bees','Gardens of Vatican City',3197).
 distance('Fountain of the Bees','Fiumi Fountain',1429).
 distance('Fountain of the Bees','Sistine Chapel',2848).
 distance('Fountain of the Bees','Villa Farnesina',2141).
-distance('Fountain of the Bees','Church of St. Louis of the French',1291).
 distance('Fountain of the Bees','Palazzo Madama',1337).
 distance('Fountain of the Bees','Galleria Spada',1791).
-distance('Fountain of the Bees','St. Angelo Bridge',1871).
+distance('Fountain of the Bees','Church of St. Louis of the French',1268).
+distance('Fountain of the Bees','St. Angelo Bridge',1870).
 distance('Fountain of the Bees','Palazzo Farnese',1829).
 distance('Fountain of the Bees','Sant Agnese in Agone',1475).
 distance('Fountain of the Bees','Botanical Garden of Rome',2529).
@@ -2802,8 +2804,8 @@ distance('Fountain of the Bees','Campo de  Fiori',1694).
 distance('Fountain of the Bees','Piazza Navona',1421).
 distance('Fountain of the Bees','Corte Suprema di Cassazione',1550).
 distance('Fountain of the Bees','Museo di Roma - Palazzo Braschi',1527).
-distance('Fountain of the Bees','Parrocchia Santa Maria in Vallicella',1750).
-distance('Fountain of the Bees','Chiesa di San Pietro in Montorio',2534).
+distance('Fountain of the Bees','Church of Santa Maria in Vallicella',1762).
+distance('Fountain of the Bees','Church of San Pietro in Montorio',2534).
 distance('Fountain of the Bees','Saint Eligio of Orefici',1975).
 distance('Fountain of the Bees','Palazzo del Commendatore',2223).
 distance('Fountain of the Bees','Porta Santo Spirito',2293).
@@ -2869,7 +2871,6 @@ distance('Fountain of the Bees','Villa Balestra',2271).
 distance('Fountain of the Bees','Palazzo Borghese',1044).
 distance('Fountain of the Bees','National Academy of San Luca',517).
 distance('Fountain of the Bees','Museo Carlo Bilotti',1109).
-distance('Fountain of the Bees','Palazzo Wedekind',863).
 distance('Fountain of the Bees','Cloaca Maxima',1876).
 distance('Fountain of the Bees','Temple of Apollo Palatinus',1897).
 distance('Fountain of the Bees','Circus Maximus',2039).
@@ -2877,13 +2878,13 @@ distance('Fountain of the Bees','Mouth of Truth',1897).
 distance('Fountain of the Bees','Basilica di Santa Sabina all Aventino',2320).
 distance('Fountain of the Bees','Santa Maria in Cosmedin',1895).
 distance('Fountain of the Bees','Non-Catholic Cemetery',3201).
-distance('Fountain of the Bees','Basilica Santa Cecilia in Trastevere',2152).
+distance('Fountain of the Bees','Basilica di Santa Cecilia in Trastevere',2152).
 distance('Fountain of the Bees','Mattatoio',3345).
 distance('Fountain of the Bees','Pyramid of Caius Cestius',3156).
 distance('Fountain of the Bees','Turtle Fountain',1487).
 distance('Fountain of the Bees','Basilica di San Bartolomeo all Isola',1780).
 distance('Fountain of the Bees','Chiesa di Santa Prisca',2394).
-distance('Fountain of the Bees','Tempio Maggiore di Roma',1630).
+distance('Fountain of the Bees','Tempio Maggiore',1630).
 distance('Fountain of the Bees','Portico of Octavia',1559).
 distance('Fountain of the Bees','Basilica Santi Giovanni e Paolo',1998).
 distance('Ludus Magnus','Palazzetto Zuccari',1940).
@@ -2899,7 +2900,7 @@ distance('Ludus Magnus','Piazza di Spagna',2025).
 distance('Ludus Magnus','Basilica Papale di Santa Maria Maggiore',882).
 distance('Ludus Magnus','Roman Forum',840).
 distance('Ludus Magnus','Basilica of San Pietro in Vincoli',443).
-distance('Ludus Magnus','Palazzo Massimo alle Terme',1266).
+distance('Ludus Magnus','National Roman Museum - Palazzo Massimo',1266).
 distance('Ludus Magnus','Monument to Victor Emmanuel II',1101).
 distance('Ludus Magnus','Campidoglio',1071).
 distance('Ludus Magnus','Mercati di Traiano Museo dei Fori Imperiali',949).
@@ -2908,18 +2909,18 @@ distance('Ludus Magnus','Convento dei Frati Cappuccini',1726).
 distance('Ludus Magnus','Quirinal Palace',1270).
 distance('Ludus Magnus','Basilica di San Clemente',234).
 distance('Ludus Magnus','Chiesa di Sant  Ignazio di Loyola',1578).
-distance('Ludus Magnus','Chiesa del Gesu',1409).
 distance('Ludus Magnus','Piazza Barberini',1608).
 distance('Ludus Magnus','Palazzo delle Esposizioni',1114).
+distance('Ludus Magnus','Chiesa del Gesu',1446).
 distance('Ludus Magnus','Basilica di Santa Maria in Ara coeli',1037).
-distance('Ludus Magnus','Palazzo Montecitorio',1852).
+distance('Ludus Magnus','Palazzo Montecitorio',1821).
 distance('Ludus Magnus','Domus Aurea',81).
 distance('Ludus Magnus','National Gallery of Ancient Art in Barberini Palace',1527).
 distance('Ludus Magnus','Doria Pamphili Gallery',1413).
 distance('Ludus Magnus','Piazza Venezia',1204).
 distance('Ludus Magnus','Pantheon',1773).
 distance('Ludus Magnus','Basilica of Saint Mary of Minerva',1655).
-distance('Ludus Magnus','Santa Maria degli Angeli e dei Martiri',1464).
+distance('Ludus Magnus','Basilica of Saint Mary of the Angels and Martyrs',1464).
 distance('Ludus Magnus','Parrocchia Santa Maria Maggiore',852).
 distance('Ludus Magnus','Mamertine Prison',934).
 distance('Ludus Magnus','Mose di Michelangelo',448).
@@ -2941,7 +2942,7 @@ distance('Ludus Magnus','Column of Phocas',876).
 distance('Ludus Magnus','Antoninus and Faustina Temple',715).
 distance('Ludus Magnus','Marcello Theater',1264).
 distance('Ludus Magnus','Chiesa di Santa Maria in Portico in Campitelli',1348).
-distance('Ludus Magnus','The Church of Santa Maria della Vittoria',1623).
+distance('Ludus Magnus','Church of Santa Maria della Vittoria',1623).
 distance('Ludus Magnus','The Last Judgment',3651).
 distance('Ludus Magnus','Chiesa di Santo Stefano degli Abissini',3805).
 distance('Ludus Magnus','Fontana di Piazza Farnese',2025).
@@ -2958,10 +2959,10 @@ distance('Ludus Magnus','Gardens of Vatican City',4002).
 distance('Ludus Magnus','Fiumi Fountain',2064).
 distance('Ludus Magnus','Sistine Chapel',3648).
 distance('Ludus Magnus','Villa Farnesina',2328).
-distance('Ludus Magnus','Church of St. Louis of the French',1994).
 distance('Ludus Magnus','Palazzo Madama',2003).
 distance('Ludus Magnus','Galleria Spada',1964).
-distance('Ludus Magnus','St. Angelo Bridge',2697).
+distance('Ludus Magnus','Church of St. Louis of the French',1978).
+distance('Ludus Magnus','St. Angelo Bridge',2704).
 distance('Ludus Magnus','Palazzo Farnese',2070).
 distance('Ludus Magnus','Sant Agnese in Agone',2097).
 distance('Ludus Magnus','Botanical Garden of Rome',2676).
@@ -2974,8 +2975,8 @@ distance('Ludus Magnus','Campo de  Fiori',2016).
 distance('Ludus Magnus','Piazza Navona',2075).
 distance('Ludus Magnus','Corte Suprema di Cassazione',2628).
 distance('Ludus Magnus','Museo di Roma - Palazzo Braschi',2021).
-distance('Ludus Magnus','Parrocchia Santa Maria in Vallicella',2333).
-distance('Ludus Magnus','Chiesa di San Pietro in Montorio',2373).
+distance('Ludus Magnus','Church of Santa Maria in Vallicella',2326).
+distance('Ludus Magnus','Church of San Pietro in Montorio',2373).
 distance('Ludus Magnus','Saint Eligio of Orefici',2327).
 distance('Ludus Magnus','Palazzo del Commendatore',2984).
 distance('Ludus Magnus','Porta Santo Spirito',2990).
@@ -3041,7 +3042,6 @@ distance('Ludus Magnus','Villa Balestra',3895).
 distance('Ludus Magnus','Palazzo Borghese',2206).
 distance('Ludus Magnus','National Academy of San Luca',1582).
 distance('Ludus Magnus','Museo Carlo Bilotti',2763).
-distance('Ludus Magnus','Palazzo Wedekind',1754).
 distance('Ludus Magnus','Cloaca Maxima',1235).
 distance('Ludus Magnus','Temple of Apollo Palatinus',804).
 distance('Ludus Magnus','Circus Maximus',924).
@@ -3049,13 +3049,13 @@ distance('Ludus Magnus','Mouth of Truth',1141).
 distance('Ludus Magnus','Basilica di Santa Sabina all Aventino',1403).
 distance('Ludus Magnus','Santa Maria in Cosmedin',1126).
 distance('Ludus Magnus','Non-Catholic Cemetery',1996).
-distance('Ludus Magnus','Basilica Santa Cecilia in Trastevere',1558).
+distance('Ludus Magnus','Basilica di Santa Cecilia in Trastevere',1558).
 distance('Ludus Magnus','Mattatoio',2348).
 distance('Ludus Magnus','Pyramid of Caius Cestius',1907).
 distance('Ludus Magnus','Turtle Fountain',1500).
 distance('Ludus Magnus','Basilica di San Bartolomeo all Isola',1388).
 distance('Ludus Magnus','Chiesa di Santa Prisca',1220).
-distance('Ludus Magnus','Tempio Maggiore di Roma',1419).
+distance('Ludus Magnus','Tempio Maggiore',1419).
 distance('Ludus Magnus','Portico of Octavia',1387).
 distance('Ludus Magnus','Basilica Santi Giovanni e Paolo',464).
 distance('Palazzetto Zuccari','Fontana del Mose',876).
@@ -3069,8 +3069,8 @@ distance('Palazzetto Zuccari','Obelisco del Pantheon',915).
 distance('Palazzetto Zuccari','Piazza di Spagna',140).
 distance('Palazzetto Zuccari','Basilica Papale di Santa Maria Maggiore',1484).
 distance('Palazzetto Zuccari','Roman Forum',1455).
-distance('Palazzetto Zuccari','Basilica of San Pietro in Vincoli',1501).
-distance('Palazzetto Zuccari','Palazzo Massimo alle Terme',1276).
+distance('Palazzetto Zuccari','Basilica of San Pietro in Vincoli',1498).
+distance('Palazzetto Zuccari','National Roman Museum - Palazzo Massimo',1276).
 distance('Palazzetto Zuccari','Monument to Victor Emmanuel II',1216).
 distance('Palazzetto Zuccari','Campidoglio',1355).
 distance('Palazzetto Zuccari','Mercati di Traiano Museo dei Fori Imperiali',1114).
@@ -3079,18 +3079,18 @@ distance('Palazzetto Zuccari','Convento dei Frati Cappuccini',371).
 distance('Palazzetto Zuccari','Quirinal Palace',681).
 distance('Palazzetto Zuccari','Basilica di San Clemente',2122).
 distance('Palazzetto Zuccari','Chiesa di Sant  Ignazio di Loyola',827).
-distance('Palazzetto Zuccari','Chiesa del Gesu',1121).
 distance('Palazzetto Zuccari','Piazza Barberini',430).
 distance('Palazzetto Zuccari','Palazzo delle Esposizioni',845).
+distance('Palazzetto Zuccari','Chiesa del Gesu',1137).
 distance('Palazzetto Zuccari','Basilica di Santa Maria in Ara coeli',1302).
-distance('Palazzetto Zuccari','Palazzo Montecitorio',620).
+distance('Palazzetto Zuccari','Palazzo Montecitorio',661).
 distance('Palazzetto Zuccari','Domus Aurea',1915).
 distance('Palazzetto Zuccari','National Gallery of Ancient Art in Barberini Palace',542).
 distance('Palazzetto Zuccari','Doria Pamphili Gallery',863).
 distance('Palazzetto Zuccari','Piazza Venezia',1091).
 distance('Palazzetto Zuccari','Pantheon',970).
 distance('Palazzetto Zuccari','Basilica of Saint Mary of Minerva',974).
-distance('Palazzetto Zuccari','Santa Maria degli Angeli e dei Martiri',1103).
+distance('Palazzetto Zuccari','Basilica of Saint Mary of the Angels and Martyrs',1103).
 distance('Palazzetto Zuccari','Parrocchia Santa Maria Maggiore',1796).
 distance('Palazzetto Zuccari','Mamertine Prison',1364).
 distance('Palazzetto Zuccari','Mose di Michelangelo',1493).
@@ -3112,7 +3112,7 @@ distance('Palazzetto Zuccari','Column of Phocas',1453).
 distance('Palazzetto Zuccari','Antoninus and Faustina Temple',1493).
 distance('Palazzetto Zuccari','Marcello Theater',1548).
 distance('Palazzetto Zuccari','Chiesa di Santa Maria in Portico in Campitelli',1442).
-distance('Palazzetto Zuccari','The Church of Santa Maria della Vittoria',864).
+distance('Palazzetto Zuccari','Church of Santa Maria della Vittoria',864).
 distance('Palazzetto Zuccari','The Last Judgment',2468).
 distance('Palazzetto Zuccari','Chiesa di Santo Stefano degli Abissini',2701).
 distance('Palazzetto Zuccari','Fontana di Piazza Farnese',1566).
@@ -3129,10 +3129,10 @@ distance('Palazzetto Zuccari','Gardens of Vatican City',2809).
 distance('Palazzetto Zuccari','Fiumi Fountain',1163).
 distance('Palazzetto Zuccari','Sistine Chapel',2466).
 distance('Palazzetto Zuccari','Villa Farnesina',1919).
-distance('Palazzetto Zuccari','Church of St. Louis of the French',1026).
 distance('Palazzetto Zuccari','Palazzo Madama',1076).
 distance('Palazzetto Zuccari','Galleria Spada',1609).
-distance('Palazzetto Zuccari','St. Angelo Bridge',1514).
+distance('Palazzetto Zuccari','Church of St. Louis of the French',1005).
+distance('Palazzetto Zuccari','St. Angelo Bridge',1511).
 distance('Palazzetto Zuccari','Palazzo Farnese',1623).
 distance('Palazzetto Zuccari','Sant Agnese in Agone',1206).
 distance('Palazzetto Zuccari','Botanical Garden of Rome',2289).
@@ -3145,8 +3145,8 @@ distance('Palazzetto Zuccari','Campo de  Fiori',1483).
 distance('Palazzetto Zuccari','Piazza Navona',1150).
 distance('Palazzetto Zuccari','Corte Suprema di Cassazione',1157).
 distance('Palazzetto Zuccari','Museo di Roma - Palazzo Braschi',1289).
-distance('Palazzetto Zuccari','Parrocchia Santa Maria in Vallicella',1459).
-distance('Palazzetto Zuccari','Chiesa di San Pietro in Montorio',2368).
+distance('Palazzetto Zuccari','Church of Santa Maria in Vallicella',1476).
+distance('Palazzetto Zuccari','Church of San Pietro in Montorio',2368).
 distance('Palazzetto Zuccari','Saint Eligio of Orefici',1725).
 distance('Palazzetto Zuccari','Palazzo del Commendatore',1863).
 distance('Palazzetto Zuccari','Porta Santo Spirito',1943).
@@ -3212,7 +3212,6 @@ distance('Palazzetto Zuccari','Villa Balestra',1955).
 distance('Palazzetto Zuccari','Palazzo Borghese',666).
 distance('Palazzetto Zuccari','National Academy of San Luca',438).
 distance('Palazzetto Zuccari','Museo Carlo Bilotti',876).
-distance('Palazzetto Zuccari','Palazzo Wedekind',644).
 distance('Palazzetto Zuccari','Cloaca Maxima',1901).
 distance('Palazzetto Zuccari','Temple of Apollo Palatinus',2027).
 distance('Palazzetto Zuccari','Circus Maximus',2156).
@@ -3220,13 +3219,13 @@ distance('Palazzetto Zuccari','Mouth of Truth',1947).
 distance('Palazzetto Zuccari','Basilica di Santa Sabina all Aventino',2361).
 distance('Palazzetto Zuccari','Santa Maria in Cosmedin',1949).
 distance('Palazzetto Zuccari','Non-Catholic Cemetery',3267).
-distance('Palazzetto Zuccari','Basilica Santa Cecilia in Trastevere',2129).
+distance('Palazzetto Zuccari','Basilica di Santa Cecilia in Trastevere',2129).
 distance('Palazzetto Zuccari','Mattatoio',3346).
 distance('Palazzetto Zuccari','Pyramid of Caius Cestius',3236).
 distance('Palazzetto Zuccari','Turtle Fountain',1404).
 distance('Palazzetto Zuccari','Basilica di San Bartolomeo all Isola',1755).
 distance('Palazzetto Zuccari','Chiesa di Santa Prisca',2494).
-distance('Palazzetto Zuccari','Tempio Maggiore di Roma',1583).
+distance('Palazzetto Zuccari','Tempio Maggiore',1583).
 distance('Palazzetto Zuccari','Portico of Octavia',1515).
 distance('Palazzetto Zuccari','Basilica Santi Giovanni e Paolo',2220).
 distance('Fontana del Mose','Chiesa di Santa Bibiana',1569).
@@ -3239,8 +3238,8 @@ distance('Fontana del Mose','Obelisco del Pantheon',1574).
 distance('Fontana del Mose','Piazza di Spagna',1017).
 distance('Fontana del Mose','Basilica Papale di Santa Maria Maggiore',822).
 distance('Fontana del Mose','Roman Forum',1527).
-distance('Fontana del Mose','Basilica of San Pietro in Vincoli',1179).
-distance('Fontana del Mose','Palazzo Massimo alle Terme',473).
+distance('Fontana del Mose','Basilica of San Pietro in Vincoli',1189).
+distance('Fontana del Mose','National Roman Museum - Palazzo Massimo',473).
 distance('Fontana del Mose','Monument to Victor Emmanuel II',1438).
 distance('Fontana del Mose','Campidoglio',1561).
 distance('Fontana del Mose','Mercati di Traiano Museo dei Fori Imperiali',1187).
@@ -3249,18 +3248,18 @@ distance('Fontana del Mose','Convento dei Frati Cappuccini',506).
 distance('Fontana del Mose','Quirinal Palace',821).
 distance('Fontana del Mose','Basilica di San Clemente',1692).
 distance('Fontana del Mose','Chiesa di Sant  Ignazio di Loyola',1363).
-distance('Fontana del Mose','Chiesa del Gesu',1534).
 distance('Fontana del Mose','Piazza Barberini',488).
 distance('Fontana del Mose','Palazzo delle Esposizioni',654).
+distance('Fontana del Mose','Chiesa del Gesu',1569).
 distance('Fontana del Mose','Basilica di Santa Maria in Ara coeli',1487).
-distance('Fontana del Mose','Palazzo Montecitorio',1341).
+distance('Fontana del Mose','Palazzo Montecitorio',1359).
 distance('Fontana del Mose','Domus Aurea',1532).
 distance('Fontana del Mose','National Gallery of Ancient Art in Barberini Palace',404).
 distance('Fontana del Mose','Doria Pamphili Gallery',1285).
 distance('Fontana del Mose','Piazza Venezia',1375).
 distance('Fontana del Mose','Pantheon',1594).
 distance('Fontana del Mose','Basilica of Saint Mary of Minerva',1538).
-distance('Fontana del Mose','Santa Maria degli Angeli e dei Martiri',244).
+distance('Fontana del Mose','Basilica of Saint Mary of the Angels and Martyrs',244).
 distance('Fontana del Mose','Parrocchia Santa Maria Maggiore',1100).
 distance('Fontana del Mose','Mamertine Prison',1488).
 distance('Fontana del Mose','Mose di Michelangelo',1185).
@@ -3282,7 +3281,7 @@ distance('Fontana del Mose','Column of Phocas',1546).
 distance('Fontana del Mose','Antoninus and Faustina Temple',1490).
 distance('Fontana del Mose','Marcello Theater',1837).
 distance('Fontana del Mose','Chiesa di Santa Maria in Portico in Campitelli',1786).
-distance('Fontana del Mose','The Church of Santa Maria della Vittoria',34).
+distance('Fontana del Mose','Church of Santa Maria della Vittoria',34).
 distance('Fontana del Mose','The Last Judgment',3323).
 distance('Fontana del Mose','Chiesa di Santo Stefano degli Abissini',3548).
 distance('Fontana del Mose','Fontana di Piazza Farnese',2176).
@@ -3299,9 +3298,9 @@ distance('Fontana del Mose','Gardens of Vatican City',3670).
 distance('Fontana del Mose','Fiumi Fountain',1873).
 distance('Fontana del Mose','Sistine Chapel',3321).
 distance('Fontana del Mose','Villa Farnesina',2554).
-distance('Fontana del Mose','Church of St. Louis of the French',1737).
 distance('Fontana del Mose','Palazzo Madama',1781).
 distance('Fontana del Mose','Galleria Spada',2186).
+distance('Fontana del Mose','Church of St. Louis of the French',1714).
 distance('Fontana del Mose','St. Angelo Bridge',2341).
 distance('Fontana del Mose','Palazzo Farnese',2237).
 distance('Fontana del Mose','Sant Agnese in Agone',1919).
@@ -3315,8 +3314,8 @@ distance('Fontana del Mose','Campo de  Fiori',2108).
 distance('Fontana del Mose','Piazza Navona',1867).
 distance('Fontana del Mose','Corte Suprema di Cassazione',2022).
 distance('Fontana del Mose','Museo di Roma - Palazzo Braschi',1957).
-distance('Fontana del Mose','Parrocchia Santa Maria in Vallicella',2200).
-distance('Fontana del Mose','Chiesa di San Pietro in Montorio',2905).
+distance('Fontana del Mose','Church of Santa Maria in Vallicella',2210).
+distance('Fontana del Mose','Church of San Pietro in Montorio',2905).
 distance('Fontana del Mose','Saint Eligio of Orefici',2405).
 distance('Fontana del Mose','Palazzo del Commendatore',2692).
 distance('Fontana del Mose','Porta Santo Spirito',2760).
@@ -3382,7 +3381,6 @@ distance('Fontana del Mose','Villa Balestra',2553).
 distance('Fontana del Mose','Palazzo Borghese',1517).
 distance('Fontana del Mose','National Academy of San Luca',946).
 distance('Fontana del Mose','Museo Carlo Bilotti',1363).
-distance('Fontana del Mose','Palazzo Wedekind',1307).
 distance('Fontana del Mose','Cloaca Maxima',2112).
 distance('Fontana del Mose','Temple of Apollo Palatinus',2021).
 distance('Fontana del Mose','Circus Maximus',2171).
@@ -3390,13 +3388,13 @@ distance('Fontana del Mose','Mouth of Truth',2107).
 distance('Fontana del Mose','Basilica di Santa Sabina all Aventino',2523).
 distance('Fontana del Mose','Santa Maria in Cosmedin',2102).
 distance('Fontana del Mose','Non-Catholic Cemetery',3357).
-distance('Fontana del Mose','Basilica Santa Cecilia in Trastevere',2420).
+distance('Fontana del Mose','Basilica di Santa Cecilia in Trastevere',2420).
 distance('Fontana del Mose','Mattatoio',3564).
 distance('Fontana del Mose','Pyramid of Caius Cestius',3297).
 distance('Fontana del Mose','Turtle Fountain',1827).
 distance('Fontana del Mose','Basilica di San Bartolomeo all Isola',2063).
 distance('Fontana del Mose','Chiesa di Santa Prisca',2533).
-distance('Fontana del Mose','Tempio Maggiore di Roma',1938).
+distance('Fontana del Mose','Tempio Maggiore',1938).
 distance('Fontana del Mose','Portico of Octavia',1867).
 distance('Fontana del Mose','Basilica Santi Giovanni e Paolo',1999).
 distance('Chiesa di Santa Bibiana','Santissima Trinita degli Spagnoli',2679).
@@ -3408,8 +3406,8 @@ distance('Chiesa di Santa Bibiana','Obelisco del Pantheon',2726).
 distance('Chiesa di Santa Bibiana','Piazza di Spagna',2500).
 distance('Chiesa di Santa Bibiana','Basilica Papale di Santa Maria Maggiore',925).
 distance('Chiesa di Santa Bibiana','Roman Forum',2012).
-distance('Chiesa di Santa Bibiana','Basilica of San Pietro in Vincoli',1354).
-distance('Chiesa di Santa Bibiana','Palazzo Massimo alle Terme',1105).
+distance('Chiesa di Santa Bibiana','Basilica of San Pietro in Vincoli',1375).
+distance('Chiesa di Santa Bibiana','National Roman Museum - Palazzo Massimo',1105).
 distance('Chiesa di Santa Bibiana','Monument to Victor Emmanuel II',2168).
 distance('Chiesa di Santa Bibiana','Campidoglio',2206).
 distance('Chiesa di Santa Bibiana','Mercati di Traiano Museo dei Fori Imperiali',1906).
@@ -3418,18 +3416,18 @@ distance('Chiesa di Santa Bibiana','Convento dei Frati Cappuccini',2013).
 distance('Chiesa di Santa Bibiana','Quirinal Palace',1921).
 distance('Chiesa di Santa Bibiana','Basilica di San Clemente',1188).
 distance('Chiesa di Santa Bibiana','Chiesa di Sant  Ignazio di Loyola',2461).
-distance('Chiesa di Santa Bibiana','Chiesa del Gesu',2436).
 distance('Chiesa di Santa Bibiana','Piazza Barberini',1937).
 distance('Chiesa di Santa Bibiana','Palazzo delle Esposizioni',1641).
+distance('Chiesa di Santa Bibiana','Chiesa del Gesu',2479).
 distance('Chiesa di Santa Bibiana','Basilica di Santa Maria in Ara coeli',2145).
-distance('Chiesa di Santa Bibiana','Palazzo Montecitorio',2615).
+distance('Chiesa di Santa Bibiana','Palazzo Montecitorio',2608).
 distance('Chiesa di Santa Bibiana','Domus Aurea',1255).
 distance('Chiesa di Santa Bibiana','National Gallery of Ancient Art in Barberini Palace',1825).
 distance('Chiesa di Santa Bibiana','Doria Pamphili Gallery',2310).
 distance('Chiesa di Santa Bibiana','Piazza Venezia',2211).
 distance('Chiesa di Santa Bibiana','Pantheon',2705).
 distance('Chiesa di Santa Bibiana','Basilica of Saint Mary of Minerva',2603).
-distance('Chiesa di Santa Bibiana','Santa Maria degli Angeli e dei Martiri',1326).
+distance('Chiesa di Santa Bibiana','Basilica of Saint Mary of the Angels and Martyrs',1326).
 distance('Chiesa di Santa Bibiana','Parrocchia Santa Maria Maggiore',642).
 distance('Chiesa di Santa Bibiana','Mamertine Prison',2067).
 distance('Chiesa di Santa Bibiana','Mose di Michelangelo',1376).
@@ -3451,7 +3449,7 @@ distance('Chiesa di Santa Bibiana','Column of Phocas',2050).
 distance('Chiesa di Santa Bibiana','Antoninus and Faustina Temple',1894).
 distance('Chiesa di Santa Bibiana','Marcello Theater',2465).
 distance('Chiesa di Santa Bibiana','Chiesa di Santa Maria in Portico in Campitelli',2507).
-distance('Chiesa di Santa Bibiana','The Church of Santa Maria della Vittoria',1597).
+distance('Chiesa di Santa Bibiana','Church of Santa Maria della Vittoria',1597).
 distance('Chiesa di Santa Bibiana','The Last Judgment',4618).
 distance('Chiesa di Santa Bibiana','Chiesa di Santo Stefano degli Abissini',4811).
 distance('Chiesa di Santa Bibiana','Fontana di Piazza Farnese',3135).
@@ -3468,10 +3466,10 @@ distance('Chiesa di Santa Bibiana','Gardens of Vatican City',4975).
 distance('Chiesa di Santa Bibiana','Fiumi Fountain',3022).
 distance('Chiesa di Santa Bibiana','Sistine Chapel',4615).
 distance('Chiesa di Santa Bibiana','Villa Farnesina',3486).
-distance('Chiesa di Santa Bibiana','Church of St. Louis of the French',2912).
 distance('Chiesa di Santa Bibiana','Palazzo Madama',2940).
 distance('Chiesa di Santa Bibiana','Galleria Spada',3099).
-distance('Chiesa di Santa Bibiana','St. Angelo Bridge',3615).
+distance('Chiesa di Santa Bibiana','Church of St. Louis of the French',2891).
+distance('Chiesa di Santa Bibiana','St. Angelo Bridge',3618).
 distance('Chiesa di Santa Bibiana','Palazzo Farnese',3191).
 distance('Chiesa di Santa Bibiana','Sant Agnese in Agone',3064).
 distance('Chiesa di Santa Bibiana','Botanical Garden of Rome',3866).
@@ -3484,8 +3482,8 @@ distance('Chiesa di Santa Bibiana','Campo de  Fiori',3101).
 distance('Chiesa di Santa Bibiana','Piazza Navona',3026).
 distance('Chiesa di Santa Bibiana','Corte Suprema di Cassazione',3404).
 distance('Chiesa di Santa Bibiana','Museo di Roma - Palazzo Braschi',3036).
-distance('Chiesa di Santa Bibiana','Parrocchia Santa Maria in Vallicella',3340).
-distance('Chiesa di Santa Bibiana','Chiesa di San Pietro in Montorio',3633).
+distance('Chiesa di Santa Bibiana','Church of Santa Maria in Vallicella',3340).
+distance('Chiesa di Santa Bibiana','Church of San Pietro in Montorio',3633).
 distance('Chiesa di Santa Bibiana','Saint Eligio of Orefici',3427).
 distance('Chiesa di Santa Bibiana','Palazzo del Commendatore',3948).
 distance('Chiesa di Santa Bibiana','Porta Santo Spirito',3984).
@@ -3551,7 +3549,6 @@ distance('Chiesa di Santa Bibiana','Villa Balestra',4111).
 distance('Chiesa di Santa Bibiana','Palazzo Borghese',2903).
 distance('Chiesa di Santa Bibiana','National Academy of San Luca',2222).
 distance('Chiesa di Santa Bibiana','Museo Carlo Bilotti',2924).
-distance('Chiesa di Santa Bibiana','Palazzo Wedekind',2539).
 distance('Chiesa di Santa Bibiana','Cloaca Maxima',2529).
 distance('Chiesa di Santa Bibiana','Temple of Apollo Palatinus',2134).
 distance('Chiesa di Santa Bibiana','Circus Maximus',2256).
@@ -3559,13 +3556,13 @@ distance('Chiesa di Santa Bibiana','Mouth of Truth',2448).
 distance('Chiesa di Santa Bibiana','Basilica di Santa Sabina all Aventino',2735).
 distance('Chiesa di Santa Bibiana','Santa Maria in Cosmedin',2435).
 distance('Chiesa di Santa Bibiana','Non-Catholic Cemetery',3264).
-distance('Chiesa di Santa Bibiana','Basilica Santa Cecilia in Trastevere',2864).
+distance('Chiesa di Santa Bibiana','Basilica di Santa Cecilia in Trastevere',2864).
 distance('Chiesa di Santa Bibiana','Mattatoio',3659).
 distance('Chiesa di Santa Bibiana','Pyramid of Caius Cestius',3164).
 distance('Chiesa di Santa Bibiana','Turtle Fountain',2633).
 distance('Chiesa di Santa Bibiana','Basilica di San Bartolomeo all Isola',2638).
 distance('Chiesa di Santa Bibiana','Chiesa di Santa Prisca',2536).
-distance('Chiesa di Santa Bibiana','Tempio Maggiore di Roma',2618).
+distance('Chiesa di Santa Bibiana','Tempio Maggiore',2618).
 distance('Chiesa di Santa Bibiana','Portico of Octavia',2568).
 distance('Chiesa di Santa Bibiana','Basilica Santi Giovanni e Paolo',1741).
 distance('Santissima Trinita degli Spagnoli','Colosseum',1927).
@@ -3576,8 +3573,8 @@ distance('Santissima Trinita degli Spagnoli','Obelisco del Pantheon',626).
 distance('Santissima Trinita degli Spagnoli','Piazza di Spagna',277).
 distance('Santissima Trinita degli Spagnoli','Basilica Papale di Santa Maria Maggiore',1767).
 distance('Santissima Trinita degli Spagnoli','Roman Forum',1440).
-distance('Santissima Trinita degli Spagnoli','Basilica of San Pietro in Vincoli',1656).
-distance('Santissima Trinita degli Spagnoli','Palazzo Massimo alle Terme',1618).
+distance('Santissima Trinita degli Spagnoli','Basilica of San Pietro in Vincoli',1648).
+distance('Santissima Trinita degli Spagnoli','National Roman Museum - Palazzo Massimo',1618).
 distance('Santissima Trinita degli Spagnoli','Monument to Victor Emmanuel II',1158).
 distance('Santissima Trinita degli Spagnoli','Campidoglio',1284).
 distance('Santissima Trinita degli Spagnoli','Mercati di Traiano Museo dei Fori Imperiali',1152).
@@ -3586,18 +3583,18 @@ distance('Santissima Trinita degli Spagnoli','Convento dei Frati Cappuccini',754
 distance('Santissima Trinita degli Spagnoli','Quirinal Palace',822).
 distance('Santissima Trinita degli Spagnoli','Basilica di San Clemente',2277).
 distance('Santissima Trinita degli Spagnoli','Chiesa di Sant  Ignazio di Loyola',654).
-distance('Santissima Trinita degli Spagnoli','Chiesa del Gesu',967).
 distance('Santissima Trinita degli Spagnoli','Piazza Barberini',780).
 distance('Santissima Trinita degli Spagnoli','Palazzo delle Esposizioni',1067).
+distance('Santissima Trinita degli Spagnoli','Chiesa del Gesu',969).
 distance('Santissima Trinita degli Spagnoli','Basilica di Santa Maria in Ara coeli',1250).
-distance('Santissima Trinita degli Spagnoli','Palazzo Montecitorio',343).
+distance('Santissima Trinita degli Spagnoli','Palazzo Montecitorio',394).
 distance('Santissima Trinita degli Spagnoli','Domus Aurea',2062).
 distance('Santissima Trinita degli Spagnoli','National Gallery of Ancient Art in Barberini Palace',885).
 distance('Santissima Trinita degli Spagnoli','Doria Pamphili Gallery',762).
 distance('Santissima Trinita degli Spagnoli','Piazza Venezia',1021).
 distance('Santissima Trinita degli Spagnoli','Pantheon',697).
 distance('Santissima Trinita degli Spagnoli','Basilica of Saint Mary of Minerva',744).
-distance('Santissima Trinita degli Spagnoli','Santa Maria degli Angeli e dei Martiri',1471).
+distance('Santissima Trinita degli Spagnoli','Basilica of Saint Mary of the Angels and Martyrs',1471).
 distance('Santissima Trinita degli Spagnoli','Parrocchia Santa Maria Maggiore',2076).
 distance('Santissima Trinita degli Spagnoli','Mamertine Prison',1335).
 distance('Santissima Trinita degli Spagnoli','Mose di Michelangelo',1644).
@@ -3619,7 +3616,7 @@ distance('Santissima Trinita degli Spagnoli','Column of Phocas',1427).
 distance('Santissima Trinita degli Spagnoli','Antoninus and Faustina Temple',1509).
 distance('Santissima Trinita degli Spagnoli','Marcello Theater',1411).
 distance('Santissima Trinita degli Spagnoli','Chiesa di Santa Maria in Portico in Campitelli',1285).
-distance('Santissima Trinita degli Spagnoli','The Church of Santa Maria della Vittoria',1250).
+distance('Santissima Trinita degli Spagnoli','Church of Santa Maria della Vittoria',1250).
 distance('Santissima Trinita degli Spagnoli','The Last Judgment',2069).
 distance('Santissima Trinita degli Spagnoli','Chiesa di Santo Stefano degli Abissini',2299).
 distance('Santissima Trinita degli Spagnoli','Fontana di Piazza Farnese',1251).
@@ -3636,10 +3633,10 @@ distance('Santissima Trinita degli Spagnoli','Gardens of Vatican City',2413).
 distance('Santissima Trinita degli Spagnoli','Fiumi Fountain',812).
 distance('Santissima Trinita degli Spagnoli','Sistine Chapel',2067).
 distance('Santissima Trinita degli Spagnoli','Villa Farnesina',1579).
-distance('Santissima Trinita degli Spagnoli','Church of St. Louis of the French',685).
 distance('Santissima Trinita degli Spagnoli','Palazzo Madama',735).
 distance('Santissima Trinita degli Spagnoli','Galleria Spada',1309).
-distance('Santissima Trinita degli Spagnoli','St. Angelo Bridge',1110).
+distance('Santissima Trinita degli Spagnoli','Church of St. Louis of the French',667).
+distance('Santissima Trinita degli Spagnoli','St. Angelo Bridge',1108).
 distance('Santissima Trinita degli Spagnoli','Palazzo Farnese',1303).
 distance('Santissima Trinita degli Spagnoli','Sant Agnese in Agone',852).
 distance('Santissima Trinita degli Spagnoli','Botanical Garden of Rome',1932).
@@ -3652,8 +3649,8 @@ distance('Santissima Trinita degli Spagnoli','Campo de  Fiori',1164).
 distance('Santissima Trinita degli Spagnoli','Piazza Navona',796).
 distance('Santissima Trinita degli Spagnoli','Corte Suprema di Cassazione',763).
 distance('Santissima Trinita degli Spagnoli','Museo di Roma - Palazzo Braschi',956).
-distance('Santissima Trinita degli Spagnoli','Parrocchia Santa Maria in Vallicella',1083).
-distance('Santissima Trinita degli Spagnoli','Chiesa di San Pietro in Montorio',2063).
+distance('Santissima Trinita degli Spagnoli','Church of Santa Maria in Vallicella',1102).
+distance('Santissima Trinita degli Spagnoli','Church of San Pietro in Montorio',2063).
 distance('Santissima Trinita degli Spagnoli','Saint Eligio of Orefici',1369).
 distance('Santissima Trinita degli Spagnoli','Palazzo del Commendatore',1459).
 distance('Santissima Trinita degli Spagnoli','Porta Santo Spirito',1540).
@@ -3719,7 +3716,6 @@ distance('Santissima Trinita degli Spagnoli','Villa Balestra',1916).
 distance('Santissima Trinita degli Spagnoli','Palazzo Borghese',263).
 distance('Santissima Trinita degli Spagnoli','National Academy of San Luca',496).
 distance('Santissima Trinita degli Spagnoli','Museo Carlo Bilotti',1029).
-distance('Santissima Trinita degli Spagnoli','Palazzo Wedekind',421).
 distance('Santissima Trinita degli Spagnoli','Cloaca Maxima',1775).
 distance('Santissima Trinita degli Spagnoli','Temple of Apollo Palatinus',1999).
 distance('Santissima Trinita degli Spagnoli','Circus Maximus',2110).
@@ -3727,13 +3723,13 @@ distance('Santissima Trinita degli Spagnoli','Mouth of Truth',1843).
 distance('Santissima Trinita degli Spagnoli','Basilica di Santa Sabina all Aventino',2235).
 distance('Santissima Trinita degli Spagnoli','Santa Maria in Cosmedin',1848).
 distance('Santissima Trinita degli Spagnoli','Non-Catholic Cemetery',3145).
-distance('Santissima Trinita degli Spagnoli','Basilica Santa Cecilia in Trastevere',1950).
+distance('Santissima Trinita degli Spagnoli','Basilica di Santa Cecilia in Trastevere',1950).
 distance('Santissima Trinita degli Spagnoli','Mattatoio',3165).
 distance('Santissima Trinita degli Spagnoli','Pyramid of Caius Cestius',3128).
 distance('Santissima Trinita degli Spagnoli','Turtle Fountain',1207).
 distance('Santissima Trinita degli Spagnoli','Basilica di San Bartolomeo all Isola',1590).
 distance('Santissima Trinita degli Spagnoli','Chiesa di Santa Prisca',2420).
-distance('Santissima Trinita degli Spagnoli','Tempio Maggiore di Roma',1407).
+distance('Santissima Trinita degli Spagnoli','Tempio Maggiore',1407).
 distance('Santissima Trinita degli Spagnoli','Portico of Octavia',1347).
 distance('Santissima Trinita degli Spagnoli','Basilica Santi Giovanni e Paolo',2279).
 distance('Colosseum','Trevi Fountain',1402).
@@ -3743,8 +3739,8 @@ distance('Colosseum','Obelisco del Pantheon',1635).
 distance('Colosseum','Piazza di Spagna',1906).
 distance('Colosseum','Basilica Papale di Santa Maria Maggiore',967).
 distance('Colosseum','Roman Forum',625).
-distance('Colosseum','Basilica of San Pietro in Vincoli',407).
-distance('Colosseum','Palazzo Massimo alle Terme',1321).
+distance('Colosseum','Basilica of San Pietro in Vincoli',396).
+distance('Colosseum','National Roman Museum - Palazzo Massimo',1321).
 distance('Colosseum','Monument to Victor Emmanuel II',899).
 distance('Colosseum','Campidoglio',857).
 distance('Colosseum','Mercati di Traiano Museo dei Fori Imperiali',781).
@@ -3753,18 +3749,18 @@ distance('Colosseum','Convento dei Frati Cappuccini',1656).
 distance('Colosseum','Quirinal Palace',1153).
 distance('Colosseum','Basilica di San Clemente',454).
 distance('Colosseum','Chiesa di Sant  Ignazio di Loyola',1397).
-distance('Colosseum','Chiesa del Gesu',1206).
 distance('Colosseum','Piazza Barberini',1536).
 distance('Colosseum','Palazzo delle Esposizioni',1041).
+distance('Colosseum','Chiesa del Gesu',1241).
 distance('Colosseum','Basilica di Santa Maria in Ara coeli',829).
-distance('Colosseum','Palazzo Montecitorio',1686).
+distance('Colosseum','Palazzo Montecitorio',1652).
 distance('Colosseum','Domus Aurea',284).
 distance('Colosseum','National Gallery of Ancient Art in Barberini Palace',1466).
 distance('Colosseum','Doria Pamphili Gallery',1235).
 distance('Colosseum','Piazza Venezia',1011).
 distance('Colosseum','Pantheon',1579).
 distance('Colosseum','Basilica of Saint Mary of Minerva',1461).
-distance('Colosseum','Santa Maria degli Angeli e dei Martiri',1493).
+distance('Colosseum','Basilica of Saint Mary of the Angels and Martyrs',1493).
 distance('Colosseum','Parrocchia Santa Maria Maggiore',1002).
 distance('Colosseum','Mamertine Prison',724).
 distance('Colosseum','Mose di Michelangelo',400).
@@ -3786,7 +3782,7 @@ distance('Colosseum','Column of Phocas',660).
 distance('Colosseum','Antoninus and Faustina Temple',502).
 distance('Colosseum','Marcello Theater',1040).
 distance('Colosseum','Chiesa di Santa Maria in Portico in Campitelli',1127).
-distance('Colosseum','The Church of Santa Maria della Vittoria',1619).
+distance('Colosseum','Church of Santa Maria della Vittoria',1619).
 distance('Colosseum','The Last Judgment',3439).
 distance('Colosseum','Chiesa di Santo Stefano degli Abissini',3589).
 distance('Colosseum','Fontana di Piazza Farnese',1805).
@@ -3803,10 +3799,10 @@ distance('Colosseum','Gardens of Vatican City',3789).
 distance('Colosseum','Fiumi Fountain',1862).
 distance('Colosseum','Sistine Chapel',3437).
 distance('Colosseum','Villa Farnesina',2104).
-distance('Colosseum','Church of St. Louis of the French',1799).
 distance('Colosseum','Palazzo Madama',1805).
 distance('Colosseum','Galleria Spada',1742).
-distance('Colosseum','St. Angelo Bridge',2495).
+distance('Colosseum','Church of St. Louis of the French',1784).
+distance('Colosseum','St. Angelo Bridge',2502).
 distance('Colosseum','Palazzo Farnese',1850).
 distance('Colosseum','Sant Agnese in Agone',1893).
 distance('Colosseum','Botanical Garden of Rome',2451).
@@ -3819,8 +3815,8 @@ distance('Colosseum','Campo de  Fiori',1799).
 distance('Colosseum','Piazza Navona',1875).
 distance('Colosseum','Corte Suprema di Cassazione',2446).
 distance('Colosseum','Museo di Roma - Palazzo Braschi',1812).
-distance('Colosseum','Parrocchia Santa Maria in Vallicella',2123).
-distance('Colosseum','Chiesa di San Pietro in Montorio',2149).
+distance('Colosseum','Church of Santa Maria in Vallicella',2115).
+distance('Colosseum','Church of San Pietro in Montorio',2149).
 distance('Colosseum','Saint Eligio of Orefici',2108).
 distance('Colosseum','Palazzo del Commendatore',2775).
 distance('Colosseum','Porta Santo Spirito',2778).
@@ -3886,7 +3882,6 @@ distance('Colosseum','Villa Balestra',3786).
 distance('Colosseum','Palazzo Borghese',2043).
 distance('Colosseum','National Academy of San Luca',1449).
 distance('Colosseum','Museo Carlo Bilotti',2680).
-distance('Colosseum','Palazzo Wedekind',1586).
 distance('Colosseum','Cloaca Maxima',1015).
 distance('Colosseum','Temple of Apollo Palatinus',609).
 distance('Colosseum','Circus Maximus',742).
@@ -3894,13 +3889,13 @@ distance('Colosseum','Mouth of Truth',924).
 distance('Colosseum','Basilica di Santa Sabina all Aventino',1213).
 distance('Colosseum','Santa Maria in Cosmedin',910).
 distance('Colosseum','Non-Catholic Cemetery',1871).
-distance('Colosseum','Basilica Santa Cecilia in Trastevere',1342).
+distance('Colosseum','Basilica di Santa Cecilia in Trastevere',1342).
 distance('Colosseum','Mattatoio',2190).
 distance('Colosseum','Pyramid of Caius Cestius',1790).
 distance('Colosseum','Turtle Fountain',1281).
 distance('Colosseum','Basilica di San Bartolomeo all Isola',1163).
 distance('Colosseum','Chiesa di Santa Prisca',1066).
-distance('Colosseum','Tempio Maggiore di Roma',1195).
+distance('Colosseum','Tempio Maggiore',1195).
 distance('Colosseum','Portico of Octavia',1164).
 distance('Colosseum','Basilica Santi Giovanni e Paolo',415).
 distance('Trevi Fountain','Capitoline Museums',889).
@@ -3909,8 +3904,8 @@ distance('Trevi Fountain','Obelisco del Pantheon',573).
 distance('Trevi Fountain','Piazza di Spagna',535).
 distance('Trevi Fountain','Basilica Papale di Santa Maria Maggiore',1306).
 distance('Trevi Fountain','Roman Forum',955).
-distance('Trevi Fountain','Basilica of San Pietro in Vincoli',1130).
-distance('Trevi Fountain','Palazzo Massimo alle Terme',1241).
+distance('Trevi Fountain','Basilica of San Pietro in Vincoli',1121).
+distance('Trevi Fountain','National Roman Museum - Palazzo Massimo',1241).
 distance('Trevi Fountain','Monument to Victor Emmanuel II',703).
 distance('Trevi Fountain','Campidoglio',842).
 distance('Trevi Fountain','Mercati di Traiano Museo dei Fori Imperiali',636).
@@ -3919,18 +3914,18 @@ distance('Trevi Fountain','Convento dei Frati Cappuccini',604).
 distance('Trevi Fountain','Quirinal Palace',314).
 distance('Trevi Fountain','Basilica di San Clemente',1749).
 distance('Trevi Fountain','Chiesa di Sant  Ignazio di Loyola',374).
-distance('Trevi Fountain','Chiesa del Gesu',625).
 distance('Trevi Fountain','Piazza Barberini',543).
 distance('Trevi Fountain','Palazzo delle Esposizioni',590).
+distance('Trevi Fountain','Chiesa del Gesu',648).
 distance('Trevi Fountain','Basilica di Santa Maria in Ara coeli',790).
-distance('Trevi Fountain','Palazzo Montecitorio',385).
+distance('Trevi Fountain','Palazzo Montecitorio',384).
 distance('Trevi Fountain','Domus Aurea',1534).
 distance('Trevi Fountain','National Gallery of Ancient Art in Barberini Palace',599).
 distance('Trevi Fountain','Doria Pamphili Gallery',358).
 distance('Trevi Fountain','Piazza Venezia',577).
 distance('Trevi Fountain','Pantheon',593).
 distance('Trevi Fountain','Basilica of Saint Mary of Minerva',547).
-distance('Trevi Fountain','Santa Maria degli Angeli e dei Martiri',1157).
+distance('Trevi Fountain','Basilica of Saint Mary of the Angels and Martyrs',1157).
 distance('Trevi Fountain','Parrocchia Santa Maria Maggiore',1605).
 distance('Trevi Fountain','Mamertine Prison',858).
 distance('Trevi Fountain','Mose di Michelangelo',1117).
@@ -3952,7 +3947,7 @@ distance('Trevi Fountain','Column of Phocas',949).
 distance('Trevi Fountain','Antoninus and Faustina Temple',1007).
 distance('Trevi Fountain','Marcello Theater',1038).
 distance('Trevi Fountain','Chiesa di Santa Maria in Portico in Campitelli',939).
-distance('Trevi Fountain','The Church of Santa Maria della Vittoria',1008).
+distance('Trevi Fountain','Church of Santa Maria della Vittoria',1008).
 distance('Trevi Fountain','The Last Judgment',2404).
 distance('Trevi Fountain','Chiesa di Santo Stefano degli Abissini',2613).
 distance('Trevi Fountain','Fontana di Piazza Farnese',1184).
@@ -3969,10 +3964,10 @@ distance('Trevi Fountain','Gardens of Vatican City',2760).
 distance('Trevi Fountain','Fiumi Fountain',876).
 distance('Trevi Fountain','Sistine Chapel',2402).
 distance('Trevi Fountain','Villa Farnesina',1559).
-distance('Trevi Fountain','Church of St. Louis of the French',743).
 distance('Trevi Fountain','Palazzo Madama',784).
 distance('Trevi Fountain','Galleria Spada',1205).
-distance('Trevi Fountain','St. Angelo Bridge',1401).
+distance('Trevi Fountain','Church of St. Louis of the French',719).
+distance('Trevi Fountain','St. Angelo Bridge',1403).
 distance('Trevi Fountain','Palazzo Farnese',1245).
 distance('Trevi Fountain','Sant Agnese in Agone',922).
 distance('Trevi Fountain','Botanical Garden of Rome',1950).
@@ -3985,8 +3980,8 @@ distance('Trevi Fountain','Campo de  Fiori',1112).
 distance('Trevi Fountain','Piazza Navona',872).
 distance('Trevi Fountain','Corte Suprema di Cassazione',1176).
 distance('Trevi Fountain','Museo di Roma - Palazzo Braschi',955).
-distance('Trevi Fountain','Parrocchia Santa Maria in Vallicella',1205).
-distance('Trevi Fountain','Chiesa di San Pietro in Montorio',1949).
+distance('Trevi Fountain','Church of Santa Maria in Vallicella',1214).
+distance('Trevi Fountain','Church of San Pietro in Montorio',1949).
 distance('Trevi Fountain','Saint Eligio of Orefici',1403).
 distance('Trevi Fountain','Palazzo del Commendatore',1746).
 distance('Trevi Fountain','Porta Santo Spirito',1799).
@@ -4052,7 +4047,6 @@ distance('Trevi Fountain','Villa Balestra',2405).
 distance('Trevi Fountain','Palazzo Borghese',692).
 distance('Trevi Fountain','National Academy of San Luca',79).
 distance('Trevi Fountain','Museo Carlo Bilotti',1385).
-distance('Trevi Fountain','Palazzo Wedekind',321).
 distance('Trevi Fountain','Cloaca Maxima',1387).
 distance('Trevi Fountain','Temple of Apollo Palatinus',1526).
 distance('Trevi Fountain','Circus Maximus',1650).
@@ -4060,13 +4054,13 @@ distance('Trevi Fountain','Mouth of Truth',1433).
 distance('Trevi Fountain','Basilica di Santa Sabina all Aventino',1847).
 distance('Trevi Fountain','Santa Maria in Cosmedin',1434).
 distance('Trevi Fountain','Non-Catholic Cemetery',2753).
-distance('Trevi Fountain','Basilica Santa Cecilia in Trastevere',1626).
+distance('Trevi Fountain','Basilica di Santa Cecilia in Trastevere',1626).
 distance('Trevi Fountain','Mattatoio',2840).
 distance('Trevi Fountain','Pyramid of Caius Cestius',2722).
 distance('Trevi Fountain','Turtle Fountain',920).
 distance('Trevi Fountain','Basilica di San Bartolomeo all Isola',1251).
 distance('Trevi Fountain','Chiesa di Santa Prisca',1983).
-distance('Trevi Fountain','Tempio Maggiore di Roma',1085).
+distance('Trevi Fountain','Tempio Maggiore',1085).
 distance('Trevi Fountain','Portico of Octavia',1015).
 distance('Trevi Fountain','Basilica Santi Giovanni e Paolo',1764).
 distance('Capitoline Museums','Arch of Constantine',754).
@@ -4074,8 +4068,8 @@ distance('Capitoline Museums','Obelisco del Pantheon',856).
 distance('Capitoline Museums','Piazza di Spagna',1416).
 distance('Capitoline Museums','Basilica Papale di Santa Maria Maggiore',1413).
 distance('Capitoline Museums','Roman Forum',235).
-distance('Capitoline Museums','Basilica of San Pietro in Vincoli',877).
-distance('Capitoline Museums','Palazzo Massimo alle Terme',1595).
+distance('Capitoline Museums','Basilica of San Pietro in Vincoli',856).
+distance('Capitoline Museums','National Roman Museum - Palazzo Massimo',1595).
 distance('Capitoline Museums','Monument to Victor Emmanuel II',189).
 distance('Capitoline Museums','Campidoglio',50).
 distance('Capitoline Museums','Mercati di Traiano Museo dei Fori Imperiali',428).
@@ -4084,18 +4078,18 @@ distance('Capitoline Museums','Convento dei Frati Cappuccini',1407).
 distance('Capitoline Museums','Quirinal Palace',833).
 distance('Capitoline Museums','Basilica di San Clemente',1309).
 distance('Capitoline Museums','Chiesa di Sant  Ignazio di Loyola',682).
-distance('Capitoline Museums','Chiesa del Gesu',399).
 distance('Capitoline Museums','Piazza Barberini',1305).
 distance('Capitoline Museums','Palazzo delle Esposizioni',959).
+distance('Capitoline Museums','Chiesa del Gesu',422).
 distance('Capitoline Museums','Basilica di Santa Maria in Ara coeli',123).
-distance('Capitoline Museums','Palazzo Montecitorio',1008).
+distance('Capitoline Museums','Palazzo Montecitorio',962).
 distance('Capitoline Museums','Domus Aurea',1113).
 distance('Capitoline Museums','National Gallery of Ancient Art in Barberini Palace',1297).
 distance('Capitoline Museums','Doria Pamphili Gallery',565).
 distance('Capitoline Museums','Piazza Venezia',313).
 distance('Capitoline Museums','Pantheon',786).
 distance('Capitoline Museums','Basilica of Saint Mary of Minerva',675).
-distance('Capitoline Museums','Santa Maria degli Angeli e dei Martiri',1648).
+distance('Capitoline Museums','Basilica of Saint Mary of the Angels and Martyrs',1648).
 distance('Capitoline Museums','Parrocchia Santa Maria Maggiore',1608).
 distance('Capitoline Museums','Mamertine Prison',165).
 distance('Capitoline Museums','Mose di Michelangelo',855).
@@ -4117,7 +4111,7 @@ distance('Capitoline Museums','Column of Phocas',198).
 distance('Capitoline Museums','Antoninus and Faustina Temple',362).
 distance('Capitoline Museums','Marcello Theater',246).
 distance('Capitoline Museums','Chiesa di Santa Maria in Portico in Campitelli',279).
-distance('Capitoline Museums','The Church of Santa Maria della Vittoria',1632).
+distance('Capitoline Museums','Church of Santa Maria della Vittoria',1632).
 distance('Capitoline Museums','The Last Judgment',2583).
 distance('Capitoline Museums','Chiesa di Santo Stefano degli Abissini',2731).
 distance('Capitoline Museums','Fontana di Piazza Farnese',950).
@@ -4134,10 +4128,10 @@ distance('Capitoline Museums','Gardens of Vatican City',2932).
 distance('Capitoline Museums','Fiumi Fountain',1032).
 distance('Capitoline Museums','Sistine Chapel',2581).
 distance('Capitoline Museums','Villa Farnesina',1269).
-distance('Capitoline Museums','Church of St. Louis of the French',993).
 distance('Capitoline Museums','Palazzo Madama',988).
 distance('Capitoline Museums','Galleria Spada',893).
-distance('Capitoline Museums','St. Angelo Bridge',1658).
+distance('Capitoline Museums','Church of St. Louis of the French',982).
+distance('Capitoline Museums','St. Angelo Bridge',1666).
 distance('Capitoline Museums','Palazzo Farnese',997).
 distance('Capitoline Museums','Sant Agnese in Agone',1057).
 distance('Capitoline Museums','Botanical Garden of Rome',1638).
@@ -4150,8 +4144,8 @@ distance('Capitoline Museums','Campo de  Fiori',941).
 distance('Capitoline Museums','Piazza Navona',1047).
 distance('Capitoline Museums','Corte Suprema di Cassazione',1671).
 distance('Capitoline Museums','Museo di Roma - Palazzo Braschi',963).
-distance('Capitoline Museums','Parrocchia Santa Maria in Vallicella',1270).
-distance('Capitoline Museums','Chiesa di San Pietro in Montorio',1419).
+distance('Capitoline Museums','Church of Santa Maria in Vallicella',1260).
+distance('Capitoline Museums','Church of San Pietro in Montorio',1419).
 distance('Capitoline Museums','Saint Eligio of Orefici',1253).
 distance('Capitoline Museums','Palazzo del Commendatore',1922).
 distance('Capitoline Museums','Porta Santo Spirito',1921).
@@ -4217,7 +4211,6 @@ distance('Capitoline Museums','Villa Balestra',3241).
 distance('Capitoline Museums','Palazzo Borghese',1354).
 distance('Capitoline Museums','National Academy of San Luca',965).
 distance('Capitoline Museums','Museo Carlo Bilotti',2273).
-distance('Capitoline Museums','Palazzo Wedekind',913).
 distance('Capitoline Museums','Cloaca Maxima',515).
 distance('Capitoline Museums','Temple of Apollo Palatinus',684).
 distance('Capitoline Museums','Circus Maximus',785).
@@ -4225,21 +4218,21 @@ distance('Capitoline Museums','Mouth of Truth',545).
 distance('Capitoline Museums','Basilica di Santa Sabina all Aventino',965).
 distance('Capitoline Museums','Santa Maria in Cosmedin',546).
 distance('Capitoline Museums','Non-Catholic Cemetery',1864).
-distance('Capitoline Museums','Basilica Santa Cecilia in Trastevere',809).
+distance('Capitoline Museums','Basilica di Santa Cecilia in Trastevere',809).
 distance('Capitoline Museums','Mattatoio',1983).
 distance('Capitoline Museums','Pyramid of Caius Cestius',1832).
 distance('Capitoline Museums','Turtle Fountain',425).
 distance('Capitoline Museums','Basilica di San Bartolomeo all Isola',462).
 distance('Capitoline Museums','Chiesa di Santa Prisca',1099).
-distance('Capitoline Museums','Tempio Maggiore di Roma',390).
+distance('Capitoline Museums','Tempio Maggiore',390).
 distance('Capitoline Museums','Portico of Octavia',337).
 distance('Capitoline Museums','Basilica Santi Giovanni e Paolo',1069).
 distance('Arch of Constantine','Obelisco del Pantheon',1564).
 distance('Arch of Constantine','Piazza di Spagna',1897).
 distance('Arch of Constantine','Basilica Papale di Santa Maria Maggiore',1084).
 distance('Arch of Constantine','Roman Forum',530).
-distance('Arch of Constantine','Basilica of San Pietro in Vincoli',495).
-distance('Arch of Constantine','Palazzo Massimo alle Terme',1421).
+distance('Arch of Constantine','Basilica of San Pietro in Vincoli',479).
+distance('Arch of Constantine','National Roman Museum - Palazzo Massimo',1421).
 distance('Arch of Constantine','Monument to Victor Emmanuel II',819).
 distance('Arch of Constantine','Campidoglio',760).
 distance('Arch of Constantine','Mercati di Traiano Museo dei Fori Imperiali',745).
@@ -4248,18 +4241,18 @@ distance('Arch of Constantine','Convento dei Frati Cappuccini',1684).
 distance('Arch of Constantine','Quirinal Palace',1153).
 distance('Arch of Constantine','Basilica di San Clemente',580).
 distance('Arch of Constantine','Chiesa di Sant  Ignazio di Loyola',1337).
-distance('Arch of Constantine','Chiesa del Gesu',1123).
 distance('Arch of Constantine','Piazza Barberini',1565).
 distance('Arch of Constantine','Palazzo delle Esposizioni',1076).
+distance('Arch of Constantine','Chiesa del Gesu',1155).
 distance('Arch of Constantine','Basilica di Santa Maria in Ara coeli',742).
-distance('Arch of Constantine','Palazzo Montecitorio',1638).
+distance('Arch of Constantine','Palazzo Montecitorio',1601).
 distance('Arch of Constantine','Domus Aurea',426).
 distance('Arch of Constantine','National Gallery of Ancient Art in Barberini Palace',1503).
 distance('Arch of Constantine','Doria Pamphili Gallery',1180).
 distance('Arch of Constantine','Piazza Venezia',942).
 distance('Arch of Constantine','Pantheon',1504).
 distance('Arch of Constantine','Basilica of Saint Mary of Minerva',1386).
-distance('Arch of Constantine','Santa Maria degli Angeli e dei Martiri',1580).
+distance('Arch of Constantine','Basilica of Saint Mary of the Angels and Martyrs',1580).
 distance('Arch of Constantine','Parrocchia Santa Maria Maggiore',1138).
 distance('Arch of Constantine','Mamertine Prison',637).
 distance('Arch of Constantine','Mose di Michelangelo',482).
@@ -4281,7 +4274,7 @@ distance('Arch of Constantine','Column of Phocas',562).
 distance('Arch of Constantine','Antoninus and Faustina Temple',417).
 distance('Arch of Constantine','Marcello Theater',919).
 distance('Arch of Constantine','Chiesa di Santa Maria in Portico in Campitelli',1014).
-distance('Arch of Constantine','The Church of Santa Maria della Vittoria',1687).
+distance('Arch of Constantine','Church of Santa Maria della Vittoria',1687).
 distance('Arch of Constantine','The Last Judgment',3337).
 distance('Arch of Constantine','Chiesa di Santo Stefano degli Abissini',3482).
 distance('Arch of Constantine','Fontana di Piazza Farnese',1693).
@@ -4298,10 +4291,10 @@ distance('Arch of Constantine','Gardens of Vatican City',3685).
 distance('Arch of Constantine','Fiumi Fountain',1776).
 distance('Arch of Constantine','Sistine Chapel',3335).
 distance('Arch of Constantine','Villa Farnesina',1981).
-distance('Arch of Constantine','Church of St. Louis of the French',1721).
 distance('Arch of Constantine','Palazzo Madama',1724).
 distance('Arch of Constantine','Galleria Spada',1626).
-distance('Arch of Constantine','St. Angelo Bridge',2407).
+distance('Arch of Constantine','Church of St. Louis of the French',1708).
+distance('Arch of Constantine','St. Angelo Bridge',2415).
 distance('Arch of Constantine','Palazzo Farnese',1735).
 distance('Arch of Constantine','Sant Agnese in Agone',1805).
 distance('Arch of Constantine','Botanical Garden of Rome',2322).
@@ -4314,8 +4307,8 @@ distance('Arch of Constantine','Campo de  Fiori',1691).
 distance('Arch of Constantine','Piazza Navona',1790).
 distance('Arch of Constantine','Corte Suprema di Cassazione',2380).
 distance('Arch of Constantine','Museo di Roma - Palazzo Braschi',1717).
-distance('Arch of Constantine','Parrocchia Santa Maria in Vallicella',2025).
-distance('Arch of Constantine','Chiesa di San Pietro in Montorio',2011).
+distance('Arch of Constantine','Church of Santa Maria in Vallicella',2015).
+distance('Arch of Constantine','Church of San Pietro in Montorio',2011).
 distance('Arch of Constantine','Saint Eligio of Orefici',1994).
 distance('Arch of Constantine','Palazzo del Commendatore',2677).
 distance('Arch of Constantine','Porta Santo Spirito',2676).
@@ -4381,7 +4374,6 @@ distance('Arch of Constantine','Villa Balestra',3779).
 distance('Arch of Constantine','Palazzo Borghese',1997).
 distance('Arch of Constantine','National Academy of San Luca',1432).
 distance('Arch of Constantine','Museo Carlo Bilotti',2693).
-distance('Arch of Constantine','Palazzo Wedekind',1538).
 distance('Arch of Constantine','Cloaca Maxima',873).
 distance('Arch of Constantine','Temple of Apollo Palatinus',469).
 distance('Arch of Constantine','Circus Maximus',607).
@@ -4389,20 +4381,20 @@ distance('Arch of Constantine','Mouth of Truth',781).
 distance('Arch of Constantine','Basilica di Santa Sabina all Aventino',1072).
 distance('Arch of Constantine','Santa Maria in Cosmedin',767).
 distance('Arch of Constantine','Non-Catholic Cemetery',1756).
-distance('Arch of Constantine','Basilica Santa Cecilia in Trastevere',1199).
+distance('Arch of Constantine','Basilica di Santa Cecilia in Trastevere',1199).
 distance('Arch of Constantine','Mattatoio',2060).
 distance('Arch of Constantine','Pyramid of Caius Cestius',1680).
 distance('Arch of Constantine','Turtle Fountain',1171).
 distance('Arch of Constantine','Basilica di San Bartolomeo all Isola',1030).
 distance('Arch of Constantine','Chiesa di Santa Prisca',942).
-distance('Arch of Constantine','Tempio Maggiore di Roma',1072).
+distance('Arch of Constantine','Tempio Maggiore',1072).
 distance('Arch of Constantine','Portico of Octavia',1046).
 distance('Arch of Constantine','Basilica Santi Giovanni e Paolo',386).
 distance('Obelisco del Pantheon','Piazza di Spagna',845).
 distance('Obelisco del Pantheon','Basilica Papale di Santa Maria Maggiore',1807).
 distance('Obelisco del Pantheon','Roman Forum',1042).
-distance('Obelisco del Pantheon','Basilica of San Pietro in Vincoli',1484).
-distance('Obelisco del Pantheon','Palazzo Massimo alle Terme',1797).
+distance('Obelisco del Pantheon','Basilica of San Pietro in Vincoli',1469).
+distance('Obelisco del Pantheon','National Roman Museum - Palazzo Massimo',1797).
 distance('Obelisco del Pantheon','Monument to Victor Emmanuel II',745).
 distance('Obelisco del Pantheon','Campidoglio',830).
 distance('Obelisco del Pantheon','Mercati di Traiano Museo dei Fori Imperiali',887).
@@ -4411,18 +4403,18 @@ distance('Obelisco del Pantheon','Convento dei Frati Cappuccini',1143).
 distance('Obelisco del Pantheon','Quirinal Palace',831).
 distance('Obelisco del Pantheon','Basilica di San Clemente',2053).
 distance('Obelisco del Pantheon','Chiesa di Sant  Ignazio di Loyola',266).
-distance('Obelisco del Pantheon','Chiesa del Gesu',457).
 distance('Obelisco del Pantheon','Piazza Barberini',1103).
 distance('Obelisco del Pantheon','Palazzo delle Esposizioni',1111).
+distance('Obelisco del Pantheon','Chiesa del Gesu',436).
 distance('Obelisco del Pantheon','Basilica di Santa Maria in Ara coeli',828).
-distance('Obelisco del Pantheon','Palazzo Montecitorio',299).
+distance('Obelisco del Pantheon','Palazzo Montecitorio',254).
 distance('Obelisco del Pantheon','Domus Aurea',1839).
 distance('Obelisco del Pantheon','National Gallery of Ancient Art in Barberini Palace',1170).
 distance('Obelisco del Pantheon','Doria Pamphili Gallery',427).
 distance('Obelisco del Pantheon','Piazza Venezia',623).
 distance('Obelisco del Pantheon','Pantheon',79).
 distance('Obelisco del Pantheon','Basilica of Saint Mary of Minerva',181).
-distance('Obelisco del Pantheon','Santa Maria degli Angeli e dei Martiri',1728).
+distance('Obelisco del Pantheon','Basilica of Saint Mary of the Angels and Martyrs',1728).
 distance('Obelisco del Pantheon','Parrocchia Santa Maria Maggiore',2086).
 distance('Obelisco del Pantheon','Mamertine Prison',931).
 distance('Obelisco del Pantheon','Mose di Michelangelo',1466).
@@ -4444,7 +4436,7 @@ distance('Obelisco del Pantheon','Column of Phocas',1016).
 distance('Obelisco del Pantheon','Antoninus and Faustina Temple',1146).
 distance('Obelisco del Pantheon','Marcello Theater',861).
 distance('Obelisco del Pantheon','Chiesa di Santa Maria in Portico in Campitelli',725).
-distance('Obelisco del Pantheon','The Church of Santa Maria della Vittoria',1579).
+distance('Obelisco del Pantheon','Church of Santa Maria della Vittoria',1579).
 distance('Obelisco del Pantheon','The Last Judgment',1893).
 distance('Obelisco del Pantheon','Chiesa di Santo Stefano degli Abissini',2084).
 distance('Obelisco del Pantheon','Fontana di Piazza Farnese',650).
@@ -4461,10 +4453,10 @@ distance('Obelisco del Pantheon','Gardens of Vatican City',2250).
 distance('Obelisco del Pantheon','Fiumi Fountain',306).
 distance('Obelisco del Pantheon','Sistine Chapel',1891).
 distance('Obelisco del Pantheon','Villa Farnesina',1010).
-distance('Obelisco del Pantheon','Church of St. Louis of the French',185).
 distance('Obelisco del Pantheon','Palazzo Madama',217).
 distance('Obelisco del Pantheon','Galleria Spada',695).
-distance('Obelisco del Pantheon','St. Angelo Bridge',896).
+distance('Obelisco del Pantheon','Church of St. Louis of the French',164).
+distance('Obelisco del Pantheon','St. Angelo Bridge',901).
 distance('Obelisco del Pantheon','Palazzo Farnese',708).
 distance('Obelisco del Pantheon','Sant Agnese in Agone',352).
 distance('Obelisco del Pantheon','Botanical Garden of Rome',1392).
@@ -4477,8 +4469,8 @@ distance('Obelisco del Pantheon','Campo de  Fiori',568).
 distance('Obelisco del Pantheon','Piazza Navona',305).
 distance('Obelisco del Pantheon','Corte Suprema di Cassazione',818).
 distance('Obelisco del Pantheon','Museo di Roma - Palazzo Braschi',387).
-distance('Obelisco del Pantheon','Parrocchia Santa Maria in Vallicella',636).
-distance('Obelisco del Pantheon','Chiesa di San Pietro in Montorio',1455).
+distance('Obelisco del Pantheon','Church of Santa Maria in Vallicella',644).
+distance('Obelisco del Pantheon','Church of San Pietro in Montorio',1455).
 distance('Obelisco del Pantheon','Saint Eligio of Orefici',836).
 distance('Obelisco del Pantheon','Palazzo del Commendatore',1221).
 distance('Obelisco del Pantheon','Porta Santo Spirito',1259).
@@ -4544,7 +4536,6 @@ distance('Obelisco del Pantheon','Villa Balestra',2461).
 distance('Obelisco del Pantheon','Palazzo Borghese',540).
 distance('Obelisco del Pantheon','National Academy of San Luca',628).
 distance('Obelisco del Pantheon','Museo Carlo Bilotti',1655).
-distance('Obelisco del Pantheon','Palazzo Wedekind',279).
 distance('Obelisco del Pantheon','Cloaca Maxima',1217).
 distance('Obelisco del Pantheon','Temple of Apollo Palatinus',1535).
 distance('Obelisco del Pantheon','Circus Maximus',1621).
@@ -4552,19 +4543,19 @@ distance('Obelisco del Pantheon','Mouth of Truth',1305).
 distance('Obelisco del Pantheon','Basilica di Santa Sabina all Aventino',1664).
 distance('Obelisco del Pantheon','Santa Maria in Cosmedin',1313).
 distance('Obelisco del Pantheon','Non-Catholic Cemetery',2565).
-distance('Obelisco del Pantheon','Basilica Santa Cecilia in Trastevere',1347).
+distance('Obelisco del Pantheon','Basilica di Santa Cecilia in Trastevere',1347).
 distance('Obelisco del Pantheon','Mattatoio',2552).
 distance('Obelisco del Pantheon','Pyramid of Caius Cestius',2559).
 distance('Obelisco del Pantheon','Turtle Fountain',613).
 distance('Obelisco del Pantheon','Basilica di San Bartolomeo all Isola',1005).
 distance('Obelisco del Pantheon','Chiesa di Santa Prisca',1892).
-distance('Obelisco del Pantheon','Tempio Maggiore di Roma',820).
+distance('Obelisco del Pantheon','Tempio Maggiore',820).
 distance('Obelisco del Pantheon','Portico of Octavia',770).
 distance('Obelisco del Pantheon','Basilica Santi Giovanni e Paolo',1913).
 distance('Piazza di Spagna','Basilica Papale di Santa Maria Maggiore',1609).
 distance('Piazza di Spagna','Roman Forum',1490).
-distance('Piazza di Spagna','Basilica of San Pietro in Vincoli',1591).
-distance('Piazza di Spagna','Palazzo Massimo alle Terme',1412).
+distance('Piazza di Spagna','Basilica of San Pietro in Vincoli',1586).
+distance('Piazza di Spagna','National Roman Museum - Palazzo Massimo',1412).
 distance('Piazza di Spagna','Monument to Victor Emmanuel II',1234).
 distance('Piazza di Spagna','Campidoglio',1371).
 distance('Piazza di Spagna','Mercati di Traiano Museo dei Fori Imperiali',1163).
@@ -4573,18 +4564,18 @@ distance('Piazza di Spagna','Convento dei Frati Cappuccini',511).
 distance('Piazza di Spagna','Quirinal Palace',755).
 distance('Piazza di Spagna','Basilica di San Clemente',2214).
 distance('Piazza di Spagna','Chiesa di Sant  Ignazio di Loyola',797).
-distance('Piazza di Spagna','Chiesa del Gesu',1104).
 distance('Piazza di Spagna','Piazza Barberini',565).
 distance('Piazza di Spagna','Palazzo delle Esposizioni',949).
+distance('Piazza di Spagna','Chiesa del Gesu',1115).
 distance('Piazza di Spagna','Basilica di Santa Maria in Ara coeli',1323).
-distance('Piazza di Spagna','Palazzo Montecitorio',546).
+distance('Piazza di Spagna','Palazzo Montecitorio',592).
 distance('Piazza di Spagna','Domus Aurea',2004).
 distance('Piazza di Spagna','National Gallery of Ancient Art in Barberini Palace',676).
 distance('Piazza di Spagna','Doria Pamphili Gallery',859).
 distance('Piazza di Spagna','Piazza Venezia',1103).
 distance('Piazza di Spagna','Pantheon',907).
 distance('Piazza di Spagna','Basilica of Saint Mary of Minerva',927).
-distance('Piazza di Spagna','Santa Maria degli Angeli e dei Martiri',1243).
+distance('Piazza di Spagna','Basilica of Saint Mary of the Angels and Martyrs',1243).
 distance('Piazza di Spagna','Parrocchia Santa Maria Maggiore',1921).
 distance('Piazza di Spagna','Mamertine Prison',1394).
 distance('Piazza di Spagna','Mose di Michelangelo',1582).
@@ -4606,7 +4597,7 @@ distance('Piazza di Spagna','Column of Phocas',1485).
 distance('Piazza di Spagna','Antoninus and Faustina Temple',1539).
 distance('Piazza di Spagna','Marcello Theater',1542).
 distance('Piazza di Spagna','Chiesa di Santa Maria in Portico in Campitelli',1428).
-distance('Piazza di Spagna','The Church of Santa Maria della Vittoria',1005).
+distance('Piazza di Spagna','Church of Santa Maria della Vittoria',1005).
 distance('Piazza di Spagna','The Last Judgment',2332).
 distance('Piazza di Spagna','Chiesa di Santo Stefano degli Abissini',2566).
 distance('Piazza di Spagna','Fontana di Piazza Farnese',1491).
@@ -4623,10 +4614,10 @@ distance('Piazza di Spagna','Gardens of Vatican City',2671).
 distance('Piazza di Spagna','Fiumi Fountain',1070).
 distance('Piazza di Spagna','Sistine Chapel',2330).
 distance('Piazza di Spagna','Villa Farnesina',1833).
-distance('Piazza di Spagna','Church of St. Louis of the French',937).
 distance('Piazza di Spagna','Palazzo Madama',988).
 distance('Piazza di Spagna','Galleria Spada',1541).
-distance('Piazza di Spagna','St. Angelo Bridge',1386).
+distance('Piazza di Spagna','Church of St. Louis of the French',917).
+distance('Piazza di Spagna','St. Angelo Bridge',1383).
 distance('Piazza di Spagna','Palazzo Farnese',1547).
 distance('Piazza di Spagna','Sant Agnese in Agone',1112).
 distance('Piazza di Spagna','Botanical Garden of Rome',2196).
@@ -4639,8 +4630,8 @@ distance('Piazza di Spagna','Campo de  Fiori',1406).
 distance('Piazza di Spagna','Piazza Navona',1056).
 distance('Piazza di Spagna','Corte Suprema di Cassazione',1020).
 distance('Piazza di Spagna','Museo di Roma - Palazzo Braschi',1205).
-distance('Piazza di Spagna','Parrocchia Santa Maria in Vallicella',1354).
-distance('Piazza di Spagna','Chiesa di San Pietro in Montorio',2300).
+distance('Piazza di Spagna','Church of Santa Maria in Vallicella',1372).
+distance('Piazza di Spagna','Church of San Pietro in Montorio',2300).
 distance('Piazza di Spagna','Saint Eligio of Orefici',1631).
 distance('Piazza di Spagna','Palazzo del Commendatore',1733).
 distance('Piazza di Spagna','Porta Santo Spirito',1816).
@@ -4706,7 +4697,6 @@ distance('Piazza di Spagna','Villa Balestra',1881).
 distance('Piazza di Spagna','Palazzo Borghese',537).
 distance('Piazza di Spagna','National Academy of San Luca',469).
 distance('Piazza di Spagna','Museo Carlo Bilotti',859).
-distance('Piazza di Spagna','Palazzo Wedekind',590).
 distance('Piazza di Spagna','Cloaca Maxima',1901).
 distance('Piazza di Spagna','Temple of Apollo Palatinus',2061).
 distance('Piazza di Spagna','Circus Maximus',2185).
@@ -4714,18 +4704,18 @@ distance('Piazza di Spagna','Mouth of Truth',1955).
 distance('Piazza di Spagna','Basilica di Santa Sabina all Aventino',2363).
 distance('Piazza di Spagna','Santa Maria in Cosmedin',1958).
 distance('Piazza di Spagna','Non-Catholic Cemetery',3272).
-distance('Piazza di Spagna','Basilica Santa Cecilia in Trastevere',2110).
+distance('Piazza di Spagna','Basilica di Santa Cecilia in Trastevere',2110).
 distance('Piazza di Spagna','Mattatoio',3330).
 distance('Piazza di Spagna','Pyramid of Caius Cestius',3246).
 distance('Piazza di Spagna','Turtle Fountain',1375).
 distance('Piazza di Spagna','Basilica di San Bartolomeo all Isola',1740).
 distance('Piazza di Spagna','Chiesa di Santa Prisca',2515).
-distance('Piazza di Spagna','Tempio Maggiore di Roma',1563).
+distance('Piazza di Spagna','Tempio Maggiore',1563).
 distance('Piazza di Spagna','Portico of Octavia',1497).
 distance('Piazza di Spagna','Basilica Santi Giovanni e Paolo',2284).
 distance('Basilica Papale di Santa Maria Maggiore','Roman Forum',1226).
-distance('Basilica Papale di Santa Maria Maggiore','Basilica of San Pietro in Vincoli',609).
-distance('Basilica Papale di Santa Maria Maggiore','Palazzo Massimo alle Terme',402).
+distance('Basilica Papale di Santa Maria Maggiore','Basilica of San Pietro in Vincoli',630).
+distance('Basilica Papale di Santa Maria Maggiore','National Roman Museum - Palazzo Massimo',402).
 distance('Basilica Papale di Santa Maria Maggiore','Monument to Victor Emmanuel II',1311).
 distance('Basilica Papale di Santa Maria Maggiore','Campidoglio',1378).
 distance('Basilica Papale di Santa Maria Maggiore','Mercati di Traiano Museo dei Fori Imperiali',1032).
@@ -4734,18 +4724,18 @@ distance('Basilica Papale di Santa Maria Maggiore','Convento dei Frati Cappuccin
 distance('Basilica Papale di Santa Maria Maggiore','Quirinal Palace',995).
 distance('Basilica Papale di Santa Maria Maggiore','Basilica di San Clemente',920).
 distance('Basilica Papale di Santa Maria Maggiore','Chiesa di Sant  Ignazio di Loyola',1543).
-distance('Basilica Papale di Santa Maria Maggiore','Chiesa del Gesu',1550).
 distance('Basilica Papale di Santa Maria Maggiore','Piazza Barberini',1062).
 distance('Basilica Papale di Santa Maria Maggiore','Palazzo delle Esposizioni',716).
+distance('Basilica Papale di Santa Maria Maggiore','Chiesa del Gesu',1592).
 distance('Basilica Papale di Santa Maria Maggiore','Basilica di Santa Maria in Ara coeli',1308).
-distance('Basilica Papale di Santa Maria Maggiore','Palazzo Montecitorio',1690).
+distance('Basilica Papale di Santa Maria Maggiore','Palazzo Montecitorio',1682).
 distance('Basilica Papale di Santa Maria Maggiore','Domus Aurea',808).
 distance('Basilica Papale di Santa Maria Maggiore','National Gallery of Ancient Art in Barberini Palace',953).
 distance('Basilica Papale di Santa Maria Maggiore','Doria Pamphili Gallery',1397).
 distance('Basilica Papale di Santa Maria Maggiore','Piazza Venezia',1329).
 distance('Basilica Papale di Santa Maria Maggiore','Pantheon',1790).
 distance('Basilica Papale di Santa Maria Maggiore','Basilica of Saint Mary of Minerva',1692).
-distance('Basilica Papale di Santa Maria Maggiore','Santa Maria degli Angeli e dei Martiri',632).
+distance('Basilica Papale di Santa Maria Maggiore','Basilica of Saint Mary of the Angels and Martyrs',632).
 distance('Basilica Papale di Santa Maria Maggiore','Parrocchia Santa Maria Maggiore',312).
 distance('Basilica Papale di Santa Maria Maggiore','Mamertine Prison',1250).
 distance('Basilica Papale di Santa Maria Maggiore','Mose di Michelangelo',628).
@@ -4767,7 +4757,7 @@ distance('Basilica Papale di Santa Maria Maggiore','Column of Phocas',1260).
 distance('Basilica Papale di Santa Maria Maggiore','Antoninus and Faustina Temple',1129).
 distance('Basilica Papale di Santa Maria Maggiore','Marcello Theater',1659).
 distance('Basilica Papale di Santa Maria Maggiore','Chiesa di Santa Maria in Portico in Campitelli',1672).
-distance('Basilica Papale di Santa Maria Maggiore','The Church of Santa Maria della Vittoria',857).
+distance('Basilica Papale di Santa Maria Maggiore','Church of Santa Maria della Vittoria',857).
 distance('Basilica Papale di Santa Maria Maggiore','The Last Judgment',3695).
 distance('Basilica Papale di Santa Maria Maggiore','Chiesa di Santo Stefano degli Abissini',3891).
 distance('Basilica Papale di Santa Maria Maggiore','Fontana di Piazza Farnese',2256).
@@ -4784,10 +4774,10 @@ distance('Basilica Papale di Santa Maria Maggiore','Gardens of Vatican City',405
 distance('Basilica Papale di Santa Maria Maggiore','Fiumi Fountain',2106).
 distance('Basilica Papale di Santa Maria Maggiore','Sistine Chapel',3692).
 distance('Basilica Papale di Santa Maria Maggiore','Villa Farnesina',2620).
-distance('Basilica Papale di Santa Maria Maggiore','Church of St. Louis of the French',1992).
 distance('Basilica Papale di Santa Maria Maggiore','Palazzo Madama',2022).
 distance('Basilica Papale di Santa Maria Maggiore','Galleria Spada',2230).
-distance('Basilica Papale di Santa Maria Maggiore','St. Angelo Bridge',2691).
+distance('Basilica Papale di Santa Maria Maggiore','Church of St. Louis of the French',1971).
+distance('Basilica Papale di Santa Maria Maggiore','St. Angelo Bridge',2694).
 distance('Basilica Papale di Santa Maria Maggiore','Palazzo Farnese',2313).
 distance('Basilica Papale di Santa Maria Maggiore','Sant Agnese in Agone',2150).
 distance('Basilica Papale di Santa Maria Maggiore','Botanical Garden of Rome',3010).
@@ -4800,8 +4790,8 @@ distance('Basilica Papale di Santa Maria Maggiore','Campo de  Fiori',2213).
 distance('Basilica Papale di Santa Maria Maggiore','Piazza Navona',2109).
 distance('Basilica Papale di Santa Maria Maggiore','Corte Suprema di Cassazione',2480).
 distance('Basilica Papale di Santa Maria Maggiore','Museo di Roma - Palazzo Braschi',2131).
-distance('Basilica Papale di Santa Maria Maggiore','Parrocchia Santa Maria in Vallicella',2429).
-distance('Basilica Papale di Santa Maria Maggiore','Chiesa di San Pietro in Montorio',2832).
+distance('Basilica Papale di Santa Maria Maggiore','Church of Santa Maria in Vallicella',2431).
+distance('Basilica Papale di Santa Maria Maggiore','Church of San Pietro in Montorio',2832).
 distance('Basilica Papale di Santa Maria Maggiore','Saint Eligio of Orefici',2539).
 distance('Basilica Papale di Santa Maria Maggiore','Palazzo del Commendatore',3026).
 distance('Basilica Papale di Santa Maria Maggiore','Porta Santo Spirito',3066).
@@ -4867,7 +4857,6 @@ distance('Basilica Papale di Santa Maria Maggiore','Villa Balestra',3342).
 distance('Basilica Papale di Santa Maria Maggiore','Palazzo Borghese',1983).
 distance('Basilica Papale di Santa Maria Maggiore','National Academy of San Luca',1299).
 distance('Basilica Papale di Santa Maria Maggiore','Museo Carlo Bilotti',2156).
-distance('Basilica Papale di Santa Maria Maggiore','Palazzo Wedekind',1614).
 distance('Basilica Papale di Santa Maria Maggiore','Cloaca Maxima',1809).
 distance('Basilica Papale di Santa Maria Maggiore','Temple of Apollo Palatinus',1537).
 distance('Basilica Papale di Santa Maria Maggiore','Circus Maximus',1683).
@@ -4875,17 +4864,17 @@ distance('Basilica Papale di Santa Maria Maggiore','Mouth of Truth',1758).
 distance('Basilica Papale di Santa Maria Maggiore','Basilica di Santa Sabina all Aventino',2123).
 distance('Basilica Papale di Santa Maria Maggiore','Santa Maria in Cosmedin',1748).
 distance('Basilica Papale di Santa Maria Maggiore','Non-Catholic Cemetery',2838).
-distance('Basilica Papale di Santa Maria Maggiore','Basilica Santa Cecilia in Trastevere',2149).
+distance('Basilica Papale di Santa Maria Maggiore','Basilica di Santa Cecilia in Trastevere',2149).
 distance('Basilica Papale di Santa Maria Maggiore','Mattatoio',3138).
 distance('Basilica Papale di Santa Maria Maggiore','Pyramid of Caius Cestius',2758).
 distance('Basilica Papale di Santa Maria Maggiore','Turtle Fountain',1778).
 distance('Basilica Papale di Santa Maria Maggiore','Basilica di San Bartolomeo all Isola',1860).
 distance('Basilica Papale di Santa Maria Maggiore','Chiesa di Santa Prisca',2026).
-distance('Basilica Papale di Santa Maria Maggiore','Tempio Maggiore di Roma',1802).
+distance('Basilica Papale di Santa Maria Maggiore','Tempio Maggiore',1802).
 distance('Basilica Papale di Santa Maria Maggiore','Portico of Octavia',1743).
 distance('Basilica Papale di Santa Maria Maggiore','Basilica Santi Giovanni e Paolo',1341).
-distance('Roman Forum','Basilica of San Pietro in Vincoli',660).
-distance('Roman Forum','Palazzo Massimo alle Terme',1448).
+distance('Roman Forum','Basilica of San Pietro in Vincoli',638).
+distance('Roman Forum','National Roman Museum - Palazzo Massimo',1448).
 distance('Roman Forum','Monument to Victor Emmanuel II',299).
 distance('Roman Forum','Campidoglio',231).
 distance('Roman Forum','Mercati di Traiano Museo dei Fori Imperiali',361).
@@ -4894,18 +4883,18 @@ distance('Roman Forum','Convento dei Frati Cappuccini',1398).
 distance('Roman Forum','Quirinal Palace',818).
 distance('Roman Forum','Basilica di San Clemente',1074).
 distance('Roman Forum','Chiesa di Sant  Ignazio di Loyola',832).
-distance('Roman Forum','Chiesa del Gesu',594).
 distance('Roman Forum','Piazza Barberini',1287).
 distance('Roman Forum','Palazzo delle Esposizioni',874).
+distance('Roman Forum','Chiesa del Gesu',625).
 distance('Roman Forum','Basilica di Santa Maria in Ara coeli',214).
-distance('Roman Forum','Palazzo Montecitorio',1149).
+distance('Roman Forum','Palazzo Montecitorio',1107).
 distance('Roman Forum','Domus Aurea',877).
 distance('Roman Forum','National Gallery of Ancient Art in Barberini Palace',1259).
 distance('Roman Forum','Doria Pamphili Gallery',687).
 distance('Roman Forum','Piazza Venezia',432).
 distance('Roman Forum','Pantheon',978).
 distance('Roman Forum','Basilica of Saint Mary of Minerva',862).
-distance('Roman Forum','Santa Maria degli Angeli e dei Martiri',1532).
+distance('Roman Forum','Basilica of Saint Mary of the Angels and Martyrs',1532).
 distance('Roman Forum','Parrocchia Santa Maria Maggiore',1398).
 distance('Roman Forum','Mamertine Prison',111).
 distance('Roman Forum','Mose di Michelangelo',637).
@@ -4927,7 +4916,7 @@ distance('Roman Forum','Column of Phocas',38).
 distance('Roman Forum','Antoninus and Faustina Temple',126).
 distance('Roman Forum','Marcello Theater',453).
 distance('Roman Forum','Chiesa di Santa Maria in Portico in Campitelli',513).
-distance('Roman Forum','The Church of Santa Maria della Vittoria',1552).
+distance('Roman Forum','Church of Santa Maria della Vittoria',1552).
 distance('Roman Forum','The Last Judgment',2814).
 distance('Roman Forum','Chiesa di Santo Stefano degli Abissini',2965).
 distance('Roman Forum','Fontana di Piazza Farnese',1186).
@@ -4944,10 +4933,10 @@ distance('Roman Forum','Gardens of Vatican City',3164).
 distance('Roman Forum','Fiumi Fountain',1246).
 distance('Roman Forum','Sistine Chapel',2811).
 distance('Roman Forum','Villa Farnesina',1502).
-distance('Roman Forum','Church of St. Louis of the French',1194).
 distance('Roman Forum','Palazzo Madama',1195).
 distance('Roman Forum','Galleria Spada',1128).
-distance('Roman Forum','St. Angelo Bridge',1877).
+distance('Roman Forum','Church of St. Louis of the French',1181).
+distance('Roman Forum','St. Angelo Bridge',1884).
 distance('Roman Forum','Palazzo Farnese',1233).
 distance('Roman Forum','Sant Agnese in Agone',1275).
 distance('Roman Forum','Botanical Garden of Rome',1866).
@@ -4960,8 +4949,8 @@ distance('Roman Forum','Campo de  Fiori',1176).
 distance('Roman Forum','Piazza Navona',1259).
 distance('Roman Forum','Corte Suprema di Cassazione',1861).
 distance('Roman Forum','Museo di Roma - Palazzo Braschi',1188).
-distance('Roman Forum','Parrocchia Santa Maria in Vallicella',1498).
-distance('Roman Forum','Chiesa di San Pietro in Montorio',1623).
+distance('Roman Forum','Church of Santa Maria in Vallicella',1489).
+distance('Roman Forum','Church of San Pietro in Montorio',1623).
 distance('Roman Forum','Saint Eligio of Orefici',1488).
 distance('Roman Forum','Palazzo del Commendatore',2150).
 distance('Roman Forum','Porta Santo Spirito',2152).
@@ -5027,7 +5016,6 @@ distance('Roman Forum','Villa Balestra',3352).
 distance('Roman Forum','Palazzo Borghese',1505).
 distance('Roman Forum','National Academy of San Luca',1023).
 distance('Roman Forum','Museo Carlo Bilotti',2331).
-distance('Roman Forum','Palazzo Wedekind',1050).
 distance('Roman Forum','Cloaca Maxima',600).
 distance('Roman Forum','Temple of Apollo Palatinus',572).
 distance('Roman Forum','Circus Maximus',703).
@@ -5035,332 +5023,330 @@ distance('Roman Forum','Mouth of Truth',580).
 distance('Roman Forum','Basilica di Santa Sabina all Aventino',996).
 distance('Roman Forum','Santa Maria in Cosmedin',575).
 distance('Roman Forum','Non-Catholic Cemetery',1858).
-distance('Roman Forum','Basilica Santa Cecilia in Trastevere',933).
+distance('Roman Forum','Basilica di Santa Cecilia in Trastevere',933).
 distance('Roman Forum','Mattatoio',2037).
 distance('Roman Forum','Pyramid of Caius Cestius',1811).
 distance('Roman Forum','Turtle Fountain',660).
 distance('Roman Forum','Basilica di San Bartolomeo all Isola',635).
 distance('Roman Forum','Chiesa di Santa Prisca',1052).
-distance('Roman Forum','Tempio Maggiore di Roma',607).
+distance('Roman Forum','Tempio Maggiore',607).
 distance('Roman Forum','Portico of Octavia',563).
 distance('Roman Forum','Basilica Santi Giovanni e Paolo',871).
-distance('Basilica of San Pietro in Vincoli','Palazzo Massimo alle Terme',927).
-distance('Basilica of San Pietro in Vincoli','Monument to Victor Emmanuel II',829).
-distance('Basilica of San Pietro in Vincoli','Campidoglio',853).
-distance('Basilica of San Pietro in Vincoli','Mercati di Traiano Museo dei Fori Imperiali',600).
-distance('Basilica of San Pietro in Vincoli','Equestrian Statue of Marcus Aurelius',842).
-distance('Basilica of San Pietro in Vincoli','Convento dei Frati Cappuccini',1283).
-distance('Basilica of San Pietro in Vincoli','Quirinal Palace',841).
-distance('Basilica of San Pietro in Vincoli','Basilica di San Clemente',623).
-distance('Basilica of San Pietro in Vincoli','Chiesa di Sant  Ignazio di Loyola',1224).
-distance('Basilica of San Pietro in Vincoli','Chiesa del Gesu',1120).
-distance('Basilica of San Pietro in Vincoli','Piazza Barberini',1165).
-distance('Basilica of San Pietro in Vincoli','Palazzo delle Esposizioni',670).
-distance('Basilica of San Pietro in Vincoli','Basilica di Santa Maria in Ara coeli',795).
-distance('Basilica of San Pietro in Vincoli','Palazzo Montecitorio',1466).
-distance('Basilica of San Pietro in Vincoli','Domus Aurea',414).
-distance('Basilica of San Pietro in Vincoli','National Gallery of Ancient Art in Barberini Palace',1085).
-distance('Basilica of San Pietro in Vincoli','Doria Pamphili Gallery',1059).
-distance('Basilica of San Pietro in Vincoli','Piazza Venezia',896).
-distance('Basilica of San Pietro in Vincoli','Pantheon',1445).
-distance('Basilica of San Pietro in Vincoli','Basilica of Saint Mary of Minerva',1331).
-distance('Basilica of San Pietro in Vincoli','Santa Maria degli Angeli e dei Martiri',1088).
-distance('Basilica of San Pietro in Vincoli','Parrocchia Santa Maria Maggiore',740).
-distance('Basilica of San Pietro in Vincoli','Mamertine Prison',713).
-distance('Basilica of San Pietro in Vincoli','Mose di Michelangelo',22).
-distance('Basilica of San Pietro in Vincoli','Capanne di Romolo',844).
-distance('Basilica of San Pietro in Vincoli','Basilica San Silvestro in Capite',1436).
-distance('Basilica of San Pietro in Vincoli','Basilica del Sacro Cuore di Gesu',1237).
-distance('Basilica of San Pietro in Vincoli','Largo di Torre Argentina',1356).
-distance('Basilica of San Pietro in Vincoli','Chiesa di Santa Maria ai Monti',218).
-distance('Basilica of San Pietro in Vincoli','Basilica of St Mark Evangelist at Campidoglio',972).
-distance('Basilica of San Pietro in Vincoli','St. Paul s Within the Walls',826).
-distance('Basilica of San Pietro in Vincoli','Septimius Severus Arch',698).
-distance('Basilica of San Pietro in Vincoli','Palazzo Sciarra Colonna Carbognano',1170).
-distance('Basilica of San Pietro in Vincoli','The Keats - Shelley House',1587).
-distance('Basilica of San Pietro in Vincoli','Basilica Ulpia',730).
-distance('Basilica of San Pietro in Vincoli','Temple of Vesta',615).
-distance('Basilica of San Pietro in Vincoli','Chiesa San Marcello al Corso',1084).
-distance('Basilica of San Pietro in Vincoli','San Stanislao alle Botteghe Oscure',1143).
-distance('Basilica of San Pietro in Vincoli','Column of Phocas',697).
-distance('Basilica of San Pietro in Vincoli','Antoninus and Faustina Temple',546).
-distance('Basilica of San Pietro in Vincoli','Marcello Theater',1112).
-distance('Basilica of San Pietro in Vincoli','Chiesa di Santa Maria in Portico in Campitelli',1154).
-distance('Basilica of San Pietro in Vincoli','The Church of Santa Maria della Vittoria',1212).
-distance('Basilica of San Pietro in Vincoli','The Last Judgment',3360).
-distance('Basilica of San Pietro in Vincoli','Chiesa di Santo Stefano degli Abissini',3533).
-distance('Basilica of San Pietro in Vincoli','Fontana di Piazza Farnese',1799).
-distance('Basilica of San Pietro in Vincoli','Villa Abamelek',3086).
-distance('Basilica of San Pietro in Vincoli','Palazzo Torres',1698).
-distance('Basilica of San Pietro in Vincoli','Castel Sant Angelo',2448).
-distance('Basilica of San Pietro in Vincoli','Vidoni Palace',1528).
-distance('Basilica of San Pietro in Vincoli','Vatican Museums',3560).
-distance('Basilica of San Pietro in Vincoli','Fontana di Piazza Nicosia',1838).
-distance('Basilica of San Pietro in Vincoli','St. Peter s Basilica',3376).
-distance('Basilica of San Pietro in Vincoli','Church Holy Spirit in Sassia',2787).
-distance('Basilica of San Pietro in Vincoli','Parrocchia Santuario Santa Maria in Traspontina',2742).
-distance('Basilica of San Pietro in Vincoli','Gardens of Vatican City',3716).
-distance('Basilica of San Pietro in Vincoli','Fiumi Fountain',1753).
-distance('Basilica of San Pietro in Vincoli','Sistine Chapel',3358).
-distance('Basilica of San Pietro in Vincoli','Villa Farnesina',2139).
-distance('Basilica of San Pietro in Vincoli','Church of St. Louis of the French',1664).
-distance('Basilica of San Pietro in Vincoli','Palazzo Madama',1681).
-distance('Basilica of San Pietro in Vincoli','Galleria Spada',1755).
-distance('Basilica of San Pietro in Vincoli','St. Angelo Bridge',2378).
-distance('Basilica of San Pietro in Vincoli','Palazzo Farnese',1851).
-distance('Basilica of San Pietro in Vincoli','Sant Agnese in Agone',1791).
-distance('Basilica of San Pietro in Vincoli','Botanical Garden of Rome',2514).
-distance('Basilica of San Pietro in Vincoli','Chiesa di Santa Maria della Pace',1899).
-distance('Basilica of San Pietro in Vincoli','Obelisco Agonale',1754).
-distance('Basilica of San Pietro in Vincoli','Basilica of Santa Maria in Trastevere',2001).
-distance('Basilica of San Pietro in Vincoli','Church of St Onuphrius at the Janiculum',2678).
-distance('Basilica of San Pietro in Vincoli','Biblioteca Angelica',1727).
-distance('Basilica of San Pietro in Vincoli','Campo de  Fiori',1773).
-distance('Basilica of San Pietro in Vincoli','Piazza Navona',1761).
-distance('Basilica of San Pietro in Vincoli','Corte Suprema di Cassazione',2260).
-distance('Basilica of San Pietro in Vincoli','Museo di Roma - Palazzo Braschi',1738).
-distance('Basilica of San Pietro in Vincoli','Parrocchia Santa Maria in Vallicella',2050).
-distance('Basilica of San Pietro in Vincoli','Chiesa di San Pietro in Montorio',2283).
-distance('Basilica of San Pietro in Vincoli','Saint Eligio of Orefici',2097).
-distance('Basilica of San Pietro in Vincoli','Palazzo del Commendatore',2687).
-distance('Basilica of San Pietro in Vincoli','Porta Santo Spirito',2707).
-distance('Basilica of San Pietro in Vincoli','Bernini Fountain',3096).
-distance('Basilica of San Pietro in Vincoli','Presepe dei Netturbini',3199).
-distance('Basilica of San Pietro in Vincoli','Church of Saints Michael and Magnus',2787).
-distance('Basilica of San Pietro in Vincoli','Museum Leonardo Da Vinci Experience',2771).
-distance('Basilica of San Pietro in Vincoli','Vatican Necropolis',3350).
-distance('Basilica of San Pietro in Vincoli','Apostolic Palace',3248).
-distance('Basilica of San Pietro in Vincoli','Ponte Vittorio Emanuele II',2520).
-distance('Basilica of San Pietro in Vincoli','Chiesa di Sant Anna dei Palafrenieri',3163).
-distance('Basilica of San Pietro in Vincoli','Operativa Arte Contemporanea',2346).
-distance('Basilica of San Pietro in Vincoli','Santa Maria del Suffragio',2259).
-distance('Basilica of San Pietro in Vincoli','Vatican Apostolic Archive',3398).
-distance('Basilica of San Pietro in Vincoli','Carriage Pavilion',3513).
-distance('Basilica of San Pietro in Vincoli','Monastero Mater Ecclesi',3664).
-distance('Basilica of San Pietro in Vincoli','Oratorio dei Filippini (Oratory of St Philip Neri)',2109).
-distance('Basilica of San Pietro in Vincoli','House of Hospitality Paul VI',3683).
-distance('Basilica of San Pietro in Vincoli','Chiesa di Santa Maria del Rosario in Prati',3304).
-distance('Basilica of San Pietro in Vincoli','Welcome To Rome',1865).
-distance('Basilica of San Pietro in Vincoli','Stadium of Domitian',1845).
-distance('Basilica of San Pietro in Vincoli','Palazzo Pamphili',1740).
-distance('Basilica of San Pietro in Vincoli','Fountain of the Moro',1720).
-distance('Basilica of San Pietro in Vincoli','Cappella Chigi',2392).
-distance('Basilica of San Pietro in Vincoli','Chiesa di Gesu e Maria',2027).
-distance('Basilica of San Pietro in Vincoli','Villa Borghese',2215).
-distance('Basilica of San Pietro in Vincoli','Passeggiata del Pincio',2155).
-distance('Basilica of San Pietro in Vincoli','Borghese Gallery and Museum',2265).
-distance('Basilica of San Pietro in Vincoli','National Gallery of Modern and Contemporary Art',2732).
-distance('Basilica of San Pietro in Vincoli','Mausoleum of Augustus',1934).
-distance('Basilica of San Pietro in Vincoli','Chiesa Parrocchiale San Giacomo in Augusta',2020).
-distance('Basilica of San Pietro in Vincoli','Villa Medici',1825).
-distance('Basilica of San Pietro in Vincoli','Basilica of Saint Lawrence in Lucina',1591).
-distance('Basilica of San Pietro in Vincoli','Basilica of SS. Ambrose and Charles on the Corso',1761).
-distance('Basilica of San Pietro in Vincoli','Giorgio de Chirico House Museum',1568).
-distance('Basilica of San Pietro in Vincoli','Santa Maria in Montesanto',2249).
-distance('Basilica of San Pietro in Vincoli','Fontana della Barcaccia',1604).
-distance('Basilica of San Pietro in Vincoli','Museo Leonardo da Vinci',2385).
-distance('Basilica of San Pietro in Vincoli','Explora - Il Museo dei Bambini di Roma',2800).
-distance('Basilica of San Pietro in Vincoli','Orologio ad acqua del Pincio',2240).
-distance('Basilica of San Pietro in Vincoli','Ponte Giacomo Matteotti',2936).
-distance('Basilica of San Pietro in Vincoli','National Etruscan Museum of Villa Giulia',3007).
-distance('Basilica of San Pietro in Vincoli','Fontana del Babuino',1907).
-distance('Basilica of San Pietro in Vincoli','Fontana del Bottino',1683).
-distance('Basilica of San Pietro in Vincoli','Trinita dei Monti',1587).
-distance('Basilica of San Pietro in Vincoli','Galleria del Cembalo',1752).
-distance('Basilica of San Pietro in Vincoli','Chiesa di Santa Maria in Via',1304).
-distance('Basilica of San Pietro in Vincoli','Palazzo di Propaganda Fide',1444).
-distance('Basilica of San Pietro in Vincoli','Basilica di Sant Andrea delle Fratte',1332).
-distance('Basilica of San Pietro in Vincoli','Piazza del Popolo',2331).
-distance('Basilica of San Pietro in Vincoli','Marcus Aurelius Column',1336).
-distance('Basilica of San Pietro in Vincoli','Piazza di Siena',2250).
-distance('Basilica of San Pietro in Vincoli','All Saints  Anglican Church Rome',1989).
-distance('Basilica of San Pietro in Vincoli','Church of Saint Roch  all Augusteo ',1934).
-distance('Basilica of San Pietro in Vincoli','Church of Our Lady in Trivio',1185).
-distance('Basilica of San Pietro in Vincoli','Il Tempio di Adriano',1319).
-distance('Basilica of San Pietro in Vincoli','Museo Civico di Zoologia',2850).
-distance('Basilica of San Pietro in Vincoli','Basilica of St. Augustine in Campo Marzio',1742).
-distance('Basilica of San Pietro in Vincoli','Hendrik Christian Anderson Museum',2816).
-distance('Basilica of San Pietro in Vincoli','Goethe House',2136).
+distance('Basilica of San Pietro in Vincoli','National Roman Museum - Palazzo Massimo',944).
+distance('Basilica of San Pietro in Vincoli','Monument to Victor Emmanuel II',809).
+distance('Basilica of San Pietro in Vincoli','Campidoglio',832).
+distance('Basilica of San Pietro in Vincoli','Mercati di Traiano Museo dei Fori Imperiali',584).
+distance('Basilica of San Pietro in Vincoli','Equestrian Statue of Marcus Aurelius',821).
+distance('Basilica of San Pietro in Vincoli','Convento dei Frati Cappuccini',1285).
+distance('Basilica of San Pietro in Vincoli','Quirinal Palace',835).
+distance('Basilica of San Pietro in Vincoli','Basilica di San Clemente',629).
+distance('Basilica of San Pietro in Vincoli','Chiesa di Sant  Ignazio di Loyola',1209).
+distance('Basilica of San Pietro in Vincoli','Piazza Barberini',1167).
+distance('Basilica of San Pietro in Vincoli','Palazzo delle Esposizioni',671).
+distance('Basilica of San Pietro in Vincoli','Chiesa del Gesu',1142).
+distance('Basilica of San Pietro in Vincoli','Basilica di Santa Maria in Ara coeli',775).
+distance('Basilica of San Pietro in Vincoli','Palazzo Montecitorio',1429).
+distance('Basilica of San Pietro in Vincoli','Domus Aurea',417).
+distance('Basilica of San Pietro in Vincoli','National Gallery of Ancient Art in Barberini Palace',1088).
+distance('Basilica of San Pietro in Vincoli','Doria Pamphili Gallery',1044).
+distance('Basilica of San Pietro in Vincoli','Piazza Venezia',879).
+distance('Basilica of San Pietro in Vincoli','Pantheon',1429).
+distance('Basilica of San Pietro in Vincoli','Basilica of Saint Mary of Minerva',1314).
+distance('Basilica of San Pietro in Vincoli','Basilica of Saint Mary of the Angels and Martyrs',1102).
+distance('Basilica of San Pietro in Vincoli','Parrocchia Santa Maria Maggiore',762).
+distance('Basilica of San Pietro in Vincoli','Mamertine Prison',692).
+distance('Basilica of San Pietro in Vincoli','Mose di Michelangelo',4).
+distance('Basilica of San Pietro in Vincoli','Capanne di Romolo',823).
+distance('Basilica of San Pietro in Vincoli','Basilica San Silvestro in Capite',1427).
+distance('Basilica of San Pietro in Vincoli','Basilica del Sacro Cuore di Gesu',1256).
+distance('Basilica of San Pietro in Vincoli','Largo di Torre Argentina',1337).
+distance('Basilica of San Pietro in Vincoli','Chiesa di Santa Maria ai Monti',203).
+distance('Basilica of San Pietro in Vincoli','Basilica of St Mark Evangelist at Campidoglio',955).
+distance('Basilica of San Pietro in Vincoli','St. Paul s Within the Walls',837).
+distance('Basilica of San Pietro in Vincoli','Septimius Severus Arch',677).
+distance('Basilica of San Pietro in Vincoli','Palazzo Sciarra Colonna Carbognano',1157).
+distance('Basilica of San Pietro in Vincoli','The Keats - Shelley House',1583).
+distance('Basilica of San Pietro in Vincoli','Basilica Ulpia',712).
+distance('Basilica of San Pietro in Vincoli','Temple of Vesta',593).
+distance('Basilica of San Pietro in Vincoli','Chiesa San Marcello al Corso',1070).
+distance('Basilica of San Pietro in Vincoli','San Stanislao alle Botteghe Oscure',1124).
+distance('Basilica of San Pietro in Vincoli','Column of Phocas',675).
+distance('Basilica of San Pietro in Vincoli','Antoninus and Faustina Temple',524).
+distance('Basilica of San Pietro in Vincoli','Marcello Theater',1090).
+distance('Basilica of San Pietro in Vincoli','Chiesa di Santa Maria in Portico in Campitelli',1133).
+distance('Basilica of San Pietro in Vincoli','Church of Santa Maria della Vittoria',1222).
+distance('Basilica of San Pietro in Vincoli','The Last Judgment',3343).
+distance('Basilica of San Pietro in Vincoli','Chiesa di Santo Stefano degli Abissini',3515).
+distance('Basilica of San Pietro in Vincoli','Fontana di Piazza Farnese',1779).
+distance('Basilica of San Pietro in Vincoli','Villa Abamelek',3064).
+distance('Basilica of San Pietro in Vincoli','Palazzo Torres',1680).
+distance('Basilica of San Pietro in Vincoli','Castel Sant Angelo',2433).
+distance('Basilica of San Pietro in Vincoli','Vidoni Palace',1509).
+distance('Basilica of San Pietro in Vincoli','Vatican Museums',3545).
+distance('Basilica of San Pietro in Vincoli','Fontana di Piazza Nicosia',1826).
+distance('Basilica of San Pietro in Vincoli','St. Peter s Basilica',3359).
+distance('Basilica of San Pietro in Vincoli','Church Holy Spirit in Sassia',2770).
+distance('Basilica of San Pietro in Vincoli','Parrocchia Santuario Santa Maria in Traspontina',2726).
+distance('Basilica of San Pietro in Vincoli','Gardens of Vatican City',3699).
+distance('Basilica of San Pietro in Vincoli','Fiumi Fountain',1736).
+distance('Basilica of San Pietro in Vincoli','Sistine Chapel',3341).
+distance('Basilica of San Pietro in Vincoli','Villa Farnesina',2118).
+distance('Basilica of San Pietro in Vincoli','Palazzo Madama',1665).
+distance('Basilica of San Pietro in Vincoli','Galleria Spada',1734).
+distance('Basilica of San Pietro in Vincoli','Church of St. Louis of the French',1630).
+distance('Basilica of San Pietro in Vincoli','St. Angelo Bridge',2367).
+distance('Basilica of San Pietro in Vincoli','Palazzo Farnese',1831).
+distance('Basilica of San Pietro in Vincoli','Sant Agnese in Agone',1774).
+distance('Basilica of San Pietro in Vincoli','Botanical Garden of Rome',2493).
+distance('Basilica of San Pietro in Vincoli','Chiesa di Santa Maria della Pace',1882).
+distance('Basilica of San Pietro in Vincoli','Obelisco Agonale',1738).
+distance('Basilica of San Pietro in Vincoli','Basilica of Santa Maria in Trastevere',1979).
+distance('Basilica of San Pietro in Vincoli','Church of St Onuphrius at the Janiculum',2659).
+distance('Basilica of San Pietro in Vincoli','Biblioteca Angelica',1712).
+distance('Basilica of San Pietro in Vincoli','Campo de  Fiori',1754).
+distance('Basilica of San Pietro in Vincoli','Piazza Navona',1745).
+distance('Basilica of San Pietro in Vincoli','Corte Suprema di Cassazione',2247).
+distance('Basilica of San Pietro in Vincoli','Museo di Roma - Palazzo Braschi',1720).
+distance('Basilica of San Pietro in Vincoli','Church of Santa Maria in Vallicella',2028).
+distance('Basilica of San Pietro in Vincoli','Church of San Pietro in Montorio',2261).
+distance('Basilica of San Pietro in Vincoli','Saint Eligio of Orefici',2077).
+distance('Basilica of San Pietro in Vincoli','Palazzo del Commendatore',2670).
+distance('Basilica of San Pietro in Vincoli','Porta Santo Spirito',2689).
+distance('Basilica of San Pietro in Vincoli','Bernini Fountain',3078).
+distance('Basilica of San Pietro in Vincoli','Presepe dei Netturbini',3181).
+distance('Basilica of San Pietro in Vincoli','Church of Saints Michael and Magnus',2770).
+distance('Basilica of San Pietro in Vincoli','Museum Leonardo Da Vinci Experience',2754).
+distance('Basilica of San Pietro in Vincoli','Vatican Necropolis',3333).
+distance('Basilica of San Pietro in Vincoli','Apostolic Palace',3231).
+distance('Basilica of San Pietro in Vincoli','Ponte Vittorio Emanuele II',2503).
+distance('Basilica of San Pietro in Vincoli','Chiesa di Sant Anna dei Palafrenieri',3147).
+distance('Basilica of San Pietro in Vincoli','Operativa Arte Contemporanea',2328).
+distance('Basilica of San Pietro in Vincoli','Santa Maria del Suffragio',2240).
+distance('Basilica of San Pietro in Vincoli','Vatican Apostolic Archive',3382).
+distance('Basilica of San Pietro in Vincoli','Carriage Pavilion',3497).
+distance('Basilica of San Pietro in Vincoli','Monastero Mater Ecclesi',3647).
+distance('Basilica of San Pietro in Vincoli','Oratorio dei Filippini (Oratory of St Philip Neri)',2092).
+distance('Basilica of San Pietro in Vincoli','House of Hospitality Paul VI',3668).
+distance('Basilica of San Pietro in Vincoli','Chiesa di Santa Maria del Rosario in Prati',3290).
+distance('Basilica of San Pietro in Vincoli','Welcome To Rome',1847).
+distance('Basilica of San Pietro in Vincoli','Stadium of Domitian',1830).
+distance('Basilica of San Pietro in Vincoli','Palazzo Pamphili',1723).
+distance('Basilica of San Pietro in Vincoli','Fountain of the Moro',1702).
+distance('Basilica of San Pietro in Vincoli','Cappella Chigi',2387).
+distance('Basilica of San Pietro in Vincoli','Chiesa di Gesu e Maria',2021).
+distance('Basilica of San Pietro in Vincoli','Villa Borghese',2217).
+distance('Basilica of San Pietro in Vincoli','Passeggiata del Pincio',2153).
+distance('Basilica of San Pietro in Vincoli','Borghese Gallery and Museum',2272).
+distance('Basilica of San Pietro in Vincoli','National Gallery of Modern and Contemporary Art',2733).
+distance('Basilica of San Pietro in Vincoli','Mausoleum of Augustus',1926).
+distance('Basilica of San Pietro in Vincoli','Chiesa Parrocchiale San Giacomo in Augusta',2013).
+distance('Basilica of San Pietro in Vincoli','Villa Medici',1823).
+distance('Basilica of San Pietro in Vincoli','Basilica of Saint Lawrence in Lucina',1582).
+distance('Basilica of San Pietro in Vincoli','Basilica of SS. Ambrose and Charles on the Corso',1753).
+distance('Basilica of San Pietro in Vincoli','Giorgio de Chirico House Museum',1564).
+distance('Basilica of San Pietro in Vincoli','Santa Maria in Montesanto',2244).
+distance('Basilica of San Pietro in Vincoli','Fontana della Barcaccia',1600).
+distance('Basilica of San Pietro in Vincoli','Museo Leonardo da Vinci',2380).
+distance('Basilica of San Pietro in Vincoli','Explora - Il Museo dei Bambini di Roma',2796).
+distance('Basilica of San Pietro in Vincoli','Orologio ad acqua del Pincio',2238).
+distance('Basilica of San Pietro in Vincoli','Ponte Giacomo Matteotti',2930).
+distance('Basilica of San Pietro in Vincoli','National Etruscan Museum of Villa Giulia',3006).
+distance('Basilica of San Pietro in Vincoli','Fontana del Babuino',1902).
+distance('Basilica of San Pietro in Vincoli','Fontana del Bottino',1680).
+distance('Basilica of San Pietro in Vincoli','Trinita dei Monti',1584).
+distance('Basilica of San Pietro in Vincoli','Galleria del Cembalo',1741).
+distance('Basilica of San Pietro in Vincoli','Chiesa di Santa Maria in Via',1294).
+distance('Basilica of San Pietro in Vincoli','Palazzo di Propaganda Fide',1440).
+distance('Basilica of San Pietro in Vincoli','Basilica di Sant Andrea delle Fratte',1327).
+distance('Basilica of San Pietro in Vincoli','Piazza del Popolo',2326).
+distance('Basilica of San Pietro in Vincoli','Marcus Aurelius Column',1325).
+distance('Basilica of San Pietro in Vincoli','Piazza di Siena',2254).
+distance('Basilica of San Pietro in Vincoli','All Saints  Anglican Church Rome',1984).
+distance('Basilica of San Pietro in Vincoli','Church of Saint Roch  all Augusteo ',1925).
+distance('Basilica of San Pietro in Vincoli','Church of Our Lady in Trivio',1176).
+distance('Basilica of San Pietro in Vincoli','Il Tempio di Adriano',1305).
+distance('Basilica of San Pietro in Vincoli','Museo Civico di Zoologia',2855).
+distance('Basilica of San Pietro in Vincoli','Basilica of St. Augustine in Campo Marzio',1728).
+distance('Basilica of San Pietro in Vincoli','Hendrik Christian Anderson Museum',2811).
+distance('Basilica of San Pietro in Vincoli','Goethe House',2131).
 distance('Basilica of San Pietro in Vincoli','Institute of Japanese Culture',2994).
-distance('Basilica of San Pietro in Vincoli','Villa Balestra',3455).
-distance('Basilica of San Pietro in Vincoli','Palazzo Borghese',1811).
-distance('Basilica of San Pietro in Vincoli','National Academy of San Luca',1161).
+distance('Basilica of San Pietro in Vincoli','Villa Balestra',3453).
+distance('Basilica of San Pietro in Vincoli','Palazzo Borghese',1801).
+distance('Basilica of San Pietro in Vincoli','National Academy of San Luca',1154).
 distance('Basilica of San Pietro in Vincoli','Museo Carlo Bilotti',2320).
-distance('Basilica of San Pietro in Vincoli','Palazzo Wedekind',1372).
-distance('Basilica of San Pietro in Vincoli','Cloaca Maxima',1214).
-distance('Basilica of San Pietro in Vincoli','Temple of Apollo Palatinus',930).
-distance('Basilica of San Pietro in Vincoli','Circus Maximus',1078).
-distance('Basilica of San Pietro in Vincoli','Mouth of Truth',1154).
-distance('Basilica of San Pietro in Vincoli','Basilica di Santa Sabina all Aventino',1513).
-distance('Basilica of San Pietro in Vincoli','Santa Maria in Cosmedin',1143).
-distance('Basilica of San Pietro in Vincoli','Non-Catholic Cemetery',2248).
-distance('Basilica of San Pietro in Vincoli','Basilica Santa Cecilia in Trastevere',1554).
-distance('Basilica of San Pietro in Vincoli','Mattatoio',2531).
-distance('Basilica of San Pietro in Vincoli','Pyramid of Caius Cestius',2174).
-distance('Basilica of San Pietro in Vincoli','Turtle Fountain',1285).
-distance('Basilica of San Pietro in Vincoli','Basilica di San Bartolomeo all Isola',1292).
-distance('Basilica of San Pietro in Vincoli','Chiesa di Santa Prisca',1428).
-distance('Basilica of San Pietro in Vincoli','Tempio Maggiore di Roma',1264).
-distance('Basilica of San Pietro in Vincoli','Portico of Octavia',1214).
-distance('Basilica of San Pietro in Vincoli','Basilica Santi Giovanni e Paolo',820).
-distance('Palazzo Massimo alle Terme','Monument to Victor Emmanuel II',1455).
-distance('Palazzo Massimo alle Terme','Campidoglio',1552).
-distance('Palazzo Massimo alle Terme','Mercati di Traiano Museo dei Fori Imperiali',1173).
-distance('Palazzo Massimo alle Terme','Equestrian Statue of Marcus Aurelius',1545).
-distance('Palazzo Massimo alle Terme','Convento dei Frati Cappuccini',912).
-distance('Palazzo Massimo alle Terme','Quirinal Palace',968).
-distance('Palazzo Massimo alle Terme','Basilica di San Clemente',1321).
-distance('Palazzo Massimo alle Terme','Chiesa di Sant  Ignazio di Loyola',1550).
-distance('Palazzo Massimo alle Terme','Chiesa del Gesu',1636).
-distance('Palazzo Massimo alle Terme','Piazza Barberini',848).
-distance('Palazzo Massimo alle Terme','Palazzo delle Esposizioni',701).
-distance('Palazzo Massimo alle Terme','Basilica di Santa Maria in Ara coeli',1477).
-distance('Palazzo Massimo alle Terme','Palazzo Montecitorio',1620).
-distance('Palazzo Massimo alle Terme','Domus Aurea',1197).
-distance('Palazzo Massimo alle Terme','National Gallery of Ancient Art in Barberini Palace',737).
-distance('Palazzo Massimo alle Terme','Doria Pamphili Gallery',1430).
-distance('Palazzo Massimo alle Terme','Piazza Venezia',1436).
-distance('Palazzo Massimo alle Terme','Pantheon',1798).
-distance('Palazzo Massimo alle Terme','Basilica of Saint Mary of Minerva',1717).
-distance('Palazzo Massimo alle Terme','Santa Maria degli Angeli e dei Martiri',244).
-distance('Palazzo Massimo alle Terme','Parrocchia Santa Maria Maggiore',639).
-distance('Palazzo Massimo alle Terme','Mamertine Prison',1444).
-distance('Palazzo Massimo alle Terme','Mose di Michelangelo',941).
-distance('Palazzo Massimo alle Terme','Capanne di Romolo',1729).
-distance('Palazzo Massimo alle Terme','Basilica San Silvestro in Capite',1465).
-distance('Palazzo Massimo alle Terme','Basilica del Sacro Cuore di Gesu',371).
-distance('Palazzo Massimo alle Terme','Largo di Torre Argentina',1889).
-distance('Palazzo Massimo alle Terme','Chiesa di Santa Maria ai Monti',968).
-distance('Palazzo Massimo alle Terme','Basilica of St Mark Evangelist at Campidoglio',1500).
-distance('Palazzo Massimo alle Terme','St. Paul s Within the Walls',341).
-distance('Palazzo Massimo alle Terme','Septimius Severus Arch',1454).
-distance('Palazzo Massimo alle Terme','Palazzo Sciarra Colonna Carbognano',1420).
-distance('Palazzo Massimo alle Terme','The Keats - Shelley House',1401).
-distance('Palazzo Massimo alle Terme','Basilica Ulpia',1296).
-distance('Palazzo Massimo alle Terme','Temple of Vesta',1454).
-distance('Palazzo Massimo alle Terme','Chiesa San Marcello al Corso',1413).
-distance('Palazzo Massimo alle Terme','San Stanislao alle Botteghe Oscure',1720).
-distance('Palazzo Massimo alle Terme','Column of Phocas',1477).
-distance('Palazzo Massimo alle Terme','Antoninus and Faustina Temple',1375).
-distance('Palazzo Massimo alle Terme','Marcello Theater',1839).
-distance('Palazzo Massimo alle Terme','Chiesa di Santa Maria in Portico in Campitelli',1824).
-distance('Palazzo Massimo alle Terme','The Church of Santa Maria della Vittoria',503).
-distance('Palazzo Massimo alle Terme','The Last Judgment',3640).
-distance('Palazzo Massimo alle Terme','Chiesa di Santo Stefano degli Abissini',3852).
-distance('Palazzo Massimo alle Terme','Fontana di Piazza Farnese',2330).
-distance('Palazzo Massimo alle Terme','Villa Abamelek',3724).
-distance('Palazzo Massimo alle Terme','Palazzo Torres',2105).
-distance('Palazzo Massimo alle Terme','Castel Sant Angelo',2662).
-distance('Palazzo Massimo alle Terme','Vidoni Palace',2022).
-distance('Palazzo Massimo alle Terme','Vatican Museums',3748).
-distance('Palazzo Massimo alle Terme','Fontana di Piazza Nicosia',1963).
-distance('Palazzo Massimo alle Terme','St. Peter s Basilica',3679).
-distance('Palazzo Massimo alle Terme','Church Holy Spirit in Sassia',3090).
-distance('Palazzo Massimo alle Terme','Parrocchia Santuario Santa Maria in Traspontina',2997).
-distance('Palazzo Massimo alle Terme','Gardens of Vatican City',3993).
-distance('Palazzo Massimo alle Terme','Fiumi Fountain',2104).
-distance('Palazzo Massimo alle Terme','Sistine Chapel',3637).
-distance('Palazzo Massimo alle Terme','Villa Farnesina',2706).
-distance('Palazzo Massimo alle Terme','Church of St. Louis of the French',1976).
-distance('Palazzo Massimo alle Terme','Palazzo Madama',2014).
-distance('Palazzo Massimo alle Terme','Galleria Spada',2320).
-distance('Palazzo Massimo alle Terme','St. Angelo Bridge',2639).
-distance('Palazzo Massimo alle Terme','Palazzo Farnese',2390).
-distance('Palazzo Massimo alle Terme','Sant Agnese in Agone',2149).
-distance('Palazzo Massimo alle Terme','Botanical Garden of Rome',3101).
-distance('Palazzo Massimo alle Terme','Chiesa di Santa Maria della Pace',2213).
-distance('Palazzo Massimo alle Terme','Obelisco Agonale',2103).
-distance('Palazzo Massimo alle Terme','Basilica of Santa Maria in Trastevere',2708).
-distance('Palazzo Massimo alle Terme','Church of St Onuphrius at the Janiculum',3107).
-distance('Palazzo Massimo alle Terme','Biblioteca Angelica',1975).
-distance('Palazzo Massimo alle Terme','Campo de  Fiori',2274).
-distance('Palazzo Massimo alle Terme','Piazza Navona',2102).
-distance('Palazzo Massimo alle Terme','Corte Suprema di Cassazione',2370).
-distance('Palazzo Massimo alle Terme','Museo di Roma - Palazzo Braschi',2158).
-distance('Palazzo Massimo alle Terme','Parrocchia Santa Maria in Vallicella',2434).
-distance('Palazzo Massimo alle Terme','Chiesa di San Pietro in Montorio',2984).
-distance('Palazzo Massimo alle Terme','Saint Eligio of Orefici',2591).
-distance('Palazzo Massimo alle Terme','Palazzo del Commendatore',2986).
-distance('Palazzo Massimo alle Terme','Porta Santo Spirito',3041).
-distance('Palazzo Massimo alle Terme','Bernini Fountain',3401).
-distance('Palazzo Massimo alle Terme','Presepe dei Netturbini',3565).
-distance('Palazzo Massimo alle Terme','Church of Saints Michael and Magnus',3090).
-distance('Palazzo Massimo alle Terme','Museum Leonardo Da Vinci Experience',3046).
-distance('Palazzo Massimo alle Terme','Vatican Necropolis',3664).
-distance('Palazzo Massimo alle Terme','Apostolic Palace',3505).
-distance('Palazzo Massimo alle Terme','Ponte Vittorio Emanuele II',2816).
-distance('Palazzo Massimo alle Terme','Chiesa di Sant Anna dei Palafrenieri',3398).
-distance('Palazzo Massimo alle Terme','Operativa Arte Contemporanea',2690).
-distance('Palazzo Massimo alle Terme','Santa Maria del Suffragio',2671).
-distance('Palazzo Massimo alle Terme','Vatican Apostolic Archive',3622).
-distance('Palazzo Massimo alle Terme','Carriage Pavilion',3733).
-distance('Palazzo Massimo alle Terme','Monastero Mater Ecclesi',3935).
-distance('Palazzo Massimo alle Terme','Oratorio dei Filippini (Oratory of St Philip Neri)',2477).
-distance('Palazzo Massimo alle Terme','House of Hospitality Paul VI',3873).
-distance('Palazzo Massimo alle Terme','Chiesa di Santa Maria del Rosario in Prati',3400).
-distance('Palazzo Massimo alle Terme','Welcome To Rome',2295).
-distance('Palazzo Massimo alle Terme','Stadium of Domitian',2138).
-distance('Palazzo Massimo alle Terme','Palazzo Pamphili',2141).
-distance('Palazzo Massimo alle Terme','Fountain of the Moro',2112).
-distance('Palazzo Massimo alle Terme','Cappella Chigi',2133).
-distance('Palazzo Massimo alle Terme','Chiesa di Gesu e Maria',1868).
-distance('Palazzo Massimo alle Terme','Villa Borghese',1689).
-distance('Palazzo Massimo alle Terme','Passeggiata del Pincio',1801).
-distance('Palazzo Massimo alle Terme','Borghese Gallery and Museum',1529).
-distance('Palazzo Massimo alle Terme','National Gallery of Modern and Contemporary Art',2207).
-distance('Palazzo Massimo alle Terme','Mausoleum of Augustus',1889).
-distance('Palazzo Massimo alle Terme','Chiesa Parrocchiale San Giacomo in Augusta',1875).
-distance('Palazzo Massimo alle Terme','Villa Medici',1516).
-distance('Palazzo Massimo alle Terme','Basilica of Saint Lawrence in Lucina',1641).
-distance('Palazzo Massimo alle Terme','Basilica of SS. Ambrose and Charles on the Corso',1708).
-distance('Palazzo Massimo alle Terme','Giorgio de Chirico House Museum',1385).
-distance('Palazzo Massimo alle Terme','Santa Maria in Montesanto',2029).
-distance('Palazzo Massimo alle Terme','Fontana della Barcaccia',1423).
-distance('Palazzo Massimo alle Terme','Museo Leonardo da Vinci',2136).
-distance('Palazzo Massimo alle Terme','Explora - Il Museo dei Bambini di Roma',2475).
-distance('Palazzo Massimo alle Terme','Orologio ad acqua del Pincio',1868).
-distance('Palazzo Massimo alle Terme','Ponte Giacomo Matteotti',2706).
-distance('Palazzo Massimo alle Terme','National Etruscan Museum of Villa Giulia',2555).
-distance('Palazzo Massimo alle Terme','Fontana del Babuino',1708).
-distance('Palazzo Massimo alle Terme','Fontana del Bottino',1429).
-distance('Palazzo Massimo alle Terme','Trinita dei Monti',1335).
-distance('Palazzo Massimo alle Terme','Galleria del Cembalo',1811).
-distance('Palazzo Massimo alle Terme','Chiesa di Santa Maria in Via',1400).
-distance('Palazzo Massimo alle Terme','Palazzo di Propaganda Fide',1307).
-distance('Palazzo Massimo alle Terme','Basilica di Sant Andrea delle Fratte',1238).
-distance('Palazzo Massimo alle Terme','Piazza del Popolo',2100).
-distance('Palazzo Massimo alle Terme','Marcus Aurelius Column',1517).
-distance('Palazzo Massimo alle Terme','Piazza di Siena',1657).
-distance('Palazzo Massimo alle Terme','All Saints  Anglican Church Rome',1786).
-distance('Palazzo Massimo alle Terme','Church of Saint Roch  all Augusteo ',1924).
-distance('Palazzo Massimo alle Terme','Church of Our Lady in Trivio',1289).
-distance('Palazzo Massimo alle Terme','Il Tempio di Adriano',1572).
-distance('Palazzo Massimo alle Terme','Museo Civico di Zoologia',2160).
-distance('Palazzo Massimo alle Terme','Basilica of St. Augustine in Campo Marzio',1990).
-distance('Palazzo Massimo alle Terme','Hendrik Christian Anderson Museum',2561).
-distance('Palazzo Massimo alle Terme','Goethe House',1945).
-distance('Palazzo Massimo alle Terme','Institute of Japanese Culture',2506).
-distance('Palazzo Massimo alle Terme','Villa Balestra',3026).
-distance('Palazzo Massimo alle Terme','Palazzo Borghese',1861).
-distance('Palazzo Massimo alle Terme','National Academy of San Luca',1210).
-distance('Palazzo Massimo alle Terme','Museo Carlo Bilotti',1836).
-distance('Palazzo Massimo alle Terme','Palazzo Wedekind',1562).
-distance('Palazzo Massimo alle Terme','Cloaca Maxima',2049).
-distance('Palazzo Massimo alle Terme','Temple of Apollo Palatinus',1848).
-distance('Palazzo Massimo alle Terme','Circus Maximus',1998).
-distance('Palazzo Massimo alle Terme','Mouth of Truth',2017).
-distance('Palazzo Massimo alle Terme','Basilica di Santa Sabina all Aventino',2408).
-distance('Palazzo Massimo alle Terme','Santa Maria in Cosmedin',2009).
-distance('Palazzo Massimo alle Terme','Non-Catholic Cemetery',3175).
-distance('Palazzo Massimo alle Terme','Basilica Santa Cecilia in Trastevere',2381).
-distance('Palazzo Massimo alle Terme','Mattatoio',3442).
-distance('Palazzo Massimo alle Terme','Pyramid of Caius Cestius',3102).
-distance('Palazzo Massimo alle Terme','Turtle Fountain',1902).
-distance('Palazzo Massimo alle Terme','Basilica di San Bartolomeo all Isola',2057).
-distance('Palazzo Massimo alle Terme','Chiesa di Santa Prisca',2353).
-distance('Palazzo Massimo alle Terme','Tempio Maggiore di Roma',1967).
-distance('Palazzo Massimo alle Terme','Portico of Octavia',1901).
-distance('Palazzo Massimo alle Terme','Basilica Santi Giovanni e Paolo',1715).
+distance('Basilica of San Pietro in Vincoli','Cloaca Maxima',1192).
+distance('Basilica of San Pietro in Vincoli','Temple of Apollo Palatinus',911).
+distance('Basilica of San Pietro in Vincoli','Circus Maximus',1059).
+distance('Basilica of San Pietro in Vincoli','Mouth of Truth',1132).
+distance('Basilica of San Pietro in Vincoli','Basilica di Santa Sabina all Aventino',1492).
+distance('Basilica of San Pietro in Vincoli','Santa Maria in Cosmedin',1122).
+distance('Basilica of San Pietro in Vincoli','Non-Catholic Cemetery',2230).
+distance('Basilica of San Pietro in Vincoli','Basilica di Santa Cecilia in Trastevere',1532).
+distance('Basilica of San Pietro in Vincoli','Mattatoio',2512).
+distance('Basilica of San Pietro in Vincoli','Pyramid of Caius Cestius',2157).
+distance('Basilica of San Pietro in Vincoli','Turtle Fountain',1264).
+distance('Basilica of San Pietro in Vincoli','Basilica di San Bartolomeo all Isola',1270).
+distance('Basilica of San Pietro in Vincoli','Chiesa di Santa Prisca',1410).
+distance('Basilica of San Pietro in Vincoli','Tempio Maggiore',1242).
+distance('Basilica of San Pietro in Vincoli','Portico of Octavia',1193).
+distance('Basilica of San Pietro in Vincoli','Basilica Santi Giovanni e Paolo',810).
+distance('National Roman Museum - Palazzo Massimo','Monument to Victor Emmanuel II',1455).
+distance('National Roman Museum - Palazzo Massimo','Campidoglio',1552).
+distance('National Roman Museum - Palazzo Massimo','Mercati di Traiano Museo dei Fori Imperiali',1173).
+distance('National Roman Museum - Palazzo Massimo','Equestrian Statue of Marcus Aurelius',1545).
+distance('National Roman Museum - Palazzo Massimo','Convento dei Frati Cappuccini',912).
+distance('National Roman Museum - Palazzo Massimo','Quirinal Palace',968).
+distance('National Roman Museum - Palazzo Massimo','Basilica di San Clemente',1321).
+distance('National Roman Museum - Palazzo Massimo','Chiesa di Sant  Ignazio di Loyola',1550).
+distance('National Roman Museum - Palazzo Massimo','Piazza Barberini',848).
+distance('National Roman Museum - Palazzo Massimo','Palazzo delle Esposizioni',701).
+distance('National Roman Museum - Palazzo Massimo','Chiesa del Gesu',1676).
+distance('National Roman Museum - Palazzo Massimo','Basilica di Santa Maria in Ara coeli',1477).
+distance('National Roman Museum - Palazzo Massimo','Palazzo Montecitorio',1624).
+distance('National Roman Museum - Palazzo Massimo','Domus Aurea',1197).
+distance('National Roman Museum - Palazzo Massimo','National Gallery of Ancient Art in Barberini Palace',737).
+distance('National Roman Museum - Palazzo Massimo','Doria Pamphili Gallery',1430).
+distance('National Roman Museum - Palazzo Massimo','Piazza Venezia',1436).
+distance('National Roman Museum - Palazzo Massimo','Pantheon',1798).
+distance('National Roman Museum - Palazzo Massimo','Basilica of Saint Mary of Minerva',1717).
+distance('National Roman Museum - Palazzo Massimo','Basilica of Saint Mary of the Angels and Martyrs',244).
+distance('National Roman Museum - Palazzo Massimo','Parrocchia Santa Maria Maggiore',639).
+distance('National Roman Museum - Palazzo Massimo','Mamertine Prison',1444).
+distance('National Roman Museum - Palazzo Massimo','Mose di Michelangelo',941).
+distance('National Roman Museum - Palazzo Massimo','Capanne di Romolo',1729).
+distance('National Roman Museum - Palazzo Massimo','Basilica San Silvestro in Capite',1465).
+distance('National Roman Museum - Palazzo Massimo','Basilica del Sacro Cuore di Gesu',371).
+distance('National Roman Museum - Palazzo Massimo','Largo di Torre Argentina',1889).
+distance('National Roman Museum - Palazzo Massimo','Chiesa di Santa Maria ai Monti',968).
+distance('National Roman Museum - Palazzo Massimo','Basilica of St Mark Evangelist at Campidoglio',1500).
+distance('National Roman Museum - Palazzo Massimo','St. Paul s Within the Walls',341).
+distance('National Roman Museum - Palazzo Massimo','Septimius Severus Arch',1454).
+distance('National Roman Museum - Palazzo Massimo','Palazzo Sciarra Colonna Carbognano',1420).
+distance('National Roman Museum - Palazzo Massimo','The Keats - Shelley House',1401).
+distance('National Roman Museum - Palazzo Massimo','Basilica Ulpia',1296).
+distance('National Roman Museum - Palazzo Massimo','Temple of Vesta',1454).
+distance('National Roman Museum - Palazzo Massimo','Chiesa San Marcello al Corso',1413).
+distance('National Roman Museum - Palazzo Massimo','San Stanislao alle Botteghe Oscure',1720).
+distance('National Roman Museum - Palazzo Massimo','Column of Phocas',1477).
+distance('National Roman Museum - Palazzo Massimo','Antoninus and Faustina Temple',1375).
+distance('National Roman Museum - Palazzo Massimo','Marcello Theater',1839).
+distance('National Roman Museum - Palazzo Massimo','Chiesa di Santa Maria in Portico in Campitelli',1824).
+distance('National Roman Museum - Palazzo Massimo','Church of Santa Maria della Vittoria',503).
+distance('National Roman Museum - Palazzo Massimo','The Last Judgment',3640).
+distance('National Roman Museum - Palazzo Massimo','Chiesa di Santo Stefano degli Abissini',3852).
+distance('National Roman Museum - Palazzo Massimo','Fontana di Piazza Farnese',2330).
+distance('National Roman Museum - Palazzo Massimo','Villa Abamelek',3724).
+distance('National Roman Museum - Palazzo Massimo','Palazzo Torres',2105).
+distance('National Roman Museum - Palazzo Massimo','Castel Sant Angelo',2662).
+distance('National Roman Museum - Palazzo Massimo','Vidoni Palace',2022).
+distance('National Roman Museum - Palazzo Massimo','Vatican Museums',3748).
+distance('National Roman Museum - Palazzo Massimo','Fontana di Piazza Nicosia',1963).
+distance('National Roman Museum - Palazzo Massimo','St. Peter s Basilica',3679).
+distance('National Roman Museum - Palazzo Massimo','Church Holy Spirit in Sassia',3090).
+distance('National Roman Museum - Palazzo Massimo','Parrocchia Santuario Santa Maria in Traspontina',2997).
+distance('National Roman Museum - Palazzo Massimo','Gardens of Vatican City',3993).
+distance('National Roman Museum - Palazzo Massimo','Fiumi Fountain',2104).
+distance('National Roman Museum - Palazzo Massimo','Sistine Chapel',3637).
+distance('National Roman Museum - Palazzo Massimo','Villa Farnesina',2706).
+distance('National Roman Museum - Palazzo Massimo','Palazzo Madama',2014).
+distance('National Roman Museum - Palazzo Massimo','Galleria Spada',2320).
+distance('National Roman Museum - Palazzo Massimo','Church of St. Louis of the French',1953).
+distance('National Roman Museum - Palazzo Massimo','St. Angelo Bridge',2640).
+distance('National Roman Museum - Palazzo Massimo','Palazzo Farnese',2390).
+distance('National Roman Museum - Palazzo Massimo','Sant Agnese in Agone',2149).
+distance('National Roman Museum - Palazzo Massimo','Botanical Garden of Rome',3101).
+distance('National Roman Museum - Palazzo Massimo','Chiesa di Santa Maria della Pace',2213).
+distance('National Roman Museum - Palazzo Massimo','Obelisco Agonale',2103).
+distance('National Roman Museum - Palazzo Massimo','Basilica of Santa Maria in Trastevere',2708).
+distance('National Roman Museum - Palazzo Massimo','Church of St Onuphrius at the Janiculum',3107).
+distance('National Roman Museum - Palazzo Massimo','Biblioteca Angelica',1975).
+distance('National Roman Museum - Palazzo Massimo','Campo de  Fiori',2274).
+distance('National Roman Museum - Palazzo Massimo','Piazza Navona',2102).
+distance('National Roman Museum - Palazzo Massimo','Corte Suprema di Cassazione',2370).
+distance('National Roman Museum - Palazzo Massimo','Museo di Roma - Palazzo Braschi',2158).
+distance('National Roman Museum - Palazzo Massimo','Church of Santa Maria in Vallicella',2440).
+distance('National Roman Museum - Palazzo Massimo','Church of San Pietro in Montorio',2984).
+distance('National Roman Museum - Palazzo Massimo','Saint Eligio of Orefici',2591).
+distance('National Roman Museum - Palazzo Massimo','Palazzo del Commendatore',2986).
+distance('National Roman Museum - Palazzo Massimo','Porta Santo Spirito',3041).
+distance('National Roman Museum - Palazzo Massimo','Bernini Fountain',3401).
+distance('National Roman Museum - Palazzo Massimo','Presepe dei Netturbini',3565).
+distance('National Roman Museum - Palazzo Massimo','Church of Saints Michael and Magnus',3090).
+distance('National Roman Museum - Palazzo Massimo','Museum Leonardo Da Vinci Experience',3046).
+distance('National Roman Museum - Palazzo Massimo','Vatican Necropolis',3664).
+distance('National Roman Museum - Palazzo Massimo','Apostolic Palace',3505).
+distance('National Roman Museum - Palazzo Massimo','Ponte Vittorio Emanuele II',2816).
+distance('National Roman Museum - Palazzo Massimo','Chiesa di Sant Anna dei Palafrenieri',3398).
+distance('National Roman Museum - Palazzo Massimo','Operativa Arte Contemporanea',2690).
+distance('National Roman Museum - Palazzo Massimo','Santa Maria del Suffragio',2671).
+distance('National Roman Museum - Palazzo Massimo','Vatican Apostolic Archive',3622).
+distance('National Roman Museum - Palazzo Massimo','Carriage Pavilion',3733).
+distance('National Roman Museum - Palazzo Massimo','Monastero Mater Ecclesi',3935).
+distance('National Roman Museum - Palazzo Massimo','Oratorio dei Filippini (Oratory of St Philip Neri)',2477).
+distance('National Roman Museum - Palazzo Massimo','House of Hospitality Paul VI',3873).
+distance('National Roman Museum - Palazzo Massimo','Chiesa di Santa Maria del Rosario in Prati',3400).
+distance('National Roman Museum - Palazzo Massimo','Welcome To Rome',2295).
+distance('National Roman Museum - Palazzo Massimo','Stadium of Domitian',2138).
+distance('National Roman Museum - Palazzo Massimo','Palazzo Pamphili',2141).
+distance('National Roman Museum - Palazzo Massimo','Fountain of the Moro',2112).
+distance('National Roman Museum - Palazzo Massimo','Cappella Chigi',2133).
+distance('National Roman Museum - Palazzo Massimo','Chiesa di Gesu e Maria',1868).
+distance('National Roman Museum - Palazzo Massimo','Villa Borghese',1689).
+distance('National Roman Museum - Palazzo Massimo','Passeggiata del Pincio',1801).
+distance('National Roman Museum - Palazzo Massimo','Borghese Gallery and Museum',1529).
+distance('National Roman Museum - Palazzo Massimo','National Gallery of Modern and Contemporary Art',2207).
+distance('National Roman Museum - Palazzo Massimo','Mausoleum of Augustus',1889).
+distance('National Roman Museum - Palazzo Massimo','Chiesa Parrocchiale San Giacomo in Augusta',1875).
+distance('National Roman Museum - Palazzo Massimo','Villa Medici',1516).
+distance('National Roman Museum - Palazzo Massimo','Basilica of Saint Lawrence in Lucina',1641).
+distance('National Roman Museum - Palazzo Massimo','Basilica of SS. Ambrose and Charles on the Corso',1708).
+distance('National Roman Museum - Palazzo Massimo','Giorgio de Chirico House Museum',1385).
+distance('National Roman Museum - Palazzo Massimo','Santa Maria in Montesanto',2029).
+distance('National Roman Museum - Palazzo Massimo','Fontana della Barcaccia',1423).
+distance('National Roman Museum - Palazzo Massimo','Museo Leonardo da Vinci',2136).
+distance('National Roman Museum - Palazzo Massimo','Explora - Il Museo dei Bambini di Roma',2475).
+distance('National Roman Museum - Palazzo Massimo','Orologio ad acqua del Pincio',1868).
+distance('National Roman Museum - Palazzo Massimo','Ponte Giacomo Matteotti',2706).
+distance('National Roman Museum - Palazzo Massimo','National Etruscan Museum of Villa Giulia',2555).
+distance('National Roman Museum - Palazzo Massimo','Fontana del Babuino',1708).
+distance('National Roman Museum - Palazzo Massimo','Fontana del Bottino',1429).
+distance('National Roman Museum - Palazzo Massimo','Trinita dei Monti',1335).
+distance('National Roman Museum - Palazzo Massimo','Galleria del Cembalo',1811).
+distance('National Roman Museum - Palazzo Massimo','Chiesa di Santa Maria in Via',1400).
+distance('National Roman Museum - Palazzo Massimo','Palazzo di Propaganda Fide',1307).
+distance('National Roman Museum - Palazzo Massimo','Basilica di Sant Andrea delle Fratte',1238).
+distance('National Roman Museum - Palazzo Massimo','Piazza del Popolo',2100).
+distance('National Roman Museum - Palazzo Massimo','Marcus Aurelius Column',1517).
+distance('National Roman Museum - Palazzo Massimo','Piazza di Siena',1657).
+distance('National Roman Museum - Palazzo Massimo','All Saints  Anglican Church Rome',1786).
+distance('National Roman Museum - Palazzo Massimo','Church of Saint Roch  all Augusteo ',1924).
+distance('National Roman Museum - Palazzo Massimo','Church of Our Lady in Trivio',1289).
+distance('National Roman Museum - Palazzo Massimo','Il Tempio di Adriano',1572).
+distance('National Roman Museum - Palazzo Massimo','Museo Civico di Zoologia',2160).
+distance('National Roman Museum - Palazzo Massimo','Basilica of St. Augustine in Campo Marzio',1990).
+distance('National Roman Museum - Palazzo Massimo','Hendrik Christian Anderson Museum',2561).
+distance('National Roman Museum - Palazzo Massimo','Goethe House',1945).
+distance('National Roman Museum - Palazzo Massimo','Institute of Japanese Culture',2506).
+distance('National Roman Museum - Palazzo Massimo','Villa Balestra',3026).
+distance('National Roman Museum - Palazzo Massimo','Palazzo Borghese',1861).
+distance('National Roman Museum - Palazzo Massimo','National Academy of San Luca',1210).
+distance('National Roman Museum - Palazzo Massimo','Museo Carlo Bilotti',1836).
+distance('National Roman Museum - Palazzo Massimo','Cloaca Maxima',2049).
+distance('National Roman Museum - Palazzo Massimo','Temple of Apollo Palatinus',1848).
+distance('National Roman Museum - Palazzo Massimo','Circus Maximus',1998).
+distance('National Roman Museum - Palazzo Massimo','Mouth of Truth',2017).
+distance('National Roman Museum - Palazzo Massimo','Basilica di Santa Sabina all Aventino',2408).
+distance('National Roman Museum - Palazzo Massimo','Santa Maria in Cosmedin',2009).
+distance('National Roman Museum - Palazzo Massimo','Non-Catholic Cemetery',3175).
+distance('National Roman Museum - Palazzo Massimo','Basilica di Santa Cecilia in Trastevere',2381).
+distance('National Roman Museum - Palazzo Massimo','Mattatoio',3442).
+distance('National Roman Museum - Palazzo Massimo','Pyramid of Caius Cestius',3102).
+distance('National Roman Museum - Palazzo Massimo','Turtle Fountain',1902).
+distance('National Roman Museum - Palazzo Massimo','Basilica di San Bartolomeo all Isola',2057).
+distance('National Roman Museum - Palazzo Massimo','Chiesa di Santa Prisca',2353).
+distance('National Roman Museum - Palazzo Massimo','Tempio Maggiore',1967).
+distance('National Roman Museum - Palazzo Massimo','Portico of Octavia',1901).
+distance('National Roman Museum - Palazzo Massimo','Basilica Santi Giovanni e Paolo',1715).
 distance('Monument to Victor Emmanuel II','Campidoglio',140).
 distance('Monument to Victor Emmanuel II','Mercati di Traiano Museo dei Fori Imperiali',283).
 distance('Monument to Victor Emmanuel II','Equestrian Statue of Marcus Aurelius',142).
@@ -5368,18 +5354,18 @@ distance('Monument to Victor Emmanuel II','Convento dei Frati Cappuccini',1218).
 distance('Monument to Victor Emmanuel II','Quirinal Palace',647).
 distance('Monument to Victor Emmanuel II','Basilica di San Clemente',1334).
 distance('Monument to Victor Emmanuel II','Chiesa di Sant  Ignazio di Loyola',534).
-distance('Monument to Victor Emmanuel II','Chiesa del Gesu',308).
 distance('Monument to Victor Emmanuel II','Piazza Barberini',1118).
 distance('Monument to Victor Emmanuel II','Palazzo delle Esposizioni',794).
+distance('Monument to Victor Emmanuel II','Chiesa del Gesu',345).
 distance('Monument to Victor Emmanuel II','Basilica di Santa Maria in Ara coeli',91).
-distance('Monument to Victor Emmanuel II','Palazzo Montecitorio',855).
+distance('Monument to Victor Emmanuel II','Palazzo Montecitorio',811).
 distance('Monument to Victor Emmanuel II','Domus Aurea',1126).
 distance('Monument to Victor Emmanuel II','National Gallery of Ancient Art in Barberini Palace',1113).
 distance('Monument to Victor Emmanuel II','Doria Pamphili Gallery',396).
 distance('Monument to Victor Emmanuel II','Piazza Venezia',137).
 distance('Monument to Victor Emmanuel II','Pantheon',684).
 distance('Monument to Victor Emmanuel II','Basilica of Saint Mary of Minerva',566).
-distance('Monument to Victor Emmanuel II','Santa Maria degli Angeli e dei Martiri',1491).
+distance('Monument to Victor Emmanuel II','Basilica of Saint Mary of the Angels and Martyrs',1491).
 distance('Monument to Victor Emmanuel II','Parrocchia Santa Maria Maggiore',1532).
 distance('Monument to Victor Emmanuel II','Mamertine Prison',188).
 distance('Monument to Victor Emmanuel II','Mose di Michelangelo',807).
@@ -5401,7 +5387,7 @@ distance('Monument to Victor Emmanuel II','Column of Phocas',277).
 distance('Monument to Victor Emmanuel II','Antoninus and Faustina Temple',402).
 distance('Monument to Victor Emmanuel II','Marcello Theater',398).
 distance('Monument to Victor Emmanuel II','Chiesa di Santa Maria in Portico in Campitelli',368).
-distance('Monument to Victor Emmanuel II','The Church of Santa Maria della Vittoria',1459).
+distance('Monument to Victor Emmanuel II','Church of Santa Maria della Vittoria',1459).
 distance('Monument to Victor Emmanuel II','The Last Judgment',2553).
 distance('Monument to Victor Emmanuel II','Chiesa di Santo Stefano degli Abissini',2716).
 distance('Monument to Victor Emmanuel II','Fontana di Piazza Farnese',970).
@@ -5418,10 +5404,10 @@ distance('Monument to Victor Emmanuel II','Gardens of Vatican City',2906).
 distance('Monument to Victor Emmanuel II','Fiumi Fountain',964).
 distance('Monument to Victor Emmanuel II','Sistine Chapel',2551).
 distance('Monument to Victor Emmanuel II','Villa Farnesina',1319).
-distance('Monument to Victor Emmanuel II','Church of St. Louis of the French',902).
 distance('Monument to Victor Emmanuel II','Palazzo Madama',906).
 distance('Monument to Victor Emmanuel II','Galleria Spada',930).
-distance('Monument to Victor Emmanuel II','St. Angelo Bridge',1596).
+distance('Monument to Victor Emmanuel II','Church of St. Louis of the French',888).
+distance('Monument to Victor Emmanuel II','St. Angelo Bridge',1604).
 distance('Monument to Victor Emmanuel II','Palazzo Farnese',1024).
 distance('Monument to Victor Emmanuel II','Sant Agnese in Agone',996).
 distance('Monument to Victor Emmanuel II','Botanical Garden of Rome',1703).
@@ -5434,8 +5420,8 @@ distance('Monument to Victor Emmanuel II','Campo de  Fiori',944).
 distance('Monument to Victor Emmanuel II','Piazza Navona',976).
 distance('Monument to Victor Emmanuel II','Corte Suprema di Cassazione',1563).
 distance('Monument to Victor Emmanuel II','Museo di Roma - Palazzo Braschi',923).
-distance('Monument to Victor Emmanuel II','Parrocchia Santa Maria in Vallicella',1236).
-distance('Monument to Victor Emmanuel II','Chiesa di San Pietro in Montorio',1532).
+distance('Monument to Victor Emmanuel II','Church of Santa Maria in Vallicella',1230).
+distance('Monument to Victor Emmanuel II','Church of San Pietro in Montorio',1532).
 distance('Monument to Victor Emmanuel II','Saint Eligio of Orefici',1268).
 distance('Monument to Victor Emmanuel II','Palazzo del Commendatore',1884).
 distance('Monument to Victor Emmanuel II','Porta Santo Spirito',1894).
@@ -5501,7 +5487,6 @@ distance('Monument to Victor Emmanuel II','Villa Balestra',3074).
 distance('Monument to Victor Emmanuel II','Palazzo Borghese',1209).
 distance('Monument to Victor Emmanuel II','National Academy of San Luca',778).
 distance('Monument to Victor Emmanuel II','Museo Carlo Bilotti',2088).
-distance('Monument to Victor Emmanuel II','Palazzo Wedekind',757).
 distance('Monument to Victor Emmanuel II','Cloaca Maxima',703).
 distance('Monument to Victor Emmanuel II','Temple of Apollo Palatinus',840).
 distance('Monument to Victor Emmanuel II','Circus Maximus',954).
@@ -5509,13 +5494,13 @@ distance('Monument to Victor Emmanuel II','Mouth of Truth',734).
 distance('Monument to Victor Emmanuel II','Basilica di Santa Sabina all Aventino',1154).
 distance('Monument to Victor Emmanuel II','Santa Maria in Cosmedin',734).
 distance('Monument to Victor Emmanuel II','Non-Catholic Cemetery',2053).
-distance('Monument to Victor Emmanuel II','Basilica Santa Cecilia in Trastevere',986).
+distance('Monument to Victor Emmanuel II','Basilica di Santa Cecilia in Trastevere',986).
 distance('Monument to Victor Emmanuel II','Mattatoio',2171).
 distance('Monument to Victor Emmanuel II','Pyramid of Caius Cestius',2019).
 distance('Monument to Victor Emmanuel II','Turtle Fountain',468).
 distance('Monument to Victor Emmanuel II','Basilica di San Bartolomeo all Isola',625).
 distance('Monument to Victor Emmanuel II','Chiesa di Santa Prisca',1280).
-distance('Monument to Victor Emmanuel II','Tempio Maggiore di Roma',512).
+distance('Monument to Victor Emmanuel II','Tempio Maggiore',512).
 distance('Monument to Victor Emmanuel II','Portico of Octavia',445).
 distance('Monument to Victor Emmanuel II','Basilica Santi Giovanni e Paolo',1170).
 distance('Campidoglio','Mercati di Traiano Museo dei Fori Imperiali',382).
@@ -5524,18 +5509,18 @@ distance('Campidoglio','Convento dei Frati Cappuccini',1356).
 distance('Campidoglio','Quirinal Palace',782).
 distance('Campidoglio','Basilica di San Clemente',1305).
 distance('Campidoglio','Chiesa di Sant  Ignazio di Loyola',646).
-distance('Campidoglio','Chiesa del Gesu',375).
 distance('Campidoglio','Piazza Barberini',1255).
 distance('Campidoglio','Palazzo delle Esposizioni',911).
+distance('Campidoglio','Chiesa del Gesu',402).
 distance('Campidoglio','Basilica di Santa Maria in Ara coeli',75).
-distance('Campidoglio','Palazzo Montecitorio',971).
+distance('Campidoglio','Palazzo Montecitorio',925).
 distance('Campidoglio','Domus Aurea',1105).
 distance('Campidoglio','National Gallery of Ancient Art in Barberini Palace',1247).
 distance('Campidoglio','Doria Pamphili Gallery',523).
 distance('Campidoglio','Piazza Venezia',268).
 distance('Campidoglio','Pantheon',763).
 distance('Campidoglio','Basilica of Saint Mary of Minerva',649).
-distance('Campidoglio','Santa Maria degli Angeli e dei Martiri',1602).
+distance('Campidoglio','Basilica of Saint Mary of the Angels and Martyrs',1602).
 distance('Campidoglio','Parrocchia Santa Maria Maggiore',1579).
 distance('Campidoglio','Mamertine Prison',141).
 distance('Campidoglio','Mose di Michelangelo',831).
@@ -5557,7 +5542,7 @@ distance('Campidoglio','Column of Phocas',198).
 distance('Campidoglio','Antoninus and Faustina Temple',355).
 distance('Campidoglio','Marcello Theater',287).
 distance('Campidoglio','Chiesa di Santa Maria in Portico in Campitelli',301).
-distance('Campidoglio','The Church of Santa Maria della Vittoria',1583).
+distance('Campidoglio','Church of Santa Maria della Vittoria',1583).
 distance('Campidoglio','The Last Judgment',2582).
 distance('Campidoglio','Chiesa di Santo Stefano degli Abissini',2734).
 distance('Campidoglio','Fontana di Piazza Farnese',960).
@@ -5574,10 +5559,10 @@ distance('Campidoglio','Gardens of Vatican City',2932).
 distance('Campidoglio','Fiumi Fountain',1018).
 distance('Campidoglio','Sistine Chapel',2579).
 distance('Campidoglio','Villa Farnesina',1287).
-distance('Campidoglio','Church of St. Louis of the French',973).
 distance('Campidoglio','Palazzo Madama',971).
 distance('Campidoglio','Galleria Spada',907).
-distance('Campidoglio','St. Angelo Bridge',1647).
+distance('Campidoglio','Church of St. Louis of the French',962).
+distance('Campidoglio','St. Angelo Bridge',1655).
 distance('Campidoglio','Palazzo Farnese',1009).
 distance('Campidoglio','Sant Agnese in Agone',1046).
 distance('Campidoglio','Botanical Garden of Rome',1661).
@@ -5590,8 +5575,8 @@ distance('Campidoglio','Campo de  Fiori',946).
 distance('Campidoglio','Piazza Navona',1033).
 distance('Campidoglio','Corte Suprema di Cassazione',1648).
 distance('Campidoglio','Museo di Roma - Palazzo Braschi',957).
-distance('Campidoglio','Parrocchia Santa Maria in Vallicella',1267).
-distance('Campidoglio','Chiesa di San Pietro in Montorio',1454).
+distance('Campidoglio','Church of Santa Maria in Vallicella',1258).
+distance('Campidoglio','Church of San Pietro in Montorio',1454).
 distance('Campidoglio','Saint Eligio of Orefici',1262).
 distance('Campidoglio','Palazzo del Commendatore',1918).
 distance('Campidoglio','Porta Santo Spirito',1920).
@@ -5657,7 +5642,6 @@ distance('Campidoglio','Villa Balestra',3201).
 distance('Campidoglio','Palazzo Borghese',1320).
 distance('Campidoglio','National Academy of San Luca',917).
 distance('Campidoglio','Museo Carlo Bilotti',2226).
-distance('Campidoglio','Palazzo Wedekind',875).
 distance('Campidoglio','Cloaca Maxima',565).
 distance('Campidoglio','Temple of Apollo Palatinus',719).
 distance('Campidoglio','Circus Maximus',825).
@@ -5665,13 +5649,13 @@ distance('Campidoglio','Mouth of Truth',594).
 distance('Campidoglio','Basilica di Santa Sabina all Aventino',1014).
 distance('Campidoglio','Santa Maria in Cosmedin',594).
 distance('Campidoglio','Non-Catholic Cemetery',1913).
-distance('Campidoglio','Basilica Santa Cecilia in Trastevere',858).
+distance('Campidoglio','Basilica di Santa Cecilia in Trastevere',858).
 distance('Campidoglio','Mattatoio',2034).
 distance('Campidoglio','Pyramid of Caius Cestius',1880).
 distance('Campidoglio','Turtle Fountain',436).
 distance('Campidoglio','Basilica di San Bartolomeo all Isola',508).
 distance('Campidoglio','Chiesa di Santa Prisca',1144).
-distance('Campidoglio','Tempio Maggiore di Roma',424).
+distance('Campidoglio','Tempio Maggiore',424).
 distance('Campidoglio','Portico of Octavia',366).
 distance('Campidoglio','Basilica Santi Giovanni e Paolo',1087).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Equestrian Statue of Marcus Aurelius',376).
@@ -5679,18 +5663,18 @@ distance('Mercati di Traiano Museo dei Fori Imperiali','Convento dei Frati Cappu
 distance('Mercati di Traiano Museo dei Fori Imperiali','Quirinal Palace',458).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Basilica di San Clemente',1172).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Chiesa di Sant  Ignazio di Loyola',632).
-distance('Mercati di Traiano Museo dei Fori Imperiali','Chiesa del Gesu',530).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Piazza Barberini',925).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Palazzo delle Esposizioni',533).
+distance('Mercati di Traiano Museo dei Fori Imperiali','Chiesa del Gesu',573).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Basilica di Santa Maria in Ara coeli',306).
-distance('Mercati di Traiano Museo dei Fori Imperiali','Palazzo Montecitorio',906).
+distance('Mercati di Traiano Museo dei Fori Imperiali','Palazzo Montecitorio',873).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Domus Aurea',956).
 distance('Mercati di Traiano Museo dei Fori Imperiali','National Gallery of Ancient Art in Barberini Palace',899).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Doria Pamphili Gallery',466).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Piazza Venezia',305).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Pantheon',845).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Basilica of Saint Mary of Minerva',730).
-distance('Mercati di Traiano Museo dei Fori Imperiali','Santa Maria degli Angeli e dei Martiri',1220).
+distance('Mercati di Traiano Museo dei Fori Imperiali','Basilica of Saint Mary of the Angels and Martyrs',1220).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Parrocchia Santa Maria Maggiore',1266).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Mamertine Prison',302).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Mose di Michelangelo',581).
@@ -5712,7 +5696,7 @@ distance('Mercati di Traiano Museo dei Fori Imperiali','Column of Phocas',371).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Antoninus and Faustina Temple',379).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Marcello Theater',668).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Chiesa di Santa Maria in Portico in Campitelli',652).
-distance('Mercati di Traiano Museo dei Fori Imperiali','The Church of Santa Maria della Vittoria',1211).
+distance('Mercati di Traiano Museo dei Fori Imperiali','Church of Santa Maria della Vittoria',1211).
 distance('Mercati di Traiano Museo dei Fori Imperiali','The Last Judgment',2760).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Chiesa di Santo Stefano degli Abissini',2935).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Fontana di Piazza Farnese',1230).
@@ -5729,10 +5713,10 @@ distance('Mercati di Traiano Museo dei Fori Imperiali','Gardens of Vatican City'
 distance('Mercati di Traiano Museo dei Fori Imperiali','Fiumi Fountain',1152).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Sistine Chapel',2757).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Villa Farnesina',1589).
-distance('Mercati di Traiano Museo dei Fori Imperiali','Church of St. Louis of the French',1065).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Palazzo Madama',1081).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Galleria Spada',1199).
-distance('Mercati di Traiano Museo dei Fori Imperiali','St. Angelo Bridge',1778).
+distance('Mercati di Traiano Museo dei Fori Imperiali','Church of St. Louis of the French',1047).
+distance('Mercati di Traiano Museo dei Fori Imperiali','St. Angelo Bridge',1783).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Palazzo Farnese',1286).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Sant Agnese in Agone',1190).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Botanical Garden of Rome',1977).
@@ -5745,8 +5729,8 @@ distance('Mercati di Traiano Museo dei Fori Imperiali','Campo de  Fiori',1194).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Piazza Navona',1161).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Corte Suprema di Cassazione',1680).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Museo di Roma - Palazzo Braschi',1142).
-distance('Mercati di Traiano Museo dei Fori Imperiali','Parrocchia Santa Maria in Vallicella',1452).
-distance('Mercati di Traiano Museo dei Fori Imperiali','Chiesa di San Pietro in Montorio',1816).
+distance('Mercati di Traiano Museo dei Fori Imperiali','Church of Santa Maria in Vallicella',1450).
+distance('Mercati di Traiano Museo dei Fori Imperiali','Church of San Pietro in Montorio',1816).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Saint Eligio of Orefici',1521).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Palazzo del Commendatore',2086).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Porta Santo Spirito',2108).
@@ -5812,7 +5796,6 @@ distance('Mercati di Traiano Museo dei Fori Imperiali','Villa Balestra',3041).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Palazzo Borghese',1262).
 distance('Mercati di Traiano Museo dei Fori Imperiali','National Academy of San Luca',694).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Museo Carlo Bilotti',1987).
-distance('Mercati di Traiano Museo dei Fori Imperiali','Palazzo Wedekind',807).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Cloaca Maxima',924).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Temple of Apollo Palatinus',922).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Circus Maximus',1060).
@@ -5820,31 +5803,31 @@ distance('Mercati di Traiano Museo dei Fori Imperiali','Mouth of Truth',926).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Basilica di Santa Sabina all Aventino',1348).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Santa Maria in Cosmedin',923).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Non-Catholic Cemetery',2219).
-distance('Mercati di Traiano Museo dei Fori Imperiali','Basilica Santa Cecilia in Trastevere',1235).
+distance('Mercati di Traiano Museo dei Fori Imperiali','Basilica di Santa Cecilia in Trastevere',1235).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Mattatoio',2384).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Pyramid of Caius Cestius',2173).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Turtle Fountain',747).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Basilica di San Bartolomeo all Isola',890).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Chiesa di Santa Prisca',1412).
-distance('Mercati di Traiano Museo dei Fori Imperiali','Tempio Maggiore di Roma',793).
+distance('Mercati di Traiano Museo dei Fori Imperiali','Tempio Maggiore',793).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Portico of Octavia',728).
 distance('Mercati di Traiano Museo dei Fori Imperiali','Basilica Santi Giovanni e Paolo',1128).
 distance('Equestrian Statue of Marcus Aurelius','Convento dei Frati Cappuccini',1356).
 distance('Equestrian Statue of Marcus Aurelius','Quirinal Palace',781).
 distance('Equestrian Statue of Marcus Aurelius','Basilica di San Clemente',1293).
 distance('Equestrian Statue of Marcus Aurelius','Chiesa di Sant  Ignazio di Loyola',654).
-distance('Equestrian Statue of Marcus Aurelius','Chiesa del Gesu',385).
 distance('Equestrian Statue of Marcus Aurelius','Piazza Barberini',1254).
 distance('Equestrian Statue of Marcus Aurelius','Palazzo delle Esposizioni',906).
+distance('Equestrian Statue of Marcus Aurelius','Chiesa del Gesu',412).
 distance('Equestrian Statue of Marcus Aurelius','Basilica di Santa Maria in Ara coeli',70).
-distance('Equestrian Statue of Marcus Aurelius','Palazzo Montecitorio',979).
+distance('Equestrian Statue of Marcus Aurelius','Palazzo Montecitorio',933).
 distance('Equestrian Statue of Marcus Aurelius','Domus Aurea',1094).
 distance('Equestrian Statue of Marcus Aurelius','National Gallery of Ancient Art in Barberini Palace',1245).
 distance('Equestrian Statue of Marcus Aurelius','Doria Pamphili Gallery',529).
 distance('Equestrian Statue of Marcus Aurelius','Piazza Venezia',272).
 distance('Equestrian Statue of Marcus Aurelius','Pantheon',773).
 distance('Equestrian Statue of Marcus Aurelius','Basilica of Saint Mary of Minerva',659).
-distance('Equestrian Statue of Marcus Aurelius','Santa Maria degli Angeli e dei Martiri',1596).
+distance('Equestrian Statue of Marcus Aurelius','Basilica of Saint Mary of the Angels and Martyrs',1596).
 distance('Equestrian Statue of Marcus Aurelius','Parrocchia Santa Maria Maggiore',1569).
 distance('Equestrian Statue of Marcus Aurelius','Mamertine Prison',130).
 distance('Equestrian Statue of Marcus Aurelius','Mose di Michelangelo',820).
@@ -5866,7 +5849,7 @@ distance('Equestrian Statue of Marcus Aurelius','Column of Phocas',186).
 distance('Equestrian Statue of Marcus Aurelius','Antoninus and Faustina Temple',344).
 distance('Equestrian Statue of Marcus Aurelius','Marcello Theater',295).
 distance('Equestrian Statue of Marcus Aurelius','Chiesa di Santa Maria in Portico in Campitelli',312).
-distance('Equestrian Statue of Marcus Aurelius','The Church of Santa Maria della Vittoria',1580).
+distance('Equestrian Statue of Marcus Aurelius','Church of Santa Maria della Vittoria',1580).
 distance('Equestrian Statue of Marcus Aurelius','The Last Judgment',2593).
 distance('Equestrian Statue of Marcus Aurelius','Chiesa di Santo Stefano degli Abissini',2745).
 distance('Equestrian Statue of Marcus Aurelius','Fontana di Piazza Farnese',971).
@@ -5883,10 +5866,10 @@ distance('Equestrian Statue of Marcus Aurelius','Gardens of Vatican City',2944).
 distance('Equestrian Statue of Marcus Aurelius','Fiumi Fountain',1029).
 distance('Equestrian Statue of Marcus Aurelius','Sistine Chapel',2591).
 distance('Equestrian Statue of Marcus Aurelius','Villa Farnesina',1298).
-distance('Equestrian Statue of Marcus Aurelius','Church of St. Louis of the French',983).
 distance('Equestrian Statue of Marcus Aurelius','Palazzo Madama',982).
 distance('Equestrian Statue of Marcus Aurelius','Galleria Spada',919).
-distance('Equestrian Statue of Marcus Aurelius','St. Angelo Bridge',1659).
+distance('Equestrian Statue of Marcus Aurelius','Church of St. Louis of the French',972).
+distance('Equestrian Statue of Marcus Aurelius','St. Angelo Bridge',1666).
 distance('Equestrian Statue of Marcus Aurelius','Palazzo Farnese',1020).
 distance('Equestrian Statue of Marcus Aurelius','Sant Agnese in Agone',1057).
 distance('Equestrian Statue of Marcus Aurelius','Botanical Garden of Rome',1672).
@@ -5899,8 +5882,8 @@ distance('Equestrian Statue of Marcus Aurelius','Campo de  Fiori',958).
 distance('Equestrian Statue of Marcus Aurelius','Piazza Navona',1044).
 distance('Equestrian Statue of Marcus Aurelius','Corte Suprema di Cassazione',1658).
 distance('Equestrian Statue of Marcus Aurelius','Museo di Roma - Palazzo Braschi',968).
-distance('Equestrian Statue of Marcus Aurelius','Parrocchia Santa Maria in Vallicella',1278).
-distance('Equestrian Statue of Marcus Aurelius','Chiesa di San Pietro in Montorio',1463).
+distance('Equestrian Statue of Marcus Aurelius','Church of Santa Maria in Vallicella',1269).
+distance('Equestrian Statue of Marcus Aurelius','Church of San Pietro in Montorio',1463).
 distance('Equestrian Statue of Marcus Aurelius','Saint Eligio of Orefici',1274).
 distance('Equestrian Statue of Marcus Aurelius','Palazzo del Commendatore',1930).
 distance('Equestrian Statue of Marcus Aurelius','Porta Santo Spirito',1932).
@@ -5966,7 +5949,6 @@ distance('Equestrian Statue of Marcus Aurelius','Villa Balestra',3207).
 distance('Equestrian Statue of Marcus Aurelius','Palazzo Borghese',1328).
 distance('Equestrian Statue of Marcus Aurelius','National Academy of San Luca',920).
 distance('Equestrian Statue of Marcus Aurelius','Museo Carlo Bilotti',2230).
-distance('Equestrian Statue of Marcus Aurelius','Palazzo Wedekind',882).
 distance('Equestrian Statue of Marcus Aurelius','Cloaca Maxima',566).
 distance('Equestrian Statue of Marcus Aurelius','Temple of Apollo Palatinus',711).
 distance('Equestrian Statue of Marcus Aurelius','Circus Maximus',819).
@@ -5974,30 +5956,30 @@ distance('Equestrian Statue of Marcus Aurelius','Mouth of Truth',592).
 distance('Equestrian Statue of Marcus Aurelius','Basilica di Santa Sabina all Aventino',1014).
 distance('Equestrian Statue of Marcus Aurelius','Santa Maria in Cosmedin',592).
 distance('Equestrian Statue of Marcus Aurelius','Non-Catholic Cemetery',1911).
-distance('Equestrian Statue of Marcus Aurelius','Basilica Santa Cecilia in Trastevere',862).
+distance('Equestrian Statue of Marcus Aurelius','Basilica di Santa Cecilia in Trastevere',862).
 distance('Equestrian Statue of Marcus Aurelius','Mattatoio',2034).
 distance('Equestrian Statue of Marcus Aurelius','Pyramid of Caius Cestius',1877).
 distance('Equestrian Statue of Marcus Aurelius','Turtle Fountain',448).
 distance('Equestrian Statue of Marcus Aurelius','Basilica di San Bartolomeo all Isola',513).
 distance('Equestrian Statue of Marcus Aurelius','Chiesa di Santa Prisca',1139).
-distance('Equestrian Statue of Marcus Aurelius','Tempio Maggiore di Roma',433).
+distance('Equestrian Statue of Marcus Aurelius','Tempio Maggiore',433).
 distance('Equestrian Statue of Marcus Aurelius','Portico of Octavia',375).
 distance('Equestrian Statue of Marcus Aurelius','Basilica Santi Giovanni e Paolo',1076).
 distance('Convento dei Frati Cappuccini','Quirinal Palace',580).
 distance('Convento dei Frati Cappuccini','Basilica di San Clemente',1883).
 distance('Convento dei Frati Cappuccini','Chiesa di Sant  Ignazio di Loyola',978).
-distance('Convento dei Frati Cappuccini','Chiesa del Gesu',1217).
 distance('Convento dei Frati Cappuccini','Piazza Barberini',119).
 distance('Convento dei Frati Cappuccini','Palazzo delle Esposizioni',615).
+distance('Convento dei Frati Cappuccini','Chiesa del Gesu',1244).
 distance('Convento dei Frati Cappuccini','Basilica di Santa Maria in Ara coeli',1290).
-distance('Convento dei Frati Cappuccini','Palazzo Montecitorio',878).
+distance('Convento dei Frati Cappuccini','Palazzo Montecitorio',905).
 distance('Convento dei Frati Cappuccini','Domus Aurea',1689).
 distance('Convento dei Frati Cappuccini','National Gallery of Ancient Art in Barberini Palace',208).
 distance('Convento dei Frati Cappuccini','Doria Pamphili Gallery',949).
 distance('Convento dei Frati Cappuccini','Piazza Venezia',1117).
 distance('Convento dei Frati Cappuccini','Pantheon',1179).
 distance('Convento dei Frati Cappuccini','Basilica of Saint Mary of Minerva',1148).
-distance('Convento dei Frati Cappuccini','Santa Maria degli Angeli e dei Martiri',732).
+distance('Convento dei Frati Cappuccini','Basilica of Saint Mary of the Angels and Martyrs',732).
 distance('Convento dei Frati Cappuccini','Parrocchia Santa Maria Maggiore',1466).
 distance('Convento dei Frati Cappuccini','Mamertine Prison',1326).
 distance('Convento dei Frati Cappuccini','Mose di Michelangelo',1280).
@@ -6019,7 +6001,7 @@ distance('Convento dei Frati Cappuccini','Column of Phocas',1405).
 distance('Convento dei Frati Cappuccini','Antoninus and Faustina Temple',1404).
 distance('Convento dei Frati Cappuccini','Marcello Theater',1597).
 distance('Convento dei Frati Cappuccini','Chiesa di Santa Maria in Portico in Campitelli',1515).
-distance('Convento dei Frati Cappuccini','The Church of Santa Maria della Vittoria',496).
+distance('Convento dei Frati Cappuccini','Church of Santa Maria della Vittoria',496).
 distance('Convento dei Frati Cappuccini','The Last Judgment',2823).
 distance('Convento dei Frati Cappuccini','Chiesa di Santo Stefano degli Abissini',3051).
 distance('Convento dei Frati Cappuccini','Fontana di Piazza Farnese',1780).
@@ -6036,10 +6018,10 @@ distance('Convento dei Frati Cappuccini','Gardens of Vatican City',3167).
 distance('Convento dei Frati Cappuccini','Fiumi Fountain',1427).
 distance('Convento dei Frati Cappuccini','Sistine Chapel',2821).
 distance('Convento dei Frati Cappuccini','Villa Farnesina',2150).
-distance('Convento dei Frati Cappuccini','Church of St. Louis of the French',1288).
 distance('Convento dei Frati Cappuccini','Palazzo Madama',1336).
 distance('Convento dei Frati Cappuccini','Galleria Spada',1806).
-distance('Convento dei Frati Cappuccini','St. Angelo Bridge',1850).
+distance('Convento dei Frati Cappuccini','Church of St. Louis of the French',1266).
+distance('Convento dei Frati Cappuccini','St. Angelo Bridge',1849).
 distance('Convento dei Frati Cappuccini','Palazzo Farnese',1840).
 distance('Convento dei Frati Cappuccini','Sant Agnese in Agone',1473).
 distance('Convento dei Frati Cappuccini','Botanical Garden of Rome',2535).
@@ -6052,8 +6034,8 @@ distance('Convento dei Frati Cappuccini','Campo de  Fiori',1703).
 distance('Convento dei Frati Cappuccini','Piazza Navona',1418).
 distance('Convento dei Frati Cappuccini','Corte Suprema di Cassazione',1517).
 distance('Convento dei Frati Cappuccini','Museo di Roma - Palazzo Braschi',1531).
-distance('Convento dei Frati Cappuccini','Parrocchia Santa Maria in Vallicella',1744).
-distance('Convento dei Frati Cappuccini','Chiesa di San Pietro in Montorio',2554).
+distance('Convento dei Frati Cappuccini','Church of Santa Maria in Vallicella',1758).
+distance('Convento dei Frati Cappuccini','Church of San Pietro in Montorio',2554).
 distance('Convento dei Frati Cappuccini','Saint Eligio of Orefici',1978).
 distance('Convento dei Frati Cappuccini','Palazzo del Commendatore',2201).
 distance('Convento dei Frati Cappuccini','Porta Santo Spirito',2275).
@@ -6119,7 +6101,6 @@ distance('Convento dei Frati Cappuccini','Villa Balestra',2203).
 distance('Convento dei Frati Cappuccini','Palazzo Borghese',1015).
 distance('Convento dei Frati Cappuccini','National Academy of San Luca',531).
 distance('Convento dei Frati Cappuccini','Museo Carlo Bilotti',1040).
-distance('Convento dei Frati Cappuccini','Palazzo Wedekind',865).
 distance('Convento dei Frati Cappuccini','Cloaca Maxima',1922).
 distance('Convento dei Frati Cappuccini','Temple of Apollo Palatinus',1954).
 distance('Convento dei Frati Cappuccini','Circus Maximus',2095).
@@ -6127,29 +6108,29 @@ distance('Convento dei Frati Cappuccini','Mouth of Truth',1945).
 distance('Convento dei Frati Cappuccini','Basilica di Santa Sabina all Aventino',2369).
 distance('Convento dei Frati Cappuccini','Santa Maria in Cosmedin',1944).
 distance('Convento dei Frati Cappuccini','Non-Catholic Cemetery',3253).
-distance('Convento dei Frati Cappuccini','Basilica Santa Cecilia in Trastevere',2192).
+distance('Convento dei Frati Cappuccini','Basilica di Santa Cecilia in Trastevere',2192).
 distance('Convento dei Frati Cappuccini','Mattatoio',3390).
 distance('Convento dei Frati Cappuccini','Pyramid of Caius Cestius',3209).
 distance('Convento dei Frati Cappuccini','Turtle Fountain',1516).
 distance('Convento dei Frati Cappuccini','Basilica di San Bartolomeo all Isola',1819).
 distance('Convento dei Frati Cappuccini','Chiesa di Santa Prisca',2449).
-distance('Convento dei Frati Cappuccini','Tempio Maggiore di Roma',1665).
+distance('Convento dei Frati Cappuccini','Tempio Maggiore',1665).
 distance('Convento dei Frati Cappuccini','Portico of Octavia',1594).
 distance('Convento dei Frati Cappuccini','Basilica Santi Giovanni e Paolo',2063).
 distance('Quirinal Palace','Basilica di San Clemente',1464).
 distance('Quirinal Palace','Chiesa di Sant  Ignazio di Loyola',582).
-distance('Quirinal Palace','Chiesa del Gesu',713).
 distance('Quirinal Palace','Piazza Barberini',474).
 distance('Quirinal Palace','Palazzo delle Esposizioni',283).
+distance('Quirinal Palace','Chiesa del Gesu',749).
 distance('Quirinal Palace','Basilica di Santa Maria in Ara coeli',713).
-distance('Quirinal Palace','Palazzo Montecitorio',694).
+distance('Quirinal Palace','Palazzo Montecitorio',686).
 distance('Quirinal Palace','Domus Aurea',1252).
 distance('Quirinal Palace','National Gallery of Ancient Art in Barberini Palace',467).
 distance('Quirinal Palace','Doria Pamphili Gallery',473).
 distance('Quirinal Palace','Piazza Venezia',562).
 distance('Quirinal Palace','Pantheon',830).
 distance('Quirinal Palace','Basilica of Saint Mary of Minerva',750).
-distance('Quirinal Palace','Santa Maria degli Angeli e dei Martiri',926).
+distance('Quirinal Palace','Basilica of Saint Mary of the Angels and Martyrs',926).
 distance('Quirinal Palace','Parrocchia Santa Maria Maggiore',1292).
 distance('Quirinal Palace','Mamertine Prison',745).
 distance('Quirinal Palace','Mose di Michelangelo',830).
@@ -6171,7 +6152,7 @@ distance('Quirinal Palace','Column of Phocas',825).
 distance('Quirinal Palace','Antoninus and Faustina Temple',833).
 distance('Quirinal Palace','Marcello Theater',1038).
 distance('Quirinal Palace','Chiesa di Santa Maria in Portico in Campitelli',973).
-distance('Quirinal Palace','The Church of Santa Maria della Vittoria',837).
+distance('Quirinal Palace','Church of Santa Maria della Vittoria',837).
 distance('Quirinal Palace','The Last Judgment',2703).
 distance('Quirinal Palace','Chiesa di Santo Stefano degli Abissini',2906).
 distance('Quirinal Palace','Fontana di Piazza Farnese',1375).
@@ -6188,10 +6169,10 @@ distance('Quirinal Palace','Gardens of Vatican City',3060).
 distance('Quirinal Palace','Fiumi Fountain',1137).
 distance('Quirinal Palace','Sistine Chapel',2701).
 distance('Quirinal Palace','Villa Farnesina',1754).
-distance('Quirinal Palace','Church of St. Louis of the French',1014).
 distance('Quirinal Palace','Palazzo Madama',1048).
 distance('Quirinal Palace','Galleria Spada',1376).
-distance('Quirinal Palace','St. Angelo Bridge',1699).
+distance('Quirinal Palace','Church of St. Louis of the French',991).
+distance('Quirinal Palace','St. Angelo Bridge',1701).
 distance('Quirinal Palace','Palazzo Farnese',1436).
 distance('Quirinal Palace','Sant Agnese in Agone',1183).
 distance('Quirinal Palace','Botanical Garden of Rome',2150).
@@ -6204,8 +6185,8 @@ distance('Quirinal Palace','Campo de  Fiori',1314).
 distance('Quirinal Palace','Piazza Navona',1137).
 distance('Quirinal Palace','Corte Suprema di Cassazione',1490).
 distance('Quirinal Palace','Museo di Roma - Palazzo Braschi',1190).
-distance('Quirinal Palace','Parrocchia Santa Maria in Vallicella',1467).
-distance('Quirinal Palace','Chiesa di San Pietro in Montorio',2085).
+distance('Quirinal Palace','Church of Santa Maria in Vallicella',1472).
+distance('Quirinal Palace','Church of San Pietro in Montorio',2085).
 distance('Quirinal Palace','Saint Eligio of Orefici',1627).
 distance('Quirinal Palace','Palazzo del Commendatore',2039).
 distance('Quirinal Palace','Porta Santo Spirito',2085).
@@ -6271,7 +6252,6 @@ distance('Quirinal Palace','Villa Balestra',2633).
 distance('Quirinal Palace','Palazzo Borghese',1005).
 distance('Quirinal Palace','National Academy of San Luca',326).
 distance('Quirinal Palace','Museo Carlo Bilotti',1542).
-distance('Quirinal Palace','Palazzo Wedekind',618).
 distance('Quirinal Palace','Cloaca Maxima',1348).
 distance('Quirinal Palace','Temple of Apollo Palatinus',1381).
 distance('Quirinal Palace','Circus Maximus',1518).
@@ -6279,28 +6259,28 @@ distance('Quirinal Palace','Mouth of Truth',1366).
 distance('Quirinal Palace','Basilica di Santa Sabina all Aventino',1790).
 distance('Quirinal Palace','Santa Maria in Cosmedin',1365).
 distance('Quirinal Palace','Non-Catholic Cemetery',2672).
-distance('Quirinal Palace','Basilica Santa Cecilia in Trastevere',1631).
+distance('Quirinal Palace','Basilica di Santa Cecilia in Trastevere',1631).
 distance('Quirinal Palace','Mattatoio',2816).
 distance('Quirinal Palace','Pyramid of Caius Cestius',2629).
 distance('Quirinal Palace','Turtle Fountain',1006).
 distance('Quirinal Palace','Basilica di San Bartolomeo all Isola',1264).
 distance('Quirinal Palace','Chiesa di Santa Prisca',1870).
-distance('Quirinal Palace','Tempio Maggiore di Roma',1125).
+distance('Quirinal Palace','Tempio Maggiore',1125).
 distance('Quirinal Palace','Portico of Octavia',1054).
 distance('Quirinal Palace','Basilica Santi Giovanni e Paolo',1540).
 distance('Basilica di San Clemente','Chiesa di Sant  Ignazio di Loyola',1803).
-distance('Basilica di San Clemente','Chiesa del Gesu',1642).
 distance('Basilica di San Clemente','Piazza Barberini',1768).
 distance('Basilica di San Clemente','Palazzo delle Esposizioni',1282).
+distance('Basilica di San Clemente','Chiesa del Gesu',1679).
 distance('Basilica di San Clemente','Basilica di Santa Maria in Ara coeli',1271).
-distance('Basilica di San Clemente','Palazzo Montecitorio',2070).
+distance('Basilica di San Clemente','Palazzo Montecitorio',2041).
 distance('Basilica di San Clemente','Domus Aurea',216).
 distance('Basilica di San Clemente','National Gallery of Ancient Art in Barberini Palace',1678).
 distance('Basilica di San Clemente','Doria Pamphili Gallery',1638).
 distance('Basilica di San Clemente','Piazza Venezia',1435).
 distance('Basilica di San Clemente','Pantheon',2003).
 distance('Basilica di San Clemente','Basilica of Saint Mary of Minerva',1886).
-distance('Basilica di San Clemente','Santa Maria degli Angeli e dei Martiri',1539).
+distance('Basilica di San Clemente','Basilica of Saint Mary of the Angels and Martyrs',1539).
 distance('Basilica di San Clemente','Parrocchia Santa Maria Maggiore',808).
 distance('Basilica di San Clemente','Mamertine Prison',1168).
 distance('Basilica di San Clemente','Mose di Michelangelo',634).
@@ -6322,7 +6302,7 @@ distance('Basilica di San Clemente','Column of Phocas',1110).
 distance('Basilica di San Clemente','Antoninus and Faustina Temple',949).
 distance('Basilica di San Clemente','Marcello Theater',1494).
 distance('Basilica di San Clemente','Chiesa di Santa Maria in Portico in Campitelli',1580).
-distance('Basilica di San Clemente','The Church of Santa Maria della Vittoria',1727).
+distance('Basilica di San Clemente','Church of Santa Maria della Vittoria',1727).
 distance('Basilica di San Clemente','The Last Judgment',3884).
 distance('Basilica di San Clemente','Chiesa di Santo Stefano degli Abissini',4039).
 distance('Basilica di San Clemente','Fontana di Piazza Farnese',2258).
@@ -6339,10 +6319,10 @@ distance('Basilica di San Clemente','Gardens of Vatican City',4236).
 distance('Basilica di San Clemente','Fiumi Fountain',2296).
 distance('Basilica di San Clemente','Sistine Chapel',3882).
 distance('Basilica di San Clemente','Villa Farnesina',2557).
-distance('Basilica di San Clemente','Church of St. Louis of the French',2224).
 distance('Basilica di San Clemente','Palazzo Madama',2234).
 distance('Basilica di San Clemente','Galleria Spada',2196).
-distance('Basilica di San Clemente','St. Angelo Bridge',2929).
+distance('Basilica di San Clemente','Church of St. Louis of the French',2208).
+distance('Basilica di San Clemente','St. Angelo Bridge',2936).
 distance('Basilica di San Clemente','Palazzo Farnese',2303).
 distance('Basilica di San Clemente','Sant Agnese in Agone',2329).
 distance('Basilica di San Clemente','Botanical Garden of Rome',2902).
@@ -6355,8 +6335,8 @@ distance('Basilica di San Clemente','Campo de  Fiori',2250).
 distance('Basilica di San Clemente','Piazza Navona',2307).
 distance('Basilica di San Clemente','Corte Suprema di Cassazione',2852).
 distance('Basilica di San Clemente','Museo di Roma - Palazzo Braschi',2255).
-distance('Basilica di San Clemente','Parrocchia Santa Maria in Vallicella',2567).
-distance('Basilica di San Clemente','Chiesa di San Pietro in Montorio',2587).
+distance('Basilica di San Clemente','Church of Santa Maria in Vallicella',2560).
+distance('Basilica di San Clemente','Church of San Pietro in Montorio',2587).
 distance('Basilica di San Clemente','Saint Eligio of Orefici',2561).
 distance('Basilica di San Clemente','Palazzo del Commendatore',3217).
 distance('Basilica di San Clemente','Porta Santo Spirito',3224).
@@ -6422,7 +6402,6 @@ distance('Basilica di San Clemente','Villa Balestra',4072).
 distance('Basilica di San Clemente','Palazzo Borghese',2422).
 distance('Basilica di San Clemente','National Academy of San Luca',1783).
 distance('Basilica di San Clemente','Museo Carlo Bilotti',2923).
-distance('Basilica di San Clemente','Palazzo Wedekind',1973).
 distance('Basilica di San Clemente','Cloaca Maxima',1445).
 distance('Basilica di San Clemente','Temple of Apollo Palatinus',987).
 distance('Basilica di San Clemente','Circus Maximus',1092).
@@ -6430,27 +6409,27 @@ distance('Basilica di San Clemente','Mouth of Truth',1345).
 distance('Basilica di San Clemente','Basilica di Santa Sabina all Aventino',1572).
 distance('Basilica di San Clemente','Santa Maria in Cosmedin',1330).
 distance('Basilica di San Clemente','Non-Catholic Cemetery',2084).
-distance('Basilica di San Clemente','Basilica Santa Cecilia in Trastevere',1759).
+distance('Basilica di San Clemente','Basilica di Santa Cecilia in Trastevere',1759).
 distance('Basilica di San Clemente','Mattatoio',2471).
 distance('Basilica di San Clemente','Pyramid of Caius Cestius',1987).
 distance('Basilica di San Clemente','Turtle Fountain',1733).
 distance('Basilica di San Clemente','Basilica di San Bartolomeo all Isola',1610).
 distance('Basilica di San Clemente','Chiesa di Santa Prisca',1350).
-distance('Basilica di San Clemente','Tempio Maggiore di Roma',1648).
+distance('Basilica di San Clemente','Tempio Maggiore',1648).
 distance('Basilica di San Clemente','Portico of Octavia',1618).
 distance('Basilica di San Clemente','Basilica Santi Giovanni e Paolo',553).
-distance('Chiesa di Sant  Ignazio di Loyola','Chiesa del Gesu',314).
 distance('Chiesa di Sant  Ignazio di Loyola','Piazza Barberini',917).
 distance('Chiesa di Sant  Ignazio di Loyola','Palazzo delle Esposizioni',856).
+distance('Chiesa di Sant  Ignazio di Loyola','Chiesa del Gesu',319).
 distance('Chiesa di Sant  Ignazio di Loyola','Basilica di Santa Maria in Ara coeli',624).
-distance('Chiesa di Sant  Ignazio di Loyola','Palazzo Montecitorio',326).
+distance('Chiesa di Sant  Ignazio di Loyola','Palazzo Montecitorio',279).
 distance('Chiesa di Sant  Ignazio di Loyola','Domus Aurea',1588).
 distance('Chiesa di Sant  Ignazio di Loyola','National Gallery of Ancient Art in Barberini Palace',966).
 distance('Chiesa di Sant  Ignazio di Loyola','Doria Pamphili Gallery',165).
 distance('Chiesa di Sant  Ignazio di Loyola','Piazza Venezia',400).
 distance('Chiesa di Sant  Ignazio di Loyola','Pantheon',249).
 distance('Chiesa di Sant  Ignazio di Loyola','Basilica of Saint Mary of Minerva',175).
-distance('Chiesa di Sant  Ignazio di Loyola','Santa Maria degli Angeli e dei Martiri',1499).
+distance('Chiesa di Sant  Ignazio di Loyola','Basilica of Saint Mary of the Angels and Martyrs',1499).
 distance('Chiesa di Sant  Ignazio di Loyola','Parrocchia Santa Maria Maggiore',1821).
 distance('Chiesa di Sant  Ignazio di Loyola','Mamertine Prison',721).
 distance('Chiesa di Sant  Ignazio di Loyola','Mose di Michelangelo',1206).
@@ -6472,7 +6451,7 @@ distance('Chiesa di Sant  Ignazio di Loyola','Column of Phocas',812).
 distance('Chiesa di Sant  Ignazio di Loyola','Antoninus and Faustina Temple',924).
 distance('Chiesa di Sant  Ignazio di Loyola','Marcello Theater',757).
 distance('Chiesa di Sant  Ignazio di Loyola','Chiesa di Santa Maria in Portico in Campitelli',635).
-distance('Chiesa di Sant  Ignazio di Loyola','The Church of Santa Maria della Vittoria',1372).
+distance('Chiesa di Sant  Ignazio di Loyola','Church of Santa Maria della Vittoria',1372).
 distance('Chiesa di Sant  Ignazio di Loyola','The Last Judgment',2159).
 distance('Chiesa di Sant  Ignazio di Loyola','Chiesa di Santo Stefano degli Abissini',2349).
 distance('Chiesa di Sant  Ignazio di Loyola','Fontana di Piazza Farnese',813).
@@ -6489,10 +6468,10 @@ distance('Chiesa di Sant  Ignazio di Loyola','Gardens of Vatican City',2517).
 distance('Chiesa di Sant  Ignazio di Loyola','Fiumi Fountain',563).
 distance('Chiesa di Sant  Ignazio di Loyola','Sistine Chapel',2157).
 distance('Chiesa di Sant  Ignazio di Loyola','Villa Farnesina',1190).
-distance('Chiesa di Sant  Ignazio di Loyola','Church of St. Louis of the French',451).
 distance('Chiesa di Sant  Ignazio di Loyola','Palazzo Madama',478).
 distance('Chiesa di Sant  Ignazio di Loyola','Galleria Spada',830).
-distance('Chiesa di Sant  Ignazio di Loyola','St. Angelo Bridge',1162).
+distance('Chiesa di Sant  Ignazio di Loyola','Church of St. Louis of the French',430).
+distance('Chiesa di Sant  Ignazio di Loyola','St. Angelo Bridge',1167).
 distance('Chiesa di Sant  Ignazio di Loyola','Palazzo Farnese',874).
 distance('Chiesa di Sant  Ignazio di Loyola','Sant Agnese in Agone',607).
 distance('Chiesa di Sant  Ignazio di Loyola','Botanical Garden of Rome',1584).
@@ -6505,8 +6484,8 @@ distance('Chiesa di Sant  Ignazio di Loyola','Campo de  Fiori',744).
 distance('Chiesa di Sant  Ignazio di Loyola','Piazza Navona',565).
 distance('Chiesa di Sant  Ignazio di Loyola','Corte Suprema di Cassazione',1050).
 distance('Chiesa di Sant  Ignazio di Loyola','Museo di Roma - Palazzo Braschi',607).
-distance('Chiesa di Sant  Ignazio di Loyola','Parrocchia Santa Maria in Vallicella',889).
-distance('Chiesa di Sant  Ignazio di Loyola','Chiesa di San Pietro in Montorio',1576).
+distance('Chiesa di Sant  Ignazio di Loyola','Church of Santa Maria in Vallicella',893).
+distance('Chiesa di Sant  Ignazio di Loyola','Church of San Pietro in Montorio',1576).
 distance('Chiesa di Sant  Ignazio di Loyola','Saint Eligio of Orefici',1048).
 distance('Chiesa di Sant  Ignazio di Loyola','Palazzo del Commendatore',1487).
 distance('Chiesa di Sant  Ignazio di Loyola','Porta Santo Spirito',1523).
@@ -6572,7 +6551,6 @@ distance('Chiesa di Sant  Ignazio di Loyola','Villa Balestra',2563).
 distance('Chiesa di Sant  Ignazio di Loyola','Palazzo Borghese',674).
 distance('Chiesa di Sant  Ignazio di Loyola','National Academy of San Luca',447).
 distance('Chiesa di Sant  Ignazio di Loyola','Museo Carlo Bilotti',1651).
-distance('Chiesa di Sant  Ignazio di Loyola','Palazzo Wedekind',233).
 distance('Chiesa di Sant  Ignazio di Loyola','Cloaca Maxima',1121).
 distance('Chiesa di Sant  Ignazio di Loyola','Temple of Apollo Palatinus',1365).
 distance('Chiesa di Sant  Ignazio di Loyola','Circus Maximus',1468).
@@ -6580,174 +6558,26 @@ distance('Chiesa di Sant  Ignazio di Loyola','Mouth of Truth',1189).
 distance('Chiesa di Sant  Ignazio di Loyola','Basilica di Santa Sabina all Aventino',1582).
 distance('Chiesa di Sant  Ignazio di Loyola','Santa Maria in Cosmedin',1195).
 distance('Chiesa di Sant  Ignazio di Loyola','Non-Catholic Cemetery',2492).
-distance('Chiesa di Sant  Ignazio di Loyola','Basilica Santa Cecilia in Trastevere',1313).
+distance('Chiesa di Sant  Ignazio di Loyola','Basilica di Santa Cecilia in Trastevere',1313).
 distance('Chiesa di Sant  Ignazio di Loyola','Mattatoio',2533).
 distance('Chiesa di Sant  Ignazio di Loyola','Pyramid of Caius Cestius',2474).
 distance('Chiesa di Sant  Ignazio di Loyola','Turtle Fountain',578).
 distance('Chiesa di Sant  Ignazio di Loyola','Basilica di San Bartolomeo all Isola',945).
 distance('Chiesa di Sant  Ignazio di Loyola','Chiesa di Santa Prisca',1769).
-distance('Chiesa di Sant  Ignazio di Loyola','Tempio Maggiore di Roma',765).
+distance('Chiesa di Sant  Ignazio di Loyola','Tempio Maggiore',765).
 distance('Chiesa di Sant  Ignazio di Loyola','Portico of Octavia',701).
 distance('Chiesa di Sant  Ignazio di Loyola','Basilica Santi Giovanni e Paolo',1700).
-distance('Chiesa del Gesu','Piazza Barberini',1136).
-distance('Chiesa del Gesu','Palazzo delle Esposizioni',939).
-distance('Chiesa del Gesu','Basilica di Santa Maria in Ara coeli',380).
-distance('Chiesa del Gesu','Palazzo Montecitorio',633).
-distance('Chiesa del Gesu','Domus Aurea',1433).
-distance('Chiesa del Gesu','National Gallery of Ancient Art in Barberini Palace',1162).
-distance('Chiesa del Gesu','Doria Pamphili Gallery',268).
-distance('Chiesa del Gesu','Piazza Venezia',225).
-distance('Chiesa del Gesu','Pantheon',388).
-distance('Chiesa del Gesu','Basilica of Saint Mary of Minerva',275).
-distance('Chiesa del Gesu','Santa Maria degli Angeli e dei Martiri',1630).
-distance('Chiesa del Gesu','Parrocchia Santa Maria Maggiore',1795).
-distance('Chiesa del Gesu','Mamertine Prison',486).
-distance('Chiesa del Gesu','Mose di Michelangelo',1099).
-distance('Chiesa del Gesu','Capanne di Romolo',854).
-distance('Chiesa del Gesu','Basilica San Silvestro in Capite',779).
-distance('Chiesa del Gesu','Basilica del Sacro Cuore di Gesu',2007).
-distance('Chiesa del Gesu','Largo di Torre Argentina',255).
-distance('Chiesa del Gesu','Chiesa di Santa Maria ai Monti',907).
-distance('Chiesa del Gesu','Basilica of St Mark Evangelist at Campidoglio',149).
-distance('Chiesa del Gesu','St. Paul s Within the Walls',1324).
-distance('Chiesa del Gesu','Septimius Severus Arch',527).
-distance('Chiesa del Gesu','Palazzo Sciarra Colonna Carbognano',426).
-distance('Chiesa del Gesu','The Keats - Shelley House',1113).
-distance('Chiesa del Gesu','Basilica Ulpia',393).
-distance('Chiesa del Gesu','Temple of Vesta',704).
-distance('Chiesa del Gesu','Chiesa San Marcello al Corso',322).
-distance('Chiesa del Gesu','San Stanislao alle Botteghe Oscure',124).
-distance('Chiesa del Gesu','Column of Phocas',565).
-distance('Chiesa del Gesu','Antoninus and Faustina Temple',707).
-distance('Chiesa del Gesu','Marcello Theater',443).
-distance('Chiesa del Gesu','Chiesa di Santa Maria in Portico in Campitelli',323).
-distance('Chiesa del Gesu','The Church of Santa Maria della Vittoria',1548).
-distance('Chiesa del Gesu','The Last Judgment',2248).
-distance('Chiesa del Gesu','Chiesa di Santo Stefano degli Abissini',2414).
-distance('Chiesa del Gesu','Fontana di Piazza Farnese',706).
-distance('Chiesa del Gesu','Villa Abamelek',2088).
-distance('Chiesa del Gesu','Palazzo Torres',583).
-distance('Chiesa del Gesu','Castel Sant Angelo',1378).
-distance('Chiesa del Gesu','Vidoni Palace',412).
-distance('Chiesa del Gesu','Vatican Museums',2471).
-distance('Chiesa del Gesu','Fontana di Piazza Nicosia',906).
-distance('Chiesa del Gesu','St. Peter s Basilica',2260).
-distance('Chiesa del Gesu','Church Holy Spirit in Sassia',1675).
-distance('Chiesa del Gesu','Parrocchia Santuario Santa Maria in Traspontina',1645).
-distance('Chiesa del Gesu','Gardens of Vatican City',2602).
-distance('Chiesa del Gesu','Fiumi Fountain',655).
-distance('Chiesa del Gesu','Sistine Chapel',2245).
-distance('Chiesa del Gesu','Villa Farnesina',1075).
-distance('Chiesa del Gesu','Church of St. Louis of the French',599).
-distance('Chiesa del Gesu','Palazzo Madama',600).
-distance('Chiesa del Gesu','Galleria Spada',686).
-distance('Chiesa del Gesu','St. Angelo Bridge',1288).
-distance('Chiesa del Gesu','Palazzo Farnese',764).
-distance('Chiesa del Gesu','Sant Agnese in Agone',687).
-distance('Chiesa del Gesu','Botanical Garden of Rome',1468).
-distance('Chiesa del Gesu','Chiesa di Santa Maria della Pace',809).
-distance('Chiesa del Gesu','Obelisco Agonale',658).
-distance('Chiesa del Gesu','Basilica of Santa Maria in Trastevere',1109).
-distance('Chiesa del Gesu','Church of St Onuphrius at the Janiculum',1561).
-distance('Chiesa del Gesu','Biblioteca Angelica',702).
-distance('Chiesa del Gesu','Campo de  Fiori',665).
-distance('Chiesa del Gesu','Piazza Navona',668).
-distance('Chiesa del Gesu','Corte Suprema di Cassazione',1273).
-distance('Chiesa del Gesu','Museo di Roma - Palazzo Braschi',619).
-distance('Chiesa del Gesu','Parrocchia Santa Maria in Vallicella',932).
-distance('Chiesa del Gesu','Chiesa di San Pietro in Montorio',1372).
-distance('Chiesa del Gesu','Saint Eligio of Orefici',991).
-distance('Chiesa del Gesu','Palazzo del Commendatore',1577).
-distance('Chiesa del Gesu','Porta Santo Spirito',1590).
-distance('Chiesa del Gesu','Bernini Fountain',1981).
-distance('Chiesa del Gesu','Presepe dei Netturbini',2079).
-distance('Chiesa del Gesu','Church of Saints Michael and Magnus',1675).
-distance('Chiesa del Gesu','Museum Leonardo Da Vinci Experience',1666).
-distance('Chiesa del Gesu','Vatican Necropolis',2233).
-distance('Chiesa del Gesu','Apostolic Palace',2142).
-distance('Chiesa del Gesu','Ponte Vittorio Emanuele II',1414).
-distance('Chiesa del Gesu','Chiesa di Sant Anna dei Palafrenieri',2065).
-distance('Chiesa del Gesu','Operativa Arte Contemporanea',1231).
-distance('Chiesa del Gesu','Santa Maria del Suffragio',1139).
-distance('Chiesa del Gesu','Vatican Apostolic Archive',2299).
-distance('Chiesa del Gesu','Carriage Pavilion',2414).
-distance('Chiesa del Gesu','Monastero Mater Ecclesi',2552).
-distance('Chiesa del Gesu','Oratorio dei Filippini (Oratory of St Philip Neri)',994).
-distance('Chiesa del Gesu','House of Hospitality Paul VI',2592).
-distance('Chiesa del Gesu','Chiesa di Santa Maria del Rosario in Prati',2262).
-distance('Chiesa del Gesu','Welcome To Rome',745).
-distance('Chiesa del Gesu','Stadium of Domitian',772).
-distance('Chiesa del Gesu','Palazzo Pamphili',625).
-distance('Chiesa del Gesu','Fountain of the Moro',607).
-distance('Chiesa del Gesu','Cappella Chigi',1747).
-distance('Chiesa del Gesu','Chiesa di Gesu e Maria',1352).
-distance('Chiesa del Gesu','Villa Borghese',1935).
-distance('Chiesa del Gesu','Passeggiata del Pincio',1675).
-distance('Chiesa del Gesu','Borghese Gallery and Museum',2272).
-distance('Chiesa del Gesu','National Gallery of Modern and Contemporary Art',2353).
-distance('Chiesa del Gesu','Mausoleum of Augustus',1158).
-distance('Chiesa del Gesu','Chiesa Parrocchiale San Giacomo in Augusta',1330).
-distance('Chiesa del Gesu','Villa Medici',1392).
-distance('Chiesa del Gesu','Basilica of Saint Lawrence in Lucina',825).
-distance('Chiesa del Gesu','Basilica of SS. Ambrose and Charles on the Corso',1048).
-distance('Chiesa del Gesu','Giorgio de Chirico House Museum',1098).
-distance('Chiesa del Gesu','Santa Maria in Montesanto',1590).
-distance('Chiesa del Gesu','Fontana della Barcaccia',1114).
-distance('Chiesa del Gesu','Museo Leonardo da Vinci',1731).
-distance('Chiesa del Gesu','Explora - Il Museo dei Bambini di Roma',2165).
-distance('Chiesa del Gesu','Orologio ad acqua del Pincio',1761).
-distance('Chiesa del Gesu','Ponte Giacomo Matteotti',2184).
-distance('Chiesa del Gesu','National Etruscan Museum of Villa Giulia',2498).
-distance('Chiesa del Gesu','Fontana del Babuino',1315).
-distance('Chiesa del Gesu','Fontana del Bottino',1243).
-distance('Chiesa del Gesu','Trinita dei Monti',1191).
-distance('Chiesa del Gesu','Galleria del Cembalo',913).
-distance('Chiesa del Gesu','Chiesa di Santa Maria in Via',653).
-distance('Chiesa del Gesu','Palazzo di Propaganda Fide',991).
-distance('Chiesa del Gesu','Basilica di Sant Andrea delle Fratte',905).
-distance('Chiesa del Gesu','Piazza del Popolo',1667).
-distance('Chiesa del Gesu','Marcus Aurelius Column',547).
-distance('Chiesa del Gesu','Piazza di Siena',2052).
-distance('Chiesa del Gesu','All Saints  Anglican Church Rome',1376).
-distance('Chiesa del Gesu','Church of Saint Roch  all Augusteo ',1119).
-distance('Chiesa del Gesu','Church of Our Lady in Trivio',630).
-distance('Chiesa del Gesu','Il Tempio di Adriano',442).
-distance('Chiesa del Gesu','Museo Civico di Zoologia',2690).
-distance('Chiesa del Gesu','Basilica of St. Augustine in Campo Marzio',716).
-distance('Chiesa del Gesu','Hendrik Christian Anderson Museum',2104).
-distance('Chiesa del Gesu','Goethe House',1470).
-distance('Chiesa del Gesu','Institute of Japanese Culture',2531).
-distance('Chiesa del Gesu','Villa Balestra',2872).
-distance('Chiesa del Gesu','Palazzo Borghese',965).
-distance('Chiesa del Gesu','National Academy of San Luca',705).
-distance('Chiesa del Gesu','Museo Carlo Bilotti',1962).
-distance('Chiesa del Gesu','Palazzo Wedekind',546).
-distance('Chiesa del Gesu','Cloaca Maxima',807).
-distance('Chiesa del Gesu','Temple of Apollo Palatinus',1080).
-distance('Chiesa del Gesu','Circus Maximus',1172).
-distance('Chiesa del Gesu','Mouth of Truth',878).
-distance('Chiesa del Gesu','Basilica di Santa Sabina all Aventino',1268).
-distance('Chiesa del Gesu','Santa Maria in Cosmedin',884).
-distance('Chiesa del Gesu','Non-Catholic Cemetery',2178).
-distance('Chiesa del Gesu','Basilica Santa Cecilia in Trastevere',1008).
-distance('Chiesa del Gesu','Mattatoio',2227).
-distance('Chiesa del Gesu','Pyramid of Caius Cestius',2160).
-distance('Chiesa del Gesu','Turtle Fountain',299).
-distance('Chiesa del Gesu','Basilica di San Bartolomeo all Isola',635).
-distance('Chiesa del Gesu','Chiesa di Santa Prisca',1461).
-distance('Chiesa del Gesu','Tempio Maggiore di Roma',462).
-distance('Chiesa del Gesu','Portico of Octavia',394).
-distance('Chiesa del Gesu','Basilica Santi Giovanni e Paolo',1461).
 distance('Piazza Barberini','Palazzo delle Esposizioni',496).
+distance('Piazza Barberini','Chiesa del Gesu',1166).
 distance('Piazza Barberini','Basilica di Santa Maria in Ara coeli',1187).
-distance('Piazza Barberini','Palazzo Montecitorio',857).
+distance('Piazza Barberini','Palazzo Montecitorio',878).
 distance('Piazza Barberini','Domus Aurea',1572).
 distance('Piazza Barberini','National Gallery of Ancient Art in Barberini Palace',111).
 distance('Piazza Barberini','Doria Pamphili Gallery',871).
 distance('Piazza Barberini','Piazza Venezia',1022).
 distance('Piazza Barberini','Pantheon',1132).
 distance('Piazza Barberini','Basilica of Saint Mary of Minerva',1091).
-distance('Piazza Barberini','Santa Maria degli Angeli e dei Martiri',691).
+distance('Piazza Barberini','Basilica of Saint Mary of the Angels and Martyrs',691).
 distance('Piazza Barberini','Parrocchia Santa Maria Maggiore',1374).
 distance('Piazza Barberini','Mamertine Prison',1219).
 distance('Piazza Barberini','Mose di Michelangelo',1162).
@@ -6769,7 +6599,7 @@ distance('Piazza Barberini','Column of Phocas',1295).
 distance('Piazza Barberini','Antoninus and Faustina Temple',1289).
 distance('Piazza Barberini','Marcello Theater',1502).
 distance('Piazza Barberini','Chiesa di Santa Maria in Portico in Campitelli',1426).
-distance('Piazza Barberini','The Church of Santa Maria della Vittoria',486).
+distance('Piazza Barberini','Church of Santa Maria della Vittoria',486).
 distance('Piazza Barberini','The Last Judgment',2837).
 distance('Piazza Barberini','Chiesa di Santo Stefano degli Abissini',3061).
 distance('Piazza Barberini','Fontana di Piazza Farnese',1727).
@@ -6786,10 +6616,10 @@ distance('Piazza Barberini','Gardens of Vatican City',3185).
 distance('Piazza Barberini','Fiumi Fountain',1396).
 distance('Piazza Barberini','Sistine Chapel',2835).
 distance('Piazza Barberini','Villa Farnesina',2102).
-distance('Piazza Barberini','Church of St. Louis of the French',1259).
 distance('Piazza Barberini','Palazzo Madama',1304).
 distance('Piazza Barberini','Galleria Spada',1748).
-distance('Piazza Barberini','St. Angelo Bridge',1853).
+distance('Piazza Barberini','Church of St. Louis of the French',1236).
+distance('Piazza Barberini','St. Angelo Bridge',1852).
 distance('Piazza Barberini','Palazzo Farnese',1788).
 distance('Piazza Barberini','Sant Agnese in Agone',1443).
 distance('Piazza Barberini','Botanical Garden of Rome',2491).
@@ -6802,8 +6632,8 @@ distance('Piazza Barberini','Campo de  Fiori',1654).
 distance('Piazza Barberini','Piazza Navona',1389).
 distance('Piazza Barberini','Corte Suprema di Cassazione',1542).
 distance('Piazza Barberini','Museo di Roma - Palazzo Braschi',1491).
-distance('Piazza Barberini','Parrocchia Santa Maria in Vallicella',1720).
-distance('Piazza Barberini','Chiesa di San Pietro in Montorio',2488).
+distance('Piazza Barberini','Church of Santa Maria in Vallicella',1732).
+distance('Piazza Barberini','Church of San Pietro in Montorio',2488).
 distance('Piazza Barberini','Saint Eligio of Orefici',1939).
 distance('Piazza Barberini','Palazzo del Commendatore',2204).
 distance('Piazza Barberini','Porta Santo Spirito',2272).
@@ -6869,7 +6699,6 @@ distance('Piazza Barberini','Villa Balestra',2312).
 distance('Piazza Barberini','Palazzo Borghese',1034).
 distance('Piazza Barberini','National Academy of San Luca',477).
 distance('Piazza Barberini','Museo Carlo Bilotti',1156).
-distance('Piazza Barberini','Palazzo Wedekind',830).
 distance('Piazza Barberini','Cloaca Maxima',1820).
 distance('Piazza Barberini','Temple of Apollo Palatinus',1840).
 distance('Piazza Barberini','Circus Maximus',1981).
@@ -6877,24 +6706,25 @@ distance('Piazza Barberini','Mouth of Truth',1840).
 distance('Piazza Barberini','Basilica di Santa Sabina all Aventino',2264).
 distance('Piazza Barberini','Santa Maria in Cosmedin',1839).
 distance('Piazza Barberini','Non-Catholic Cemetery',3144).
-distance('Piazza Barberini','Basilica Santa Cecilia in Trastevere',2097).
+distance('Piazza Barberini','Basilica di Santa Cecilia in Trastevere',2097).
 distance('Piazza Barberini','Mattatoio',3289).
 distance('Piazza Barberini','Pyramid of Caius Cestius',3099).
 distance('Piazza Barberini','Turtle Fountain',1436).
 distance('Piazza Barberini','Basilica di San Bartolomeo all Isola',1726).
 distance('Piazza Barberini','Chiesa di Santa Prisca',2337).
-distance('Piazza Barberini','Tempio Maggiore di Roma',1577).
+distance('Piazza Barberini','Tempio Maggiore',1577).
 distance('Piazza Barberini','Portico of Octavia',1506).
 distance('Piazza Barberini','Basilica Santi Giovanni e Paolo',1944).
+distance('Palazzo delle Esposizioni','Chiesa del Gesu',979).
 distance('Palazzo delle Esposizioni','Basilica di Santa Maria in Ara coeli',836).
-distance('Palazzo delle Esposizioni','Palazzo Montecitorio',974).
+distance('Palazzo delle Esposizioni','Palazzo Montecitorio',968).
 distance('Palazzo delle Esposizioni','Domus Aurea',1081).
 distance('Palazzo delle Esposizioni','National Gallery of Ancient Art in Barberini Palace',426).
 distance('Palazzo delle Esposizioni','Doria Pamphili Gallery',730).
 distance('Palazzo delle Esposizioni','Piazza Venezia',750).
 distance('Palazzo delle Esposizioni','Pantheon',1105).
 distance('Palazzo delle Esposizioni','Basilica of Saint Mary of Minerva',1019).
-distance('Palazzo delle Esposizioni','Santa Maria degli Angeli e dei Martiri',699).
+distance('Palazzo delle Esposizioni','Basilica of Saint Mary of the Angels and Martyrs',699).
 distance('Palazzo delle Esposizioni','Parrocchia Santa Maria Maggiore',1017).
 distance('Palazzo delle Esposizioni','Mamertine Prison',833).
 distance('Palazzo delle Esposizioni','Mose di Michelangelo',666).
@@ -6916,7 +6746,7 @@ distance('Palazzo delle Esposizioni','Column of Phocas',892).
 distance('Palazzo delle Esposizioni','Antoninus and Faustina Temple',846).
 distance('Palazzo delle Esposizioni','Marcello Theater',1192).
 distance('Palazzo delle Esposizioni','Chiesa di Santa Maria in Portico in Campitelli',1154).
-distance('Palazzo delle Esposizioni','The Church of Santa Maria della Vittoria',679).
+distance('Palazzo delle Esposizioni','Church of Santa Maria della Vittoria',679).
 distance('Palazzo delle Esposizioni','The Last Judgment',2986).
 distance('Palazzo delle Esposizioni','Chiesa di Santo Stefano degli Abissini',3188).
 distance('Palazzo delle Esposizioni','Fontana di Piazza Farnese',1628).
@@ -6933,10 +6763,10 @@ distance('Palazzo delle Esposizioni','Gardens of Vatican City',3343).
 distance('Palazzo delle Esposizioni','Fiumi Fountain',1416).
 distance('Palazzo delle Esposizioni','Sistine Chapel',2984).
 distance('Palazzo delle Esposizioni','Villa Farnesina',2005).
-distance('Palazzo delle Esposizioni','Church of St. Louis of the French',1295).
 distance('Palazzo delle Esposizioni','Palazzo Madama',1328).
 distance('Palazzo delle Esposizioni','Galleria Spada',1621).
-distance('Palazzo delle Esposizioni','St. Angelo Bridge',1982).
+distance('Palazzo delle Esposizioni','Church of St. Louis of the French',1272).
+distance('Palazzo delle Esposizioni','St. Angelo Bridge',1984).
 distance('Palazzo delle Esposizioni','Palazzo Farnese',1689).
 distance('Palazzo delle Esposizioni','Sant Agnese in Agone',1461).
 distance('Palazzo delle Esposizioni','Botanical Garden of Rome',2401).
@@ -6949,8 +6779,8 @@ distance('Palazzo delle Esposizioni','Campo de  Fiori',1573).
 distance('Palazzo delle Esposizioni','Piazza Navona',1417).
 distance('Palazzo delle Esposizioni','Corte Suprema di Cassazione',1765).
 distance('Palazzo delle Esposizioni','Museo di Roma - Palazzo Braschi',1461).
-distance('Palazzo delle Esposizioni','Parrocchia Santa Maria in Vallicella',1744).
-distance('Palazzo delle Esposizioni','Chiesa di San Pietro in Montorio',2301).
+distance('Palazzo delle Esposizioni','Church of Santa Maria in Vallicella',1749).
+distance('Palazzo delle Esposizioni','Church of San Pietro in Montorio',2301).
 distance('Palazzo delle Esposizioni','Saint Eligio of Orefici',1891).
 distance('Palazzo delle Esposizioni','Palazzo del Commendatore',2322).
 distance('Palazzo delle Esposizioni','Porta Santo Spirito',2368).
@@ -7016,7 +6846,6 @@ distance('Palazzo delle Esposizioni','Villa Balestra',2789).
 distance('Palazzo delle Esposizioni','Palazzo Borghese',1271).
 distance('Palazzo delle Esposizioni','National Academy of San Luca',585).
 distance('Palazzo delle Esposizioni','Museo Carlo Bilotti',1649).
-distance('Palazzo delle Esposizioni','Palazzo Wedekind',901).
 distance('Palazzo delle Esposizioni','Cloaca Maxima',1457).
 distance('Palazzo delle Esposizioni','Temple of Apollo Palatinus',1390).
 distance('Palazzo delle Esposizioni','Circus Maximus',1537).
@@ -7024,23 +6853,169 @@ distance('Palazzo delle Esposizioni','Mouth of Truth',1452).
 distance('Palazzo delle Esposizioni','Basilica di Santa Sabina all Aventino',1870).
 distance('Palazzo delle Esposizioni','Santa Maria in Cosmedin',1448).
 distance('Palazzo delle Esposizioni','Non-Catholic Cemetery',2719).
-distance('Palazzo delle Esposizioni','Basilica Santa Cecilia in Trastevere',1768).
+distance('Palazzo delle Esposizioni','Basilica di Santa Cecilia in Trastevere',1768).
 distance('Palazzo delle Esposizioni','Mattatoio',2910).
 distance('Palazzo delle Esposizioni','Pyramid of Caius Cestius',2664).
 distance('Palazzo delle Esposizioni','Turtle Fountain',1215).
 distance('Palazzo delle Esposizioni','Basilica di San Bartolomeo all Isola',1417).
 distance('Palazzo delle Esposizioni','Chiesa di Santa Prisca',1898).
-distance('Palazzo delle Esposizioni','Tempio Maggiore di Roma',1303).
+distance('Palazzo delle Esposizioni','Tempio Maggiore',1303).
 distance('Palazzo delle Esposizioni','Portico of Octavia',1234).
 distance('Palazzo delle Esposizioni','Basilica Santi Giovanni e Paolo',1451).
-distance('Basilica di Santa Maria in Ara coeli','Palazzo Montecitorio',946).
+distance('Chiesa del Gesu','Basilica di Santa Maria in Ara coeli',413).
+distance('Chiesa del Gesu','Palazzo Montecitorio',580).
+distance('Chiesa del Gesu','Domus Aurea',1471).
+distance('Chiesa del Gesu','National Gallery of Ancient Art in Barberini Palace',1194).
+distance('Chiesa del Gesu','Doria Pamphili Gallery',295).
+distance('Chiesa del Gesu','Piazza Venezia',267).
+distance('Chiesa del Gesu','Pantheon',364).
+distance('Chiesa del Gesu','Basilica of Saint Mary of Minerva',256).
+distance('Chiesa del Gesu','Basilica of Saint Mary of the Angels and Martyrs',1668).
+distance('Chiesa del Gesu','Parrocchia Santa Maria Maggiore',1838).
+distance('Chiesa del Gesu','Mamertine Prison',519).
+distance('Chiesa del Gesu','Mose di Michelangelo',1140).
+distance('Chiesa del Gesu','Capanne di Romolo',873).
+distance('Chiesa del Gesu','Basilica San Silvestro in Capite',787).
+distance('Chiesa del Gesu','Basilica del Sacro Cuore di Gesu',2047).
+distance('Chiesa del Gesu','Largo di Torre Argentina',213).
+distance('Chiesa del Gesu','Chiesa di Santa Maria ai Monti',948).
+distance('Chiesa del Gesu','Basilica of St Mark Evangelist at Campidoglio',191).
+distance('Chiesa del Gesu','St. Paul s Within the Walls',1363).
+distance('Chiesa del Gesu','Septimius Severus Arch',559).
+distance('Chiesa del Gesu','Palazzo Sciarra Colonna Carbognano',442).
+distance('Chiesa del Gesu','The Keats - Shelley House',1124).
+distance('Chiesa del Gesu','Basilica Ulpia',435).
+distance('Chiesa del Gesu','Temple of Vesta',734).
+distance('Chiesa del Gesu','Chiesa San Marcello al Corso',346).
+distance('Chiesa del Gesu','San Stanislao alle Botteghe Oscure',114).
+distance('Chiesa del Gesu','Column of Phocas',596).
+distance('Chiesa del Gesu','Antoninus and Faustina Temple',741).
+distance('Chiesa del Gesu','Marcello Theater',443).
+distance('Chiesa del Gesu','Chiesa di Santa Maria in Portico in Campitelli',316).
+distance('Chiesa del Gesu','Church of Santa Maria della Vittoria',1583).
+distance('Chiesa del Gesu','The Last Judgment',2209).
+distance('Chiesa del Gesu','Chiesa di Santo Stefano degli Abissini',2374).
+distance('Chiesa del Gesu','Fontana di Piazza Farnese',663).
+distance('Chiesa del Gesu','Villa Abamelek',2047).
+distance('Chiesa del Gesu','Palazzo Torres',544).
+distance('Chiesa del Gesu','Castel Sant Angelo',1345).
+distance('Chiesa del Gesu','Vidoni Palace',370).
+distance('Chiesa del Gesu','Vatican Museums',2435).
+distance('Chiesa del Gesu','Fontana di Piazza Nicosia',889).
+distance('Chiesa del Gesu','St. Peter s Basilica',2220).
+distance('Chiesa del Gesu','Church Holy Spirit in Sassia',1636).
+distance('Chiesa del Gesu','Parrocchia Santuario Santa Maria in Traspontina',1608).
+distance('Chiesa del Gesu','Gardens of Vatican City',2563).
+distance('Chiesa del Gesu','Fiumi Fountain',621).
+distance('Chiesa del Gesu','Sistine Chapel',2206).
+distance('Chiesa del Gesu','Villa Farnesina',1033).
+distance('Chiesa del Gesu','Palazzo Madama',569).
+distance('Chiesa del Gesu','Galleria Spada',644).
+distance('Chiesa del Gesu','Church of St. Louis of the French',560).
+distance('Chiesa del Gesu','St. Angelo Bridge',1261).
+distance('Chiesa del Gesu','Palazzo Farnese',722).
+distance('Chiesa del Gesu','Sant Agnese in Agone',652).
+distance('Chiesa del Gesu','Botanical Garden of Rome',1427).
+distance('Chiesa del Gesu','Chiesa di Santa Maria della Pace',775).
+distance('Chiesa del Gesu','Obelisco Agonale',623).
+distance('Chiesa del Gesu','Basilica of Santa Maria in Trastevere',1075).
+distance('Chiesa del Gesu','Church of St Onuphrius at the Janiculum',1519).
+distance('Chiesa del Gesu','Biblioteca Angelica',678).
+distance('Chiesa del Gesu','Campo de  Fiori',622).
+distance('Chiesa del Gesu','Piazza Navona',634).
+distance('Chiesa del Gesu','Corte Suprema di Cassazione',1248).
+distance('Chiesa del Gesu','Museo di Roma - Palazzo Braschi',579).
+distance('Chiesa del Gesu','Church of Santa Maria in Vallicella',887).
+distance('Chiesa del Gesu','Church of San Pietro in Montorio',1336).
+distance('Chiesa del Gesu','Saint Eligio of Orefici',949).
+distance('Chiesa del Gesu','Palazzo del Commendatore',1539).
+distance('Chiesa del Gesu','Porta Santo Spirito',1551).
+distance('Chiesa del Gesu','Bernini Fountain',1941).
+distance('Chiesa del Gesu','Presepe dei Netturbini',2038).
+distance('Chiesa del Gesu','Church of Saints Michael and Magnus',1636).
+distance('Chiesa del Gesu','Museum Leonardo Da Vinci Experience',1629).
+distance('Chiesa del Gesu','Vatican Necropolis',2193).
+distance('Chiesa del Gesu','Apostolic Palace',2104).
+distance('Chiesa del Gesu','Ponte Vittorio Emanuele II',1377).
+distance('Chiesa del Gesu','Chiesa di Sant Anna dei Palafrenieri',2028).
+distance('Chiesa del Gesu','Operativa Arte Contemporanea',1192).
+distance('Chiesa del Gesu','Santa Maria del Suffragio',1098).
+distance('Chiesa del Gesu','Vatican Apostolic Archive',2262).
+distance('Chiesa del Gesu','Carriage Pavilion',2376).
+distance('Chiesa del Gesu','Monastero Mater Ecclesi',2513).
+distance('Chiesa del Gesu','Oratorio dei Filippini (Oratory of St Philip Neri)',955).
+distance('Chiesa del Gesu','House of Hospitality Paul VI',2556).
+distance('Chiesa del Gesu','Chiesa di Santa Maria del Rosario in Prati',2231).
+distance('Chiesa del Gesu','Welcome To Rome',704).
+distance('Chiesa del Gesu','Stadium of Domitian',741).
+distance('Chiesa del Gesu','Palazzo Pamphili',586).
+distance('Chiesa del Gesu','Fountain of the Moro',570).
+distance('Chiesa del Gesu','Cappella Chigi',1743).
+distance('Chiesa del Gesu','Chiesa di Gesu e Maria',1350).
+distance('Chiesa del Gesu','Villa Borghese',1948).
+distance('Chiesa del Gesu','Passeggiata del Pincio',1680).
+distance('Chiesa del Gesu','Borghese Gallery and Museum',2293).
+distance('Chiesa del Gesu','National Gallery of Modern and Contemporary Art',2359).
+distance('Chiesa del Gesu','Mausoleum of Augustus',1151).
+distance('Chiesa del Gesu','Chiesa Parrocchiale San Giacomo in Augusta',1327).
+distance('Chiesa del Gesu','Villa Medici',1402).
+distance('Chiesa del Gesu','Basilica of Saint Lawrence in Lucina',824).
+distance('Chiesa del Gesu','Basilica of SS. Ambrose and Charles on the Corso',1047).
+distance('Chiesa del Gesu','Giorgio de Chirico House Museum',1110).
+distance('Chiesa del Gesu','Santa Maria in Montesanto',1587).
+distance('Chiesa del Gesu','Fontana della Barcaccia',1125).
+distance('Chiesa del Gesu','Museo Leonardo da Vinci',1727).
+distance('Chiesa del Gesu','Explora - Il Museo dei Bambini di Roma',2160).
+distance('Chiesa del Gesu','Orologio ad acqua del Pincio',1766).
+distance('Chiesa del Gesu','Ponte Giacomo Matteotti',2172).
+distance('Chiesa del Gesu','National Etruscan Museum of Villa Giulia',2498).
+distance('Chiesa del Gesu','Fontana del Babuino',1317).
+distance('Chiesa del Gesu','Fontana del Bottino',1254).
+distance('Chiesa del Gesu','Trinita dei Monti',1206).
+distance('Chiesa del Gesu','Galleria del Cembalo',904).
+distance('Chiesa del Gesu','Chiesa di Santa Maria in Via',665).
+distance('Chiesa del Gesu','Palazzo di Propaganda Fide',1006).
+distance('Chiesa del Gesu','Basilica di Sant Andrea delle Fratte',923).
+distance('Chiesa del Gesu','Piazza del Popolo',1662).
+distance('Chiesa del Gesu','Marcus Aurelius Column',552).
+distance('Chiesa del Gesu','Piazza di Siena',2068).
+distance('Chiesa del Gesu','All Saints  Anglican Church Rome',1376).
+distance('Chiesa del Gesu','Church of Saint Roch  all Augusteo ',1110).
+distance('Chiesa del Gesu','Church of Our Lady in Trivio',649).
+distance('Chiesa del Gesu','Il Tempio di Adriano',442).
+distance('Chiesa del Gesu','Museo Civico di Zoologia',2705).
+distance('Chiesa del Gesu','Basilica of St. Augustine in Campo Marzio',691).
+distance('Chiesa del Gesu','Hendrik Christian Anderson Museum',2095).
+distance('Chiesa del Gesu','Goethe House',1467).
+distance('Chiesa del Gesu','Institute of Japanese Culture',2533).
+distance('Chiesa del Gesu','Villa Balestra',2867).
+distance('Chiesa del Gesu','Palazzo Borghese',955).
+distance('Chiesa del Gesu','National Academy of San Luca',727).
+distance('Chiesa del Gesu','Museo Carlo Bilotti',1971).
+distance('Chiesa del Gesu','Cloaca Maxima',807).
+distance('Chiesa del Gesu','Temple of Apollo Palatinus',1098).
+distance('Chiesa del Gesu','Circus Maximus',1186).
+distance('Chiesa del Gesu','Mouth of Truth',883).
+distance('Chiesa del Gesu','Basilica di Santa Sabina all Aventino',1265).
+distance('Chiesa del Gesu','Santa Maria in Cosmedin',889).
+distance('Chiesa del Gesu','Non-Catholic Cemetery',2175).
+distance('Chiesa del Gesu','Basilica di Santa Cecilia in Trastevere',995).
+distance('Chiesa del Gesu','Mattatoio',2214).
+distance('Chiesa del Gesu','Pyramid of Caius Cestius',2159).
+distance('Chiesa del Gesu','Turtle Fountain',272).
+distance('Chiesa del Gesu','Basilica di San Bartolomeo all Isola',625).
+distance('Chiesa del Gesu','Chiesa di Santa Prisca',1468).
+distance('Chiesa del Gesu','Tempio Maggiore',447).
+distance('Chiesa del Gesu','Portico of Octavia',382).
+distance('Chiesa del Gesu','Basilica Santi Giovanni e Paolo',1489).
+distance('Basilica di Santa Maria in Ara coeli','Palazzo Montecitorio',902).
 distance('Basilica di Santa Maria in Ara coeli','Domus Aurea',1067).
 distance('Basilica di Santa Maria in Ara coeli','National Gallery of Ancient Art in Barberini Palace',1176).
 distance('Basilica di Santa Maria in Ara coeli','Doria Pamphili Gallery',488).
 distance('Basilica di Santa Maria in Ara coeli','Piazza Venezia',229).
 distance('Basilica di Santa Maria in Ara coeli','Pantheon',764).
 distance('Basilica di Santa Maria in Ara coeli','Basilica of Saint Mary of Minerva',648).
-distance('Basilica di Santa Maria in Ara coeli','Santa Maria degli Angeli e dei Martiri',1526).
+distance('Basilica di Santa Maria in Ara coeli','Basilica of Saint Mary of the Angels and Martyrs',1526).
 distance('Basilica di Santa Maria in Ara coeli','Parrocchia Santa Maria Maggiore',1515).
 distance('Basilica di Santa Maria in Ara coeli','Mamertine Prison',105).
 distance('Basilica di Santa Maria in Ara coeli','Mose di Michelangelo',773).
@@ -7062,7 +7037,7 @@ distance('Basilica di Santa Maria in Ara coeli','Column of Phocas',189).
 distance('Basilica di Santa Maria in Ara coeli','Antoninus and Faustina Temple',327).
 distance('Basilica di Santa Maria in Ara coeli','Marcello Theater',362).
 distance('Basilica di Santa Maria in Ara coeli','Chiesa di Santa Maria in Portico in Campitelli',365).
-distance('Basilica di Santa Maria in Ara coeli','The Church of Santa Maria della Vittoria',1509).
+distance('Basilica di Santa Maria in Ara coeli','Church of Santa Maria della Vittoria',1509).
 distance('Basilica di Santa Maria in Ara coeli','The Last Judgment',2613).
 distance('Basilica di Santa Maria in Ara coeli','Chiesa di Santo Stefano degli Abissini',2770).
 distance('Basilica di Santa Maria in Ara coeli','Fontana di Piazza Farnese',1007).
@@ -7079,10 +7054,10 @@ distance('Basilica di Santa Maria in Ara coeli','Gardens of Vatican City',2965).
 distance('Basilica di Santa Maria in Ara coeli','Fiumi Fountain',1035).
 distance('Basilica di Santa Maria in Ara coeli','Sistine Chapel',2611).
 distance('Basilica di Santa Maria in Ara coeli','Villa Farnesina',1344).
-distance('Basilica di Santa Maria in Ara coeli','Church of St. Louis of the French',980).
 distance('Basilica di Santa Maria in Ara coeli','Palazzo Madama',981).
 distance('Basilica di Santa Maria in Ara coeli','Galleria Spada',960).
-distance('Basilica di Santa Maria in Ara coeli','St. Angelo Bridge',1666).
+distance('Basilica di Santa Maria in Ara coeli','Church of St. Louis of the French',967).
+distance('Basilica di Santa Maria in Ara coeli','St. Angelo Bridge',1674).
 distance('Basilica di Santa Maria in Ara coeli','Palazzo Farnese',1058).
 distance('Basilica di Santa Maria in Ara coeli','Sant Agnese in Agone',1065).
 distance('Basilica di Santa Maria in Ara coeli','Botanical Garden of Rome',1721).
@@ -7095,8 +7070,8 @@ distance('Basilica di Santa Maria in Ara coeli','Campo de  Fiori',988).
 distance('Basilica di Santa Maria in Ara coeli','Piazza Navona',1048).
 distance('Basilica di Santa Maria in Ara coeli','Corte Suprema di Cassazione',1646).
 distance('Basilica di Santa Maria in Ara coeli','Museo di Roma - Palazzo Braschi',984).
-distance('Basilica di Santa Maria in Ara coeli','Parrocchia Santa Maria in Vallicella',1296).
-distance('Basilica di Santa Maria in Ara coeli','Chiesa di San Pietro in Montorio',1524).
+distance('Basilica di Santa Maria in Ara coeli','Church of Santa Maria in Vallicella',1288).
+distance('Basilica di Santa Maria in Ara coeli','Church of San Pietro in Montorio',1524).
 distance('Basilica di Santa Maria in Ara coeli','Saint Eligio of Orefici',1308).
 distance('Basilica di Santa Maria in Ara coeli','Palazzo del Commendatore',1946).
 distance('Basilica di Santa Maria in Ara coeli','Porta Santo Spirito',1953).
@@ -7162,7 +7137,6 @@ distance('Basilica di Santa Maria in Ara coeli','Villa Balestra',3166).
 distance('Basilica di Santa Maria in Ara coeli','Palazzo Borghese',1299).
 distance('Basilica di Santa Maria in Ara coeli','National Academy of San Luca',863).
 distance('Basilica di Santa Maria in Ara coeli','Museo Carlo Bilotti',2175).
-distance('Basilica di Santa Maria in Ara coeli','Palazzo Wedekind',848).
 distance('Basilica di Santa Maria in Ara coeli','Cloaca Maxima',635).
 distance('Basilica di Santa Maria in Ara coeli','Temple of Apollo Palatinus',749).
 distance('Basilica di Santa Maria in Ara coeli','Circus Maximus',864).
@@ -7170,166 +7144,165 @@ distance('Basilica di Santa Maria in Ara coeli','Mouth of Truth',656).
 distance('Basilica di Santa Maria in Ara coeli','Basilica di Santa Sabina all Aventino',1078).
 distance('Basilica di Santa Maria in Ara coeli','Santa Maria in Cosmedin',655).
 distance('Basilica di Santa Maria in Ara coeli','Non-Catholic Cemetery',1972).
-distance('Basilica di Santa Maria in Ara coeli','Basilica Santa Cecilia in Trastevere',933).
+distance('Basilica di Santa Maria in Ara coeli','Basilica di Santa Cecilia in Trastevere',933).
 distance('Basilica di Santa Maria in Ara coeli','Mattatoio',2102).
 distance('Basilica di Santa Maria in Ara coeli','Pyramid of Caius Cestius',1936).
 distance('Basilica di Santa Maria in Ara coeli','Turtle Fountain',489).
 distance('Basilica di Santa Maria in Ara coeli','Basilica di San Bartolomeo all Isola',583).
 distance('Basilica di Santa Maria in Ara coeli','Chiesa di Santa Prisca',1193).
-distance('Basilica di Santa Maria in Ara coeli','Tempio Maggiore di Roma',495).
+distance('Basilica di Santa Maria in Ara coeli','Tempio Maggiore',495).
 distance('Basilica di Santa Maria in Ara coeli','Portico of Octavia',434).
 distance('Basilica di Santa Maria in Ara coeli','Basilica Santi Giovanni e Paolo',1085).
-distance('Palazzo Montecitorio','Domus Aurea',1854).
-distance('Palazzo Montecitorio','National Gallery of Ancient Art in Barberini Palace',938).
-distance('Palazzo Montecitorio','Doria Pamphili Gallery',462).
-distance('Palazzo Montecitorio','Piazza Venezia',718).
-distance('Palazzo Montecitorio','Pantheon',363).
-distance('Palazzo Montecitorio','Basilica of Saint Mary of Minerva',401).
-distance('Palazzo Montecitorio','Santa Maria degli Angeli e dei Martiri',1520).
-distance('Palazzo Montecitorio','Parrocchia Santa Maria Maggiore',1987).
-distance('Palazzo Montecitorio','Mamertine Prison',1039).
-distance('Palazzo Montecitorio','Mose di Michelangelo',1451).
-distance('Palazzo Montecitorio','Capanne di Romolo',1462).
-distance('Palazzo Montecitorio','Basilica San Silvestro in Capite',224).
-distance('Palazzo Montecitorio','Basilica del Sacro Cuore di Gesu',1964).
-distance('Palazzo Montecitorio','Largo di Torre Argentina',701).
-distance('Palazzo Montecitorio','Chiesa di Santa Maria ai Monti',1254).
-distance('Palazzo Montecitorio','Basilica of St Mark Evangelist at Campidoglio',678).
-distance('Palazzo Montecitorio','St. Paul s Within the Walls',1279).
-distance('Palazzo Montecitorio','Septimius Severus Arch',1085).
-distance('Palazzo Montecitorio','Palazzo Sciarra Colonna Carbognano',302).
-distance('Palazzo Montecitorio','The Keats - Shelley House',559).
-distance('Palazzo Montecitorio','Basilica Ulpia',823).
-distance('Palazzo Montecitorio','Temple of Vesta',1257).
-distance('Palazzo Montecitorio','Chiesa San Marcello al Corso',413).
-distance('Palazzo Montecitorio','San Stanislao alle Botteghe Oscure',745).
-distance('Palazzo Montecitorio','Column of Phocas',1131).
-distance('Palazzo Montecitorio','Antoninus and Faustina Temple',1233).
-distance('Palazzo Montecitorio','Marcello Theater',1074).
-distance('Palazzo Montecitorio','Chiesa di Santa Maria in Portico in Campitelli',946).
-distance('Palazzo Montecitorio','The Church of Santa Maria della Vittoria',1342).
-distance('Palazzo Montecitorio','The Last Judgment',2021).
-distance('Palazzo Montecitorio','Chiesa di Santo Stefano degli Abissini',2232).
-distance('Palazzo Montecitorio','Fontana di Piazza Farnese',947).
-distance('Palazzo Montecitorio','Villa Abamelek',2313).
-distance('Palazzo Montecitorio','Palazzo Torres',614).
-distance('Palazzo Montecitorio','Castel Sant Angelo',1047).
-distance('Palazzo Montecitorio','Vidoni Palace',690).
-distance('Palazzo Montecitorio','Vatican Museums',2153).
-distance('Palazzo Montecitorio','Fontana di Piazza Nicosia',374).
-distance('Palazzo Montecitorio','St. Peter s Basilica',2059).
-distance('Palazzo Montecitorio','Church Holy Spirit in Sassia',1471).
+distance('Palazzo Montecitorio','Domus Aurea',1824).
+distance('Palazzo Montecitorio','National Gallery of Ancient Art in Barberini Palace',955).
+distance('Palazzo Montecitorio','Doria Pamphili Gallery',422).
+distance('Palazzo Montecitorio','Piazza Venezia',675).
+distance('Palazzo Montecitorio','Pantheon',315).
+distance('Palazzo Montecitorio','Basilica of Saint Mary of Minerva',350).
+distance('Palazzo Montecitorio','Basilica of Saint Mary of the Angels and Martyrs',1532).
+distance('Palazzo Montecitorio','Parrocchia Santa Maria Maggiore',1977).
+distance('Palazzo Montecitorio','Mamertine Prison',997).
+distance('Palazzo Montecitorio','Mose di Michelangelo',1425).
+distance('Palazzo Montecitorio','Capanne di Romolo',1417).
+distance('Palazzo Montecitorio','Basilica San Silvestro in Capite',264).
+distance('Palazzo Montecitorio','Basilica del Sacro Cuore di Gesu',1972).
+distance('Palazzo Montecitorio','Largo di Torre Argentina',650).
+distance('Palazzo Montecitorio','Chiesa di Santa Maria ai Monti',1227).
+distance('Palazzo Montecitorio','Basilica of St Mark Evangelist at Campidoglio',633).
+distance('Palazzo Montecitorio','St. Paul s Within the Walls',1283).
+distance('Palazzo Montecitorio','Septimius Severus Arch',1042).
+distance('Palazzo Montecitorio','Palazzo Sciarra Colonna Carbognano',271).
+distance('Palazzo Montecitorio','The Keats - Shelley House',605).
+distance('Palazzo Montecitorio','Basilica Ulpia',786).
+distance('Palazzo Montecitorio','Temple of Vesta',1215).
+distance('Palazzo Montecitorio','Chiesa San Marcello al Corso',376).
+distance('Palazzo Montecitorio','San Stanislao alle Botteghe Oscure',695).
+distance('Palazzo Montecitorio','Column of Phocas',1088).
+distance('Palazzo Montecitorio','Antoninus and Faustina Temple',1193).
+distance('Palazzo Montecitorio','Marcello Theater',1024).
+distance('Palazzo Montecitorio','Chiesa di Santa Maria in Portico in Campitelli',895).
+distance('Palazzo Montecitorio','Church of Santa Maria della Vittoria',1361).
+distance('Palazzo Montecitorio','The Last Judgment',2020).
+distance('Palazzo Montecitorio','Chiesa di Santo Stefano degli Abissini',2228).
+distance('Palazzo Montecitorio','Fontana di Piazza Farnese',905).
+distance('Palazzo Montecitorio','Villa Abamelek',2279).
+distance('Palazzo Montecitorio','Palazzo Torres',576).
+distance('Palazzo Montecitorio','Castel Sant Angelo',1052).
+distance('Palazzo Montecitorio','Vidoni Palace',642).
+distance('Palazzo Montecitorio','Vatican Museums',2161).
+distance('Palazzo Montecitorio','Fontana di Piazza Nicosia',396).
+distance('Palazzo Montecitorio','St. Peter s Basilica',2056).
+distance('Palazzo Montecitorio','Church Holy Spirit in Sassia',1466).
 distance('Palazzo Montecitorio','Parrocchia Santuario Santa Maria in Traspontina',1378).
-distance('Palazzo Montecitorio','Gardens of Vatican City',2375).
-distance('Palazzo Montecitorio','Fiumi Fountain',551).
+distance('Palazzo Montecitorio','Gardens of Vatican City',2376).
+distance('Palazzo Montecitorio','Fiumi Fountain',521).
 distance('Palazzo Montecitorio','Sistine Chapel',2018).
-distance('Palazzo Montecitorio','Villa Farnesina',1298).
-distance('Palazzo Montecitorio','Church of St. Louis of the French',412).
-distance('Palazzo Montecitorio','Palazzo Madama',461).
-distance('Palazzo Montecitorio','Galleria Spada',994).
-distance('Palazzo Montecitorio','St. Angelo Bridge',1019).
-distance('Palazzo Montecitorio','Palazzo Farnese',1003).
-distance('Palazzo Montecitorio','Sant Agnese in Agone',596).
-distance('Palazzo Montecitorio','Botanical Garden of Rome',1672).
-distance('Palazzo Montecitorio','Chiesa di Santa Maria della Pace',618).
-distance('Palazzo Montecitorio','Obelisco Agonale',548).
-distance('Palazzo Montecitorio','Basilica of Santa Maria in Trastevere',1540).
-distance('Palazzo Montecitorio','Church of St Onuphrius at the Janiculum',1528).
-distance('Palazzo Montecitorio','Biblioteca Angelica',365).
-distance('Palazzo Montecitorio','Campo de  Fiori',863).
-distance('Palazzo Montecitorio','Piazza Navona',540).
-distance('Palazzo Montecitorio','Corte Suprema di Cassazione',800).
-distance('Palazzo Montecitorio','Museo di Roma - Palazzo Braschi',669).
-distance('Palazzo Montecitorio','Parrocchia Santa Maria in Vallicella',865).
-distance('Palazzo Montecitorio','Chiesa di San Pietro in Montorio',1754).
-distance('Palazzo Montecitorio','Saint Eligio of Orefici',1109).
-distance('Palazzo Montecitorio','Palazzo del Commendatore',1366).
-distance('Palazzo Montecitorio','Porta Santo Spirito',1426).
-distance('Palazzo Montecitorio','Bernini Fountain',1781).
-distance('Palazzo Montecitorio','Presepe dei Netturbini',1951).
-distance('Palazzo Montecitorio','Church of Saints Michael and Magnus',1470).
-distance('Palazzo Montecitorio','Museum Leonardo Da Vinci Experience',1426).
-distance('Palazzo Montecitorio','Vatican Necropolis',2044).
-distance('Palazzo Montecitorio','Apostolic Palace',1888).
-distance('Palazzo Montecitorio','Ponte Vittorio Emanuele II',1197).
-distance('Palazzo Montecitorio','Chiesa di Sant Anna dei Palafrenieri',1785).
-distance('Palazzo Montecitorio','Operativa Arte Contemporanea',1085).
-distance('Palazzo Montecitorio','Santa Maria del Suffragio',1104).
-distance('Palazzo Montecitorio','Vatican Apostolic Archive',2014).
-distance('Palazzo Montecitorio','Carriage Pavilion',2126).
-distance('Palazzo Montecitorio','Monastero Mater Ecclesi',2318).
-distance('Palazzo Montecitorio','Oratorio dei Filippini (Oratory of St Philip Neri)',893).
-distance('Palazzo Montecitorio','House of Hospitality Paul VI',2278).
-distance('Palazzo Montecitorio','Chiesa di Santa Maria del Rosario in Prati',1852).
-distance('Palazzo Montecitorio','Welcome To Rome',788).
-distance('Palazzo Montecitorio','Stadium of Domitian',537).
-distance('Palazzo Montecitorio','Palazzo Pamphili',634).
-distance('Palazzo Montecitorio','Fountain of the Moro',601).
-distance('Palazzo Montecitorio','Cappella Chigi',1113).
-distance('Palazzo Montecitorio','Chiesa di Gesu e Maria',719).
-distance('Palazzo Montecitorio','Villa Borghese',1367).
-distance('Palazzo Montecitorio','Passeggiata del Pincio',1062).
-distance('Palazzo Montecitorio','Borghese Gallery and Museum',1791).
-distance('Palazzo Montecitorio','National Gallery of Modern and Contemporary Art',1742).
-distance('Palazzo Montecitorio','Mausoleum of Augustus',531).
-distance('Palazzo Montecitorio','Chiesa Parrocchiale San Giacomo in Augusta',697).
-distance('Palazzo Montecitorio','Villa Medici',813).
-distance('Palazzo Montecitorio','Basilica of Saint Lawrence in Lucina',192).
-distance('Palazzo Montecitorio','Basilica of SS. Ambrose and Charles on the Corso',415).
-distance('Palazzo Montecitorio','Giorgio de Chirico House Museum',551).
-distance('Palazzo Montecitorio','Santa Maria in Montesanto',957).
-distance('Palazzo Montecitorio','Fontana della Barcaccia',553).
-distance('Palazzo Montecitorio','Museo Leonardo da Vinci',1098).
-distance('Palazzo Montecitorio','Explora - Il Museo dei Bambini di Roma',1533).
-distance('Palazzo Montecitorio','Orologio ad acqua del Pincio',1145).
-distance('Palazzo Montecitorio','Ponte Giacomo Matteotti',1568).
-distance('Palazzo Montecitorio','National Etruscan Museum of Villa Giulia',1867).
-distance('Palazzo Montecitorio','Fontana del Babuino',692).
-distance('Palazzo Montecitorio','Fontana del Bottino',681).
-distance('Palazzo Montecitorio','Trinita dei Monti',663).
-distance('Palazzo Montecitorio','Galleria del Cembalo',300).
-distance('Palazzo Montecitorio','Chiesa di Santa Maria in Via',220).
-distance('Palazzo Montecitorio','Palazzo di Propaganda Fide',489).
-distance('Palazzo Montecitorio','Basilica di Sant Andrea delle Fratte',465).
-distance('Palazzo Montecitorio','Piazza del Popolo',1033).
-distance('Palazzo Montecitorio','Marcus Aurelius Column',130).
-distance('Palazzo Montecitorio','Piazza di Siena',1505).
-distance('Palazzo Montecitorio','All Saints  Anglican Church Rome',747).
-distance('Palazzo Montecitorio','Church of Saint Roch  all Augusteo ',504).
-distance('Palazzo Montecitorio','Church of Our Lady in Trivio',332).
-distance('Palazzo Montecitorio','Il Tempio di Adriano',194).
-distance('Palazzo Montecitorio','Museo Civico di Zoologia',2127).
-distance('Palazzo Montecitorio','Basilica of St. Augustine in Campo Marzio',378).
-distance('Palazzo Montecitorio','Hendrik Christian Anderson Museum',1479).
-distance('Palazzo Montecitorio','Goethe House',836).
-distance('Palazzo Montecitorio','Institute of Japanese Culture',1904).
-distance('Palazzo Montecitorio','Villa Balestra',2238).
-distance('Palazzo Montecitorio','Palazzo Borghese',358).
-distance('Palazzo Montecitorio','National Academy of San Luca',410).
-distance('Palazzo Montecitorio','Museo Carlo Bilotti',1368).
-distance('Palazzo Montecitorio','Palazzo Wedekind',100).
-distance('Palazzo Montecitorio','Cloaca Maxima',1438).
-distance('Palazzo Montecitorio','Temple of Apollo Palatinus',1690).
-distance('Palazzo Montecitorio','Circus Maximus',1794).
-distance('Palazzo Montecitorio','Mouth of Truth',1511).
-distance('Palazzo Montecitorio','Basilica di Santa Sabina all Aventino',1896).
-distance('Palazzo Montecitorio','Santa Maria in Cosmedin',1517).
-distance('Palazzo Montecitorio','Non-Catholic Cemetery',2805).
-distance('Palazzo Montecitorio','Basilica Santa Cecilia in Trastevere',1607).
-distance('Palazzo Montecitorio','Mattatoio',2822).
-distance('Palazzo Montecitorio','Pyramid of Caius Cestius',2791).
-distance('Palazzo Montecitorio','Turtle Fountain',864).
-distance('Palazzo Montecitorio','Basilica di San Bartolomeo all Isola',1248).
-distance('Palazzo Montecitorio','Chiesa di Santa Prisca',2093).
-distance('Palazzo Montecitorio','Tempio Maggiore di Roma',1064).
-distance('Palazzo Montecitorio','Portico of Octavia',1005).
-distance('Palazzo Montecitorio','Basilica Santi Giovanni e Paolo',2010).
+distance('Palazzo Montecitorio','Villa Farnesina',1260).
+distance('Palazzo Montecitorio','Palazzo Madama',430).
+distance('Palazzo Montecitorio','Galleria Spada',950).
+distance('Palazzo Montecitorio','Church of St. Louis of the French',360).
+distance('Palazzo Montecitorio','St. Angelo Bridge',1018).
+distance('Palazzo Montecitorio','Palazzo Farnese',962).
+distance('Palazzo Montecitorio','Sant Agnese in Agone',567).
+distance('Palazzo Montecitorio','Botanical Garden of Rome',1637).
+distance('Palazzo Montecitorio','Chiesa di Santa Maria della Pace',599).
+distance('Palazzo Montecitorio','Obelisco Agonale',519).
+distance('Palazzo Montecitorio','Basilica of Santa Maria in Trastevere',1493).
+distance('Palazzo Montecitorio','Church of St Onuphrius at the Janiculum',1509).
+distance('Palazzo Montecitorio','Biblioteca Angelica',351).
+distance('Palazzo Montecitorio','Campo de  Fiori',822).
+distance('Palazzo Montecitorio','Piazza Navona',512).
+distance('Palazzo Montecitorio','Corte Suprema di Cassazione',820).
+distance('Palazzo Montecitorio','Museo di Roma - Palazzo Braschi',632).
+distance('Palazzo Montecitorio','Church of Santa Maria in Vallicella',854).
+distance('Palazzo Montecitorio','Church of San Pietro in Montorio',1709).
+distance('Palazzo Montecitorio','Saint Eligio of Orefici',1076).
+distance('Palazzo Montecitorio','Palazzo del Commendatore',1361).
+distance('Palazzo Montecitorio','Porta Santo Spirito',1417).
+distance('Palazzo Montecitorio','Bernini Fountain',1777).
+distance('Palazzo Montecitorio','Presepe dei Netturbini',1942).
+distance('Palazzo Montecitorio','Church of Saints Michael and Magnus',1465).
+distance('Palazzo Montecitorio','Museum Leonardo Da Vinci Experience',1424).
+distance('Palazzo Montecitorio','Vatican Necropolis',2040).
+distance('Palazzo Montecitorio','Apostolic Palace',1890).
+distance('Palazzo Montecitorio','Ponte Vittorio Emanuele II',1191).
+distance('Palazzo Montecitorio','Chiesa di Sant Anna dei Palafrenieri',1789).
+distance('Palazzo Montecitorio','Operativa Arte Contemporanea',1072).
+distance('Palazzo Montecitorio','Santa Maria del Suffragio',1081).
+distance('Palazzo Montecitorio','Vatican Apostolic Archive',2019).
+distance('Palazzo Montecitorio','Carriage Pavilion',2132).
+distance('Palazzo Montecitorio','Monastero Mater Ecclesi',2319).
+distance('Palazzo Montecitorio','Oratorio dei Filippini (Oratory of St Philip Neri)',873).
+distance('Palazzo Montecitorio','House of Hospitality Paul VI',2286).
+distance('Palazzo Montecitorio','Chiesa di Santa Maria del Rosario in Prati',1869).
+distance('Palazzo Montecitorio','Welcome To Rome',755).
+distance('Palazzo Montecitorio','Stadium of Domitian',520).
+distance('Palazzo Montecitorio','Palazzo Pamphili',599).
+distance('Palazzo Montecitorio','Fountain of the Moro',566).
+distance('Palazzo Montecitorio','Cappella Chigi',1163).
+distance('Palazzo Montecitorio','Chiesa di Gesu e Maria',769).
+distance('Palazzo Montecitorio','Villa Borghese',1416).
+distance('Palazzo Montecitorio','Passeggiata del Pincio',1113).
+distance('Palazzo Montecitorio','Borghese Gallery and Museum',1834).
+distance('Palazzo Montecitorio','National Gallery of Modern and Contemporary Art',1793).
+distance('Palazzo Montecitorio','Mausoleum of Augustus',578).
+distance('Palazzo Montecitorio','Chiesa Parrocchiale San Giacomo in Augusta',746).
+distance('Palazzo Montecitorio','Villa Medici',862).
+distance('Palazzo Montecitorio','Basilica of Saint Lawrence in Lucina',243).
+distance('Palazzo Montecitorio','Basilica of SS. Ambrose and Charles on the Corso',466).
+distance('Palazzo Montecitorio','Giorgio de Chirico House Museum',596).
+distance('Palazzo Montecitorio','Santa Maria in Montesanto',1006).
+distance('Palazzo Montecitorio','Fontana della Barcaccia',599).
+distance('Palazzo Montecitorio','Museo Leonardo da Vinci',1147).
+distance('Palazzo Montecitorio','Explora - Il Museo dei Bambini di Roma',1582).
+distance('Palazzo Montecitorio','Orologio ad acqua del Pincio',1196).
+distance('Palazzo Montecitorio','Ponte Giacomo Matteotti',1613).
+distance('Palazzo Montecitorio','National Etruscan Museum of Villa Giulia',1918).
+distance('Palazzo Montecitorio','Fontana del Babuino',743).
+distance('Palazzo Montecitorio','Fontana del Bottino',728).
+distance('Palazzo Montecitorio','Trinita dei Monti',707).
+distance('Palazzo Montecitorio','Galleria del Cembalo',341).
+distance('Palazzo Montecitorio','Chiesa di Santa Maria in Via',234).
+distance('Palazzo Montecitorio','Palazzo di Propaganda Fide',528).
+distance('Palazzo Montecitorio','Basilica di Sant Andrea delle Fratte',496).
+distance('Palazzo Montecitorio','Piazza del Popolo',1083).
+distance('Palazzo Montecitorio','Marcus Aurelius Column',111).
+distance('Palazzo Montecitorio','Piazza di Siena',1553).
+distance('Palazzo Montecitorio','All Saints  Anglican Church Rome',798).
+distance('Palazzo Montecitorio','Church of Saint Roch  all Augusteo ',546).
+distance('Palazzo Montecitorio','Church of Our Lady in Trivio',335).
+distance('Palazzo Montecitorio','Il Tempio di Adriano',147).
+distance('Palazzo Montecitorio','Museo Civico di Zoologia',2176).
+distance('Palazzo Montecitorio','Basilica of St. Augustine in Campo Marzio',366).
+distance('Palazzo Montecitorio','Hendrik Christian Anderson Museum',1526).
+distance('Palazzo Montecitorio','Goethe House',886).
+distance('Palazzo Montecitorio','Institute of Japanese Culture',1955).
+distance('Palazzo Montecitorio','Villa Balestra',2288).
+distance('Palazzo Montecitorio','Palazzo Borghese',398).
+distance('Palazzo Montecitorio','National Academy of San Luca',419).
+distance('Palazzo Montecitorio','Museo Carlo Bilotti',1418).
+distance('Palazzo Montecitorio','Cloaca Maxima',1388).
+distance('Palazzo Montecitorio','Temple of Apollo Palatinus',1645).
+distance('Palazzo Montecitorio','Circus Maximus',1747).
+distance('Palazzo Montecitorio','Mouth of Truth',1462).
+distance('Palazzo Montecitorio','Basilica di Santa Sabina all Aventino',1845).
+distance('Palazzo Montecitorio','Santa Maria in Cosmedin',1468).
+distance('Palazzo Montecitorio','Non-Catholic Cemetery',2754).
+distance('Palazzo Montecitorio','Basilica di Santa Cecilia in Trastevere',1556).
+distance('Palazzo Montecitorio','Mattatoio',2771).
+distance('Palazzo Montecitorio','Pyramid of Caius Cestius',2740).
+distance('Palazzo Montecitorio','Turtle Fountain',812).
+distance('Palazzo Montecitorio','Basilica di San Bartolomeo all Isola',1197).
+distance('Palazzo Montecitorio','Chiesa di Santa Prisca',2044).
+distance('Palazzo Montecitorio','Tempio Maggiore',1013).
+distance('Palazzo Montecitorio','Portico of Octavia',954).
+distance('Palazzo Montecitorio','Basilica Santi Giovanni e Paolo',1970).
 distance('Domus Aurea','National Gallery of Ancient Art in Barberini Palace',1487).
 distance('Domus Aurea','Doria Pamphili Gallery',1422).
 distance('Domus Aurea','Piazza Venezia',1223).
 distance('Domus Aurea','Pantheon',1790).
 distance('Domus Aurea','Basilica of Saint Mary of Minerva',1673).
-distance('Domus Aurea','Santa Maria degli Angeli e dei Martiri',1400).
+distance('Domus Aurea','Basilica of Saint Mary of the Angels and Martyrs',1400).
 distance('Domus Aurea','Parrocchia Santa Maria Maggiore',771).
 distance('Domus Aurea','Mamertine Prison',967).
 distance('Domus Aurea','Mose di Michelangelo',422).
@@ -7351,7 +7324,7 @@ distance('Domus Aurea','Column of Phocas',915).
 distance('Domus Aurea','Antoninus and Faustina Temple',751).
 distance('Domus Aurea','Marcello Theater',1311).
 distance('Domus Aurea','Chiesa di Santa Maria in Portico in Campitelli',1389).
-distance('Domus Aurea','The Church of Santa Maria della Vittoria',1567).
+distance('Domus Aurea','Church of Santa Maria della Vittoria',1567).
 distance('Domus Aurea','The Last Judgment',3679).
 distance('Domus Aurea','Chiesa di Santo Stefano degli Abissini',3838).
 distance('Domus Aurea','Fontana di Piazza Farnese',2064).
@@ -7368,10 +7341,10 @@ distance('Domus Aurea','Gardens of Vatican City',4032).
 distance('Domus Aurea','Fiumi Fountain',2086).
 distance('Domus Aurea','Sistine Chapel',3677).
 distance('Domus Aurea','Villa Farnesina',2373).
-distance('Domus Aurea','Church of St. Louis of the French',2011).
 distance('Domus Aurea','Palazzo Madama',2022).
 distance('Domus Aurea','Galleria Spada',2005).
-distance('Domus Aurea','St. Angelo Bridge',2718).
+distance('Domus Aurea','Church of St. Louis of the French',1995).
+distance('Domus Aurea','St. Angelo Bridge',2725).
 distance('Domus Aurea','Palazzo Farnese',2111).
 distance('Domus Aurea','Sant Agnese in Agone',2120).
 distance('Domus Aurea','Botanical Garden of Rome',2727).
@@ -7384,8 +7357,8 @@ distance('Domus Aurea','Campo de  Fiori',2052).
 distance('Domus Aurea','Piazza Navona',2097).
 distance('Domus Aurea','Corte Suprema di Cassazione',2636).
 distance('Domus Aurea','Museo di Roma - Palazzo Braschi',2049).
-distance('Domus Aurea','Parrocchia Santa Maria in Vallicella',2362).
-distance('Domus Aurea','Chiesa di San Pietro in Montorio',2432).
+distance('Domus Aurea','Church of Santa Maria in Vallicella',2355).
+distance('Domus Aurea','Church of San Pietro in Montorio',2432).
 distance('Domus Aurea','Saint Eligio of Orefici',2366).
 distance('Domus Aurea','Palazzo del Commendatore',3010).
 distance('Domus Aurea','Porta Santo Spirito',3019).
@@ -7451,7 +7424,6 @@ distance('Domus Aurea','Villa Balestra',3868).
 distance('Domus Aurea','Palazzo Borghese',2205).
 distance('Domus Aurea','National Academy of San Luca',1569).
 distance('Domus Aurea','Museo Carlo Bilotti',2728).
-distance('Domus Aurea','Palazzo Wedekind',1756).
 distance('Domus Aurea','Cloaca Maxima',1299).
 distance('Domus Aurea','Temple of Apollo Palatinus',879).
 distance('Domus Aurea','Circus Maximus',1002).
@@ -7459,20 +7431,20 @@ distance('Domus Aurea','Mouth of Truth',1208).
 distance('Domus Aurea','Basilica di Santa Sabina all Aventino',1480).
 distance('Domus Aurea','Santa Maria in Cosmedin',1194).
 distance('Domus Aurea','Non-Catholic Cemetery',2077).
-distance('Domus Aurea','Basilica Santa Cecilia in Trastevere',1625).
+distance('Domus Aurea','Basilica di Santa Cecilia in Trastevere',1625).
 distance('Domus Aurea','Mattatoio',2429).
 distance('Domus Aurea','Pyramid of Caius Cestius',1988).
 distance('Domus Aurea','Turtle Fountain',1538).
 distance('Domus Aurea','Basilica di San Bartolomeo all Isola',1444).
 distance('Domus Aurea','Chiesa di Santa Prisca',1300).
-distance('Domus Aurea','Tempio Maggiore di Roma',1467).
+distance('Domus Aurea','Tempio Maggiore',1467).
 distance('Domus Aurea','Portico of Octavia',1432).
 distance('Domus Aurea','Basilica Santi Giovanni e Paolo',544).
 distance('National Gallery of Ancient Art in Barberini Palace','Doria Pamphili Gallery',903).
 distance('National Gallery of Ancient Art in Barberini Palace','Piazza Venezia',1029).
 distance('National Gallery of Ancient Art in Barberini Palace','Pantheon',1193).
 distance('National Gallery of Ancient Art in Barberini Palace','Basilica of Saint Mary of Minerva',1142).
-distance('National Gallery of Ancient Art in Barberini Palace','Santa Maria degli Angeli e dei Martiri',590).
+distance('National Gallery of Ancient Art in Barberini Palace','Basilica of Saint Mary of the Angels and Martyrs',590).
 distance('National Gallery of Ancient Art in Barberini Palace','Parrocchia Santa Maria Maggiore',1263).
 distance('National Gallery of Ancient Art in Barberini Palace','Mamertine Prison',1198).
 distance('National Gallery of Ancient Art in Barberini Palace','Mose di Michelangelo',1083).
@@ -7494,7 +7466,7 @@ distance('National Gallery of Ancient Art in Barberini Palace','Column of Phocas
 distance('National Gallery of Ancient Art in Barberini Palace','Antoninus and Faustina Temple',1251).
 distance('National Gallery of Ancient Art in Barberini Palace','Marcello Theater',1505).
 distance('National Gallery of Ancient Art in Barberini Palace','Chiesa di Santa Maria in Portico in Campitelli',1438).
-distance('National Gallery of Ancient Art in Barberini Palace','The Church of Santa Maria della Vittoria',409).
+distance('National Gallery of Ancient Art in Barberini Palace','Church of Santa Maria della Vittoria',409).
 distance('National Gallery of Ancient Art in Barberini Palace','The Last Judgment',2934).
 distance('National Gallery of Ancient Art in Barberini Palace','Chiesa di Santo Stefano degli Abissini',3155).
 distance('National Gallery of Ancient Art in Barberini Palace','Fontana di Piazza Farnese',1780).
@@ -7511,9 +7483,9 @@ distance('National Gallery of Ancient Art in Barberini Palace','Gardens of Vatic
 distance('National Gallery of Ancient Art in Barberini Palace','Fiumi Fountain',1468).
 distance('National Gallery of Ancient Art in Barberini Palace','Sistine Chapel',2931).
 distance('National Gallery of Ancient Art in Barberini Palace','Villa Farnesina',2157).
-distance('National Gallery of Ancient Art in Barberini Palace','Church of St. Louis of the French',1332).
 distance('National Gallery of Ancient Art in Barberini Palace','Palazzo Madama',1376).
 distance('National Gallery of Ancient Art in Barberini Palace','Galleria Spada',1795).
+distance('National Gallery of Ancient Art in Barberini Palace','Church of St. Louis of the French',1309).
 distance('National Gallery of Ancient Art in Barberini Palace','St. Angelo Bridge',1944).
 distance('National Gallery of Ancient Art in Barberini Palace','Palazzo Farnese',1841).
 distance('National Gallery of Ancient Art in Barberini Palace','Sant Agnese in Agone',1515).
@@ -7527,8 +7499,8 @@ distance('National Gallery of Ancient Art in Barberini Palace','Campo de  Fiori'
 distance('National Gallery of Ancient Art in Barberini Palace','Piazza Navona',1462).
 distance('National Gallery of Ancient Art in Barberini Palace','Corte Suprema di Cassazione',1644).
 distance('National Gallery of Ancient Art in Barberini Palace','Museo di Roma - Palazzo Braschi',1554).
-distance('National Gallery of Ancient Art in Barberini Palace','Parrocchia Santa Maria in Vallicella',1795).
-distance('National Gallery of Ancient Art in Barberini Palace','Chiesa di San Pietro in Montorio',2526).
+distance('National Gallery of Ancient Art in Barberini Palace','Church of Santa Maria in Vallicella',1805).
+distance('National Gallery of Ancient Art in Barberini Palace','Church of San Pietro in Montorio',2526).
 distance('National Gallery of Ancient Art in Barberini Palace','Saint Eligio of Orefici',2003).
 distance('National Gallery of Ancient Art in Barberini Palace','Palazzo del Commendatore',2295).
 distance('National Gallery of Ancient Art in Barberini Palace','Porta Santo Spirito',2360).
@@ -7594,7 +7566,6 @@ distance('National Gallery of Ancient Art in Barberini Palace','Villa Balestra',
 distance('National Gallery of Ancient Art in Barberini Palace','Palazzo Borghese',1135).
 distance('National Gallery of Ancient Art in Barberini Palace','National Academy of San Luca',542).
 distance('National Gallery of Ancient Art in Barberini Palace','Museo Carlo Bilotti',1246).
-distance('National Gallery of Ancient Art in Barberini Palace','Palazzo Wedekind',902).
 distance('National Gallery of Ancient Art in Barberini Palace','Cloaca Maxima',1811).
 distance('National Gallery of Ancient Art in Barberini Palace','Temple of Apollo Palatinus',1800).
 distance('National Gallery of Ancient Art in Barberini Palace','Circus Maximus',1944).
@@ -7602,19 +7573,19 @@ distance('National Gallery of Ancient Art in Barberini Palace','Mouth of Truth',
 distance('National Gallery of Ancient Art in Barberini Palace','Basilica di Santa Sabina all Aventino',2246).
 distance('National Gallery of Ancient Art in Barberini Palace','Santa Maria in Cosmedin',1821).
 distance('National Gallery of Ancient Art in Barberini Palace','Non-Catholic Cemetery',3116).
-distance('National Gallery of Ancient Art in Barberini Palace','Basilica Santa Cecilia in Trastevere',2099).
+distance('National Gallery of Ancient Art in Barberini Palace','Basilica di Santa Cecilia in Trastevere',2099).
 distance('National Gallery of Ancient Art in Barberini Palace','Mattatoio',3278).
 distance('National Gallery of Ancient Art in Barberini Palace','Pyramid of Caius Cestius',3067).
 distance('National Gallery of Ancient Art in Barberini Palace','Turtle Fountain',1461).
 distance('National Gallery of Ancient Art in Barberini Palace','Basilica di San Bartolomeo all Isola',1731).
 distance('National Gallery of Ancient Art in Barberini Palace','Chiesa di Santa Prisca',2303).
-distance('National Gallery of Ancient Art in Barberini Palace','Tempio Maggiore di Roma',1590).
+distance('National Gallery of Ancient Art in Barberini Palace','Tempio Maggiore',1590).
 distance('National Gallery of Ancient Art in Barberini Palace','Portico of Octavia',1519).
 distance('National Gallery of Ancient Art in Barberini Palace','Basilica Santi Giovanni e Paolo',1877).
 distance('Doria Pamphili Gallery','Piazza Venezia',259).
 distance('Doria Pamphili Gallery','Pantheon',396).
 distance('Doria Pamphili Gallery','Basilica of Saint Mary of Minerva',294).
-distance('Doria Pamphili Gallery','Santa Maria degli Angeli e dei Martiri',1399).
+distance('Doria Pamphili Gallery','Basilica of Saint Mary of the Angels and Martyrs',1399).
 distance('Doria Pamphili Gallery','Parrocchia Santa Maria Maggiore',1668).
 distance('Doria Pamphili Gallery','Mamertine Prison',578).
 distance('Doria Pamphili Gallery','Mose di Michelangelo',1041).
@@ -7636,7 +7607,7 @@ distance('Doria Pamphili Gallery','Column of Phocas',670).
 distance('Doria Pamphili Gallery','Antoninus and Faustina Temple',771).
 distance('Doria Pamphili Gallery','Marcello Theater',685).
 distance('Doria Pamphili Gallery','Chiesa di Santa Maria in Portico in Campitelli',581).
-distance('Doria Pamphili Gallery','The Church of Santa Maria della Vittoria',1297).
+distance('Doria Pamphili Gallery','Church of Santa Maria della Vittoria',1297).
 distance('Doria Pamphili Gallery','The Last Judgment',2317).
 distance('Doria Pamphili Gallery','Chiesa di Santo Stefano degli Abissini',2503).
 distance('Doria Pamphili Gallery','Fontana di Piazza Farnese',903).
@@ -7653,10 +7624,10 @@ distance('Doria Pamphili Gallery','Gardens of Vatican City',2674).
 distance('Doria Pamphili Gallery','Fiumi Fountain',712).
 distance('Doria Pamphili Gallery','Sistine Chapel',2314).
 distance('Doria Pamphili Gallery','Villa Farnesina',1281).
-distance('Doria Pamphili Gallery','Church of St. Louis of the French',610).
 distance('Doria Pamphili Gallery','Palazzo Madama',632).
 distance('Doria Pamphili Gallery','Galleria Spada',904).
-distance('Doria Pamphili Gallery','St. Angelo Bridge',1323).
+distance('Doria Pamphili Gallery','Church of St. Louis of the French',590).
+distance('Doria Pamphili Gallery','St. Angelo Bridge',1328).
 distance('Doria Pamphili Gallery','Palazzo Farnese',964).
 distance('Doria Pamphili Gallery','Sant Agnese in Agone',754).
 distance('Doria Pamphili Gallery','Botanical Garden of Rome',1677).
@@ -7669,8 +7640,8 @@ distance('Doria Pamphili Gallery','Campo de  Fiori',844).
 distance('Doria Pamphili Gallery','Piazza Navona',717).
 distance('Doria Pamphili Gallery','Corte Suprema di Cassazione',1214).
 distance('Doria Pamphili Gallery','Museo di Roma - Palazzo Braschi',735).
-distance('Doria Pamphili Gallery','Parrocchia Santa Maria in Vallicella',1031).
-distance('Doria Pamphili Gallery','Chiesa di San Pietro in Montorio',1623).
+distance('Doria Pamphili Gallery','Church of Santa Maria in Vallicella',1033).
+distance('Doria Pamphili Gallery','Church of San Pietro in Montorio',1623).
 distance('Doria Pamphili Gallery','Saint Eligio of Orefici',1161).
 distance('Doria Pamphili Gallery','Palazzo del Commendatore',1643).
 distance('Doria Pamphili Gallery','Porta Santo Spirito',1675).
@@ -7736,7 +7707,6 @@ distance('Doria Pamphili Gallery','Villa Balestra',2678).
 distance('Doria Pamphili Gallery','Palazzo Borghese',820).
 distance('Doria Pamphili Gallery','National Academy of San Luca',438).
 distance('Doria Pamphili Gallery','Museo Carlo Bilotti',1719).
-distance('Doria Pamphili Gallery','Palazzo Wedekind',363).
 distance('Doria Pamphili Gallery','Cloaca Maxima',1041).
 distance('Doria Pamphili Gallery','Temple of Apollo Palatinus',1237).
 distance('Doria Pamphili Gallery','Circus Maximus',1348).
@@ -7744,18 +7714,18 @@ distance('Doria Pamphili Gallery','Mouth of Truth',1096).
 distance('Doria Pamphili Gallery','Basilica di Santa Sabina all Aventino',1503).
 distance('Doria Pamphili Gallery','Santa Maria in Cosmedin',1099).
 distance('Doria Pamphili Gallery','Non-Catholic Cemetery',2412).
-distance('Doria Pamphili Gallery','Basilica Santa Cecilia in Trastevere',1268).
+distance('Doria Pamphili Gallery','Basilica di Santa Cecilia in Trastevere',1268).
 distance('Doria Pamphili Gallery','Mattatoio',2484).
 distance('Doria Pamphili Gallery','Pyramid of Caius Cestius',2387).
 distance('Doria Pamphili Gallery','Turtle Fountain',567).
 distance('Doria Pamphili Gallery','Basilica di San Bartolomeo all Isola',893).
 distance('Doria Pamphili Gallery','Chiesa di Santa Prisca',1664).
-distance('Doria Pamphili Gallery','Tempio Maggiore di Roma',726).
+distance('Doria Pamphili Gallery','Tempio Maggiore',726).
 distance('Doria Pamphili Gallery','Portico of Octavia',657).
 distance('Doria Pamphili Gallery','Basilica Santi Giovanni e Paolo',1548).
 distance('Piazza Venezia','Pantheon',568).
 distance('Piazza Venezia','Basilica of Saint Mary of Minerva',451).
-distance('Piazza Venezia','Santa Maria degli Angeli e dei Martiri',1449).
+distance('Piazza Venezia','Basilica of Saint Mary of the Angels and Martyrs',1449).
 distance('Piazza Venezia','Parrocchia Santa Maria Maggiore',1571).
 distance('Piazza Venezia','Mamertine Prison',321).
 distance('Piazza Venezia','Mose di Michelangelo',876).
@@ -7777,7 +7747,7 @@ distance('Piazza Venezia','Column of Phocas',413).
 distance('Piazza Venezia','Antoninus and Faustina Temple',526).
 distance('Piazza Venezia','Marcello Theater',480).
 distance('Piazza Venezia','Chiesa di Santa Maria in Portico in Campitelli',411).
-distance('Piazza Venezia','The Church of Santa Maria della Vittoria',1393).
+distance('Piazza Venezia','Church of Santa Maria della Vittoria',1393).
 distance('Piazza Venezia','The Last Judgment',2466).
 distance('Piazza Venezia','Chiesa di Santo Stefano degli Abissini',2636).
 distance('Piazza Venezia','Fontana di Piazza Farnese',927).
@@ -7794,10 +7764,10 @@ distance('Piazza Venezia','Gardens of Vatican City',2821).
 distance('Piazza Venezia','Fiumi Fountain',863).
 distance('Piazza Venezia','Sistine Chapel',2463).
 distance('Piazza Venezia','Villa Farnesina',1291).
-distance('Piazza Venezia','Church of St. Louis of the French',789).
 distance('Piazza Venezia','Palazzo Madama',799).
 distance('Piazza Venezia','Galleria Spada',900).
-distance('Piazza Venezia','St. Angelo Bridge',1494).
+distance('Piazza Venezia','Church of St. Louis of the French',774).
+distance('Piazza Venezia','St. Angelo Bridge',1501).
 distance('Piazza Venezia','Palazzo Farnese',984).
 distance('Piazza Venezia','Sant Agnese in Agone',899).
 distance('Piazza Venezia','Botanical Garden of Rome',1682).
@@ -7810,8 +7780,8 @@ distance('Piazza Venezia','Campo de  Fiori',889).
 distance('Piazza Venezia','Piazza Navona',873).
 distance('Piazza Venezia','Corte Suprema di Cassazione',1439).
 distance('Piazza Venezia','Museo di Roma - Palazzo Braschi',841).
-distance('Piazza Venezia','Parrocchia Santa Maria in Vallicella',1153).
-distance('Piazza Venezia','Chiesa di San Pietro in Montorio',1552).
+distance('Piazza Venezia','Church of Santa Maria in Vallicella',1149).
+distance('Piazza Venezia','Church of San Pietro in Montorio',1552).
 distance('Piazza Venezia','Saint Eligio of Orefici',1216).
 distance('Piazza Venezia','Palazzo del Commendatore',1793).
 distance('Piazza Venezia','Porta Santo Spirito',1810).
@@ -7877,7 +7847,6 @@ distance('Piazza Venezia','Villa Balestra',2937).
 distance('Piazza Venezia','Palazzo Borghese',1073).
 distance('Piazza Venezia','National Academy of San Luca',653).
 distance('Piazza Venezia','Museo Carlo Bilotti',1959).
-distance('Piazza Venezia','Palazzo Wedekind',619).
 distance('Piazza Venezia','Cloaca Maxima',814).
 distance('Piazza Venezia','Temple of Apollo Palatinus',978).
 distance('Piazza Venezia','Circus Maximus',1090).
@@ -7885,17 +7854,17 @@ distance('Piazza Venezia','Mouth of Truth',855).
 distance('Piazza Venezia','Basilica di Santa Sabina all Aventino',1272).
 distance('Piazza Venezia','Santa Maria in Cosmedin',857).
 distance('Piazza Venezia','Non-Catholic Cemetery',2176).
-distance('Piazza Venezia','Basilica Santa Cecilia in Trastevere',1075).
+distance('Piazza Venezia','Basilica di Santa Cecilia in Trastevere',1075).
 distance('Piazza Venezia','Mattatoio',2276).
 distance('Piazza Venezia','Pyramid of Caius Cestius',2145).
 distance('Piazza Venezia','Turtle Fountain',466).
 distance('Piazza Venezia','Basilica di San Bartolomeo all Isola',703).
 distance('Piazza Venezia','Chiesa di Santa Prisca',1412).
-distance('Piazza Venezia','Tempio Maggiore di Roma',563).
+distance('Piazza Venezia','Tempio Maggiore',563).
 distance('Piazza Venezia','Portico of Octavia',492).
 distance('Piazza Venezia','Basilica Santi Giovanni e Paolo',1300).
 distance('Pantheon','Basilica of Saint Mary of Minerva',117).
-distance('Pantheon','Santa Maria degli Angeli e dei Martiri',1740).
+distance('Pantheon','Basilica of Saint Mary of the Angels and Martyrs',1740).
 distance('Pantheon','Parrocchia Santa Maria Maggiore',2064).
 distance('Pantheon','Mamertine Prison',869).
 distance('Pantheon','Mose di Michelangelo',1425).
@@ -7917,7 +7886,7 @@ distance('Pantheon','Column of Phocas',951).
 distance('Pantheon','Antoninus and Faustina Temple',1086).
 distance('Pantheon','Marcello Theater',783).
 distance('Pantheon','Chiesa di Santa Maria in Portico in Campitelli',646).
-distance('Pantheon','The Church of Santa Maria della Vittoria',1601).
+distance('Pantheon','Church of Santa Maria della Vittoria',1601).
 distance('Pantheon','The Last Judgment',1921).
 distance('Pantheon','Chiesa di Santo Stefano degli Abissini',2106).
 distance('Pantheon','Fontana di Piazza Farnese',602).
@@ -7934,10 +7903,10 @@ distance('Pantheon','Gardens of Vatican City',2278).
 distance('Pantheon','Fiumi Fountain',316).
 distance('Pantheon','Sistine Chapel',1919).
 distance('Pantheon','Villa Farnesina',970).
-distance('Pantheon','Church of St. Louis of the French',221).
 distance('Pantheon','Palazzo Madama',237).
 distance('Pantheon','Galleria Spada',639).
-distance('Pantheon','St. Angelo Bridge',933).
+distance('Pantheon','Church of St. Louis of the French',205).
+distance('Pantheon','St. Angelo Bridge',938).
 distance('Pantheon','Palazzo Farnese',661).
 distance('Pantheon','Sant Agnese in Agone',359).
 distance('Pantheon','Botanical Garden of Rome',1358).
@@ -7950,8 +7919,8 @@ distance('Pantheon','Campo de  Fiori',524).
 distance('Pantheon','Piazza Navona',321).
 distance('Pantheon','Corte Suprema di Cassazione',884).
 distance('Pantheon','Museo di Roma - Palazzo Braschi',363).
-distance('Pantheon','Parrocchia Santa Maria in Vallicella',640).
-distance('Pantheon','Chiesa di San Pietro in Montorio',1398).
+distance('Pantheon','Church of Santa Maria in Vallicella',644).
+distance('Pantheon','Church of San Pietro in Montorio',1398).
 distance('Pantheon','Saint Eligio of Orefici',810).
 distance('Pantheon','Palazzo del Commendatore',1248).
 distance('Pantheon','Porta Santo Spirito',1279).
@@ -8017,7 +7986,6 @@ distance('Pantheon','Villa Balestra',2541).
 distance('Pantheon','Palazzo Borghese',620).
 distance('Pantheon','National Academy of San Luca',655).
 distance('Pantheon','Museo Carlo Bilotti',1727).
-distance('Pantheon','Palazzo Wedekind',326).
 distance('Pantheon','Cloaca Maxima',1138).
 distance('Pantheon','Temple of Apollo Palatinus',1462).
 distance('Pantheon','Circus Maximus',1546).
@@ -8025,16 +7993,16 @@ distance('Pantheon','Mouth of Truth',1227).
 distance('Pantheon','Basilica di Santa Sabina all Aventino',1584).
 distance('Pantheon','Santa Maria in Cosmedin',1235).
 distance('Pantheon','Non-Catholic Cemetery',2486).
-distance('Pantheon','Basilica Santa Cecilia in Trastevere',1269).
+distance('Pantheon','Basilica di Santa Cecilia in Trastevere',1269).
 distance('Pantheon','Mattatoio',2475).
 distance('Pantheon','Pyramid of Caius Cestius',2479).
 distance('Pantheon','Turtle Fountain',533).
 distance('Pantheon','Basilica di San Bartolomeo all Isola',926).
 distance('Pantheon','Chiesa di Santa Prisca',1814).
-distance('Pantheon','Tempio Maggiore di Roma',741).
+distance('Pantheon','Tempio Maggiore',741).
 distance('Pantheon','Portico of Octavia',691).
 distance('Pantheon','Basilica Santi Giovanni e Paolo',1848).
-distance('Basilica of Saint Mary of Minerva','Santa Maria degli Angeli e dei Martiri',1672).
+distance('Basilica of Saint Mary of Minerva','Basilica of Saint Mary of the Angels and Martyrs',1672).
 distance('Basilica of Saint Mary of Minerva','Parrocchia Santa Maria Maggiore',1961).
 distance('Basilica of Saint Mary of Minerva','Mamertine Prison',752).
 distance('Basilica of Saint Mary of Minerva','Mose di Michelangelo',1311).
@@ -8056,7 +8024,7 @@ distance('Basilica of Saint Mary of Minerva','Column of Phocas',836).
 distance('Basilica of Saint Mary of Minerva','Antoninus and Faustina Temple',969).
 distance('Basilica of Saint Mary of Minerva','Marcello Theater',690).
 distance('Basilica of Saint Mary of Minerva','Chiesa di Santa Maria in Portico in Campitelli',556).
-distance('Basilica of Saint Mary of Minerva','The Church of Santa Maria della Vittoria',1547).
+distance('Basilica of Saint Mary of Minerva','Church of Santa Maria della Vittoria',1547).
 distance('Basilica of Saint Mary of Minerva','The Last Judgment',2031).
 distance('Basilica of Saint Mary of Minerva','Chiesa di Santo Stefano degli Abissini',2212).
 distance('Basilica of Saint Mary of Minerva','Fontana di Piazza Farnese',638).
@@ -8073,10 +8041,10 @@ distance('Basilica of Saint Mary of Minerva','Gardens of Vatican City',2388).
 distance('Basilica of Saint Mary of Minerva','Fiumi Fountain',423).
 distance('Basilica of Saint Mary of Minerva','Sistine Chapel',2029).
 distance('Basilica of Saint Mary of Minerva','Villa Farnesina',1015).
-distance('Basilica of Saint Mary of Minerva','Church of St. Louis of the French',338).
 distance('Basilica of Saint Mary of Minerva','Palazzo Madama',350).
 distance('Basilica of Saint Mary of Minerva','Galleria Spada',658).
-distance('Basilica of Saint Mary of Minerva','St. Angelo Bridge',1048).
+distance('Basilica of Saint Mary of Minerva','Church of St. Louis of the French',323).
+distance('Basilica of Saint Mary of Minerva','St. Angelo Bridge',1054).
 distance('Basilica of Saint Mary of Minerva','Palazzo Farnese',699).
 distance('Basilica of Saint Mary of Minerva','Sant Agnese in Agone',463).
 distance('Basilica of Saint Mary of Minerva','Botanical Garden of Rome',1408).
@@ -8089,8 +8057,8 @@ distance('Basilica of Saint Mary of Minerva','Campo de  Fiori',569).
 distance('Basilica of Saint Mary of Minerva','Piazza Navona',430).
 distance('Basilica of Saint Mary of Minerva','Corte Suprema di Cassazione',999).
 distance('Basilica of Saint Mary of Minerva','Museo di Roma - Palazzo Braschi',442).
-distance('Basilica of Saint Mary of Minerva','Parrocchia Santa Maria in Vallicella',737).
-distance('Basilica of Saint Mary of Minerva','Chiesa di San Pietro in Montorio',1408).
+distance('Basilica of Saint Mary of Minerva','Church of Santa Maria in Vallicella',738).
+distance('Basilica of Saint Mary of Minerva','Church of San Pietro in Montorio',1408).
 distance('Basilica of Saint Mary of Minerva','Saint Eligio of Orefici',876).
 distance('Basilica of Saint Mary of Minerva','Palazzo del Commendatore',1358).
 distance('Basilica of Saint Mary of Minerva','Porta Santo Spirito',1385).
@@ -8156,7 +8124,6 @@ distance('Basilica of Saint Mary of Minerva','Villa Balestra',2621).
 distance('Basilica of Saint Mary of Minerva','Palazzo Borghese',703).
 distance('Basilica of Saint Mary of Minerva','National Academy of San Luca',617).
 distance('Basilica of Saint Mary of Minerva','Museo Carlo Bilotti',1767).
-distance('Basilica of Saint Mary of Minerva','Palazzo Wedekind',337).
 distance('Basilica of Saint Mary of Minerva','Cloaca Maxima',1051).
 distance('Basilica of Saint Mary of Minerva','Temple of Apollo Palatinus',1355).
 distance('Basilica of Saint Mary of Minerva','Circus Maximus',1442).
@@ -8164,153 +8131,152 @@ distance('Basilica of Saint Mary of Minerva','Mouth of Truth',1133).
 distance('Basilica of Saint Mary of Minerva','Basilica di Santa Sabina all Aventino',1504).
 distance('Basilica of Saint Mary of Minerva','Santa Maria in Cosmedin',1141).
 distance('Basilica of Saint Mary of Minerva','Non-Catholic Cemetery',2410).
-distance('Basilica of Saint Mary of Minerva','Basilica Santa Cecilia in Trastevere',1205).
+distance('Basilica of Saint Mary of Minerva','Basilica di Santa Cecilia in Trastevere',1205).
 distance('Basilica of Saint Mary of Minerva','Mattatoio',2420).
 distance('Basilica of Saint Mary of Minerva','Pyramid of Caius Cestius',2399).
 distance('Basilica of Saint Mary of Minerva','Turtle Fountain',462).
 distance('Basilica of Saint Mary of Minerva','Basilica di San Bartolomeo all Isola',850).
 distance('Basilica of Saint Mary of Minerva','Chiesa di Santa Prisca',1720).
-distance('Basilica of Saint Mary of Minerva','Tempio Maggiore di Roma',665).
+distance('Basilica of Saint Mary of Minerva','Tempio Maggiore',665).
 distance('Basilica of Saint Mary of Minerva','Portico of Octavia',609).
 distance('Basilica of Saint Mary of Minerva','Basilica Santi Giovanni e Paolo',1732).
-distance('Santa Maria degli Angeli e dei Martiri','Parrocchia Santa Maria Maggiore',884).
-distance('Santa Maria degli Angeli e dei Martiri','Mamertine Prison',1510).
-distance('Santa Maria degli Angeli e dei Martiri','Mose di Michelangelo',1098).
-distance('Santa Maria degli Angeli e dei Martiri','Capanne di Romolo',1841).
-distance('Santa Maria degli Angeli e dei Martiri','Basilica San Silvestro in Capite',1342).
-distance('Santa Maria degli Angeli e dei Martiri','Basilica del Sacro Cuore di Gesu',457).
-distance('Santa Maria degli Angeli e dei Martiri','Largo di Torre Argentina',1876).
-distance('Santa Maria degli Angeli e dei Martiri','Chiesa di Santa Maria ai Monti',1085).
-distance('Santa Maria degli Angeli e dei Martiri','Basilica of St Mark Evangelist at Campidoglio',1506).
-distance('Santa Maria degli Angeli e dei Martiri','St. Paul s Within the Walls',317).
-distance('Santa Maria degli Angeli e dei Martiri','Septimius Severus Arch',1527).
-distance('Santa Maria degli Angeli e dei Martiri','Palazzo Sciarra Colonna Carbognano',1358).
-distance('Santa Maria degli Angeli e dei Martiri','The Keats - Shelley House',1230).
-distance('Santa Maria degli Angeli e dei Martiri','Basilica Ulpia',1328).
-distance('Santa Maria degli Angeli e dei Martiri','Temple of Vesta',1554).
-distance('Santa Maria degli Angeli e dei Martiri','Chiesa San Marcello al Corso',1373).
-distance('Santa Maria degli Angeli e dei Martiri','San Stanislao alle Botteghe Oscure',1726).
-distance('Santa Maria degli Angeli e dei Martiri','Column of Phocas',1556).
-distance('Santa Maria degli Angeli e dei Martiri','Antoninus and Faustina Temple',1476).
-distance('Santa Maria degli Angeli e dei Martiri','Marcello Theater',1886).
-distance('Santa Maria degli Angeli e dei Martiri','Chiesa di Santa Maria in Portico in Campitelli',1853).
-distance('Santa Maria degli Angeli e dei Martiri','The Church of Santa Maria della Vittoria',271).
-distance('Santa Maria degli Angeli e dei Martiri','The Last Judgment',3524).
-distance('Santa Maria degli Angeli e dei Martiri','Chiesa di Santo Stefano degli Abissini',3744).
-distance('Santa Maria degli Angeli e dei Martiri','Fontana di Piazza Farnese',2302).
-distance('Santa Maria degli Angeli e dei Martiri','Villa Abamelek',3708).
-distance('Santa Maria degli Angeli e dei Martiri','Palazzo Torres',2049).
-distance('Santa Maria degli Angeli e dei Martiri','Castel Sant Angelo',2543).
-distance('Santa Maria degli Angeli e dei Martiri','Vidoni Palace',1992).
-distance('Santa Maria degli Angeli e dei Martiri','Vatican Museums',3610).
-distance('Santa Maria degli Angeli e dei Martiri','Fontana di Piazza Nicosia',1841).
-distance('Santa Maria degli Angeli e dei Martiri','St. Peter s Basilica',3569).
-distance('Santa Maria degli Angeli e dei Martiri','Church Holy Spirit in Sassia',2987).
-distance('Santa Maria degli Angeli e dei Martiri','Parrocchia Santuario Santa Maria in Traspontina',2883).
-distance('Santa Maria degli Angeli e dei Martiri','Gardens of Vatican City',3874).
-distance('Santa Maria degli Angeli e dei Martiri','Fiumi Fountain',2033).
-distance('Santa Maria degli Angeli e dei Martiri','Sistine Chapel',3522).
-distance('Santa Maria degli Angeli e dei Martiri','Villa Farnesina',2680).
-distance('Santa Maria degli Angeli e dei Martiri','Church of St. Louis of the French',1900).
-distance('Santa Maria degli Angeli e dei Martiri','Palazzo Madama',1941).
-distance('Santa Maria degli Angeli e dei Martiri','Galleria Spada',2303).
-distance('Santa Maria degli Angeli e dei Martiri','St. Angelo Bridge',2533).
-distance('Santa Maria degli Angeli e dei Martiri','Palazzo Farnese',2363).
-distance('Santa Maria degli Angeli e dei Martiri','Sant Agnese in Agone',2079).
-distance('Santa Maria degli Angeli e dei Martiri','Botanical Garden of Rome',3076).
-distance('Santa Maria degli Angeli e dei Martiri','Chiesa di Santa Maria della Pace',2130).
-distance('Santa Maria degli Angeli e dei Martiri','Obelisco Agonale',2032).
-distance('Santa Maria degli Angeli e dei Martiri','Basilica of Santa Maria in Trastevere',2728).
-distance('Santa Maria degli Angeli e dei Martiri','Church of St Onuphrius at the Janiculum',3035).
-distance('Santa Maria degli Angeli e dei Martiri','Biblioteca Angelica',1883).
-distance('Santa Maria degli Angeli e dei Martiri','Campo de  Fiori',2239).
-distance('Santa Maria degli Angeli e dei Martiri','Piazza Navona',2029).
-distance('Santa Maria degli Angeli e dei Martiri','Corte Suprema di Cassazione',2233).
-distance('Santa Maria degli Angeli e dei Martiri','Museo di Roma - Palazzo Braschi',2104).
-distance('Santa Maria degli Angeli e dei Martiri','Parrocchia Santa Maria in Vallicella',2363).
-distance('Santa Maria degli Angeli e dei Martiri','Chiesa di San Pietro in Montorio',2998).
-distance('Santa Maria degli Angeli e dei Martiri','Saint Eligio of Orefici',2547).
-distance('Santa Maria degli Angeli e dei Martiri','Palazzo del Commendatore',2883).
-distance('Santa Maria degli Angeli e dei Martiri','Porta Santo Spirito',2945).
-distance('Santa Maria degli Angeli e dei Martiri','Bernini Fountain',3294).
-distance('Santa Maria degli Angeli e dei Martiri','Presepe dei Netturbini',3471).
-distance('Santa Maria degli Angeli e dei Martiri','Church of Saints Michael and Magnus',2986).
-distance('Santa Maria degli Angeli e dei Martiri','Museum Leonardo Da Vinci Experience',2936).
-distance('Santa Maria degli Angeli e dei Martiri','Vatican Necropolis',3557).
-distance('Santa Maria degli Angeli e dei Martiri','Apostolic Palace',3385).
-distance('Santa Maria degli Angeli e dei Martiri','Ponte Vittorio Emanuele II',2715).
-distance('Santa Maria degli Angeli e dei Martiri','Chiesa di Sant Anna dei Palafrenieri',3274).
-distance('Santa Maria degli Angeli e dei Martiri','Operativa Arte Contemporanea',2604).
-distance('Santa Maria degli Angeli e dei Martiri','Santa Maria del Suffragio',2602).
-distance('Santa Maria degli Angeli e dei Martiri','Vatican Apostolic Archive',3494).
-distance('Santa Maria degli Angeli e dei Martiri','Carriage Pavilion',3603).
-distance('Santa Maria degli Angeli e dei Martiri','Monastero Mater Ecclesi',3815).
-distance('Santa Maria degli Angeli e dei Martiri','Oratorio dei Filippini (Oratory of St Philip Neri)',2400).
-distance('Santa Maria degli Angeli e dei Martiri','House of Hospitality Paul VI',3734).
-distance('Santa Maria degli Angeli e dei Martiri','Chiesa di Santa Maria del Rosario in Prati',3246).
-distance('Santa Maria degli Angeli e dei Martiri','Welcome To Rome',2240).
-distance('Santa Maria degli Angeli e dei Martiri','Stadium of Domitian',2051).
-distance('Santa Maria degli Angeli e dei Martiri','Palazzo Pamphili',2083).
-distance('Santa Maria degli Angeli e dei Martiri','Fountain of the Moro',2052).
-distance('Santa Maria degli Angeli e dei Martiri','Cappella Chigi',1928).
-distance('Santa Maria degli Angeli e dei Martiri','Chiesa di Gesu e Maria',1686).
-distance('Santa Maria degli Angeli e dei Martiri','Villa Borghese',1451).
-distance('Santa Maria degli Angeli e dei Martiri','Passeggiata del Pincio',1585).
-distance('Santa Maria degli Angeli e dei Martiri','Borghese Gallery and Museum',1287).
-distance('Santa Maria degli Angeli e dei Martiri','National Gallery of Modern and Contemporary Art',1966).
-distance('Santa Maria degli Angeli e dei Martiri','Mausoleum of Augustus',1730).
-distance('Santa Maria degli Angeli e dei Martiri','Chiesa Parrocchiale San Giacomo in Augusta',1696).
-distance('Santa Maria degli Angeli e dei Martiri','Villa Medici',1315).
-distance('Santa Maria degli Angeli e dei Martiri','Basilica of Saint Lawrence in Lucina',1515).
-distance('Santa Maria degli Angeli e dei Martiri','Basilica of SS. Ambrose and Charles on the Corso',1554).
-distance('Santa Maria degli Angeli e dei Martiri','Giorgio de Chirico House Museum',1217).
-distance('Santa Maria degli Angeli e dei Martiri','Santa Maria in Montesanto',1832).
-distance('Santa Maria degli Angeli e dei Martiri','Fontana della Barcaccia',1252).
-distance('Santa Maria degli Angeli e dei Martiri','Museo Leonardo da Vinci',1931).
-distance('Santa Maria degli Angeli e dei Martiri','Explora - Il Museo dei Bambini di Roma',2255).
-distance('Santa Maria degli Angeli e dei Martiri','Orologio ad acqua del Pincio',1648).
-distance('Santa Maria degli Angeli e dei Martiri','Ponte Giacomo Matteotti',2498).
-distance('Santa Maria degli Angeli e dei Martiri','National Etruscan Museum of Villa Giulia',2319).
-distance('Santa Maria degli Angeli e dei Martiri','Fontana del Babuino',1522).
-distance('Santa Maria degli Angeli e dei Martiri','Fontana del Bottino',1243).
-distance('Santa Maria degli Angeli e dei Martiri','Trinita dei Monti',1153).
-distance('Santa Maria degli Angeli e dei Martiri','Galleria del Cembalo',1679).
-distance('Santa Maria degli Angeli e dei Martiri','Chiesa di Santa Maria in Via',1299).
-distance('Santa Maria degli Angeli e dei Martiri','Palazzo di Propaganda Fide',1154).
-distance('Santa Maria degli Angeli e dei Martiri','Basilica di Sant Andrea delle Fratte',1101).
-distance('Santa Maria degli Angeli e dei Martiri','Piazza del Popolo',1900).
-distance('Santa Maria degli Angeli e dei Martiri','Marcus Aurelius Column',1430).
-distance('Santa Maria degli Angeli e dei Martiri','Piazza di Siena',1414).
-distance('Santa Maria degli Angeli e dei Martiri','All Saints  Anglican Church Rome',1598).
-distance('Santa Maria degli Angeli e dei Martiri','Church of Saint Roch  all Augusteo ',1772).
-distance('Santa Maria degli Angeli e dei Martiri','Church of Our Lady in Trivio',1200).
-distance('Santa Maria degli Angeli e dei Martiri','Il Tempio di Adriano',1500).
-distance('Santa Maria degli Angeli e dei Martiri','Museo Civico di Zoologia',1916).
-distance('Santa Maria degli Angeli e dei Martiri','Basilica of St. Augustine in Campo Marzio',1897).
-distance('Santa Maria degli Angeli e dei Martiri','Hendrik Christian Anderson Museum',2351).
-distance('Santa Maria degli Angeli e dei Martiri','Goethe House',1755).
-distance('Santa Maria degli Angeli e dei Martiri','Institute of Japanese Culture',2267).
-distance('Santa Maria degli Angeli e dei Martiri','Villa Balestra',2791).
-distance('Santa Maria degli Angeli e dei Martiri','Palazzo Borghese',1725).
-distance('Santa Maria degli Angeli e dei Martiri','National Academy of San Luca',1113).
-distance('Santa Maria degli Angeli e dei Martiri','Museo Carlo Bilotti',1601).
-distance('Santa Maria degli Angeli e dei Martiri','Palazzo Wedekind',1474).
-distance('Santa Maria degli Angeli e dei Martiri','Cloaca Maxima',2130).
-distance('Santa Maria degli Angeli e dei Martiri','Temple of Apollo Palatinus',1981).
-distance('Santa Maria degli Angeli e dei Martiri','Circus Maximus',2132).
-distance('Santa Maria degli Angeli e dei Martiri','Mouth of Truth',2111).
-distance('Santa Maria degli Angeli e dei Martiri','Basilica di Santa Sabina all Aventino',2517).
-distance('Santa Maria degli Angeli e dei Martiri','Santa Maria in Cosmedin',2104).
-distance('Santa Maria degli Angeli e dei Martiri','Non-Catholic Cemetery',3317).
-distance('Santa Maria degli Angeli e dei Martiri','Basilica Santa Cecilia in Trastevere',2452).
-distance('Santa Maria degli Angeli e dei Martiri','Mattatoio',3557).
-distance('Santa Maria degli Angeli e dei Martiri','Pyramid of Caius Cestius',3250).
-distance('Santa Maria degli Angeli e dei Martiri','Turtle Fountain',1913).
-distance('Santa Maria degli Angeli e dei Martiri','Basilica di San Bartolomeo all Isola',2110).
-distance('Santa Maria degli Angeli e dei Martiri','Chiesa di Santa Prisca',2492).
-distance('Santa Maria degli Angeli e dei Martiri','Tempio Maggiore di Roma',2001).
-distance('Santa Maria degli Angeli e dei Martiri','Portico of Octavia',1933).
-distance('Santa Maria degli Angeli e dei Martiri','Basilica Santi Giovanni e Paolo',1899).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Parrocchia Santa Maria Maggiore',884).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Mamertine Prison',1510).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Mose di Michelangelo',1098).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Capanne di Romolo',1841).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Basilica San Silvestro in Capite',1342).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Basilica del Sacro Cuore di Gesu',457).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Largo di Torre Argentina',1876).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Chiesa di Santa Maria ai Monti',1085).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Basilica of St Mark Evangelist at Campidoglio',1506).
+distance('Basilica of Saint Mary of the Angels and Martyrs','St. Paul s Within the Walls',317).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Septimius Severus Arch',1527).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Palazzo Sciarra Colonna Carbognano',1358).
+distance('Basilica of Saint Mary of the Angels and Martyrs','The Keats - Shelley House',1230).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Basilica Ulpia',1328).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Temple of Vesta',1554).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Chiesa San Marcello al Corso',1373).
+distance('Basilica of Saint Mary of the Angels and Martyrs','San Stanislao alle Botteghe Oscure',1726).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Column of Phocas',1556).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Antoninus and Faustina Temple',1476).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Marcello Theater',1886).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Chiesa di Santa Maria in Portico in Campitelli',1853).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Church of Santa Maria della Vittoria',271).
+distance('Basilica of Saint Mary of the Angels and Martyrs','The Last Judgment',3524).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Chiesa di Santo Stefano degli Abissini',3744).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Fontana di Piazza Farnese',2302).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Villa Abamelek',3708).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Palazzo Torres',2049).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Castel Sant Angelo',2543).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Vidoni Palace',1992).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Vatican Museums',3610).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Fontana di Piazza Nicosia',1841).
+distance('Basilica of Saint Mary of the Angels and Martyrs','St. Peter s Basilica',3569).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Church Holy Spirit in Sassia',2987).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Parrocchia Santuario Santa Maria in Traspontina',2883).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Gardens of Vatican City',3874).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Fiumi Fountain',2033).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Sistine Chapel',3522).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Villa Farnesina',2680).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Palazzo Madama',1941).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Galleria Spada',2303).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Church of St. Louis of the French',1877).
+distance('Basilica of Saint Mary of the Angels and Martyrs','St. Angelo Bridge',2533).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Palazzo Farnese',2363).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Sant Agnese in Agone',2079).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Botanical Garden of Rome',3076).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Chiesa di Santa Maria della Pace',2130).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Obelisco Agonale',2032).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Basilica of Santa Maria in Trastevere',2728).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Church of St Onuphrius at the Janiculum',3035).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Biblioteca Angelica',1883).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Campo de  Fiori',2239).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Piazza Navona',2029).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Corte Suprema di Cassazione',2233).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Museo di Roma - Palazzo Braschi',2104).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Church of Santa Maria in Vallicella',2371).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Church of San Pietro in Montorio',2998).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Saint Eligio of Orefici',2547).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Palazzo del Commendatore',2883).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Porta Santo Spirito',2945).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Bernini Fountain',3294).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Presepe dei Netturbini',3471).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Church of Saints Michael and Magnus',2986).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Museum Leonardo Da Vinci Experience',2936).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Vatican Necropolis',3557).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Apostolic Palace',3385).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Ponte Vittorio Emanuele II',2715).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Chiesa di Sant Anna dei Palafrenieri',3274).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Operativa Arte Contemporanea',2604).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Santa Maria del Suffragio',2602).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Vatican Apostolic Archive',3494).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Carriage Pavilion',3603).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Monastero Mater Ecclesi',3815).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Oratorio dei Filippini (Oratory of St Philip Neri)',2400).
+distance('Basilica of Saint Mary of the Angels and Martyrs','House of Hospitality Paul VI',3734).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Chiesa di Santa Maria del Rosario in Prati',3246).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Welcome To Rome',2240).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Stadium of Domitian',2051).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Palazzo Pamphili',2083).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Fountain of the Moro',2052).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Cappella Chigi',1928).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Chiesa di Gesu e Maria',1686).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Villa Borghese',1451).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Passeggiata del Pincio',1585).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Borghese Gallery and Museum',1287).
+distance('Basilica of Saint Mary of the Angels and Martyrs','National Gallery of Modern and Contemporary Art',1966).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Mausoleum of Augustus',1730).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Chiesa Parrocchiale San Giacomo in Augusta',1696).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Villa Medici',1315).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Basilica of Saint Lawrence in Lucina',1515).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Basilica of SS. Ambrose and Charles on the Corso',1554).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Giorgio de Chirico House Museum',1217).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Santa Maria in Montesanto',1832).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Fontana della Barcaccia',1252).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Museo Leonardo da Vinci',1931).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Explora - Il Museo dei Bambini di Roma',2255).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Orologio ad acqua del Pincio',1648).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Ponte Giacomo Matteotti',2498).
+distance('Basilica of Saint Mary of the Angels and Martyrs','National Etruscan Museum of Villa Giulia',2319).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Fontana del Babuino',1522).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Fontana del Bottino',1243).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Trinita dei Monti',1153).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Galleria del Cembalo',1679).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Chiesa di Santa Maria in Via',1299).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Palazzo di Propaganda Fide',1154).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Basilica di Sant Andrea delle Fratte',1101).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Piazza del Popolo',1900).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Marcus Aurelius Column',1430).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Piazza di Siena',1414).
+distance('Basilica of Saint Mary of the Angels and Martyrs','All Saints  Anglican Church Rome',1598).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Church of Saint Roch  all Augusteo ',1772).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Church of Our Lady in Trivio',1200).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Il Tempio di Adriano',1500).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Museo Civico di Zoologia',1916).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Basilica of St. Augustine in Campo Marzio',1897).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Hendrik Christian Anderson Museum',2351).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Goethe House',1755).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Institute of Japanese Culture',2267).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Villa Balestra',2791).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Palazzo Borghese',1725).
+distance('Basilica of Saint Mary of the Angels and Martyrs','National Academy of San Luca',1113).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Museo Carlo Bilotti',1601).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Cloaca Maxima',2130).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Temple of Apollo Palatinus',1981).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Circus Maximus',2132).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Mouth of Truth',2111).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Basilica di Santa Sabina all Aventino',2517).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Santa Maria in Cosmedin',2104).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Non-Catholic Cemetery',3317).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Basilica di Santa Cecilia in Trastevere',2452).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Mattatoio',3557).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Pyramid of Caius Cestius',3250).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Turtle Fountain',1913).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Basilica di San Bartolomeo all Isola',2110).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Chiesa di Santa Prisca',2492).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Tempio Maggiore',2001).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Portico of Octavia',1933).
+distance('Basilica of Saint Mary of the Angels and Martyrs','Basilica Santi Giovanni e Paolo',1899).
 distance('Parrocchia Santa Maria Maggiore','Mamertine Prison',1443).
 distance('Parrocchia Santa Maria Maggiore','Mose di Michelangelo',762).
 distance('Parrocchia Santa Maria Maggiore','Capanne di Romolo',1565).
@@ -8331,7 +8297,7 @@ distance('Parrocchia Santa Maria Maggiore','Column of Phocas',1435).
 distance('Parrocchia Santa Maria Maggiore','Antoninus and Faustina Temple',1287).
 distance('Parrocchia Santa Maria Maggiore','Marcello Theater',1848).
 distance('Parrocchia Santa Maria Maggiore','Chiesa di Santa Maria in Portico in Campitelli',1880).
-distance('Parrocchia Santa Maria Maggiore','The Church of Santa Maria della Vittoria',1133).
+distance('Parrocchia Santa Maria Maggiore','Church of Santa Maria della Vittoria',1133).
 distance('Parrocchia Santa Maria Maggiore','The Last Judgment',3979).
 distance('Parrocchia Santa Maria Maggiore','Chiesa di Santo Stefano degli Abissini',4170).
 distance('Parrocchia Santa Maria Maggiore','Fontana di Piazza Farnese',2497).
@@ -8348,10 +8314,10 @@ distance('Parrocchia Santa Maria Maggiore','Gardens of Vatican City',4336).
 distance('Parrocchia Santa Maria Maggiore','Fiumi Fountain',2381).
 distance('Parrocchia Santa Maria Maggiore','Sistine Chapel',3977).
 distance('Parrocchia Santa Maria Maggiore','Villa Farnesina',2852).
-distance('Parrocchia Santa Maria Maggiore','Church of St. Louis of the French',2272).
 distance('Parrocchia Santa Maria Maggiore','Palazzo Madama',2299).
 distance('Parrocchia Santa Maria Maggiore','Galleria Spada',2462).
-distance('Parrocchia Santa Maria Maggiore','St. Angelo Bridge',2978).
+distance('Parrocchia Santa Maria Maggiore','Church of St. Louis of the French',2251).
+distance('Parrocchia Santa Maria Maggiore','St. Angelo Bridge',2981).
 distance('Parrocchia Santa Maria Maggiore','Palazzo Farnese',2552).
 distance('Parrocchia Santa Maria Maggiore','Sant Agnese in Agone',2423).
 distance('Parrocchia Santa Maria Maggiore','Botanical Garden of Rome',3235).
@@ -8364,8 +8330,8 @@ distance('Parrocchia Santa Maria Maggiore','Campo de  Fiori',2460).
 distance('Parrocchia Santa Maria Maggiore','Piazza Navona',2385).
 distance('Parrocchia Santa Maria Maggiore','Corte Suprema di Cassazione',2782).
 distance('Parrocchia Santa Maria Maggiore','Museo di Roma - Palazzo Braschi',2394).
-distance('Parrocchia Santa Maria Maggiore','Parrocchia Santa Maria in Vallicella',2698).
-distance('Parrocchia Santa Maria Maggiore','Chiesa di San Pietro in Montorio',3022).
+distance('Parrocchia Santa Maria Maggiore','Church of Santa Maria in Vallicella',2698).
+distance('Parrocchia Santa Maria Maggiore','Church of San Pietro in Montorio',3022).
 distance('Parrocchia Santa Maria Maggiore','Saint Eligio of Orefici',2787).
 distance('Parrocchia Santa Maria Maggiore','Palazzo del Commendatore',3308).
 distance('Parrocchia Santa Maria Maggiore','Porta Santo Spirito',3343).
@@ -8431,7 +8397,6 @@ distance('Parrocchia Santa Maria Maggiore','Villa Balestra',3641).
 distance('Parrocchia Santa Maria Maggiore','Palazzo Borghese',2288).
 distance('Parrocchia Santa Maria Maggiore','National Academy of San Luca',1603).
 distance('Parrocchia Santa Maria Maggiore','Museo Carlo Bilotti',2453).
-distance('Parrocchia Santa Maria Maggiore','Palazzo Wedekind',1907).
 distance('Parrocchia Santa Maria Maggiore','Cloaca Maxima',1948).
 distance('Parrocchia Santa Maria Maggiore','Temple of Apollo Palatinus',1608).
 distance('Parrocchia Santa Maria Maggiore','Circus Maximus',1745).
@@ -8439,13 +8404,13 @@ distance('Parrocchia Santa Maria Maggiore','Mouth of Truth',1880).
 distance('Parrocchia Santa Maria Maggiore','Basilica di Santa Sabina all Aventino',2209).
 distance('Parrocchia Santa Maria Maggiore','Santa Maria in Cosmedin',1869).
 distance('Parrocchia Santa Maria Maggiore','Non-Catholic Cemetery',2849).
-distance('Parrocchia Santa Maria Maggiore','Basilica Santa Cecilia in Trastevere',2288).
+distance('Parrocchia Santa Maria Maggiore','Basilica di Santa Cecilia in Trastevere',2288).
 distance('Parrocchia Santa Maria Maggiore','Mattatoio',3191).
 distance('Parrocchia Santa Maria Maggiore','Pyramid of Caius Cestius',2760).
 distance('Parrocchia Santa Maria Maggiore','Turtle Fountain',2000).
 distance('Parrocchia Santa Maria Maggiore','Basilica di San Bartolomeo all Isola',2032).
 distance('Parrocchia Santa Maria Maggiore','Chiesa di Santa Prisca',2064).
-distance('Parrocchia Santa Maria Maggiore','Tempio Maggiore di Roma',1998).
+distance('Parrocchia Santa Maria Maggiore','Tempio Maggiore',1998).
 distance('Parrocchia Santa Maria Maggiore','Portico of Octavia',1944).
 distance('Parrocchia Santa Maria Maggiore','Basilica Santi Giovanni e Paolo',1313).
 distance('Mamertine Prison','Mose di Michelangelo',691).
@@ -8467,7 +8432,7 @@ distance('Mamertine Prison','Column of Phocas',92).
 distance('Mamertine Prison','Antoninus and Faustina Temple',222).
 distance('Mamertine Prison','Marcello Theater',408).
 distance('Mamertine Prison','Chiesa di Santa Maria in Portico in Campitelli',441).
-distance('Mamertine Prison','The Church of Santa Maria della Vittoria',1512).
+distance('Mamertine Prison','Church of Santa Maria della Vittoria',1512).
 distance('Mamertine Prison','The Last Judgment',2716).
 distance('Mamertine Prison','Chiesa di Santo Stefano degli Abissini',2871).
 distance('Mamertine Prison','Fontana di Piazza Farnese',1101).
@@ -8484,10 +8449,10 @@ distance('Mamertine Prison','Gardens of Vatican City',3067).
 distance('Mamertine Prison','Fiumi Fountain',1140).
 distance('Mamertine Prison','Sistine Chapel',2713).
 distance('Mamertine Prison','Villa Farnesina',1429).
-distance('Mamertine Prison','Church of St. Louis of the French',1085).
 distance('Mamertine Prison','Palazzo Madama',1087).
 distance('Mamertine Prison','Galleria Spada',1049).
-distance('Mamertine Prison','St. Angelo Bridge',1772).
+distance('Mamertine Prison','Church of St. Louis of the French',1072).
+distance('Mamertine Prison','St. Angelo Bridge',1779).
 distance('Mamertine Prison','Palazzo Farnese',1150).
 distance('Mamertine Prison','Sant Agnese in Agone',1170).
 distance('Mamertine Prison','Botanical Garden of Rome',1801).
@@ -8500,8 +8465,8 @@ distance('Mamertine Prison','Campo de  Fiori',1086).
 distance('Mamertine Prison','Piazza Navona',1153).
 distance('Mamertine Prison','Corte Suprema di Cassazione',1750).
 distance('Mamertine Prison','Museo di Roma - Palazzo Braschi',1087).
-distance('Mamertine Prison','Parrocchia Santa Maria in Vallicella',1399).
-distance('Mamertine Prison','Chiesa di San Pietro in Montorio',1583).
+distance('Mamertine Prison','Church of Santa Maria in Vallicella',1391).
+distance('Mamertine Prison','Church of San Pietro in Montorio',1583).
 distance('Mamertine Prison','Saint Eligio of Orefici',1403).
 distance('Mamertine Prison','Palazzo del Commendatore',2050).
 distance('Mamertine Prison','Porta Santo Spirito',2055).
@@ -8567,7 +8532,6 @@ distance('Mamertine Prison','Villa Balestra',3248).
 distance('Mamertine Prison','Palazzo Borghese',1395).
 distance('Mamertine Prison','National Academy of San Luca',928).
 distance('Mamertine Prison','Museo Carlo Bilotti',2240).
-distance('Mamertine Prison','Palazzo Wedekind',940).
 distance('Mamertine Prison','Cloaca Maxima',624).
 distance('Mamertine Prison','Temple of Apollo Palatinus',668).
 distance('Mamertine Prison','Circus Maximus',792).
@@ -8575,13 +8539,13 @@ distance('Mamertine Prison','Mouth of Truth',625).
 distance('Mamertine Prison','Basilica di Santa Sabina all Aventino',1047).
 distance('Mamertine Prison','Santa Maria in Cosmedin',622).
 distance('Mamertine Prison','Non-Catholic Cemetery',1927).
-distance('Mamertine Prison','Basilica Santa Cecilia in Trastevere',941).
+distance('Mamertine Prison','Basilica di Santa Cecilia in Trastevere',941).
 distance('Mamertine Prison','Mattatoio',2082).
 distance('Mamertine Prison','Pyramid of Caius Cestius',1885).
 distance('Mamertine Prison','Turtle Fountain',578).
 distance('Mamertine Prison','Basilica di San Bartolomeo all Isola',614).
 distance('Mamertine Prison','Chiesa di Santa Prisca',1132).
-distance('Mamertine Prison','Tempio Maggiore di Roma',555).
+distance('Mamertine Prison','Tempio Maggiore',555).
 distance('Mamertine Prison','Portico of Octavia',501).
 distance('Mamertine Prison','Basilica Santi Giovanni e Paolo',982).
 distance('Mose di Michelangelo','Capanne di Romolo',824).
@@ -8602,7 +8566,7 @@ distance('Mose di Michelangelo','Column of Phocas',674).
 distance('Mose di Michelangelo','Antoninus and Faustina Temple',524).
 distance('Mose di Michelangelo','Marcello Theater',1089).
 distance('Mose di Michelangelo','Chiesa di Santa Maria in Portico in Campitelli',1132).
-distance('Mose di Michelangelo','The Church of Santa Maria della Vittoria',1218).
+distance('Mose di Michelangelo','Church of Santa Maria della Vittoria',1218).
 distance('Mose di Michelangelo','The Last Judgment',3340).
 distance('Mose di Michelangelo','Chiesa di Santo Stefano degli Abissini',3512).
 distance('Mose di Michelangelo','Fontana di Piazza Farnese',1777).
@@ -8619,10 +8583,10 @@ distance('Mose di Michelangelo','Gardens of Vatican City',3696).
 distance('Mose di Michelangelo','Fiumi Fountain',1733).
 distance('Mose di Michelangelo','Sistine Chapel',3338).
 distance('Mose di Michelangelo','Villa Farnesina',2117).
-distance('Mose di Michelangelo','Church of St. Louis of the French',1645).
 distance('Mose di Michelangelo','Palazzo Madama',1662).
 distance('Mose di Michelangelo','Galleria Spada',1733).
-distance('Mose di Michelangelo','St. Angelo Bridge',2359).
+distance('Mose di Michelangelo','Church of St. Louis of the French',1627).
+distance('Mose di Michelangelo','St. Angelo Bridge',2364).
 distance('Mose di Michelangelo','Palazzo Farnese',1830).
 distance('Mose di Michelangelo','Sant Agnese in Agone',1771).
 distance('Mose di Michelangelo','Botanical Garden of Rome',2492).
@@ -8635,8 +8599,8 @@ distance('Mose di Michelangelo','Campo de  Fiori',1752).
 distance('Mose di Michelangelo','Piazza Navona',1742).
 distance('Mose di Michelangelo','Corte Suprema di Cassazione',2243).
 distance('Mose di Michelangelo','Museo di Roma - Palazzo Braschi',1717).
-distance('Mose di Michelangelo','Parrocchia Santa Maria in Vallicella',2029).
-distance('Mose di Michelangelo','Chiesa di San Pietro in Montorio',2261).
+distance('Mose di Michelangelo','Church of Santa Maria in Vallicella',2025).
+distance('Mose di Michelangelo','Church of San Pietro in Montorio',2261).
 distance('Mose di Michelangelo','Saint Eligio of Orefici',2075).
 distance('Mose di Michelangelo','Palazzo del Commendatore',2667).
 distance('Mose di Michelangelo','Porta Santo Spirito',2687).
@@ -8702,7 +8666,6 @@ distance('Mose di Michelangelo','Villa Balestra',3448).
 distance('Mose di Michelangelo','Palazzo Borghese',1796).
 distance('Mose di Michelangelo','National Academy of San Luca',1149).
 distance('Mose di Michelangelo','Museo Carlo Bilotti',2316).
-distance('Mose di Michelangelo','Palazzo Wedekind',1356).
 distance('Mose di Michelangelo','Cloaca Maxima',1192).
 distance('Mose di Michelangelo','Temple of Apollo Palatinus',914).
 distance('Mose di Michelangelo','Circus Maximus',1062).
@@ -8710,13 +8673,13 @@ distance('Mose di Michelangelo','Mouth of Truth',1134).
 distance('Mose di Michelangelo','Basilica di Santa Sabina all Aventino',1494).
 distance('Mose di Michelangelo','Santa Maria in Cosmedin',1123).
 distance('Mose di Michelangelo','Non-Catholic Cemetery',2234).
-distance('Mose di Michelangelo','Basilica Santa Cecilia in Trastevere',1533).
+distance('Mose di Michelangelo','Basilica di Santa Cecilia in Trastevere',1533).
 distance('Mose di Michelangelo','Mattatoio',2514).
 distance('Mose di Michelangelo','Pyramid of Caius Cestius',2161).
 distance('Mose di Michelangelo','Turtle Fountain',1263).
 distance('Mose di Michelangelo','Basilica di San Bartolomeo all Isola',1270).
 distance('Mose di Michelangelo','Chiesa di Santa Prisca',1413).
-distance('Mose di Michelangelo','Tempio Maggiore di Roma',1242).
+distance('Mose di Michelangelo','Tempio Maggiore',1242).
 distance('Mose di Michelangelo','Portico of Octavia',1192).
 distance('Mose di Michelangelo','Basilica Santi Giovanni e Paolo',815).
 distance('Capanne di Romolo','Basilica San Silvestro in Capite',1558).
@@ -8736,7 +8699,7 @@ distance('Capanne di Romolo','Column of Phocas',358).
 distance('Capanne di Romolo','Antoninus and Faustina Temple',368).
 distance('Capanne di Romolo','Marcello Theater',514).
 distance('Capanne di Romolo','Chiesa di Santa Maria in Portico in Campitelli',638).
-distance('Capanne di Romolo','The Church of Santa Maria della Vittoria',1886).
+distance('Capanne di Romolo','Church of Santa Maria della Vittoria',1886).
 distance('Capanne di Romolo','The Last Judgment',2953).
 distance('Capanne di Romolo','Chiesa di Santo Stefano degli Abissini',3080).
 distance('Capanne di Romolo','Fontana di Piazza Farnese',1291).
@@ -8753,10 +8716,10 @@ distance('Capanne di Romolo','Gardens of Vatican City',3293).
 distance('Capanne di Romolo','Fiumi Fountain',1461).
 distance('Capanne di Romolo','Sistine Chapel',2951).
 distance('Capanne di Romolo','Villa Farnesina',1543).
-distance('Capanne di Romolo','Church of St. Louis of the French',1437).
 distance('Capanne di Romolo','Palazzo Madama',1427).
 distance('Capanne di Romolo','Galleria Spada',1213).
-distance('Capanne di Romolo','St. Angelo Bridge',2072).
+distance('Capanne di Romolo','Church of St. Louis of the French',1428).
+distance('Capanne di Romolo','St. Angelo Bridge',2082).
 distance('Capanne di Romolo','Palazzo Farnese',1325).
 distance('Capanne di Romolo','Sant Agnese in Agone',1482).
 distance('Capanne di Romolo','Botanical Garden of Rome',1867).
@@ -8769,8 +8732,8 @@ distance('Capanne di Romolo','Campo de  Fiori',1305).
 distance('Capanne di Romolo','Piazza Navona',1478).
 distance('Capanne di Romolo','Corte Suprema di Cassazione',2119).
 distance('Capanne di Romolo','Museo di Roma - Palazzo Braschi',1371).
-distance('Capanne di Romolo','Parrocchia Santa Maria in Vallicella',1664).
-distance('Capanne di Romolo','Chiesa di San Pietro in Montorio',1540).
+distance('Capanne di Romolo','Church of Santa Maria in Vallicella',1651).
+distance('Capanne di Romolo','Church of San Pietro in Montorio',1540).
 distance('Capanne di Romolo','Saint Eligio of Orefici',1585).
 distance('Capanne di Romolo','Palazzo del Commendatore',2310).
 distance('Capanne di Romolo','Porta Santo Spirito',2295).
@@ -8836,7 +8799,6 @@ distance('Capanne di Romolo','Villa Balestra',3688).
 distance('Capanne di Romolo','Palazzo Borghese',1810).
 distance('Capanne di Romolo','National Academy of San Luca',1376).
 distance('Capanne di Romolo','Museo Carlo Bilotti',2687).
-distance('Capanne di Romolo','Palazzo Wedekind',1366).
 distance('Capanne di Romolo','Cloaca Maxima',401).
 distance('Capanne di Romolo','Temple of Apollo Palatinus',227).
 distance('Capanne di Romolo','Circus Maximus',345).
@@ -8844,13 +8806,13 @@ distance('Capanne di Romolo','Mouth of Truth',316).
 distance('Capanne di Romolo','Basilica di Santa Sabina all Aventino',679).
 distance('Capanne di Romolo','Santa Maria in Cosmedin',304).
 distance('Capanne di Romolo','Non-Catholic Cemetery',1505).
-distance('Capanne di Romolo','Basilica Santa Cecilia in Trastevere',731).
+distance('Capanne di Romolo','Basilica di Santa Cecilia in Trastevere',731).
 distance('Capanne di Romolo','Mattatoio',1716).
 distance('Capanne di Romolo','Pyramid of Caius Cestius',1455).
 distance('Capanne di Romolo','Turtle Fountain',796).
 distance('Capanne di Romolo','Basilica di San Bartolomeo all Isola',572).
 distance('Capanne di Romolo','Chiesa di Santa Prisca',693).
-distance('Capanne di Romolo','Tempio Maggiore di Roma',650).
+distance('Capanne di Romolo','Tempio Maggiore',650).
 distance('Capanne di Romolo','Portico of Octavia',644).
 distance('Capanne di Romolo','Basilica Santi Giovanni e Paolo',668).
 distance('Basilica San Silvestro in Capite','Basilica del Sacro Cuore di Gesu',1795).
@@ -8869,7 +8831,7 @@ distance('Basilica San Silvestro in Capite','Column of Phocas',1209).
 distance('Basilica San Silvestro in Capite','Antoninus and Faustina Temple',1287).
 distance('Basilica San Silvestro in Capite','Marcello Theater',1221).
 distance('Basilica San Silvestro in Capite','Chiesa di Santa Maria in Portico in Campitelli',1102).
-distance('Basilica San Silvestro in Capite','The Church of Santa Maria della Vittoria',1147).
+distance('Basilica San Silvestro in Capite','Church of Santa Maria della Vittoria',1147).
 distance('Basilica San Silvestro in Capite','The Last Judgment',2182).
 distance('Basilica San Silvestro in Capite','Chiesa di Santo Stefano degli Abissini',2402).
 distance('Basilica San Silvestro in Capite','Fontana di Piazza Farnese',1169).
@@ -8886,9 +8848,9 @@ distance('Basilica San Silvestro in Capite','Gardens of Vatican City',2532).
 distance('Basilica San Silvestro in Capite','Fiumi Fountain',772).
 distance('Basilica San Silvestro in Capite','Sistine Chapel',2179).
 distance('Basilica San Silvestro in Capite','Villa Farnesina',1522).
-distance('Basilica San Silvestro in Capite','Church of St. Louis of the French',634).
 distance('Basilica San Silvestro in Capite','Palazzo Madama',684).
 distance('Basilica San Silvestro in Capite','Galleria Spada',1213).
+distance('Basilica San Silvestro in Capite','Church of St. Louis of the French',612).
 distance('Basilica San Silvestro in Capite','St. Angelo Bridge',1192).
 distance('Basilica San Silvestro in Capite','Palazzo Farnese',1226).
 distance('Basilica San Silvestro in Capite','Sant Agnese in Agone',817).
@@ -8902,8 +8864,8 @@ distance('Basilica San Silvestro in Capite','Campo de  Fiori',1086).
 distance('Basilica San Silvestro in Capite','Piazza Navona',761).
 distance('Basilica San Silvestro in Capite','Corte Suprema di Cassazione',908).
 distance('Basilica San Silvestro in Capite','Museo di Roma - Palazzo Braschi',893).
-distance('Basilica San Silvestro in Capite','Parrocchia Santa Maria in Vallicella',1080).
-distance('Basilica San Silvestro in Capite','Chiesa di San Pietro in Montorio',1973).
+distance('Basilica San Silvestro in Capite','Church of Santa Maria in Vallicella',1095).
+distance('Basilica San Silvestro in Capite','Church of San Pietro in Montorio',1973).
 distance('Basilica San Silvestro in Capite','Saint Eligio of Orefici',1332).
 distance('Basilica San Silvestro in Capite','Palazzo del Commendatore',1543).
 distance('Basilica San Silvestro in Capite','Porta Santo Spirito',1611).
@@ -8969,7 +8931,6 @@ distance('Basilica San Silvestro in Capite','Villa Balestra',2131).
 distance('Basilica San Silvestro in Capite','Palazzo Borghese',404).
 distance('Basilica San Silvestro in Capite','National Academy of San Luca',284).
 distance('Basilica San Silvestro in Capite','Museo Carlo Bilotti',1184).
-distance('Basilica San Silvestro in Capite','Palazzo Wedekind',255).
 distance('Basilica San Silvestro in Capite','Cloaca Maxima',1584).
 distance('Basilica San Silvestro in Capite','Temple of Apollo Palatinus',1783).
 distance('Basilica San Silvestro in Capite','Circus Maximus',1898).
@@ -8977,13 +8938,13 @@ distance('Basilica San Silvestro in Capite','Mouth of Truth',1645).
 distance('Basilica San Silvestro in Capite','Basilica di Santa Sabina all Aventino',2046).
 distance('Basilica San Silvestro in Capite','Santa Maria in Cosmedin',1649).
 distance('Basilica San Silvestro in Capite','Non-Catholic Cemetery',2956).
-distance('Basilica San Silvestro in Capite','Basilica Santa Cecilia in Trastevere',1780).
+distance('Basilica San Silvestro in Capite','Basilica di Santa Cecilia in Trastevere',1780).
 distance('Basilica San Silvestro in Capite','Mattatoio',3000).
 distance('Basilica San Silvestro in Capite','Pyramid of Caius Cestius',2935).
 distance('Basilica San Silvestro in Capite','Turtle Fountain',1042).
 distance('Basilica San Silvestro in Capite','Basilica di San Bartolomeo all Isola',1413).
 distance('Basilica San Silvestro in Capite','Chiesa di Santa Prisca',2216).
-distance('Basilica San Silvestro in Capite','Tempio Maggiore di Roma',1233).
+distance('Basilica San Silvestro in Capite','Tempio Maggiore',1233).
 distance('Basilica San Silvestro in Capite','Portico of Octavia',1169).
 distance('Basilica San Silvestro in Capite','Basilica Santi Giovanni e Paolo',2054).
 distance('Basilica del Sacro Cuore di Gesu','Largo di Torre Argentina',2260).
@@ -9001,7 +8962,7 @@ distance('Basilica del Sacro Cuore di Gesu','Column of Phocas',1833).
 distance('Basilica del Sacro Cuore di Gesu','Antoninus and Faustina Temple',1723).
 distance('Basilica del Sacro Cuore di Gesu','Marcello Theater',2205).
 distance('Basilica del Sacro Cuore di Gesu','Chiesa di Santa Maria in Portico in Campitelli',2193).
-distance('Basilica del Sacro Cuore di Gesu','The Church of Santa Maria della Vittoria',707).
+distance('Basilica del Sacro Cuore di Gesu','Church of Santa Maria della Vittoria',707).
 distance('Basilica del Sacro Cuore di Gesu','The Last Judgment',3976).
 distance('Basilica del Sacro Cuore di Gesu','Chiesa di Santo Stefano degli Abissini',4194).
 distance('Basilica del Sacro Cuore di Gesu','Fontana di Piazza Farnese',2699).
@@ -9018,10 +8979,10 @@ distance('Basilica del Sacro Cuore di Gesu','Gardens of Vatican City',4327).
 distance('Basilica del Sacro Cuore di Gesu','Fiumi Fountain',2462).
 distance('Basilica del Sacro Cuore di Gesu','Sistine Chapel',3974).
 distance('Basilica del Sacro Cuore di Gesu','Villa Farnesina',3076).
-distance('Basilica del Sacro Cuore di Gesu','Church of St. Louis of the French',2333).
 distance('Basilica del Sacro Cuore di Gesu','Palazzo Madama',2371).
 distance('Basilica del Sacro Cuore di Gesu','Galleria Spada',2691).
-distance('Basilica del Sacro Cuore di Gesu','St. Angelo Bridge',2981).
+distance('Basilica del Sacro Cuore di Gesu','Church of St. Louis of the French',2310).
+distance('Basilica del Sacro Cuore di Gesu','St. Angelo Bridge',2982).
 distance('Basilica del Sacro Cuore di Gesu','Palazzo Farnese',2760).
 distance('Basilica del Sacro Cuore di Gesu','Sant Agnese in Agone',2508).
 distance('Basilica del Sacro Cuore di Gesu','Botanical Garden of Rome',3472).
@@ -9034,8 +8995,8 @@ distance('Basilica del Sacro Cuore di Gesu','Campo de  Fiori',2643).
 distance('Basilica del Sacro Cuore di Gesu','Piazza Navona',2460).
 distance('Basilica del Sacro Cuore di Gesu','Corte Suprema di Cassazione',2690).
 distance('Basilica del Sacro Cuore di Gesu','Museo di Roma - Palazzo Braschi',2522).
-distance('Basilica del Sacro Cuore di Gesu','Parrocchia Santa Maria in Vallicella',2793).
-distance('Basilica del Sacro Cuore di Gesu','Chiesa di San Pietro in Montorio',3355).
+distance('Basilica del Sacro Cuore di Gesu','Church of Santa Maria in Vallicella',2800).
+distance('Basilica del Sacro Cuore di Gesu','Church of San Pietro in Montorio',3355).
 distance('Basilica del Sacro Cuore di Gesu','Saint Eligio of Orefici',2958).
 distance('Basilica del Sacro Cuore di Gesu','Palazzo del Commendatore',3330).
 distance('Basilica del Sacro Cuore di Gesu','Porta Santo Spirito',3389).
@@ -9101,7 +9062,6 @@ distance('Basilica del Sacro Cuore di Gesu','Villa Balestra',3168).
 distance('Basilica del Sacro Cuore di Gesu','Palazzo Borghese',2181).
 distance('Basilica del Sacro Cuore di Gesu','National Academy of San Luca',1554).
 distance('Basilica del Sacro Cuore di Gesu','Museo Carlo Bilotti',1990).
-distance('Basilica del Sacro Cuore di Gesu','Palazzo Wedekind',1912).
 distance('Basilica del Sacro Cuore di Gesu','Cloaca Maxima',2401).
 distance('Basilica del Sacro Cuore di Gesu','Temple of Apollo Palatinus',2168).
 distance('Basilica del Sacro Cuore di Gesu','Circus Maximus',2316).
@@ -9109,13 +9069,13 @@ distance('Basilica del Sacro Cuore di Gesu','Mouth of Truth',2362).
 distance('Basilica del Sacro Cuore di Gesu','Basilica di Santa Sabina all Aventino',2743).
 distance('Basilica del Sacro Cuore di Gesu','Santa Maria in Cosmedin',2354).
 distance('Basilica del Sacro Cuore di Gesu','Non-Catholic Cemetery',3476).
-distance('Basilica del Sacro Cuore di Gesu','Basilica Santa Cecilia in Trastevere',2736).
+distance('Basilica del Sacro Cuore di Gesu','Basilica di Santa Cecilia in Trastevere',2736).
 distance('Basilica del Sacro Cuore di Gesu','Mattatoio',3768).
 distance('Basilica del Sacro Cuore di Gesu','Pyramid of Caius Cestius',3397).
 distance('Basilica del Sacro Cuore di Gesu','Turtle Fountain',2273).
 distance('Basilica del Sacro Cuore di Gesu','Basilica di San Bartolomeo all Isola',2420).
 distance('Basilica del Sacro Cuore di Gesu','Chiesa di Santa Prisca',2663).
-distance('Basilica del Sacro Cuore di Gesu','Tempio Maggiore di Roma',2335).
+distance('Basilica del Sacro Cuore di Gesu','Tempio Maggiore',2335).
 distance('Basilica del Sacro Cuore di Gesu','Portico of Octavia',2269).
 distance('Basilica del Sacro Cuore di Gesu','Basilica Santi Giovanni e Paolo',1976).
 distance('Largo di Torre Argentina','Chiesa di Santa Maria ai Monti',1148).
@@ -9132,7 +9092,7 @@ distance('Largo di Torre Argentina','Column of Phocas',740).
 distance('Largo di Torre Argentina','Antoninus and Faustina Temple',898).
 distance('Largo di Torre Argentina','Marcello Theater',461).
 distance('Largo di Torre Argentina','Chiesa di Santa Maria in Portico in Campitelli',325).
-distance('Largo di Torre Argentina','The Church of Santa Maria della Vittoria',1782).
+distance('Largo di Torre Argentina','Church of Santa Maria della Vittoria',1782).
 distance('Largo di Torre Argentina','The Last Judgment',2039).
 distance('Largo di Torre Argentina','Chiesa di Santo Stefano degli Abissini',2193).
 distance('Largo di Torre Argentina','Fontana di Piazza Farnese',451).
@@ -9149,10 +9109,10 @@ distance('Largo di Torre Argentina','Gardens of Vatican City',2389).
 distance('Largo di Torre Argentina','Fiumi Fountain',504).
 distance('Largo di Torre Argentina','Sistine Chapel',2036).
 distance('Largo di Torre Argentina','Villa Farnesina',819).
-distance('Largo di Torre Argentina','Church of St. Louis of the French',501).
 distance('Largo di Torre Argentina','Palazzo Madama',481).
 distance('Largo di Torre Argentina','Galleria Spada',431).
-distance('Largo di Torre Argentina','St. Angelo Bridge',1116).
+distance('Largo di Torre Argentina','Church of St. Louis of the French',499).
+distance('Largo di Torre Argentina','St. Angelo Bridge',1125).
 distance('Largo di Torre Argentina','Palazzo Farnese',509).
 distance('Largo di Torre Argentina','Sant Agnese in Agone',522).
 distance('Largo di Torre Argentina','Botanical Garden of Rome',1213).
@@ -9165,8 +9125,8 @@ distance('Largo di Torre Argentina','Campo de  Fiori',417).
 distance('Largo di Torre Argentina','Piazza Navona',522).
 distance('Largo di Torre Argentina','Corte Suprema di Cassazione',1181).
 distance('Largo di Torre Argentina','Museo di Roma - Palazzo Braschi',417).
-distance('Largo di Torre Argentina','Parrocchia Santa Maria in Vallicella',724).
-distance('Largo di Torre Argentina','Chiesa di San Pietro in Montorio',1140).
+distance('Largo di Torre Argentina','Church of Santa Maria in Vallicella',715).
+distance('Largo di Torre Argentina','Church of San Pietro in Montorio',1140).
 distance('Largo di Torre Argentina','Saint Eligio of Orefici',742).
 distance('Largo di Torre Argentina','Palazzo del Commendatore',1376).
 distance('Largo di Torre Argentina','Porta Santo Spirito',1377).
@@ -9232,7 +9192,6 @@ distance('Largo di Torre Argentina','Villa Balestra',2895).
 distance('Largo di Torre Argentina','Palazzo Borghese',974).
 distance('Largo di Torre Argentina','National Academy of San Luca',890).
 distance('Largo di Torre Argentina','Museo Carlo Bilotti',2069).
-distance('Largo di Torre Argentina','Palazzo Wedekind',639).
 distance('Largo di Torre Argentina','Cloaca Maxima',798).
 distance('Largo di Torre Argentina','Temple of Apollo Palatinus',1173).
 distance('Largo di Torre Argentina','Circus Maximus',1237).
@@ -9240,13 +9199,13 @@ distance('Largo di Torre Argentina','Mouth of Truth',895).
 distance('Largo di Torre Argentina','Basilica di Santa Sabina all Aventino',1234).
 distance('Largo di Torre Argentina','Santa Maria in Cosmedin',905).
 distance('Largo di Torre Argentina','Non-Catholic Cemetery',2132).
-distance('Largo di Torre Argentina','Basilica Santa Cecilia in Trastevere',913).
+distance('Largo di Torre Argentina','Basilica di Santa Cecilia in Trastevere',913).
 distance('Largo di Torre Argentina','Mattatoio',2122).
 distance('Largo di Torre Argentina','Pyramid of Caius Cestius',2127).
 distance('Largo di Torre Argentina','Turtle Fountain',184).
 distance('Largo di Torre Argentina','Basilica di San Bartolomeo all Isola',574).
 distance('Largo di Torre Argentina','Chiesa di Santa Prisca',1480).
-distance('Largo di Torre Argentina','Tempio Maggiore di Roma',391).
+distance('Largo di Torre Argentina','Tempio Maggiore',391).
 distance('Largo di Torre Argentina','Portico of Octavia',350).
 distance('Largo di Torre Argentina','Basilica Santi Giovanni e Paolo',1608).
 distance('Chiesa di Santa Maria ai Monti','Basilica of St Mark Evangelist at Campidoglio',758).
@@ -9262,7 +9221,7 @@ distance('Chiesa di Santa Maria ai Monti','Column of Phocas',536).
 distance('Chiesa di Santa Maria ai Monti','Antoninus and Faustina Temple',411).
 distance('Chiesa di Santa Maria ai Monti','Marcello Theater',940).
 distance('Chiesa di Santa Maria ai Monti','Chiesa di Santa Maria in Portico in Campitelli',966).
-distance('Chiesa di Santa Maria ai Monti','The Church of Santa Maria della Vittoria',1162).
+distance('Chiesa di Santa Maria ai Monti','Church of Santa Maria della Vittoria',1162).
 distance('Chiesa di Santa Maria ai Monti','The Last Judgment',3143).
 distance('Chiesa di Santa Maria ai Monti','Chiesa di Santo Stefano degli Abissini',3317).
 distance('Chiesa di Santa Maria ai Monti','Fontana di Piazza Farnese',1594).
@@ -9279,10 +9238,10 @@ distance('Chiesa di Santa Maria ai Monti','Gardens of Vatican City',3499).
 distance('Chiesa di Santa Maria ai Monti','Fiumi Fountain',1535).
 distance('Chiesa di Santa Maria ai Monti','Sistine Chapel',3140).
 distance('Chiesa di Santa Maria ai Monti','Villa Farnesina',1942).
-distance('Chiesa di Santa Maria ai Monti','Church of St. Louis of the French',1446).
 distance('Chiesa di Santa Maria ai Monti','Palazzo Madama',1463).
 distance('Chiesa di Santa Maria ai Monti','Galleria Spada',1555).
-distance('Chiesa di Santa Maria ai Monti','St. Angelo Bridge',2159).
+distance('Chiesa di Santa Maria ai Monti','Church of St. Louis of the French',1428).
+distance('Chiesa di Santa Maria ai Monti','St. Angelo Bridge',2165).
 distance('Chiesa di Santa Maria ai Monti','Palazzo Farnese',1648).
 distance('Chiesa di Santa Maria ai Monti','Sant Agnese in Agone',1573).
 distance('Chiesa di Santa Maria ai Monti','Botanical Garden of Rome',2322).
@@ -9295,8 +9254,8 @@ distance('Chiesa di Santa Maria ai Monti','Campo de  Fiori',1565).
 distance('Chiesa di Santa Maria ai Monti','Piazza Navona',1543).
 distance('Chiesa di Santa Maria ai Monti','Corte Suprema di Cassazione',2044).
 distance('Chiesa di Santa Maria ai Monti','Museo di Roma - Palazzo Braschi',1523).
-distance('Chiesa di Santa Maria ai Monti','Parrocchia Santa Maria in Vallicella',1834).
-distance('Chiesa di Santa Maria ai Monti','Chiesa di San Pietro in Montorio',2115).
+distance('Chiesa di Santa Maria ai Monti','Church of Santa Maria in Vallicella',1831).
+distance('Chiesa di Santa Maria ai Monti','Church of San Pietro in Montorio',2115).
 distance('Chiesa di Santa Maria ai Monti','Saint Eligio of Orefici',1890).
 distance('Chiesa di Santa Maria ai Monti','Palazzo del Commendatore',2469).
 distance('Chiesa di Santa Maria ai Monti','Porta Santo Spirito',2491).
@@ -9362,7 +9321,6 @@ distance('Chiesa di Santa Maria ai Monti','Villa Balestra',3287).
 distance('Chiesa di Santa Maria ai Monti','Palazzo Borghese',1602).
 distance('Chiesa di Santa Maria ai Monti','National Academy of San Luca',966).
 distance('Chiesa di Santa Maria ai Monti','Museo Carlo Bilotti',2174).
-distance('Chiesa di Santa Maria ai Monti','Palazzo Wedekind',1158).
 distance('Chiesa di Santa Maria ai Monti','Cloaca Maxima',1092).
 distance('Chiesa di Santa Maria ai Monti','Temple of Apollo Palatinus',896).
 distance('Chiesa di Santa Maria ai Monti','Circus Maximus',1047).
@@ -9370,13 +9328,13 @@ distance('Chiesa di Santa Maria ai Monti','Mouth of Truth',1051).
 distance('Chiesa di Santa Maria ai Monti','Basilica di Santa Sabina all Aventino',1440).
 distance('Chiesa di Santa Maria ai Monti','Santa Maria in Cosmedin',1042).
 distance('Chiesa di Santa Maria ai Monti','Non-Catholic Cemetery',2234).
-distance('Chiesa di Santa Maria ai Monti','Basilica Santa Cecilia in Trastevere',1430).
+distance('Chiesa di Santa Maria ai Monti','Basilica di Santa Cecilia in Trastevere',1430).
 distance('Chiesa di Santa Maria ai Monti','Mattatoio',2476).
 distance('Chiesa di Santa Maria ai Monti','Pyramid of Caius Cestius',2169).
 distance('Chiesa di Santa Maria ai Monti','Turtle Fountain',1088).
 distance('Chiesa di Santa Maria ai Monti','Basilica di San Bartolomeo all Isola',1136).
 distance('Chiesa di Santa Maria ai Monti','Chiesa di Santa Prisca',1408).
-distance('Chiesa di Santa Maria ai Monti','Tempio Maggiore di Roma',1087).
+distance('Chiesa di Santa Maria ai Monti','Tempio Maggiore',1087).
 distance('Chiesa di Santa Maria ai Monti','Portico of Octavia',1032).
 distance('Chiesa di Santa Maria ai Monti','Basilica Santi Giovanni e Paolo',911).
 distance('Basilica of St Mark Evangelist at Campidoglio','St. Paul s Within the Walls',1195).
@@ -9391,7 +9349,7 @@ distance('Basilica of St Mark Evangelist at Campidoglio','Column of Phocas',461)
 distance('Basilica of St Mark Evangelist at Campidoglio','Antoninus and Faustina Temple',586).
 distance('Basilica of St Mark Evangelist at Campidoglio','Marcello Theater',459).
 distance('Basilica of St Mark Evangelist at Campidoglio','Chiesa di Santa Maria in Portico in Campitelli',373).
-distance('Basilica of St Mark Evangelist at Campidoglio','The Church of Santa Maria della Vittoria',1440).
+distance('Basilica of St Mark Evangelist at Campidoglio','Church of Santa Maria della Vittoria',1440).
 distance('Basilica of St Mark Evangelist at Campidoglio','The Last Judgment',2391).
 distance('Basilica of St Mark Evangelist at Campidoglio','Chiesa di Santo Stefano degli Abissini',2560).
 distance('Basilica of St Mark Evangelist at Campidoglio','Fontana di Piazza Farnese',853).
@@ -9408,10 +9366,10 @@ distance('Basilica of St Mark Evangelist at Campidoglio','Gardens of Vatican Cit
 distance('Basilica of St Mark Evangelist at Campidoglio','Fiumi Fountain',790).
 distance('Basilica of St Mark Evangelist at Campidoglio','Sistine Chapel',2388).
 distance('Basilica of St Mark Evangelist at Campidoglio','Villa Farnesina',1219).
-distance('Basilica of St Mark Evangelist at Campidoglio','Church of St. Louis of the French',721).
 distance('Basilica of St Mark Evangelist at Campidoglio','Palazzo Madama',728).
 distance('Basilica of St Mark Evangelist at Campidoglio','Galleria Spada',828).
-distance('Basilica of St Mark Evangelist at Campidoglio','St. Angelo Bridge',1422).
+distance('Basilica of St Mark Evangelist at Campidoglio','Church of St. Louis of the French',706).
+distance('Basilica of St Mark Evangelist at Campidoglio','St. Angelo Bridge',1429).
 distance('Basilica of St Mark Evangelist at Campidoglio','Palazzo Farnese',910).
 distance('Basilica of St Mark Evangelist at Campidoglio','Sant Agnese in Agone',825).
 distance('Basilica of St Mark Evangelist at Campidoglio','Botanical Garden of Rome',1611).
@@ -9424,8 +9382,8 @@ distance('Basilica of St Mark Evangelist at Campidoglio','Campo de  Fiori',814).
 distance('Basilica of St Mark Evangelist at Campidoglio','Piazza Navona',801).
 distance('Basilica of St Mark Evangelist at Campidoglio','Corte Suprema di Cassazione',1378).
 distance('Basilica of St Mark Evangelist at Campidoglio','Museo di Roma - Palazzo Braschi',765).
-distance('Basilica of St Mark Evangelist at Campidoglio','Parrocchia Santa Maria in Vallicella',1077).
-distance('Basilica of St Mark Evangelist at Campidoglio','Chiesa di San Pietro in Montorio',1492).
+distance('Basilica of St Mark Evangelist at Campidoglio','Church of Santa Maria in Vallicella',1073).
+distance('Basilica of St Mark Evangelist at Campidoglio','Church of San Pietro in Montorio',1492).
 distance('Basilica of St Mark Evangelist at Campidoglio','Saint Eligio of Orefici',1140).
 distance('Basilica of St Mark Evangelist at Campidoglio','Palazzo del Commendatore',1719).
 distance('Basilica of St Mark Evangelist at Campidoglio','Porta Santo Spirito',1735).
@@ -9491,7 +9449,6 @@ distance('Basilica of St Mark Evangelist at Campidoglio','Villa Balestra',2909).
 distance('Basilica of St Mark Evangelist at Campidoglio','Palazzo Borghese',1028).
 distance('Basilica of St Mark Evangelist at Campidoglio','National Academy of San Luca',658).
 distance('Basilica of St Mark Evangelist at Campidoglio','Museo Carlo Bilotti',1953).
-distance('Basilica of St Mark Evangelist at Campidoglio','Palazzo Wedekind',582).
 distance('Basilica of St Mark Evangelist at Campidoglio','Cloaca Maxima',809).
 distance('Basilica of St Mark Evangelist at Campidoglio','Temple of Apollo Palatinus',1012).
 distance('Basilica of St Mark Evangelist at Campidoglio','Circus Maximus',1118).
@@ -9499,13 +9456,13 @@ distance('Basilica of St Mark Evangelist at Campidoglio','Mouth of Truth',861).
 distance('Basilica of St Mark Evangelist at Campidoglio','Basilica di Santa Sabina all Aventino',1270).
 distance('Basilica of St Mark Evangelist at Campidoglio','Santa Maria in Cosmedin',864).
 distance('Basilica of St Mark Evangelist at Campidoglio','Non-Catholic Cemetery',2178).
-distance('Basilica of St Mark Evangelist at Campidoglio','Basilica Santa Cecilia in Trastevere',1051).
+distance('Basilica of St Mark Evangelist at Campidoglio','Basilica di Santa Cecilia in Trastevere',1051).
 distance('Basilica of St Mark Evangelist at Campidoglio','Mattatoio',2261).
 distance('Basilica of St Mark Evangelist at Campidoglio','Pyramid of Caius Cestius',2152).
 distance('Basilica of St Mark Evangelist at Campidoglio','Turtle Fountain',406).
 distance('Basilica of St Mark Evangelist at Campidoglio','Basilica di San Bartolomeo all Isola',677).
 distance('Basilica of St Mark Evangelist at Campidoglio','Chiesa di Santa Prisca',1429).
-distance('Basilica of St Mark Evangelist at Campidoglio','Tempio Maggiore di Roma',524).
+distance('Basilica of St Mark Evangelist at Campidoglio','Tempio Maggiore',524).
 distance('Basilica of St Mark Evangelist at Campidoglio','Portico of Octavia',453).
 distance('Basilica of St Mark Evangelist at Campidoglio','Basilica Santi Giovanni e Paolo',1355).
 distance('St. Paul s Within the Walls','Septimius Severus Arch',1211).
@@ -9519,7 +9476,7 @@ distance('St. Paul s Within the Walls','Column of Phocas',1241).
 distance('St. Paul s Within the Walls','Antoninus and Faustina Temple',1167).
 distance('St. Paul s Within the Walls','Marcello Theater',1569).
 distance('St. Paul s Within the Walls','Chiesa di Santa Maria in Portico in Campitelli',1538).
-distance('St. Paul s Within the Walls','The Church of Santa Maria della Vittoria',386).
+distance('St. Paul s Within the Walls','Church of Santa Maria della Vittoria',386).
 distance('St. Paul s Within the Walls','The Last Judgment',3299).
 distance('St. Paul s Within the Walls','Chiesa di Santo Stefano degli Abissini',3511).
 distance('St. Paul s Within the Walls','Fontana di Piazza Farnese',2007).
@@ -9536,10 +9493,10 @@ distance('St. Paul s Within the Walls','Gardens of Vatican City',3653).
 distance('St. Paul s Within the Walls','Fiumi Fountain',1766).
 distance('St. Paul s Within the Walls','Sistine Chapel',3297).
 distance('St. Paul s Within the Walls','Villa Farnesina',2385).
-distance('St. Paul s Within the Walls','Church of St. Louis of the French',1637).
 distance('St. Paul s Within the Walls','Palazzo Madama',1675).
 distance('St. Paul s Within the Walls','Galleria Spada',2003).
-distance('St. Paul s Within the Walls','St. Angelo Bridge',2298).
+distance('St. Paul s Within the Walls','Church of St. Louis of the French',1614).
+distance('St. Paul s Within the Walls','St. Angelo Bridge',2300).
 distance('St. Paul s Within the Walls','Palazzo Farnese',2067).
 distance('St. Paul s Within the Walls','Sant Agnese in Agone',1812).
 distance('St. Paul s Within the Walls','Botanical Garden of Rome',2781).
@@ -9552,8 +9509,8 @@ distance('St. Paul s Within the Walls','Campo de  Fiori',1948).
 distance('St. Paul s Within the Walls','Piazza Navona',1764).
 distance('St. Paul s Within the Walls','Corte Suprema di Cassazione',2034).
 distance('St. Paul s Within the Walls','Museo di Roma - Palazzo Braschi',1824).
-distance('St. Paul s Within the Walls','Parrocchia Santa Maria in Vallicella',2096).
-distance('St. Paul s Within the Walls','Chiesa di San Pietro in Montorio',2687).
+distance('St. Paul s Within the Walls','Church of Santa Maria in Vallicella',2103).
+distance('St. Paul s Within the Walls','Church of San Pietro in Montorio',2687).
 distance('St. Paul s Within the Walls','Saint Eligio of Orefici',2262).
 distance('St. Paul s Within the Walls','Palazzo del Commendatore',2645).
 distance('St. Paul s Within the Walls','Porta Santo Spirito',2700).
@@ -9619,7 +9576,6 @@ distance('St. Paul s Within the Walls','Villa Balestra',2807).
 distance('St. Paul s Within the Walls','Palazzo Borghese',1526).
 distance('St. Paul s Within the Walls','National Academy of San Luca',869).
 distance('St. Paul s Within the Walls','Museo Carlo Bilotti',1624).
-distance('St. Paul s Within the Walls','Palazzo Wedekind',1221).
 distance('St. Paul s Within the Walls','Cloaca Maxima',1814).
 distance('St. Paul s Within the Walls','Temple of Apollo Palatinus',1685).
 distance('St. Paul s Within the Walls','Circus Maximus',1835).
@@ -9627,13 +9583,13 @@ distance('St. Paul s Within the Walls','Mouth of Truth',1798).
 distance('St. Paul s Within the Walls','Basilica di Santa Sabina all Aventino',2207).
 distance('St. Paul s Within the Walls','Santa Maria in Cosmedin',1792).
 distance('St. Paul s Within the Walls','Non-Catholic Cemetery',3023).
-distance('St. Paul s Within the Walls','Basilica Santa Cecilia in Trastevere',2135).
+distance('St. Paul s Within the Walls','Basilica di Santa Cecilia in Trastevere',2135).
 distance('St. Paul s Within the Walls','Mattatoio',3248).
 distance('St. Paul s Within the Walls','Pyramid of Caius Cestius',2959).
 distance('St. Paul s Within the Walls','Turtle Fountain',1602).
 distance('St. Paul s Within the Walls','Basilica di San Bartolomeo all Isola',1792).
 distance('St. Paul s Within the Walls','Chiesa di Santa Prisca',2197).
-distance('St. Paul s Within the Walls','Tempio Maggiore di Roma',1685).
+distance('St. Paul s Within the Walls','Tempio Maggiore',1685).
 distance('St. Paul s Within the Walls','Portico of Octavia',1617).
 distance('St. Paul s Within the Walls','Basilica Santi Giovanni e Paolo',1647).
 distance('Septimius Severus Arch','Palazzo Sciarra Colonna Carbognano',801).
@@ -9646,7 +9602,7 @@ distance('Septimius Severus Arch','Column of Phocas',47).
 distance('Septimius Severus Arch','Antoninus and Faustina Temple',186).
 distance('Septimius Severus Arch','Marcello Theater',415).
 distance('Septimius Severus Arch','Chiesa di Santa Maria in Portico in Campitelli',461).
-distance('Septimius Severus Arch','The Church of Santa Maria della Vittoria',1536).
+distance('Septimius Severus Arch','Church of Santa Maria della Vittoria',1536).
 distance('Septimius Severus Arch','The Last Judgment',2751).
 distance('Septimius Severus Arch','Chiesa di Santo Stefano degli Abissini',2903).
 distance('Septimius Severus Arch','Fontana di Piazza Farnese',1128).
@@ -9663,10 +9619,10 @@ distance('Septimius Severus Arch','Gardens of Vatican City',3101).
 distance('Septimius Severus Arch','Fiumi Fountain',1180).
 distance('Septimius Severus Arch','Sistine Chapel',2748).
 distance('Septimius Severus Arch','Villa Farnesina',1450).
-distance('Septimius Severus Arch','Church of St. Louis of the French',1127).
 distance('Septimius Severus Arch','Palazzo Madama',1128).
 distance('Septimius Severus Arch','Galleria Spada',1074).
-distance('Septimius Severus Arch','St. Angelo Bridge',1811).
+distance('Septimius Severus Arch','Church of St. Louis of the French',1114).
+distance('Septimius Severus Arch','St. Angelo Bridge',1818).
 distance('Septimius Severus Arch','Palazzo Farnese',1177).
 distance('Septimius Severus Arch','Sant Agnese in Agone',1209).
 distance('Septimius Severus Arch','Botanical Garden of Rome',1819).
@@ -9679,8 +9635,8 @@ distance('Septimius Severus Arch','Campo de  Fiori',1116).
 distance('Septimius Severus Arch','Piazza Navona',1193).
 distance('Septimius Severus Arch','Corte Suprema di Cassazione',1794).
 distance('Septimius Severus Arch','Museo di Roma - Palazzo Braschi',1124).
-distance('Septimius Severus Arch','Parrocchia Santa Maria in Vallicella',1435).
-distance('Septimius Severus Arch','Chiesa di San Pietro in Montorio',1589).
+distance('Septimius Severus Arch','Church of Santa Maria in Vallicella',1426).
+distance('Septimius Severus Arch','Church of San Pietro in Montorio',1589).
 distance('Septimius Severus Arch','Saint Eligio of Orefici',1431).
 distance('Septimius Severus Arch','Palazzo del Commendatore',2086).
 distance('Septimius Severus Arch','Porta Santo Spirito',2089).
@@ -9746,7 +9702,6 @@ distance('Septimius Severus Arch','Villa Balestra',3293).
 distance('Septimius Severus Arch','Palazzo Borghese',1440).
 distance('Septimius Severus Arch','National Academy of San Luca',971).
 distance('Septimius Severus Arch','Museo Carlo Bilotti',2282).
-distance('Septimius Severus Arch','Palazzo Wedekind',986).
 distance('Septimius Severus Arch','Cloaca Maxima',603).
 distance('Septimius Severus Arch','Temple of Apollo Palatinus',624).
 distance('Septimius Severus Arch','Circus Maximus',750).
@@ -9754,13 +9709,13 @@ distance('Septimius Severus Arch','Mouth of Truth',596).
 distance('Septimius Severus Arch','Basilica di Santa Sabina all Aventino',1017).
 distance('Septimius Severus Arch','Santa Maria in Cosmedin',593).
 distance('Septimius Severus Arch','Non-Catholic Cemetery',1891).
-distance('Septimius Severus Arch','Basilica Santa Cecilia in Trastevere',927).
+distance('Septimius Severus Arch','Basilica di Santa Cecilia in Trastevere',927).
 distance('Septimius Severus Arch','Mattatoio',2055).
 distance('Septimius Severus Arch','Pyramid of Caius Cestius',1848).
 distance('Septimius Severus Arch','Turtle Fountain',604).
 distance('Septimius Severus Arch','Basilica di San Bartolomeo all Isola',611).
 distance('Septimius Severus Arch','Chiesa di Santa Prisca',1093).
-distance('Septimius Severus Arch','Tempio Maggiore di Roma',565).
+distance('Septimius Severus Arch','Tempio Maggiore',565).
 distance('Septimius Severus Arch','Portico of Octavia',516).
 distance('Septimius Severus Arch','Basilica Santi Giovanni e Paolo',938).
 distance('Palazzo Sciarra Colonna Carbognano','The Keats - Shelley House',688).
@@ -9772,7 +9727,7 @@ distance('Palazzo Sciarra Colonna Carbognano','Column of Phocas',848).
 distance('Palazzo Sciarra Colonna Carbognano','Antoninus and Faustina Temple',938).
 distance('Palazzo Sciarra Colonna Carbognano','Marcello Theater',861).
 distance('Palazzo Sciarra Colonna Carbognano','Chiesa di Santa Maria in Portico in Campitelli',749).
-distance('Palazzo Sciarra Colonna Carbognano','The Church of Santa Maria della Vittoria',1224).
+distance('Palazzo Sciarra Colonna Carbognano','Church of Santa Maria della Vittoria',1224).
 distance('Palazzo Sciarra Colonna Carbognano','The Last Judgment',2256).
 distance('Palazzo Sciarra Colonna Carbognano','Chiesa di Santo Stefano degli Abissini',2454).
 distance('Palazzo Sciarra Colonna Carbognano','Fontana di Piazza Farnese',963).
@@ -9789,10 +9744,10 @@ distance('Palazzo Sciarra Colonna Carbognano','Gardens of Vatican City',2613).
 distance('Palazzo Sciarra Colonna Carbognano','Fiumi Fountain',683).
 distance('Palazzo Sciarra Colonna Carbognano','Sistine Chapel',2254).
 distance('Palazzo Sciarra Colonna Carbognano','Villa Farnesina',1339).
-distance('Palazzo Sciarra Colonna Carbognano','Church of St. Louis of the French',559).
 distance('Palazzo Sciarra Colonna Carbognano','Palazzo Madama',594).
 distance('Palazzo Sciarra Colonna Carbognano','Galleria Spada',982).
-distance('Palazzo Sciarra Colonna Carbognano','St. Angelo Bridge',1253).
+distance('Palazzo Sciarra Colonna Carbognano','Church of St. Louis of the French',536).
+distance('Palazzo Sciarra Colonna Carbognano','St. Angelo Bridge',1256).
 distance('Palazzo Sciarra Colonna Carbognano','Palazzo Farnese',1024).
 distance('Palazzo Sciarra Colonna Carbognano','Sant Agnese in Agone',729).
 distance('Palazzo Sciarra Colonna Carbognano','Botanical Garden of Rome',1732).
@@ -9805,8 +9760,8 @@ distance('Palazzo Sciarra Colonna Carbognano','Campo de  Fiori',892).
 distance('Palazzo Sciarra Colonna Carbognano','Piazza Navona',682).
 distance('Palazzo Sciarra Colonna Carbognano','Corte Suprema di Cassazione',1090).
 distance('Palazzo Sciarra Colonna Carbognano','Museo di Roma - Palazzo Braschi',746).
-distance('Palazzo Sciarra Colonna Carbognano','Parrocchia Santa Maria in Vallicella',1013).
-distance('Palazzo Sciarra Colonna Carbognano','Chiesa di San Pietro in Montorio',1726).
+distance('Palazzo Sciarra Colonna Carbognano','Church of Santa Maria in Vallicella',1020).
+distance('Palazzo Sciarra Colonna Carbognano','Church of San Pietro in Montorio',1726).
 distance('Palazzo Sciarra Colonna Carbognano','Saint Eligio of Orefici',1191).
 distance('Palazzo Sciarra Colonna Carbognano','Palazzo del Commendatore',1588).
 distance('Palazzo Sciarra Colonna Carbognano','Porta Santo Spirito',1632).
@@ -9872,7 +9827,6 @@ distance('Palazzo Sciarra Colonna Carbognano','Villa Balestra',2496).
 distance('Palazzo Sciarra Colonna Carbognano','Palazzo Borghese',659).
 distance('Palazzo Sciarra Colonna Carbognano','National Academy of San Luca',296).
 distance('Palazzo Sciarra Colonna Carbognano','Museo Carlo Bilotti',1540).
-distance('Palazzo Sciarra Colonna Carbognano','Palazzo Wedekind',203).
 distance('Palazzo Sciarra Colonna Carbognano','Cloaca Maxima',1220).
 distance('Palazzo Sciarra Colonna Carbognano','Temple of Apollo Palatinus',1418).
 distance('Palazzo Sciarra Colonna Carbognano','Circus Maximus',1531).
@@ -9880,13 +9834,13 @@ distance('Palazzo Sciarra Colonna Carbognano','Mouth of Truth',1278).
 distance('Palazzo Sciarra Colonna Carbognano','Basilica di Santa Sabina all Aventino',1682).
 distance('Palazzo Sciarra Colonna Carbognano','Santa Maria in Cosmedin',1282).
 distance('Palazzo Sciarra Colonna Carbognano','Non-Catholic Cemetery',2592).
-distance('Palazzo Sciarra Colonna Carbognano','Basilica Santa Cecilia in Trastevere',1434).
+distance('Palazzo Sciarra Colonna Carbognano','Basilica di Santa Cecilia in Trastevere',1434).
 distance('Palazzo Sciarra Colonna Carbognano','Mattatoio',2653).
 distance('Palazzo Sciarra Colonna Carbognano','Pyramid of Caius Cestius',2568).
 distance('Palazzo Sciarra Colonna Carbognano','Turtle Fountain',711).
 distance('Palazzo Sciarra Colonna Carbognano','Basilica di San Bartolomeo all Isola',1062).
 distance('Palazzo Sciarra Colonna Carbognano','Chiesa di Santa Prisca',1847).
-distance('Palazzo Sciarra Colonna Carbognano','Tempio Maggiore di Roma',888).
+distance('Palazzo Sciarra Colonna Carbognano','Tempio Maggiore',888).
 distance('Palazzo Sciarra Colonna Carbognano','Portico of Octavia',821).
 distance('Palazzo Sciarra Colonna Carbognano','Basilica Santi Giovanni e Paolo',1714).
 distance('The Keats - Shelley House','Basilica Ulpia',1143).
@@ -9897,7 +9851,7 @@ distance('The Keats - Shelley House','Column of Phocas',1488).
 distance('The Keats - Shelley House','Antoninus and Faustina Temple',1541).
 distance('The Keats - Shelley House','Marcello Theater',1549).
 distance('The Keats - Shelley House','Chiesa di Santa Maria in Portico in Campitelli',1436).
-distance('The Keats - Shelley House','The Church of Santa Maria della Vittoria',991).
+distance('The Keats - Shelley House','Church of Santa Maria della Vittoria',991).
 distance('The Keats - Shelley House','The Last Judgment',2347).
 distance('The Keats - Shelley House','Chiesa di Santo Stefano degli Abissini',2581).
 distance('The Keats - Shelley House','Fontana di Piazza Farnese',1505).
@@ -9914,10 +9868,10 @@ distance('The Keats - Shelley House','Gardens of Vatican City',2686).
 distance('The Keats - Shelley House','Fiumi Fountain',1085).
 distance('The Keats - Shelley House','Sistine Chapel',2345).
 distance('The Keats - Shelley House','Villa Farnesina',1848).
-distance('The Keats - Shelley House','Church of St. Louis of the French',951).
 distance('The Keats - Shelley House','Palazzo Madama',1002).
 distance('The Keats - Shelley House','Galleria Spada',1554).
-distance('The Keats - Shelley House','St. Angelo Bridge',1401).
+distance('The Keats - Shelley House','Church of St. Louis of the French',931).
+distance('The Keats - Shelley House','St. Angelo Bridge',1398).
 distance('The Keats - Shelley House','Palazzo Farnese',1560).
 distance('The Keats - Shelley House','Sant Agnese in Agone',1126).
 distance('The Keats - Shelley House','Botanical Garden of Rome',2210).
@@ -9930,8 +9884,8 @@ distance('The Keats - Shelley House','Campo de  Fiori',1419).
 distance('The Keats - Shelley House','Piazza Navona',1071).
 distance('The Keats - Shelley House','Corte Suprema di Cassazione',1035).
 distance('The Keats - Shelley House','Museo di Roma - Palazzo Braschi',1219).
-distance('The Keats - Shelley House','Parrocchia Santa Maria in Vallicella',1370).
-distance('The Keats - Shelley House','Chiesa di San Pietro in Montorio',2313).
+distance('The Keats - Shelley House','Church of Santa Maria in Vallicella',1388).
+distance('The Keats - Shelley House','Church of San Pietro in Montorio',2313).
 distance('The Keats - Shelley House','Saint Eligio of Orefici',1646).
 distance('The Keats - Shelley House','Palazzo del Commendatore',1749).
 distance('The Keats - Shelley House','Porta Santo Spirito',1832).
@@ -9997,7 +9951,6 @@ distance('The Keats - Shelley House','Villa Balestra',1882).
 distance('The Keats - Shelley House','Palazzo Borghese',552).
 distance('The Keats - Shelley House','National Academy of San Luca',472).
 distance('The Keats - Shelley House','Museo Carlo Bilotti',852).
-distance('The Keats - Shelley House','Palazzo Wedekind',602).
 distance('The Keats - Shelley House','Cloaca Maxima',1908).
 distance('The Keats - Shelley House','Temple of Apollo Palatinus',2065).
 distance('The Keats - Shelley House','Circus Maximus',2189).
@@ -10005,13 +9958,13 @@ distance('The Keats - Shelley House','Mouth of Truth',1961).
 distance('The Keats - Shelley House','Basilica di Santa Sabina all Aventino',2370).
 distance('The Keats - Shelley House','Santa Maria in Cosmedin',1964).
 distance('The Keats - Shelley House','Non-Catholic Cemetery',3279).
-distance('The Keats - Shelley House','Basilica Santa Cecilia in Trastevere',2119).
+distance('The Keats - Shelley House','Basilica di Santa Cecilia in Trastevere',2119).
 distance('The Keats - Shelley House','Mattatoio',3339).
 distance('The Keats - Shelley House','Pyramid of Caius Cestius',3252).
 distance('The Keats - Shelley House','Turtle Fountain',1385).
 distance('The Keats - Shelley House','Basilica di San Bartolomeo all Isola',1748).
 distance('The Keats - Shelley House','Chiesa di Santa Prisca',2520).
-distance('The Keats - Shelley House','Tempio Maggiore di Roma',1572).
+distance('The Keats - Shelley House','Tempio Maggiore',1572).
 distance('The Keats - Shelley House','Portico of Octavia',1506).
 distance('The Keats - Shelley House','Basilica Santi Giovanni e Paolo',2284).
 distance('Basilica Ulpia','Temple of Vesta',449).
@@ -10021,7 +9974,7 @@ distance('Basilica Ulpia','Column of Phocas',346).
 distance('Basilica Ulpia','Antoninus and Faustina Temple',413).
 distance('Basilica Ulpia','Marcello Theater',560).
 distance('Basilica Ulpia','Chiesa di Santa Maria in Portico in Campitelli',527).
-distance('Basilica Ulpia','The Church of Santa Maria della Vittoria',1298).
+distance('Basilica Ulpia','Church of Santa Maria della Vittoria',1298).
 distance('Basilica Ulpia','The Last Judgment',2631).
 distance('Basilica Ulpia','Chiesa di Santo Stefano degli Abissini',2803).
 distance('Basilica Ulpia','Fontana di Piazza Farnese',1092).
@@ -10038,10 +9991,10 @@ distance('Basilica Ulpia','Gardens of Vatican City',2986).
 distance('Basilica Ulpia','Fiumi Fountain',1025).
 distance('Basilica Ulpia','Sistine Chapel',2628).
 distance('Basilica Ulpia','Villa Farnesina',1452).
-distance('Basilica Ulpia','Church of St. Louis of the French',944).
 distance('Basilica Ulpia','Palazzo Madama',957).
 distance('Basilica Ulpia','Galleria Spada',1061).
-distance('Basilica Ulpia','St. Angelo Bridge',1654).
+distance('Basilica Ulpia','Church of St. Louis of the French',928).
+distance('Basilica Ulpia','St. Angelo Bridge',1660).
 distance('Basilica Ulpia','Palazzo Farnese',1148).
 distance('Basilica Ulpia','Sant Agnese in Agone',1062).
 distance('Basilica Ulpia','Botanical Garden of Rome',1840).
@@ -10054,8 +10007,8 @@ distance('Basilica Ulpia','Campo de  Fiori',1056).
 distance('Basilica Ulpia','Piazza Navona',1035).
 distance('Basilica Ulpia','Corte Suprema di Cassazione',1577).
 distance('Basilica Ulpia','Museo di Roma - Palazzo Braschi',1008).
-distance('Basilica Ulpia','Parrocchia Santa Maria in Vallicella',1320).
-distance('Basilica Ulpia','Chiesa di San Pietro in Montorio',1688).
+distance('Basilica Ulpia','Church of Santa Maria in Vallicella',1316).
+distance('Basilica Ulpia','Church of San Pietro in Montorio',1688).
 distance('Basilica Ulpia','Saint Eligio of Orefici',1383).
 distance('Basilica Ulpia','Palazzo del Commendatore',1958).
 distance('Basilica Ulpia','Porta Santo Spirito',1977).
@@ -10121,7 +10074,6 @@ distance('Basilica Ulpia','Villa Balestra',3004).
 distance('Basilica Ulpia','Palazzo Borghese',1182).
 distance('Basilica Ulpia','National Academy of San Luca',672).
 distance('Basilica Ulpia','Museo Carlo Bilotti',1983).
-distance('Basilica Ulpia','Palazzo Wedekind',723).
 distance('Basilica Ulpia','Cloaca Maxima',850).
 distance('Basilica Ulpia','Temple of Apollo Palatinus',922).
 distance('Basilica Ulpia','Circus Maximus',1049).
@@ -10129,13 +10081,13 @@ distance('Basilica Ulpia','Mouth of Truth',869).
 distance('Basilica Ulpia','Basilica di Santa Sabina all Aventino',1292).
 distance('Basilica Ulpia','Santa Maria in Cosmedin',867).
 distance('Basilica Ulpia','Non-Catholic Cemetery',2180).
-distance('Basilica Ulpia','Basilica Santa Cecilia in Trastevere',1144).
+distance('Basilica Ulpia','Basilica di Santa Cecilia in Trastevere',1144).
 distance('Basilica Ulpia','Mattatoio',2318).
 distance('Basilica Ulpia','Pyramid of Caius Cestius',2141).
 distance('Basilica Ulpia','Turtle Fountain',612).
 distance('Basilica Ulpia','Basilica di San Bartolomeo all Isola',786).
 distance('Basilica Ulpia','Chiesa di Santa Prisca',1390).
-distance('Basilica Ulpia','Tempio Maggiore di Roma',673).
+distance('Basilica Ulpia','Tempio Maggiore',673).
 distance('Basilica Ulpia','Portico of Octavia',606).
 distance('Basilica Ulpia','Basilica Santi Giovanni e Paolo',1187).
 distance('Temple of Vesta','Chiesa San Marcello al Corso',846).
@@ -10144,7 +10096,7 @@ distance('Temple of Vesta','Column of Phocas',139).
 distance('Temple of Vesta','Antoninus and Faustina Temple',78).
 distance('Temple of Vesta','Marcello Theater',523).
 distance('Temple of Vesta','Chiesa di Santa Maria in Portico in Campitelli',601).
-distance('Temple of Vesta','The Church of Santa Maria della Vittoria',1593).
+distance('Temple of Vesta','Church of Santa Maria della Vittoria',1593).
 distance('Temple of Vesta','The Last Judgment',2915).
 distance('Temple of Vesta','Chiesa di Santo Stefano degli Abissini',3063).
 distance('Temple of Vesta','Fontana di Piazza Farnese',1278).
@@ -10161,10 +10113,10 @@ distance('Temple of Vesta','Gardens of Vatican City',3264).
 distance('Temple of Vesta','Fiumi Fountain',1354).
 distance('Temple of Vesta','Sistine Chapel',2913).
 distance('Temple of Vesta','Villa Farnesina',1584).
-distance('Temple of Vesta','Church of St. Louis of the French',1304).
 distance('Temple of Vesta','Palazzo Madama',1304).
 distance('Temple of Vesta','Galleria Spada',1217).
-distance('Temple of Vesta','St. Angelo Bridge',1984).
+distance('Temple of Vesta','Church of St. Louis of the French',1291).
+distance('Temple of Vesta','St. Angelo Bridge',1992).
 distance('Temple of Vesta','Palazzo Farnese',1323).
 distance('Temple of Vesta','Sant Agnese in Agone',1382).
 distance('Temple of Vesta','Botanical Garden of Rome',1941).
@@ -10177,8 +10129,8 @@ distance('Temple of Vesta','Campo de  Fiori',1273).
 distance('Temple of Vesta','Piazza Navona',1368).
 distance('Temple of Vesta','Corte Suprema di Cassazione',1971).
 distance('Temple of Vesta','Museo di Roma - Palazzo Braschi',1293).
-distance('Temple of Vesta','Parrocchia Santa Maria in Vallicella',1602).
-distance('Temple of Vesta','Chiesa di San Pietro in Montorio',1676).
+distance('Temple of Vesta','Church of Santa Maria in Vallicella',1592).
+distance('Temple of Vesta','Church of San Pietro in Montorio',1676).
 distance('Temple of Vesta','Saint Eligio of Orefici',1581).
 distance('Temple of Vesta','Palazzo del Commendatore',2254).
 distance('Temple of Vesta','Porta Santo Spirito',2253).
@@ -10244,7 +10196,6 @@ distance('Temple of Vesta','Villa Balestra',3453).
 distance('Temple of Vesta','Palazzo Borghese',1614).
 distance('Temple of Vesta','National Academy of San Luca',1116).
 distance('Temple of Vesta','Museo Carlo Bilotti',2420).
-distance('Temple of Vesta','Palazzo Wedekind',1157).
 distance('Temple of Vesta','Cloaca Maxima',604).
 distance('Temple of Vesta','Temple of Apollo Palatinus',486).
 distance('Temple of Vesta','Circus Maximus',626).
@@ -10252,13 +10203,13 @@ distance('Temple of Vesta','Mouth of Truth',562).
 distance('Temple of Vesta','Basilica di Santa Sabina all Aventino',962).
 distance('Temple of Vesta','Santa Maria in Cosmedin',554).
 distance('Temple of Vesta','Non-Catholic Cemetery',1799).
-distance('Temple of Vesta','Basilica Santa Cecilia in Trastevere',944).
+distance('Temple of Vesta','Basilica di Santa Cecilia in Trastevere',944).
 distance('Temple of Vesta','Mattatoio',2003).
 distance('Temple of Vesta','Pyramid of Caius Cestius',1747).
 distance('Temple of Vesta','Turtle Fountain',754).
 distance('Temple of Vesta','Basilica di San Bartolomeo all Isola',681).
 distance('Temple of Vesta','Chiesa di Santa Prisca',983).
-distance('Temple of Vesta','Tempio Maggiore di Roma',679).
+distance('Temple of Vesta','Tempio Maggiore',679).
 distance('Temple of Vesta','Portico of Octavia',642).
 distance('Temple of Vesta','Basilica Santi Giovanni e Paolo',760).
 distance('Chiesa San Marcello al Corso','San Stanislao alle Botteghe Oscure',446).
@@ -10266,7 +10217,7 @@ distance('Chiesa San Marcello al Corso','Column of Phocas',725).
 distance('Chiesa San Marcello al Corso','Antoninus and Faustina Temple',819).
 distance('Chiesa San Marcello al Corso','Marcello Theater',745).
 distance('Chiesa San Marcello al Corso','Chiesa di Santa Maria in Portico in Campitelli',639).
-distance('Chiesa San Marcello al Corso','The Church of Santa Maria della Vittoria',1261).
+distance('Chiesa San Marcello al Corso','Church of Santa Maria della Vittoria',1261).
 distance('Chiesa San Marcello al Corso','The Last Judgment',2306).
 distance('Chiesa San Marcello al Corso','Chiesa di Santo Stefano degli Abissini',2496).
 distance('Chiesa San Marcello al Corso','Fontana di Piazza Farnese',929).
@@ -10283,10 +10234,10 @@ distance('Chiesa San Marcello al Corso','Gardens of Vatican City',2663).
 distance('Chiesa San Marcello al Corso','Fiumi Fountain',709).
 distance('Chiesa San Marcello al Corso','Sistine Chapel',2304).
 distance('Chiesa San Marcello al Corso','Villa Farnesina',1308).
-distance('Chiesa San Marcello al Corso','Church of St. Louis of the French',598).
 distance('Chiesa San Marcello al Corso','Palazzo Madama',625).
 distance('Chiesa San Marcello al Corso','Galleria Spada',936).
-distance('Chiesa San Marcello al Corso','St. Angelo Bridge',1308).
+distance('Chiesa San Marcello al Corso','Church of St. Louis of the French',577).
+distance('Chiesa San Marcello al Corso','St. Angelo Bridge',1312).
 distance('Chiesa San Marcello al Corso','Palazzo Farnese',990).
 distance('Chiesa San Marcello al Corso','Sant Agnese in Agone',752).
 distance('Chiesa San Marcello al Corso','Botanical Garden of Rome',1703).
@@ -10299,8 +10250,8 @@ distance('Chiesa San Marcello al Corso','Campo de  Fiori',866).
 distance('Chiesa San Marcello al Corso','Piazza Navona',712).
 distance('Chiesa San Marcello al Corso','Corte Suprema di Cassazione',1180).
 distance('Chiesa San Marcello al Corso','Museo di Roma - Palazzo Braschi',745).
-distance('Chiesa San Marcello al Corso','Parrocchia Santa Maria in Vallicella',1033).
-distance('Chiesa San Marcello al Corso','Chiesa di San Pietro in Montorio',1664).
+distance('Chiesa San Marcello al Corso','Church of Santa Maria in Vallicella',1036).
+distance('Chiesa San Marcello al Corso','Church of San Pietro in Montorio',1664).
 distance('Chiesa San Marcello al Corso','Saint Eligio of Orefici',1178).
 distance('Chiesa San Marcello al Corso','Palazzo del Commendatore',1634).
 distance('Chiesa San Marcello al Corso','Porta Santo Spirito',1670).
@@ -10366,7 +10317,6 @@ distance('Chiesa San Marcello al Corso','Villa Balestra',2621).
 distance('Chiesa San Marcello al Corso','Palazzo Borghese',772).
 distance('Chiesa San Marcello al Corso','National Academy of San Luca',382).
 distance('Chiesa San Marcello al Corso','Museo Carlo Bilotti',1658).
-distance('Chiesa San Marcello al Corso','Palazzo Wedekind',313).
 distance('Chiesa San Marcello al Corso','Cloaca Maxima',1101).
 distance('Chiesa San Marcello al Corso','Temple of Apollo Palatinus',1294).
 distance('Chiesa San Marcello al Corso','Circus Maximus',1406).
@@ -10374,20 +10324,20 @@ distance('Chiesa San Marcello al Corso','Mouth of Truth',1156).
 distance('Chiesa San Marcello al Corso','Basilica di Santa Sabina all Aventino',1563).
 distance('Chiesa San Marcello al Corso','Santa Maria in Cosmedin',1160).
 distance('Chiesa San Marcello al Corso','Non-Catholic Cemetery',2473).
-distance('Chiesa San Marcello al Corso','Basilica Santa Cecilia in Trastevere',1326).
+distance('Chiesa San Marcello al Corso','Basilica di Santa Cecilia in Trastevere',1326).
 distance('Chiesa San Marcello al Corso','Mattatoio',2543).
 distance('Chiesa San Marcello al Corso','Pyramid of Caius Cestius',2447).
 distance('Chiesa San Marcello al Corso','Turtle Fountain',618).
 distance('Chiesa San Marcello al Corso','Basilica di San Bartolomeo all Isola',952).
 distance('Chiesa San Marcello al Corso','Chiesa di Santa Prisca',1723).
-distance('Chiesa San Marcello al Corso','Tempio Maggiore di Roma',783).
+distance('Chiesa San Marcello al Corso','Tempio Maggiore',783).
 distance('Chiesa San Marcello al Corso','Portico of Octavia',714).
 distance('Chiesa San Marcello al Corso','Basilica Santi Giovanni e Paolo',1596).
 distance('San Stanislao alle Botteghe Oscure','Column of Phocas',529).
 distance('San Stanislao alle Botteghe Oscure','Antoninus and Faustina Temple',684).
 distance('San Stanislao alle Botteghe Oscure','Marcello Theater',329).
 distance('San Stanislao alle Botteghe Oscure','Chiesa di Santa Maria in Portico in Campitelli',202).
-distance('San Stanislao alle Botteghe Oscure','The Church of Santa Maria della Vittoria',1656).
+distance('San Stanislao alle Botteghe Oscure','Church of Santa Maria della Vittoria',1656).
 distance('San Stanislao alle Botteghe Oscure','The Last Judgment',2252).
 distance('San Stanislao alle Botteghe Oscure','Chiesa di Santo Stefano degli Abissini',2408).
 distance('San Stanislao alle Botteghe Oscure','Fontana di Piazza Farnese',656).
@@ -10404,10 +10354,10 @@ distance('San Stanislao alle Botteghe Oscure','Gardens of Vatican City',2604).
 distance('San Stanislao alle Botteghe Oscure','Fiumi Fountain',691).
 distance('San Stanislao alle Botteghe Oscure','Sistine Chapel',2250).
 distance('San Stanislao alle Botteghe Oscure','Villa Farnesina',1011).
-distance('San Stanislao alle Botteghe Oscure','Church of St. Louis of the French',658).
 distance('San Stanislao alle Botteghe Oscure','Palazzo Madama',650).
 distance('San Stanislao alle Botteghe Oscure','Galleria Spada',621).
-distance('San Stanislao alle Botteghe Oscure','St. Angelo Bridge',1317).
+distance('San Stanislao alle Botteghe Oscure','Church of St. Louis of the French',650).
+distance('San Stanislao alle Botteghe Oscure','St. Angelo Bridge',1325).
 distance('San Stanislao alle Botteghe Oscure','Palazzo Farnese',711).
 distance('San Stanislao alle Botteghe Oscure','Sant Agnese in Agone',716).
 distance('San Stanislao alle Botteghe Oscure','Botanical Garden of Rome',1400).
@@ -10420,8 +10370,8 @@ distance('San Stanislao alle Botteghe Oscure','Campo de  Fiori',630).
 distance('San Stanislao alle Botteghe Oscure','Piazza Navona',706).
 distance('San Stanislao alle Botteghe Oscure','Corte Suprema di Cassazione',1340).
 distance('San Stanislao alle Botteghe Oscure','Museo di Roma - Palazzo Braschi',625).
-distance('San Stanislao alle Botteghe Oscure','Parrocchia Santa Maria in Vallicella',936).
-distance('San Stanislao alle Botteghe Oscure','Chiesa di San Pietro in Montorio',1271).
+distance('San Stanislao alle Botteghe Oscure','Church of Santa Maria in Vallicella',928).
+distance('San Stanislao alle Botteghe Oscure','Church of San Pietro in Montorio',1271).
 distance('San Stanislao alle Botteghe Oscure','Saint Eligio of Orefici',953).
 distance('San Stanislao alle Botteghe Oscure','Palazzo del Commendatore',1588).
 distance('San Stanislao alle Botteghe Oscure','Porta Santo Spirito',1591).
@@ -10487,7 +10437,6 @@ distance('San Stanislao alle Botteghe Oscure','Villa Balestra',2980).
 distance('San Stanislao alle Botteghe Oscure','Palazzo Borghese',1066).
 distance('San Stanislao alle Botteghe Oscure','National Academy of San Luca',828).
 distance('San Stanislao alle Botteghe Oscure','Museo Carlo Bilotti',2084).
-distance('San Stanislao alle Botteghe Oscure','Palazzo Wedekind',662).
 distance('San Stanislao alle Botteghe Oscure','Cloaca Maxima',693).
 distance('San Stanislao alle Botteghe Oscure','Temple of Apollo Palatinus',1001).
 distance('San Stanislao alle Botteghe Oscure','Circus Maximus',1082).
@@ -10495,19 +10444,19 @@ distance('San Stanislao alle Botteghe Oscure','Mouth of Truth',770).
 distance('San Stanislao alle Botteghe Oscure','Basilica di Santa Sabina all Aventino',1151).
 distance('San Stanislao alle Botteghe Oscure','Santa Maria in Cosmedin',777).
 distance('San Stanislao alle Botteghe Oscure','Non-Catholic Cemetery',2061).
-distance('San Stanislao alle Botteghe Oscure','Basilica Santa Cecilia in Trastevere',883).
+distance('San Stanislao alle Botteghe Oscure','Basilica di Santa Cecilia in Trastevere',883).
 distance('San Stanislao alle Botteghe Oscure','Mattatoio',2103).
 distance('San Stanislao alle Botteghe Oscure','Pyramid of Caius Cestius',2045).
 distance('San Stanislao alle Botteghe Oscure','Turtle Fountain',187).
 distance('San Stanislao alle Botteghe Oscure','Basilica di San Bartolomeo all Isola',512).
 distance('San Stanislao alle Botteghe Oscure','Chiesa di Santa Prisca',1357).
-distance('San Stanislao alle Botteghe Oscure','Tempio Maggiore di Roma',337).
+distance('San Stanislao alle Botteghe Oscure','Tempio Maggiore',337).
 distance('San Stanislao alle Botteghe Oscure','Portico of Octavia',270).
 distance('San Stanislao alle Botteghe Oscure','Basilica Santi Giovanni e Paolo',1410).
 distance('Column of Phocas','Antoninus and Faustina Temple',164).
 distance('Column of Phocas','Marcello Theater',415).
 distance('Column of Phocas','Chiesa di Santa Maria in Portico in Campitelli',475).
-distance('Column of Phocas','The Church of Santa Maria della Vittoria',1571).
+distance('Column of Phocas','Church of Santa Maria della Vittoria',1571).
 distance('Column of Phocas','The Last Judgment',2779).
 distance('Column of Phocas','Chiesa di Santo Stefano degli Abissini',2929).
 distance('Column of Phocas','Fontana di Piazza Farnese',1149).
@@ -10524,10 +10473,10 @@ distance('Column of Phocas','Gardens of Vatican City',3129).
 distance('Column of Phocas','Fiumi Fountain',1215).
 distance('Column of Phocas','Sistine Chapel',2777).
 distance('Column of Phocas','Villa Farnesina',1464).
-distance('Column of Phocas','Church of St. Louis of the French',1165).
 distance('Column of Phocas','Palazzo Madama',1165).
 distance('Column of Phocas','Galleria Spada',1091).
-distance('Column of Phocas','St. Angelo Bridge',1845).
+distance('Column of Phocas','Church of St. Louis of the French',1153).
+distance('Column of Phocas','St. Angelo Bridge',1853).
 distance('Column of Phocas','Palazzo Farnese',1196).
 distance('Column of Phocas','Sant Agnese in Agone',1243).
 distance('Column of Phocas','Botanical Garden of Rome',1828).
@@ -10540,8 +10489,8 @@ distance('Column of Phocas','Campo de  Fiori',1140).
 distance('Column of Phocas','Piazza Navona',1229).
 distance('Column of Phocas','Corte Suprema di Cassazione',1835).
 distance('Column of Phocas','Museo di Roma - Palazzo Braschi',1155).
-distance('Column of Phocas','Parrocchia Santa Maria in Vallicella',1464).
-distance('Column of Phocas','Chiesa di San Pietro in Montorio',1586).
+distance('Column of Phocas','Church of Santa Maria in Vallicella',1455).
+distance('Column of Phocas','Church of San Pietro in Montorio',1586).
 distance('Column of Phocas','Saint Eligio of Orefici',1451).
 distance('Column of Phocas','Palazzo del Commendatore',2116).
 distance('Column of Phocas','Porta Santo Spirito',2117).
@@ -10607,7 +10556,6 @@ distance('Column of Phocas','Villa Balestra',3341).
 distance('Column of Phocas','Palazzo Borghese',1486).
 distance('Column of Phocas','National Academy of San Luca',1018).
 distance('Column of Phocas','Museo Carlo Bilotti',2329).
-distance('Column of Phocas','Palazzo Wedekind',1032).
 distance('Column of Phocas','Cloaca Maxima',574).
 distance('Column of Phocas','Temple of Apollo Palatinus',576).
 distance('Column of Phocas','Circus Maximus',703).
@@ -10615,18 +10563,18 @@ distance('Column of Phocas','Mouth of Truth',560).
 distance('Column of Phocas','Basilica di Santa Sabina all Aventino',979).
 distance('Column of Phocas','Santa Maria in Cosmedin',556).
 distance('Column of Phocas','Non-Catholic Cemetery',1848).
-distance('Column of Phocas','Basilica Santa Cecilia in Trastevere',903).
+distance('Column of Phocas','Basilica di Santa Cecilia in Trastevere',903).
 distance('Column of Phocas','Mattatoio',2018).
 distance('Column of Phocas','Pyramid of Caius Cestius',1804).
 distance('Column of Phocas','Turtle Fountain',623).
 distance('Column of Phocas','Basilica di San Bartolomeo all Isola',600).
 distance('Column of Phocas','Chiesa di Santa Prisca',1047).
-distance('Column of Phocas','Tempio Maggiore di Roma',569).
+distance('Column of Phocas','Tempio Maggiore',569).
 distance('Column of Phocas','Portico of Octavia',525).
 distance('Column of Phocas','Basilica Santi Giovanni e Paolo',896).
 distance('Antoninus and Faustina Temple','Marcello Theater',575).
 distance('Antoninus and Faustina Temple','Chiesa di Santa Maria in Portico in Campitelli',639).
-distance('Antoninus and Faustina Temple','The Church of Santa Maria della Vittoria',1517).
+distance('Antoninus and Faustina Temple','Church of Santa Maria della Vittoria',1517).
 distance('Antoninus and Faustina Temple','The Last Judgment',2937).
 distance('Antoninus and Faustina Temple','Chiesa di Santo Stefano degli Abissini',3090).
 distance('Antoninus and Faustina Temple','Fontana di Piazza Farnese',1312).
@@ -10643,10 +10591,10 @@ distance('Antoninus and Faustina Temple','Gardens of Vatican City',3288).
 distance('Antoninus and Faustina Temple','Fiumi Fountain',1362).
 distance('Antoninus and Faustina Temple','Sistine Chapel',2935).
 distance('Antoninus and Faustina Temple','Villa Farnesina',1628).
-distance('Antoninus and Faustina Temple','Church of St. Louis of the French',1304).
 distance('Antoninus and Faustina Temple','Palazzo Madama',1308).
 distance('Antoninus and Faustina Temple','Galleria Spada',1255).
-distance('Antoninus and Faustina Temple','St. Angelo Bridge',1994).
+distance('Antoninus and Faustina Temple','Church of St. Louis of the French',1291).
+distance('Antoninus and Faustina Temple','St. Angelo Bridge',2002).
 distance('Antoninus and Faustina Temple','Palazzo Farnese',1360).
 distance('Antoninus and Faustina Temple','Sant Agnese in Agone',1392).
 distance('Antoninus and Faustina Temple','Botanical Garden of Rome',1991).
@@ -10659,8 +10607,8 @@ distance('Antoninus and Faustina Temple','Campo de  Fiori',1302).
 distance('Antoninus and Faustina Temple','Piazza Navona',1375).
 distance('Antoninus and Faustina Temple','Corte Suprema di Cassazione',1964).
 distance('Antoninus and Faustina Temple','Museo di Roma - Palazzo Braschi',1310).
-distance('Antoninus and Faustina Temple','Parrocchia Santa Maria in Vallicella',1621).
-distance('Antoninus and Faustina Temple','Chiesa di San Pietro in Montorio',1738).
+distance('Antoninus and Faustina Temple','Church of Santa Maria in Vallicella',1612).
+distance('Antoninus and Faustina Temple','Church of San Pietro in Montorio',1738).
 distance('Antoninus and Faustina Temple','Saint Eligio of Orefici',1615).
 distance('Antoninus and Faustina Temple','Palazzo del Commendatore',2272).
 distance('Antoninus and Faustina Temple','Porta Santo Spirito',2276).
@@ -10726,7 +10674,6 @@ distance('Antoninus and Faustina Temple','Villa Balestra',3412).
 distance('Antoninus and Faustina Temple','Palazzo Borghese',1591).
 distance('Antoninus and Faustina Temple','National Academy of San Luca',1069).
 distance('Antoninus and Faustina Temple','Museo Carlo Bilotti',2367).
-distance('Antoninus and Faustina Temple','Palazzo Wedekind',1133).
 distance('Antoninus and Faustina Temple','Cloaca Maxima',681).
 distance('Antoninus and Faustina Temple','Temple of Apollo Palatinus',550).
 distance('Antoninus and Faustina Temple','Circus Maximus',693).
@@ -10734,17 +10681,17 @@ distance('Antoninus and Faustina Temple','Mouth of Truth',641).
 distance('Antoninus and Faustina Temple','Basilica di Santa Sabina all Aventino',1040).
 distance('Antoninus and Faustina Temple','Santa Maria in Cosmedin',633).
 distance('Antoninus and Faustina Temple','Non-Catholic Cemetery',1872).
-distance('Antoninus and Faustina Temple','Basilica Santa Cecilia in Trastevere',1020).
+distance('Antoninus and Faustina Temple','Basilica di Santa Cecilia in Trastevere',1020).
 distance('Antoninus and Faustina Temple','Mattatoio',2081).
 distance('Antoninus and Faustina Temple','Pyramid of Caius Cestius',1818).
 distance('Antoninus and Faustina Temple','Turtle Fountain',787).
 distance('Antoninus and Faustina Temple','Basilica di San Bartolomeo all Isola',746).
 distance('Antoninus and Faustina Temple','Chiesa di Santa Prisca',1053).
-distance('Antoninus and Faustina Temple','Tempio Maggiore di Roma',730).
+distance('Antoninus and Faustina Temple','Tempio Maggiore',730).
 distance('Antoninus and Faustina Temple','Portico of Octavia',688).
 distance('Antoninus and Faustina Temple','Basilica Santi Giovanni e Paolo',777).
 distance('Marcello Theater','Chiesa di Santa Maria in Portico in Campitelli',138).
-distance('Marcello Theater','The Church of Santa Maria della Vittoria',1857).
+distance('Marcello Theater','Church of Santa Maria della Vittoria',1857).
 distance('Marcello Theater','The Last Judgment',2441).
 distance('Marcello Theater','Chiesa di Santo Stefano degli Abissini',2573).
 distance('Marcello Theater','Fontana di Piazza Farnese',781).
@@ -10761,10 +10708,10 @@ distance('Marcello Theater','Gardens of Vatican City',2783).
 distance('Marcello Theater','Fiumi Fountain',965).
 distance('Marcello Theater','Sistine Chapel',2438).
 distance('Marcello Theater','Villa Farnesina',1063).
-distance('Marcello Theater','Church of St. Louis of the French',959).
 distance('Marcello Theater','Palazzo Madama',942).
 distance('Marcello Theater','Galleria Spada',709).
-distance('Marcello Theater','St. Angelo Bridge',1563).
+distance('Marcello Theater','Church of St. Louis of the French',954).
+distance('Marcello Theater','St. Angelo Bridge',1572).
 distance('Marcello Theater','Palazzo Farnese',819).
 distance('Marcello Theater','Sant Agnese in Agone',980).
 distance('Marcello Theater','Botanical Garden of Rome',1417).
@@ -10777,8 +10724,8 @@ distance('Marcello Theater','Campo de  Fiori',791).
 distance('Marcello Theater','Piazza Navona',983).
 distance('Marcello Theater','Corte Suprema di Cassazione',1641).
 distance('Marcello Theater','Museo di Roma - Palazzo Braschi',863).
-distance('Marcello Theater','Parrocchia Santa Maria in Vallicella',1151).
-distance('Marcello Theater','Chiesa di San Pietro in Montorio',1175).
+distance('Marcello Theater','Church of Santa Maria in Vallicella',1137).
+distance('Marcello Theater','Church of San Pietro in Montorio',1175).
 distance('Marcello Theater','Saint Eligio of Orefici',1079).
 distance('Marcello Theater','Palazzo del Commendatore',1796).
 distance('Marcello Theater','Porta Santo Spirito',1782).
@@ -10844,7 +10791,6 @@ distance('Marcello Theater','Villa Balestra',3310).
 distance('Marcello Theater','Palazzo Borghese',1394).
 distance('Marcello Theater','National Academy of San Luca',1117).
 distance('Marcello Theater','Museo Carlo Bilotti',2401).
-distance('Marcello Theater','Palazzo Wedekind',989).
 distance('Marcello Theater','Cloaca Maxima',364).
 distance('Marcello Theater','Temple of Apollo Palatinus',717).
 distance('Marcello Theater','Circus Maximus',776).
@@ -10852,16 +10798,16 @@ distance('Marcello Theater','Mouth of Truth',443).
 distance('Marcello Theater','Basilica di Santa Sabina all Aventino',824).
 distance('Marcello Theater','Santa Maria in Cosmedin',451).
 distance('Marcello Theater','Non-Catholic Cemetery',1735).
-distance('Marcello Theater','Basilica Santa Cecilia in Trastevere',595).
+distance('Marcello Theater','Basilica di Santa Cecilia in Trastevere',595).
 distance('Marcello Theater','Mattatoio',1801).
 distance('Marcello Theater','Pyramid of Caius Cestius',1717).
 distance('Marcello Theater','Turtle Fountain',286).
 distance('Marcello Theater','Basilica di San Bartolomeo all Isola',226).
 distance('Marcello Theater','Chiesa di Santa Prisca',1030).
-distance('Marcello Theater','Tempio Maggiore di Roma',156).
+distance('Marcello Theater','Tempio Maggiore',156).
 distance('Marcello Theater','Portico of Octavia',130).
 distance('Marcello Theater','Basilica Santi Giovanni e Paolo',1180).
-distance('Chiesa di Santa Maria in Portico in Campitelli','The Church of Santa Maria della Vittoria',1805).
+distance('Chiesa di Santa Maria in Portico in Campitelli','Church of Santa Maria della Vittoria',1805).
 distance('Chiesa di Santa Maria in Portico in Campitelli','The Last Judgment',2328).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Chiesa di Santo Stefano degli Abissini',2468).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Fontana di Piazza Farnese',678).
@@ -10878,10 +10824,10 @@ distance('Chiesa di Santa Maria in Portico in Campitelli','Gardens of Vatican Ci
 distance('Chiesa di Santa Maria in Portico in Campitelli','Fiumi Fountain',829).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Sistine Chapel',2326).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Villa Farnesina',989).
-distance('Chiesa di Santa Maria in Portico in Campitelli','Church of St. Louis of the French',821).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Palazzo Madama',804).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Galleria Spada',616).
-distance('Chiesa di Santa Maria in Portico in Campitelli','St. Angelo Bridge',1434).
+distance('Chiesa di Santa Maria in Portico in Campitelli','Church of St. Louis of the French',816).
+distance('Chiesa di Santa Maria in Portico in Campitelli','St. Angelo Bridge',1443).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Palazzo Farnese',722).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Sant Agnese in Agone',846).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Botanical Garden of Rome',1360).
@@ -10894,8 +10840,8 @@ distance('Chiesa di Santa Maria in Portico in Campitelli','Campo de  Fiori',678)
 distance('Chiesa di Santa Maria in Portico in Campitelli','Piazza Navona',847).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Corte Suprema di Cassazione',1503).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Museo di Roma - Palazzo Braschi',733).
-distance('Chiesa di Santa Maria in Portico in Campitelli','Parrocchia Santa Maria in Vallicella',1027).
-distance('Chiesa di Santa Maria in Portico in Campitelli','Chiesa di San Pietro in Montorio',1164).
+distance('Chiesa di Santa Maria in Portico in Campitelli','Church of Santa Maria in Vallicella',1015).
+distance('Chiesa di Santa Maria in Portico in Campitelli','Church of San Pietro in Montorio',1164).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Saint Eligio of Orefici',980).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Palazzo del Commendatore',1677).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Porta Santo Spirito',1667).
@@ -10961,7 +10907,6 @@ distance('Chiesa di Santa Maria in Portico in Campitelli','Villa Balestra',3177)
 distance('Chiesa di Santa Maria in Portico in Campitelli','Palazzo Borghese',1259).
 distance('Chiesa di Santa Maria in Portico in Campitelli','National Academy of San Luca',1019).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Museo Carlo Bilotti',2285).
-distance('Chiesa di Santa Maria in Portico in Campitelli','Palazzo Wedekind',864).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Cloaca Maxima',494).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Temple of Apollo Palatinus',848).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Circus Maximus',913).
@@ -10969,131 +10914,130 @@ distance('Chiesa di Santa Maria in Portico in Campitelli','Mouth of Truth',580).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Basilica di Santa Sabina all Aventino',950).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Santa Maria in Cosmedin',588).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Non-Catholic Cemetery',1859).
-distance('Chiesa di Santa Maria in Portico in Campitelli','Basilica Santa Cecilia in Trastevere',686).
+distance('Chiesa di Santa Maria in Portico in Campitelli','Basilica di Santa Cecilia in Trastevere',686).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Mattatoio',1904).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Pyramid of Caius Cestius',1845).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Turtle Fountain',159).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Basilica di San Bartolomeo all Isola',312).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Chiesa di Santa Prisca',1167).
-distance('Chiesa di Santa Maria in Portico in Campitelli','Tempio Maggiore di Roma',151).
+distance('Chiesa di Santa Maria in Portico in Campitelli','Tempio Maggiore',151).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Portico of Octavia',80).
 distance('Chiesa di Santa Maria in Portico in Campitelli','Basilica Santi Giovanni e Paolo',1297).
-distance('The Church of Santa Maria della Vittoria','The Last Judgment',3317).
-distance('The Church of Santa Maria della Vittoria','Chiesa di Santo Stefano degli Abissini',3543).
-distance('The Church of Santa Maria della Vittoria','Fontana di Piazza Farnese',2185).
-distance('The Church of Santa Maria della Vittoria','Villa Abamelek',3595).
-distance('The Church of Santa Maria della Vittoria','Palazzo Torres',1907).
-distance('The Church of Santa Maria della Vittoria','Castel Sant Angelo',2338).
-distance('The Church of Santa Maria della Vittoria','Vidoni Palace',1879).
-distance('The Church of Santa Maria della Vittoria','Vatican Museums',3385).
-distance('The Church of Santa Maria della Vittoria','Fontana di Piazza Nicosia',1637).
-distance('The Church of Santa Maria della Vittoria','St. Peter s Basilica',3366).
-distance('The Church of Santa Maria della Vittoria','Church Holy Spirit in Sassia',2792).
-distance('The Church of Santa Maria della Vittoria','Parrocchia Santuario Santa Maria in Traspontina',2679).
-distance('The Church of Santa Maria della Vittoria','Gardens of Vatican City',3663).
-distance('The Church of Santa Maria della Vittoria','Fiumi Fountain',1877).
-distance('The Church of Santa Maria della Vittoria','Sistine Chapel',3315).
-distance('The Church of Santa Maria della Vittoria','Villa Farnesina',2563).
-distance('The Church of Santa Maria della Vittoria','Church of St. Louis of the French',1740).
-distance('The Church of Santa Maria della Vittoria','Palazzo Madama',1785).
-distance('The Church of Santa Maria della Vittoria','Galleria Spada',2197).
-distance('The Church of Santa Maria della Vittoria','St. Angelo Bridge',2338).
-distance('The Church of Santa Maria della Vittoria','Palazzo Farnese',2247).
-distance('The Church of Santa Maria della Vittoria','Sant Agnese in Agone',1923).
-distance('The Church of Santa Maria della Vittoria','Botanical Garden of Rome',2956).
-distance('The Church of Santa Maria della Vittoria','Chiesa di Santa Maria della Pace',1960).
-distance('The Church of Santa Maria della Vittoria','Obelisco Agonale',1875).
-distance('The Church of Santa Maria della Vittoria','Basilica of Santa Maria in Trastevere',2658).
-distance('The Church of Santa Maria della Vittoria','Church of St Onuphrius at the Janiculum',2870).
-distance('The Church of Santa Maria della Vittoria','Biblioteca Angelica',1707).
-distance('The Church of Santa Maria della Vittoria','Campo de  Fiori',2116).
-distance('The Church of Santa Maria della Vittoria','Piazza Navona',1871).
-distance('The Church of Santa Maria della Vittoria','Corte Suprema di Cassazione',2014).
-distance('The Church of Santa Maria della Vittoria','Museo di Roma - Palazzo Braschi',1963).
-distance('The Church of Santa Maria della Vittoria','Parrocchia Santa Maria in Vallicella',2202).
-distance('The Church of Santa Maria della Vittoria','Chiesa di San Pietro in Montorio',2919).
-distance('The Church of Santa Maria della Vittoria','Saint Eligio of Orefici',2411).
-distance('The Church of Santa Maria della Vittoria','Palazzo del Commendatore',2689).
-distance('The Church of Santa Maria della Vittoria','Porta Santo Spirito',2758).
-distance('The Church of Santa Maria della Vittoria','Bernini Fountain',3095).
-distance('The Church of Santa Maria della Vittoria','Presepe dei Netturbini',3284).
-distance('The Church of Santa Maria della Vittoria','Church of Saints Michael and Magnus',2791).
-distance('The Church of Santa Maria della Vittoria','Museum Leonardo Da Vinci Experience',2736).
-distance('The Church of Santa Maria della Vittoria','Vatican Necropolis',3356).
-distance('The Church of Santa Maria della Vittoria','Apostolic Palace',3175).
-distance('The Church of Santa Maria della Vittoria','Ponte Vittorio Emanuele II',2523).
-distance('The Church of Santa Maria della Vittoria','Chiesa di Sant Anna dei Palafrenieri',3060).
-distance('The Church of Santa Maria della Vittoria','Operativa Arte Contemporanea',2426).
-distance('The Church of Santa Maria della Vittoria','Santa Maria del Suffragio',2442).
-distance('The Church of Santa Maria della Vittoria','Vatican Apostolic Archive',3276).
-distance('The Church of Santa Maria della Vittoria','Carriage Pavilion',3383).
-distance('The Church of Santa Maria della Vittoria','Monastero Mater Ecclesi',3603).
-distance('The Church of Santa Maria della Vittoria','Oratorio dei Filippini (Oratory of St Philip Neri)',2235).
-distance('The Church of Santa Maria della Vittoria','House of Hospitality Paul VI',3508).
-distance('The Church of Santa Maria della Vittoria','Chiesa di Santa Maria del Rosario in Prati',3009).
-distance('The Church of Santa Maria della Vittoria','Welcome To Rome',2097).
-distance('The Church of Santa Maria della Vittoria','Stadium of Domitian',1879).
-distance('The Church of Santa Maria della Vittoria','Palazzo Pamphili',1938).
-distance('The Church of Santa Maria della Vittoria','Fountain of the Moro',1906).
-distance('The Church of Santa Maria della Vittoria','Cappella Chigi',1661).
-distance('The Church of Santa Maria della Vittoria','Chiesa di Gesu e Maria',1434).
-distance('The Church of Santa Maria della Vittoria','Villa Borghese',1185).
-distance('The Church of Santa Maria della Vittoria','Passeggiata del Pincio',1315).
-distance('The Church of Santa Maria della Vittoria','Borghese Gallery and Museum',1072).
-distance('The Church of Santa Maria della Vittoria','National Gallery of Modern and Contemporary Art',1703).
-distance('The Church of Santa Maria della Vittoria','Mausoleum of Augustus',1496).
-distance('The Church of Santa Maria della Vittoria','Chiesa Parrocchiale San Giacomo in Augusta',1446).
-distance('The Church of Santa Maria della Vittoria','Villa Medici',1053).
-distance('The Church of Santa Maria della Vittoria','Basilica of Saint Lawrence in Lucina',1311).
-distance('The Church of Santa Maria della Vittoria','Basilica of SS. Ambrose and Charles on the Corso',1325).
-distance('The Church of Santa Maria della Vittoria','Giorgio de Chirico House Museum',979).
-distance('The Church of Santa Maria della Vittoria','Santa Maria in Montesanto',1569).
-distance('The Church of Santa Maria della Vittoria','Fontana della Barcaccia',1013).
-distance('The Church of Santa Maria della Vittoria','Museo Leonardo da Vinci',1665).
-distance('The Church of Santa Maria della Vittoria','Explora - Il Museo dei Bambini di Roma',1985).
-distance('The Church of Santa Maria della Vittoria','Orologio ad acqua del Pincio',1377).
-distance('The Church of Santa Maria della Vittoria','Ponte Giacomo Matteotti',2230).
-distance('The Church of Santa Maria della Vittoria','National Etruscan Museum of Villa Giulia',2051).
-distance('The Church of Santa Maria della Vittoria','Fontana del Babuino',1269).
-distance('The Church of Santa Maria della Vittoria','Fontana del Bottino',990).
-distance('The Church of Santa Maria della Vittoria','Trinita dei Monti',905).
-distance('The Church of Santa Maria della Vittoria','Galleria del Cembalo',1468).
-distance('The Church of Santa Maria della Vittoria','Chiesa di Santa Maria in Via',1126).
-distance('The Church of Santa Maria della Vittoria','Palazzo di Propaganda Fide',932).
-distance('The Church of Santa Maria della Vittoria','Basilica di Sant Andrea delle Fratte',896).
-distance('The Church of Santa Maria della Vittoria','Piazza del Popolo',1636).
-distance('The Church of Santa Maria della Vittoria','Marcus Aurelius Column',1267).
-distance('The Church of Santa Maria della Vittoria','Piazza di Siena',1157).
-distance('The Church of Santa Maria della Vittoria','All Saints  Anglican Church Rome',1342).
-distance('The Church of Santa Maria della Vittoria','Church of Saint Roch  all Augusteo ',1543).
-distance('The Church of Santa Maria della Vittoria','Church of Our Lady in Trivio',1042).
-distance('The Church of Santa Maria della Vittoria','Il Tempio di Adriano',1352).
-distance('The Church of Santa Maria della Vittoria','Museo Civico di Zoologia',1688).
-distance('The Church of Santa Maria della Vittoria','Basilica of St. Augustine in Campo Marzio',1721).
-distance('The Church of Santa Maria della Vittoria','Hendrik Christian Anderson Museum',2082).
-distance('The Church of Santa Maria della Vittoria','Goethe House',1498).
-distance('The Church of Santa Maria della Vittoria','Institute of Japanese Culture',2002).
-distance('The Church of Santa Maria della Vittoria','Villa Balestra',2523).
-distance('The Church of Santa Maria della Vittoria','Palazzo Borghese',1510).
-distance('The Church of Santa Maria della Vittoria','National Academy of San Luca',951).
-distance('The Church of Santa Maria della Vittoria','Museo Carlo Bilotti',1332).
-distance('The Church of Santa Maria della Vittoria','Palazzo Wedekind',1310).
-distance('The Church of Santa Maria della Vittoria','Cloaca Maxima',2135).
-distance('The Church of Santa Maria della Vittoria','Temple of Apollo Palatinus',2050).
-distance('The Church of Santa Maria della Vittoria','Circus Maximus',2200).
-distance('The Church of Santa Maria della Vittoria','Mouth of Truth',2132).
-distance('The Church of Santa Maria della Vittoria','Basilica di Santa Sabina all Aventino',2549).
-distance('The Church of Santa Maria della Vittoria','Santa Maria in Cosmedin',2127).
-distance('The Church of Santa Maria della Vittoria','Non-Catholic Cemetery',3386).
-distance('The Church of Santa Maria della Vittoria','Basilica Santa Cecilia in Trastevere',2442).
-distance('The Church of Santa Maria della Vittoria','Mattatoio',3589).
-distance('The Church of Santa Maria della Vittoria','Pyramid of Caius Cestius',3326).
-distance('The Church of Santa Maria della Vittoria','Turtle Fountain',1843).
-distance('The Church of Santa Maria della Vittoria','Basilica di San Bartolomeo all Isola',2084).
-distance('The Church of Santa Maria della Vittoria','Chiesa di Santa Prisca',2562).
-distance('The Church of Santa Maria della Vittoria','Tempio Maggiore di Roma',1957).
-distance('The Church of Santa Maria della Vittoria','Portico of Octavia',1886).
-distance('The Church of Santa Maria della Vittoria','Basilica Santi Giovanni e Paolo',2033).
+distance('Church of Santa Maria della Vittoria','The Last Judgment',3317).
+distance('Church of Santa Maria della Vittoria','Chiesa di Santo Stefano degli Abissini',3543).
+distance('Church of Santa Maria della Vittoria','Fontana di Piazza Farnese',2185).
+distance('Church of Santa Maria della Vittoria','Villa Abamelek',3595).
+distance('Church of Santa Maria della Vittoria','Palazzo Torres',1907).
+distance('Church of Santa Maria della Vittoria','Castel Sant Angelo',2338).
+distance('Church of Santa Maria della Vittoria','Vidoni Palace',1879).
+distance('Church of Santa Maria della Vittoria','Vatican Museums',3385).
+distance('Church of Santa Maria della Vittoria','Fontana di Piazza Nicosia',1637).
+distance('Church of Santa Maria della Vittoria','St. Peter s Basilica',3366).
+distance('Church of Santa Maria della Vittoria','Church Holy Spirit in Sassia',2792).
+distance('Church of Santa Maria della Vittoria','Parrocchia Santuario Santa Maria in Traspontina',2679).
+distance('Church of Santa Maria della Vittoria','Gardens of Vatican City',3663).
+distance('Church of Santa Maria della Vittoria','Fiumi Fountain',1877).
+distance('Church of Santa Maria della Vittoria','Sistine Chapel',3315).
+distance('Church of Santa Maria della Vittoria','Villa Farnesina',2563).
+distance('Church of Santa Maria della Vittoria','Palazzo Madama',1785).
+distance('Church of Santa Maria della Vittoria','Galleria Spada',2197).
+distance('Church of Santa Maria della Vittoria','Church of St. Louis of the French',1717).
+distance('Church of Santa Maria della Vittoria','St. Angelo Bridge',2337).
+distance('Church of Santa Maria della Vittoria','Palazzo Farnese',2247).
+distance('Church of Santa Maria della Vittoria','Sant Agnese in Agone',1923).
+distance('Church of Santa Maria della Vittoria','Botanical Garden of Rome',2956).
+distance('Church of Santa Maria della Vittoria','Chiesa di Santa Maria della Pace',1960).
+distance('Church of Santa Maria della Vittoria','Obelisco Agonale',1875).
+distance('Church of Santa Maria della Vittoria','Basilica of Santa Maria in Trastevere',2658).
+distance('Church of Santa Maria della Vittoria','Church of St Onuphrius at the Janiculum',2870).
+distance('Church of Santa Maria della Vittoria','Biblioteca Angelica',1707).
+distance('Church of Santa Maria della Vittoria','Campo de  Fiori',2116).
+distance('Church of Santa Maria della Vittoria','Piazza Navona',1871).
+distance('Church of Santa Maria della Vittoria','Corte Suprema di Cassazione',2014).
+distance('Church of Santa Maria della Vittoria','Museo di Roma - Palazzo Braschi',1963).
+distance('Church of Santa Maria della Vittoria','Church of Santa Maria in Vallicella',2214).
+distance('Church of Santa Maria della Vittoria','Church of San Pietro in Montorio',2919).
+distance('Church of Santa Maria della Vittoria','Saint Eligio of Orefici',2411).
+distance('Church of Santa Maria della Vittoria','Palazzo del Commendatore',2689).
+distance('Church of Santa Maria della Vittoria','Porta Santo Spirito',2758).
+distance('Church of Santa Maria della Vittoria','Bernini Fountain',3095).
+distance('Church of Santa Maria della Vittoria','Presepe dei Netturbini',3284).
+distance('Church of Santa Maria della Vittoria','Church of Saints Michael and Magnus',2791).
+distance('Church of Santa Maria della Vittoria','Museum Leonardo Da Vinci Experience',2736).
+distance('Church of Santa Maria della Vittoria','Vatican Necropolis',3356).
+distance('Church of Santa Maria della Vittoria','Apostolic Palace',3175).
+distance('Church of Santa Maria della Vittoria','Ponte Vittorio Emanuele II',2523).
+distance('Church of Santa Maria della Vittoria','Chiesa di Sant Anna dei Palafrenieri',3060).
+distance('Church of Santa Maria della Vittoria','Operativa Arte Contemporanea',2426).
+distance('Church of Santa Maria della Vittoria','Santa Maria del Suffragio',2442).
+distance('Church of Santa Maria della Vittoria','Vatican Apostolic Archive',3276).
+distance('Church of Santa Maria della Vittoria','Carriage Pavilion',3383).
+distance('Church of Santa Maria della Vittoria','Monastero Mater Ecclesi',3603).
+distance('Church of Santa Maria della Vittoria','Oratorio dei Filippini (Oratory of St Philip Neri)',2235).
+distance('Church of Santa Maria della Vittoria','House of Hospitality Paul VI',3508).
+distance('Church of Santa Maria della Vittoria','Chiesa di Santa Maria del Rosario in Prati',3009).
+distance('Church of Santa Maria della Vittoria','Welcome To Rome',2097).
+distance('Church of Santa Maria della Vittoria','Stadium of Domitian',1879).
+distance('Church of Santa Maria della Vittoria','Palazzo Pamphili',1938).
+distance('Church of Santa Maria della Vittoria','Fountain of the Moro',1906).
+distance('Church of Santa Maria della Vittoria','Cappella Chigi',1661).
+distance('Church of Santa Maria della Vittoria','Chiesa di Gesu e Maria',1434).
+distance('Church of Santa Maria della Vittoria','Villa Borghese',1185).
+distance('Church of Santa Maria della Vittoria','Passeggiata del Pincio',1315).
+distance('Church of Santa Maria della Vittoria','Borghese Gallery and Museum',1072).
+distance('Church of Santa Maria della Vittoria','National Gallery of Modern and Contemporary Art',1703).
+distance('Church of Santa Maria della Vittoria','Mausoleum of Augustus',1496).
+distance('Church of Santa Maria della Vittoria','Chiesa Parrocchiale San Giacomo in Augusta',1446).
+distance('Church of Santa Maria della Vittoria','Villa Medici',1053).
+distance('Church of Santa Maria della Vittoria','Basilica of Saint Lawrence in Lucina',1311).
+distance('Church of Santa Maria della Vittoria','Basilica of SS. Ambrose and Charles on the Corso',1325).
+distance('Church of Santa Maria della Vittoria','Giorgio de Chirico House Museum',979).
+distance('Church of Santa Maria della Vittoria','Santa Maria in Montesanto',1569).
+distance('Church of Santa Maria della Vittoria','Fontana della Barcaccia',1013).
+distance('Church of Santa Maria della Vittoria','Museo Leonardo da Vinci',1665).
+distance('Church of Santa Maria della Vittoria','Explora - Il Museo dei Bambini di Roma',1985).
+distance('Church of Santa Maria della Vittoria','Orologio ad acqua del Pincio',1377).
+distance('Church of Santa Maria della Vittoria','Ponte Giacomo Matteotti',2230).
+distance('Church of Santa Maria della Vittoria','National Etruscan Museum of Villa Giulia',2051).
+distance('Church of Santa Maria della Vittoria','Fontana del Babuino',1269).
+distance('Church of Santa Maria della Vittoria','Fontana del Bottino',990).
+distance('Church of Santa Maria della Vittoria','Trinita dei Monti',905).
+distance('Church of Santa Maria della Vittoria','Galleria del Cembalo',1468).
+distance('Church of Santa Maria della Vittoria','Chiesa di Santa Maria in Via',1126).
+distance('Church of Santa Maria della Vittoria','Palazzo di Propaganda Fide',932).
+distance('Church of Santa Maria della Vittoria','Basilica di Sant Andrea delle Fratte',896).
+distance('Church of Santa Maria della Vittoria','Piazza del Popolo',1636).
+distance('Church of Santa Maria della Vittoria','Marcus Aurelius Column',1267).
+distance('Church of Santa Maria della Vittoria','Piazza di Siena',1157).
+distance('Church of Santa Maria della Vittoria','All Saints  Anglican Church Rome',1342).
+distance('Church of Santa Maria della Vittoria','Church of Saint Roch  all Augusteo ',1543).
+distance('Church of Santa Maria della Vittoria','Church of Our Lady in Trivio',1042).
+distance('Church of Santa Maria della Vittoria','Il Tempio di Adriano',1352).
+distance('Church of Santa Maria della Vittoria','Museo Civico di Zoologia',1688).
+distance('Church of Santa Maria della Vittoria','Basilica of St. Augustine in Campo Marzio',1721).
+distance('Church of Santa Maria della Vittoria','Hendrik Christian Anderson Museum',2082).
+distance('Church of Santa Maria della Vittoria','Goethe House',1498).
+distance('Church of Santa Maria della Vittoria','Institute of Japanese Culture',2002).
+distance('Church of Santa Maria della Vittoria','Villa Balestra',2523).
+distance('Church of Santa Maria della Vittoria','Palazzo Borghese',1510).
+distance('Church of Santa Maria della Vittoria','National Academy of San Luca',951).
+distance('Church of Santa Maria della Vittoria','Museo Carlo Bilotti',1332).
+distance('Church of Santa Maria della Vittoria','Cloaca Maxima',2135).
+distance('Church of Santa Maria della Vittoria','Temple of Apollo Palatinus',2050).
+distance('Church of Santa Maria della Vittoria','Circus Maximus',2200).
+distance('Church of Santa Maria della Vittoria','Mouth of Truth',2132).
+distance('Church of Santa Maria della Vittoria','Basilica di Santa Sabina all Aventino',2549).
+distance('Church of Santa Maria della Vittoria','Santa Maria in Cosmedin',2127).
+distance('Church of Santa Maria della Vittoria','Non-Catholic Cemetery',3386).
+distance('Church of Santa Maria della Vittoria','Basilica di Santa Cecilia in Trastevere',2442).
+distance('Church of Santa Maria della Vittoria','Mattatoio',3589).
+distance('Church of Santa Maria della Vittoria','Pyramid of Caius Cestius',3326).
+distance('Church of Santa Maria della Vittoria','Turtle Fountain',1843).
+distance('Church of Santa Maria della Vittoria','Basilica di San Bartolomeo all Isola',2084).
+distance('Church of Santa Maria della Vittoria','Chiesa di Santa Prisca',2562).
+distance('Church of Santa Maria della Vittoria','Tempio Maggiore',1957).
+distance('Church of Santa Maria della Vittoria','Portico of Octavia',1886).
+distance('Church of Santa Maria della Vittoria','Basilica Santi Giovanni e Paolo',2033).
 distance('The Last Judgment','Chiesa di Santo Stefano degli Abissini',252).
 distance('The Last Judgment','Fontana di Piazza Farnese',1662).
 distance('The Last Judgment','Villa Abamelek',1549).
@@ -11109,10 +11053,10 @@ distance('The Last Judgment','Gardens of Vatican City',357).
 distance('The Last Judgment','Fiumi Fountain',1608).
 distance('The Last Judgment','Sistine Chapel',2).
 distance('The Last Judgment','Villa Farnesina',1487).
-distance('The Last Judgment','Church of St. Louis of the French',1708).
 distance('The Last Judgment','Palazzo Madama',1684).
 distance('The Last Judgment','Galleria Spada',1745).
-distance('The Last Judgment','St. Angelo Bridge',1004).
+distance('The Last Judgment','Church of St. Louis of the French',1728).
+distance('The Last Judgment','St. Angelo Bridge',1002).
 distance('The Last Judgment','Palazzo Farnese',1632).
 distance('The Last Judgment','Sant Agnese in Agone',1569).
 distance('The Last Judgment','Botanical Garden of Rome',1369).
@@ -11125,8 +11069,8 @@ distance('The Last Judgment','Campo de  Fiori',1650).
 distance('The Last Judgment','Piazza Navona',1601).
 distance('The Last Judgment','Corte Suprema di Cassazione',1313).
 distance('The Last Judgment','Museo di Roma - Palazzo Braschi',1630).
-distance('The Last Judgment','Parrocchia Santa Maria in Vallicella',1317).
-distance('The Last Judgment','Chiesa di San Pietro in Montorio',1863).
+distance('The Last Judgment','Church of Santa Maria in Vallicella',1324).
+distance('The Last Judgment','Church of San Pietro in Montorio',1863).
 distance('The Last Judgment','Saint Eligio of Orefici',1376).
 distance('The Last Judgment','Palazzo del Commendatore',673).
 distance('The Last Judgment','Porta Santo Spirito',661).
@@ -11192,7 +11136,6 @@ distance('The Last Judgment','Villa Balestra',2595).
 distance('The Last Judgment','Palazzo Borghese',1807).
 distance('The Last Judgment','National Academy of San Luca',2430).
 distance('The Last Judgment','Museo Carlo Bilotti',2660).
-distance('The Last Judgment','Palazzo Wedekind',2086).
 distance('The Last Judgment','Cloaca Maxima',2660).
 distance('The Last Judgment','Temple of Apollo Palatinus',3138).
 distance('The Last Judgment','Circus Maximus',3157).
@@ -11200,13 +11143,13 @@ distance('The Last Judgment','Mouth of Truth',2781).
 distance('The Last Judgment','Basilica di Santa Sabina all Aventino',2934).
 distance('The Last Judgment','Santa Maria in Cosmedin',2795).
 distance('The Last Judgment','Non-Catholic Cemetery',3615).
-distance('The Last Judgment','Basilica Santa Cecilia in Trastevere',2536).
+distance('The Last Judgment','Basilica di Santa Cecilia in Trastevere',2536).
 distance('The Last Judgment','Mattatoio',3328).
 distance('The Last Judgment','Pyramid of Caius Cestius',3668).
 distance('The Last Judgment','Turtle Fountain',2169).
 distance('The Last Judgment','Basilica di San Bartolomeo all Isola',2418).
 distance('The Last Judgment','Chiesa di Santa Prisca',3276).
-distance('The Last Judgment','Tempio Maggiore di Roma',2303).
+distance('The Last Judgment','Tempio Maggiore',2303).
 distance('The Last Judgment','Portico of Octavia',2310).
 distance('The Last Judgment','Basilica Santi Giovanni e Paolo',3621).
 distance('Chiesa di Santo Stefano degli Abissini','Fontana di Piazza Farnese',1792).
@@ -11223,10 +11166,10 @@ distance('Chiesa di Santo Stefano degli Abissini','Gardens of Vatican City',243)
 distance('Chiesa di Santo Stefano degli Abissini','Fiumi Fountain',1790).
 distance('Chiesa di Santo Stefano degli Abissini','Sistine Chapel',254).
 distance('Chiesa di Santo Stefano degli Abissini','Villa Farnesina',1571).
-distance('Chiesa di Santo Stefano degli Abissini','Church of St. Louis of the French',1899).
 distance('Chiesa di Santo Stefano degli Abissini','Palazzo Madama',1871).
 distance('Chiesa di Santo Stefano degli Abissini','Galleria Spada',1866).
-distance('Chiesa di Santo Stefano degli Abissini','St. Angelo Bridge',1213).
+distance('Chiesa di Santo Stefano degli Abissini','Church of St. Louis of the French',1920).
+distance('Chiesa di Santo Stefano degli Abissini','St. Angelo Bridge',1212).
 distance('Chiesa di Santo Stefano degli Abissini','Palazzo Farnese',1754).
 distance('Chiesa di Santo Stefano degli Abissini','Sant Agnese in Agone',1749).
 distance('Chiesa di Santo Stefano degli Abissini','Botanical Garden of Rome',1391).
@@ -11239,8 +11182,8 @@ distance('Chiesa di Santo Stefano degli Abissini','Campo de  Fiori',1790).
 distance('Chiesa di Santo Stefano degli Abissini','Piazza Navona',1785).
 distance('Chiesa di Santo Stefano degli Abissini','Corte Suprema di Cassazione',1550).
 distance('Chiesa di Santo Stefano degli Abissini','Museo di Roma - Palazzo Braschi',1795).
-distance('Chiesa di Santo Stefano degli Abissini','Parrocchia Santa Maria in Vallicella',1483).
-distance('Chiesa di Santo Stefano degli Abissini','Chiesa di San Pietro in Montorio',1886).
+distance('Chiesa di Santo Stefano degli Abissini','Church of Santa Maria in Vallicella',1486).
+distance('Chiesa di Santo Stefano degli Abissini','Church of San Pietro in Montorio',1886).
 distance('Chiesa di Santo Stefano degli Abissini','Saint Eligio of Orefici',1495).
 distance('Chiesa di Santo Stefano degli Abissini','Palazzo del Commendatore',867).
 distance('Chiesa di Santo Stefano degli Abissini','Porta Santo Spirito',827).
@@ -11306,7 +11249,6 @@ distance('Chiesa di Santo Stefano degli Abissini','Villa Balestra',2832).
 distance('Chiesa di Santo Stefano degli Abissini','Palazzo Borghese',2036).
 distance('Chiesa di Santo Stefano degli Abissini','National Academy of San Luca',2642).
 distance('Chiesa di Santo Stefano degli Abissini','Museo Carlo Bilotti',2912).
-distance('Chiesa di Santo Stefano degli Abissini','Palazzo Wedekind',2292).
 distance('Chiesa di Santo Stefano degli Abissini','Cloaca Maxima',2766).
 distance('Chiesa di Santo Stefano degli Abissini','Temple of Apollo Palatinus',3255).
 distance('Chiesa di Santo Stefano degli Abissini','Circus Maximus',3264).
@@ -11314,13 +11256,13 @@ distance('Chiesa di Santo Stefano degli Abissini','Mouth of Truth',2888).
 distance('Chiesa di Santo Stefano degli Abissini','Basilica di Santa Sabina all Aventino',3008).
 distance('Chiesa di Santo Stefano degli Abissini','Santa Maria in Cosmedin',2903).
 distance('Chiesa di Santo Stefano degli Abissini','Non-Catholic Cemetery',3643).
-distance('Chiesa di Santo Stefano degli Abissini','Basilica Santa Cecilia in Trastevere',2615).
+distance('Chiesa di Santo Stefano degli Abissini','Basilica di Santa Cecilia in Trastevere',2615).
 distance('Chiesa di Santo Stefano degli Abissini','Mattatoio',3325).
 distance('Chiesa di Santo Stefano degli Abissini','Pyramid of Caius Cestius',3702).
 distance('Chiesa di Santo Stefano degli Abissini','Turtle Fountain',2310).
 distance('Chiesa di Santo Stefano degli Abissini','Basilica di San Bartolomeo all Isola',2531).
 distance('Chiesa di Santo Stefano degli Abissini','Chiesa di Santa Prisca',3358).
-distance('Chiesa di Santo Stefano degli Abissini','Tempio Maggiore di Roma',2430).
+distance('Chiesa di Santo Stefano degli Abissini','Tempio Maggiore',2430).
 distance('Chiesa di Santo Stefano degli Abissini','Portico of Octavia',2442).
 distance('Chiesa di Santo Stefano degli Abissini','Basilica Santi Giovanni e Paolo',3749).
 distance('Fontana di Piazza Farnese','Villa Abamelek',1409).
@@ -11336,10 +11278,10 @@ distance('Fontana di Piazza Farnese','Gardens of Vatican City',2002).
 distance('Fontana di Piazza Farnese','Fiumi Fountain',460).
 distance('Fontana di Piazza Farnese','Sistine Chapel',1660).
 distance('Fontana di Piazza Farnese','Villa Farnesina',378).
-distance('Fontana di Piazza Farnese','Church of St. Louis of the French',569).
 distance('Fontana di Piazza Farnese','Palazzo Madama',520).
 distance('Fontana di Piazza Farnese','Galleria Spada',97).
-distance('Fontana di Piazza Farnese','St. Angelo Bridge',858).
+distance('Fontana di Piazza Farnese','Church of St. Louis of the French',585).
+distance('Fontana di Piazza Farnese','St. Angelo Bridge',870).
 distance('Fontana di Piazza Farnese','Palazzo Farnese',61).
 distance('Fontana di Piazza Farnese','Sant Agnese in Agone',435).
 distance('Fontana di Piazza Farnese','Botanical Garden of Rome',774).
@@ -11352,8 +11294,8 @@ distance('Fontana di Piazza Farnese','Campo de  Fiori',88).
 distance('Fontana di Piazza Farnese','Piazza Navona',480).
 distance('Fontana di Piazza Farnese','Corte Suprema di Cassazione',1088).
 distance('Fontana di Piazza Farnese','Museo di Roma - Palazzo Braschi',301).
-distance('Fontana di Piazza Farnese','Parrocchia Santa Maria in Vallicella',429).
-distance('Fontana di Piazza Farnese','Chiesa di San Pietro in Montorio',811).
+distance('Fontana di Piazza Farnese','Church of Santa Maria in Vallicella',407).
+distance('Fontana di Piazza Farnese','Church of San Pietro in Montorio',811).
 distance('Fontana di Piazza Farnese','Saint Eligio of Orefici',302).
 distance('Fontana di Piazza Farnese','Palazzo del Commendatore',1034).
 distance('Fontana di Piazza Farnese','Porta Santo Spirito',1007).
@@ -11419,7 +11361,6 @@ distance('Fontana di Piazza Farnese','Villa Balestra',2933).
 distance('Fontana di Piazza Farnese','Palazzo Borghese',1090).
 distance('Fontana di Piazza Farnese','National Academy of San Luca',1251).
 distance('Fontana di Piazza Farnese','Museo Carlo Bilotti',2267).
-distance('Fontana di Piazza Farnese','Palazzo Wedekind',926).
 distance('Fontana di Piazza Farnese','Cloaca Maxima',1011).
 distance('Fontana di Piazza Farnese','Temple of Apollo Palatinus',1477).
 distance('Fontana di Piazza Farnese','Circus Maximus',1504).
@@ -11427,13 +11368,13 @@ distance('Fontana di Piazza Farnese','Mouth of Truth',1130).
 distance('Fontana di Piazza Farnese','Basilica di Santa Sabina all Aventino',1355).
 distance('Fontana di Piazza Farnese','Santa Maria in Cosmedin',1143).
 distance('Fontana di Piazza Farnese','Non-Catholic Cemetery',2181).
-distance('Fontana di Piazza Farnese','Basilica Santa Cecilia in Trastevere',967).
+distance('Fontana di Piazza Farnese','Basilica di Santa Cecilia in Trastevere',967).
 distance('Fontana di Piazza Farnese','Mattatoio',2062).
 distance('Fontana di Piazza Farnese','Pyramid of Caius Cestius',2201).
 distance('Fontana di Piazza Farnese','Turtle Fountain',525).
 distance('Fontana di Piazza Farnese','Basilica di San Bartolomeo all Isola',765).
 distance('Fontana di Piazza Farnese','Chiesa di Santa Prisca',1667).
-distance('Fontana di Piazza Farnese','Tempio Maggiore di Roma',641).
+distance('Fontana di Piazza Farnese','Tempio Maggiore',641).
 distance('Fontana di Piazza Farnese','Portico of Octavia',650).
 distance('Fontana di Piazza Farnese','Basilica Santi Giovanni e Paolo',1959).
 distance('Villa Abamelek','Palazzo Torres',1703).
@@ -11448,10 +11389,10 @@ distance('Villa Abamelek','Gardens of Vatican City',1694).
 distance('Villa Abamelek','Fiumi Fountain',1765).
 distance('Villa Abamelek','Sistine Chapel',1548).
 distance('Villa Abamelek','Villa Farnesina',1031).
-distance('Villa Abamelek','Church of St. Louis of the French',1902).
 distance('Villa Abamelek','Palazzo Madama',1852).
 distance('Villa Abamelek','Galleria Spada',1406).
-distance('Villa Abamelek','St. Angelo Bridge',1638).
+distance('Villa Abamelek','Church of St. Louis of the French',1924).
+distance('Villa Abamelek','St. Angelo Bridge',1648).
 distance('Villa Abamelek','Palazzo Farnese',1348).
 distance('Villa Abamelek','Sant Agnese in Agone',1722).
 distance('Villa Abamelek','Botanical Garden of Rome',642).
@@ -11464,8 +11405,8 @@ distance('Villa Abamelek','Campo de  Fiori',1478).
 distance('Villa Abamelek','Piazza Navona',1778).
 distance('Villa Abamelek','Corte Suprema di Cassazione',2078).
 distance('Villa Abamelek','Museo di Roma - Palazzo Braschi',1647).
-distance('Villa Abamelek','Parrocchia Santa Maria in Vallicella',1485).
-distance('Villa Abamelek','Chiesa di San Pietro in Montorio',829).
+distance('Villa Abamelek','Church of Santa Maria in Vallicella',1465).
+distance('Villa Abamelek','Church of San Pietro in Montorio',829).
 distance('Villa Abamelek','Saint Eligio of Orefici',1204).
 distance('Villa Abamelek','Palazzo del Commendatore',1442).
 distance('Villa Abamelek','Porta Santo Spirito',1324).
@@ -11531,7 +11472,6 @@ distance('Villa Abamelek','Villa Balestra',3862).
 distance('Villa Abamelek','Palazzo Borghese',2344).
 distance('Villa Abamelek','National Academy of San Luca',2655).
 distance('Villa Abamelek','Museo Carlo Bilotti',3503).
-distance('Villa Abamelek','Palazzo Wedekind',2313).
 distance('Villa Abamelek','Cloaca Maxima',1971).
 distance('Villa Abamelek','Temple of Apollo Palatinus',2460).
 distance('Villa Abamelek','Circus Maximus',2405).
@@ -11539,13 +11479,13 @@ distance('Villa Abamelek','Mouth of Truth',2079).
 distance('Villa Abamelek','Basilica di Santa Sabina all Aventino',2002).
 distance('Villa Abamelek','Santa Maria in Cosmedin',2095).
 distance('Villa Abamelek','Non-Catholic Cemetery',2383).
-distance('Villa Abamelek','Basilica Santa Cecilia in Trastevere',1685).
+distance('Villa Abamelek','Basilica di Santa Cecilia in Trastevere',1685).
 distance('Villa Abamelek','Mattatoio',1977).
 distance('Villa Abamelek','Pyramid of Caius Cestius',2466).
 distance('Villa Abamelek','Turtle Fountain',1833).
 distance('Villa Abamelek','Basilica di San Bartolomeo all Isola',1813).
 distance('Villa Abamelek','Chiesa di Santa Prisca',2354).
-distance('Villa Abamelek','Tempio Maggiore di Roma',1822).
+distance('Villa Abamelek','Tempio Maggiore',1822).
 distance('Villa Abamelek','Portico of Octavia',1874).
 distance('Villa Abamelek','Basilica Santi Giovanni e Paolo',2976).
 distance('Palazzo Torres','Castel Sant Angelo',824).
@@ -11559,10 +11499,10 @@ distance('Palazzo Torres','Gardens of Vatican City',2019).
 distance('Palazzo Torres','Fiumi Fountain',129).
 distance('Palazzo Torres','Sistine Chapel',1662).
 distance('Palazzo Torres','Villa Farnesina',684).
-distance('Palazzo Torres','Church of St. Louis of the French',221).
 distance('Palazzo Torres','Palazzo Madama',172).
 distance('Palazzo Torres','Galleria Spada',417).
-distance('Palazzo Torres','St. Angelo Bridge',719).
+distance('Palazzo Torres','Church of St. Louis of the French',238).
+distance('Palazzo Torres','St. Angelo Bridge',728).
 distance('Palazzo Torres','Palazzo Farnese',398).
 distance('Palazzo Torres','Sant Agnese in Agone',130).
 distance('Palazzo Torres','Botanical Garden of Rome',1061).
@@ -11575,8 +11515,8 @@ distance('Palazzo Torres','Campo de  Fiori',259).
 distance('Palazzo Torres','Piazza Navona',151).
 distance('Palazzo Torres','Corte Suprema di Cassazione',816).
 distance('Palazzo Torres','Museo di Roma - Palazzo Braschi',56).
-distance('Palazzo Torres','Parrocchia Santa Maria in Vallicella',352).
-distance('Palazzo Torres','Chiesa di San Pietro in Montorio',1158).
+distance('Palazzo Torres','Church of Santa Maria in Vallicella',350).
+distance('Palazzo Torres','Church of San Pietro in Montorio',1158).
 distance('Palazzo Torres','Saint Eligio of Orefici',505).
 distance('Palazzo Torres','Palazzo del Commendatore',994).
 distance('Palazzo Torres','Porta Santo Spirito',1009).
@@ -11642,7 +11582,6 @@ distance('Palazzo Torres','Villa Balestra',2616).
 distance('Palazzo Torres','Palazzo Borghese',745).
 distance('Palazzo Torres','National Academy of San Luca',958).
 distance('Palazzo Torres','Museo Carlo Bilotti',1920).
-distance('Palazzo Torres','Palazzo Wedekind',609).
 distance('Palazzo Torres','Cloaca Maxima',1165).
 distance('Palazzo Torres','Temple of Apollo Palatinus',1568).
 distance('Palazzo Torres','Circus Maximus',1626).
@@ -11650,13 +11589,13 @@ distance('Palazzo Torres','Mouth of Truth',1272).
 distance('Palazzo Torres','Basilica di Santa Sabina all Aventino',1571).
 distance('Palazzo Torres','Santa Maria in Cosmedin',1283).
 distance('Palazzo Torres','Non-Catholic Cemetery',2442).
-distance('Palazzo Torres','Basilica Santa Cecilia in Trastevere',1211).
+distance('Palazzo Torres','Basilica di Santa Cecilia in Trastevere',1211).
 distance('Palazzo Torres','Mattatoio',2368).
 distance('Palazzo Torres','Pyramid of Caius Cestius',2450).
 distance('Palazzo Torres','Turtle Fountain',566).
 distance('Palazzo Torres','Basilica di San Bartolomeo all Isola',925).
 distance('Palazzo Torres','Chiesa di Santa Prisca',1847).
-distance('Palazzo Torres','Tempio Maggiore di Roma',755).
+distance('Palazzo Torres','Tempio Maggiore',755).
 distance('Palazzo Torres','Portico of Octavia',731).
 distance('Palazzo Torres','Basilica Santi Giovanni e Paolo',2005).
 distance('Castel Sant Angelo','Vidoni Palace',1057).
@@ -11669,10 +11608,10 @@ distance('Castel Sant Angelo','Gardens of Vatican City',1331).
 distance('Castel Sant Angelo','Fiumi Fountain',725).
 distance('Castel Sant Angelo','Sistine Chapel',978).
 distance('Castel Sant Angelo','Villa Farnesina',1054).
-distance('Castel Sant Angelo','Church of St. Louis of the French',787).
 distance('Castel Sant Angelo','Palazzo Madama',778).
 distance('Castel Sant Angelo','Galleria Spada',1089).
-distance('Castel Sant Angelo','St. Angelo Bridge',142).
+distance('Castel Sant Angelo','Church of St. Louis of the French',804).
+distance('Castel Sant Angelo','St. Angelo Bridge',129).
 distance('Castel Sant Angelo','Palazzo Farnese',995).
 distance('Castel Sant Angelo','Sant Agnese in Agone',700).
 distance('Castel Sant Angelo','Botanical Garden of Rome',1226).
@@ -11685,8 +11624,8 @@ distance('Castel Sant Angelo','Campo de  Fiori',935).
 distance('Castel Sant Angelo','Piazza Navona',711).
 distance('Castel Sant Angelo','Corte Suprema di Cassazione',368).
 distance('Castel Sant Angelo','Museo di Roma - Palazzo Braschi',813).
-distance('Castel Sant Angelo','Parrocchia Santa Maria in Vallicella',562).
-distance('Castel Sant Angelo','Chiesa di San Pietro in Montorio',1590).
+distance('Castel Sant Angelo','Church of Santa Maria in Vallicella',584).
+distance('Castel Sant Angelo','Church of San Pietro in Montorio',1590).
 distance('Castel Sant Angelo','Saint Eligio of Orefici',828).
 distance('Castel Sant Angelo','Palazzo del Commendatore',384).
 distance('Castel Sant Angelo','Porta Santo Spirito',488).
@@ -11752,7 +11691,6 @@ distance('Castel Sant Angelo','Villa Balestra',2124).
 distance('Castel Sant Angelo','Palazzo Borghese',831).
 distance('Castel Sant Angelo','National Academy of San Luca',1454).
 distance('Castel Sant Angelo','Museo Carlo Bilotti',1820).
-distance('Castel Sant Angelo','Palazzo Wedekind',1120).
 distance('Castel Sant Angelo','Cloaca Maxima',1972).
 distance('Castel Sant Angelo','Temple of Apollo Palatinus',2392).
 distance('Castel Sant Angelo','Circus Maximus',2446).
@@ -11760,13 +11698,13 @@ distance('Castel Sant Angelo','Mouth of Truth',2084).
 distance('Castel Sant Angelo','Basilica di Santa Sabina all Aventino',2345).
 distance('Castel Sant Angelo','Santa Maria in Cosmedin',2096).
 distance('Castel Sant Angelo','Non-Catholic Cemetery',3167).
-distance('Castel Sant Angelo','Basilica Santa Cecilia in Trastevere',1959).
+distance('Castel Sant Angelo','Basilica di Santa Cecilia in Trastevere',1959).
 distance('Castel Sant Angelo','Mattatoio',3008).
 distance('Castel Sant Angelo','Pyramid of Caius Cestius',3191).
 distance('Castel Sant Angelo','Turtle Fountain',1389).
 distance('Castel Sant Angelo','Basilica di San Bartolomeo all Isola',1726).
 distance('Castel Sant Angelo','Chiesa di Santa Prisca',2646).
-distance('Castel Sant Angelo','Tempio Maggiore di Roma',1569).
+distance('Castel Sant Angelo','Tempio Maggiore',1569).
 distance('Castel Sant Angelo','Portico of Octavia',1551).
 distance('Castel Sant Angelo','Basilica Santi Giovanni e Paolo',2826).
 distance('Vidoni Palace','Vatican Museums',2110).
@@ -11778,10 +11716,10 @@ distance('Vidoni Palace','Gardens of Vatican City',2211).
 distance('Vidoni Palace','Fiumi Fountain',356).
 distance('Vidoni Palace','Sistine Chapel',1858).
 distance('Vidoni Palace','Villa Farnesina',687).
-distance('Vidoni Palace','Church of St. Louis of the French',392).
 distance('Vidoni Palace','Palazzo Madama',359).
 distance('Vidoni Palace','Galleria Spada',321).
-distance('Vidoni Palace','St. Angelo Bridge',946).
+distance('Vidoni Palace','Church of St. Louis of the French',397).
+distance('Vidoni Palace','St. Angelo Bridge',955).
 distance('Vidoni Palace','Palazzo Farnese',370).
 distance('Vidoni Palace','Sant Agnese in Agone',365).
 distance('Vidoni Palace','Botanical Garden of Rome',1083).
@@ -11794,8 +11732,8 @@ distance('Vidoni Palace','Campo de  Fiori',255).
 distance('Vidoni Palace','Piazza Navona',376).
 distance('Vidoni Palace','Corte Suprema di Cassazione',1045).
 distance('Vidoni Palace','Museo di Roma - Palazzo Braschi',245).
-distance('Vidoni Palace','Parrocchia Santa Maria in Vallicella',547).
-distance('Vidoni Palace','Chiesa di San Pietro in Montorio',1075).
+distance('Vidoni Palace','Church of Santa Maria in Vallicella',537).
+distance('Vidoni Palace','Church of San Pietro in Montorio',1075).
 distance('Vidoni Palace','Saint Eligio of Orefici',580).
 distance('Vidoni Palace','Palazzo del Commendatore',1199).
 distance('Vidoni Palace','Porta Santo Spirito',1199).
@@ -11861,7 +11799,6 @@ distance('Vidoni Palace','Villa Balestra',2813).
 distance('Vidoni Palace','Palazzo Borghese',907).
 distance('Vidoni Palace','National Academy of San Luca',954).
 distance('Vidoni Palace','Museo Carlo Bilotti',2049).
-distance('Vidoni Palace','Palazzo Wedekind',651).
 distance('Vidoni Palace','Cloaca Maxima',931).
 distance('Vidoni Palace','Temple of Apollo Palatinus',1335).
 distance('Vidoni Palace','Circus Maximus',1391).
@@ -11869,13 +11806,13 @@ distance('Vidoni Palace','Mouth of Truth',1037).
 distance('Vidoni Palace','Basilica di Santa Sabina all Aventino',1344).
 distance('Vidoni Palace','Santa Maria in Cosmedin',1048).
 distance('Vidoni Palace','Non-Catholic Cemetery',2226).
-distance('Vidoni Palace','Basilica Santa Cecilia in Trastevere',994).
+distance('Vidoni Palace','Basilica di Santa Cecilia in Trastevere',994).
 distance('Vidoni Palace','Mattatoio',2177).
 distance('Vidoni Palace','Pyramid of Caius Cestius',2229).
 distance('Vidoni Palace','Turtle Fountain',332).
 distance('Vidoni Palace','Basilica di San Bartolomeo all Isola',692).
 distance('Vidoni Palace','Chiesa di Santa Prisca',1613).
-distance('Vidoni Palace','Tempio Maggiore di Roma',520).
+distance('Vidoni Palace','Tempio Maggiore',520).
 distance('Vidoni Palace','Portico of Octavia',496).
 distance('Vidoni Palace','Basilica Santi Giovanni e Paolo',1781).
 distance('Vatican Museums','Fontana di Piazza Nicosia',1790).
@@ -11886,10 +11823,10 @@ distance('Vatican Museums','Gardens of Vatican City',424).
 distance('Vatican Museums','Fiumi Fountain',1816).
 distance('Vatican Museums','Sistine Chapel',399).
 distance('Vatican Museums','Villa Farnesina',1825).
-distance('Vatican Museums','Church of St. Louis of the French',1896).
 distance('Vatican Museums','Palazzo Madama',1881).
 distance('Vatican Museums','Galleria Spada',2040).
-distance('Vatican Museums','St. Angelo Bridge',1184).
+distance('Vatican Museums','Church of St. Louis of the French',1914).
+distance('Vatican Museums','St. Angelo Bridge',1178).
 distance('Vatican Museums','Palazzo Farnese',1928).
 distance('Vatican Museums','Sant Agnese in Agone',1784).
 distance('Vatican Museums','Botanical Garden of Rome',1748).
@@ -11902,8 +11839,8 @@ distance('Vatican Museums','Campo de  Fiori',1925).
 distance('Vatican Museums','Piazza Navona',1806).
 distance('Vatican Museums','Corte Suprema di Cassazione',1378).
 distance('Vatican Museums','Museo di Roma - Palazzo Braschi',1868).
-distance('Vatican Museums','Parrocchia Santa Maria in Vallicella',1564).
-distance('Vatican Museums','Chiesa di San Pietro in Montorio',2237).
+distance('Vatican Museums','Church of Santa Maria in Vallicella',1577).
+distance('Vatican Museums','Church of San Pietro in Montorio',2237).
 distance('Vatican Museums','Saint Eligio of Orefici',1684).
 distance('Vatican Museums','Palazzo del Commendatore',918).
 distance('Vatican Museums','Porta Santo Spirito',950).
@@ -11969,7 +11906,6 @@ distance('Vatican Museums','Villa Balestra',2346).
 distance('Vatican Museums','Palazzo Borghese',1888).
 distance('Vatican Museums','National Academy of San Luca',2551).
 distance('Vatican Museums','Museo Carlo Bilotti',2578).
-distance('Vatican Museums','Palazzo Wedekind',2231).
 distance('Vatican Museums','Cloaca Maxima',2961).
 distance('Vatican Museums','Temple of Apollo Palatinus',3424).
 distance('Vatican Museums','Circus Maximus',3455).
@@ -11977,13 +11913,13 @@ distance('Vatican Museums','Mouth of Truth',3081).
 distance('Vatican Museums','Basilica di Santa Sabina all Aventino',3265).
 distance('Vatican Museums','Santa Maria in Cosmedin',3094).
 distance('Vatican Museums','Non-Catholic Cemetery',3979).
-distance('Vatican Museums','Basilica Santa Cecilia in Trastevere',2866).
+distance('Vatican Museums','Basilica di Santa Cecilia in Trastevere',2866).
 distance('Vatican Museums','Mattatoio',3708).
 distance('Vatican Museums','Pyramid of Caius Cestius',4027).
 distance('Vatican Museums','Turtle Fountain',2433).
 distance('Vatican Museums','Basilica di San Bartolomeo all Isola',2716).
 distance('Vatican Museums','Chiesa di Santa Prisca',3599).
-distance('Vatican Museums','Tempio Maggiore di Roma',2585).
+distance('Vatican Museums','Tempio Maggiore',2585).
 distance('Vatican Museums','Portico of Octavia',2584).
 distance('Vatican Museums','Basilica Santi Giovanni e Paolo',3890).
 distance('Fontana di Piazza Nicosia','St. Peter s Basilica',1729).
@@ -11993,10 +11929,10 @@ distance('Fontana di Piazza Nicosia','Gardens of Vatican City',2033).
 distance('Fontana di Piazza Nicosia','Fiumi Fountain',482).
 distance('Fontana di Piazza Nicosia','Sistine Chapel',1681).
 distance('Fontana di Piazza Nicosia','Villa Farnesina',1226).
-distance('Fontana di Piazza Nicosia','Church of St. Louis of the French',394).
 distance('Fontana di Piazza Nicosia','Palazzo Madama',435).
 distance('Fontana di Piazza Nicosia','Galleria Spada',1018).
-distance('Fontana di Piazza Nicosia','St. Angelo Bridge',703).
+distance('Fontana di Piazza Nicosia','Church of St. Louis of the French',388).
+distance('Fontana di Piazza Nicosia','St. Angelo Bridge',701).
 distance('Fontana di Piazza Nicosia','Palazzo Farnese',986).
 distance('Fontana di Piazza Nicosia','Sant Agnese in Agone',509).
 distance('Fontana di Piazza Nicosia','Botanical Garden of Rome',1555).
@@ -12009,8 +11945,8 @@ distance('Fontana di Piazza Nicosia','Campo de  Fiori',854).
 distance('Fontana di Piazza Nicosia','Piazza Navona',462).
 distance('Fontana di Piazza Nicosia','Corte Suprema di Cassazione',426).
 distance('Fontana di Piazza Nicosia','Museo di Roma - Palazzo Braschi',642).
-distance('Fontana di Piazza Nicosia','Parrocchia Santa Maria in Vallicella',693).
-distance('Fontana di Piazza Nicosia','Chiesa di San Pietro in Montorio',1741).
+distance('Fontana di Piazza Nicosia','Church of Santa Maria in Vallicella',715).
+distance('Fontana di Piazza Nicosia','Church of San Pietro in Montorio',1741).
 distance('Fontana di Piazza Nicosia','Saint Eligio of Orefici',1001).
 distance('Fontana di Piazza Nicosia','Palazzo del Commendatore',1054).
 distance('Fontana di Piazza Nicosia','Porta Santo Spirito',1130).
@@ -12076,7 +12012,6 @@ distance('Fontana di Piazza Nicosia','Villa Balestra',2027).
 distance('Fontana di Piazza Nicosia','Palazzo Borghese',165).
 distance('Fontana di Piazza Nicosia','National Academy of San Luca',761).
 distance('Fontana di Piazza Nicosia','Museo Carlo Bilotti',1343).
-distance('Fontana di Piazza Nicosia','Palazzo Wedekind',466).
 distance('Fontana di Piazza Nicosia','Cloaca Maxima',1669).
 distance('Fontana di Piazza Nicosia','Temple of Apollo Palatinus',1986).
 distance('Fontana di Piazza Nicosia','Circus Maximus',2075).
@@ -12084,13 +12019,13 @@ distance('Fontana di Piazza Nicosia','Mouth of Truth',1759).
 distance('Fontana di Piazza Nicosia','Basilica di Santa Sabina all Aventino',2110).
 distance('Fontana di Piazza Nicosia','Santa Maria in Cosmedin',1767).
 distance('Fontana di Piazza Nicosia','Non-Catholic Cemetery',3004).
-distance('Fontana di Piazza Nicosia','Basilica Santa Cecilia in Trastevere',1777).
+distance('Fontana di Piazza Nicosia','Basilica di Santa Cecilia in Trastevere',1777).
 distance('Fontana di Piazza Nicosia','Mattatoio',2961).
 distance('Fontana di Piazza Nicosia','Pyramid of Caius Cestius',3002).
 distance('Fontana di Piazza Nicosia','Turtle Fountain',1059).
 distance('Fontana di Piazza Nicosia','Basilica di San Bartolomeo all Isola',1450).
 distance('Fontana di Piazza Nicosia','Chiesa di Santa Prisca',2346).
-distance('Fontana di Piazza Nicosia','Tempio Maggiore di Roma',1266).
+distance('Fontana di Piazza Nicosia','Tempio Maggiore',1266).
 distance('Fontana di Piazza Nicosia','Portico of Octavia',1220).
 distance('Fontana di Piazza Nicosia','Basilica Santi Giovanni e Paolo',2345).
 distance('St. Peter s Basilica','Church Holy Spirit in Sassia',594).
@@ -12099,10 +12034,10 @@ distance('St. Peter s Basilica','Gardens of Vatican City',346).
 distance('St. Peter s Basilica','Fiumi Fountain',1628).
 distance('St. Peter s Basilica','Sistine Chapel',97).
 distance('St. Peter s Basilica','Villa Farnesina',1460).
-distance('St. Peter s Basilica','Church of St. Louis of the French',1733).
 distance('St. Peter s Basilica','Palazzo Madama',1707).
 distance('St. Peter s Basilica','Galleria Spada',1734).
-distance('St. Peter s Basilica','St. Angelo Bridge',1040).
+distance('St. Peter s Basilica','Church of St. Louis of the French',1754).
+distance('St. Peter s Basilica','St. Angelo Bridge',1038).
 distance('St. Peter s Basilica','Palazzo Farnese',1622).
 distance('St. Peter s Basilica','Sant Agnese in Agone',1588).
 distance('St. Peter s Basilica','Botanical Garden of Rome',1318).
@@ -12115,8 +12050,8 @@ distance('St. Peter s Basilica','Campo de  Fiori',1648).
 distance('St. Peter s Basilica','Piazza Navona',1622).
 distance('St. Peter s Basilica','Corte Suprema di Cassazione',1371).
 distance('St. Peter s Basilica','Museo di Roma - Palazzo Braschi',1641).
-distance('St. Peter s Basilica','Parrocchia Santa Maria in Vallicella',1327).
-distance('St. Peter s Basilica','Chiesa di San Pietro in Montorio',1814).
+distance('St. Peter s Basilica','Church of Santa Maria in Vallicella',1333).
+distance('St. Peter s Basilica','Church of San Pietro in Montorio',1814).
 distance('St. Peter s Basilica','Saint Eligio of Orefici',1364).
 distance('St. Peter s Basilica','Palazzo del Commendatore',698).
 distance('St. Peter s Basilica','Porta Santo Spirito',669).
@@ -12182,7 +12117,6 @@ distance('St. Peter s Basilica','Villa Balestra',2690).
 distance('St. Peter s Basilica','Palazzo Borghese',1859).
 distance('St. Peter s Basilica','National Academy of San Luca',2469).
 distance('St. Peter s Basilica','Museo Carlo Bilotti',2737).
-distance('St. Peter s Basilica','Palazzo Wedekind',2121).
 distance('St. Peter s Basilica','Cloaca Maxima',2644).
 distance('St. Peter s Basilica','Temple of Apollo Palatinus',3127).
 distance('St. Peter s Basilica','Circus Maximus',3142).
@@ -12190,13 +12124,13 @@ distance('St. Peter s Basilica','Mouth of Truth',2766).
 distance('St. Peter s Basilica','Basilica di Santa Sabina all Aventino',2905).
 distance('St. Peter s Basilica','Santa Maria in Cosmedin',2780).
 distance('St. Peter s Basilica','Non-Catholic Cemetery',3570).
-distance('St. Peter s Basilica','Basilica Santa Cecilia in Trastevere',2509).
+distance('St. Peter s Basilica','Basilica di Santa Cecilia in Trastevere',2509).
 distance('St. Peter s Basilica','Mattatoio',3272).
 distance('St. Peter s Basilica','Pyramid of Caius Cestius',3625).
 distance('St. Peter s Basilica','Turtle Fountain',2169).
 distance('St. Peter s Basilica','Basilica di San Bartolomeo all Isola',2405).
 distance('St. Peter s Basilica','Chiesa di Santa Prisca',3250).
-distance('St. Peter s Basilica','Tempio Maggiore di Roma',2296).
+distance('St. Peter s Basilica','Tempio Maggiore',2296).
 distance('St. Peter s Basilica','Portico of Octavia',2305).
 distance('St. Peter s Basilica','Basilica Santi Giovanni e Paolo',3615).
 distance('Church Holy Spirit in Sassia','Parrocchia Santuario Santa Maria in Traspontina',174).
@@ -12204,10 +12138,10 @@ distance('Church Holy Spirit in Sassia','Gardens of Vatican City',929).
 distance('Church Holy Spirit in Sassia','Fiumi Fountain',1035).
 distance('Church Holy Spirit in Sassia','Sistine Chapel',570).
 distance('Church Holy Spirit in Sassia','Villa Farnesina',1004).
-distance('Church Holy Spirit in Sassia','Church of St. Louis of the French',1139).
 distance('Church Holy Spirit in Sassia','Palazzo Madama',1113).
 distance('Church Holy Spirit in Sassia','Galleria Spada',1202).
-distance('Church Holy Spirit in Sassia','St. Angelo Bridge',454).
+distance('Church Holy Spirit in Sassia','Church of St. Louis of the French',1160).
+distance('Church Holy Spirit in Sassia','St. Angelo Bridge',455).
 distance('Church Holy Spirit in Sassia','Palazzo Farnese',1091).
 distance('Church Holy Spirit in Sassia','Sant Agnese in Agone',996).
 distance('Church Holy Spirit in Sassia','Botanical Garden of Rome',1012).
@@ -12220,8 +12154,8 @@ distance('Church Holy Spirit in Sassia','Campo de  Fiori',1092).
 distance('Church Holy Spirit in Sassia','Piazza Navona',1029).
 distance('Church Holy Spirit in Sassia','Corte Suprema di Cassazione',843).
 distance('Church Holy Spirit in Sassia','Museo di Roma - Palazzo Braschi',1058).
-distance('Church Holy Spirit in Sassia','Parrocchia Santa Maria in Vallicella',746).
-distance('Church Holy Spirit in Sassia','Chiesa di San Pietro in Montorio',1468).
+distance('Church Holy Spirit in Sassia','Church of Santa Maria in Vallicella',755).
+distance('Church Holy Spirit in Sassia','Church of San Pietro in Montorio',1468).
 distance('Church Holy Spirit in Sassia','Saint Eligio of Orefici',848).
 distance('Church Holy Spirit in Sassia','Palazzo del Commendatore',104).
 distance('Church Holy Spirit in Sassia','Porta Santo Spirito',120).
@@ -12287,7 +12221,6 @@ distance('Church Holy Spirit in Sassia','Villa Balestra',2461).
 distance('Church Holy Spirit in Sassia','Palazzo Borghese',1297).
 distance('Church Holy Spirit in Sassia','National Academy of San Luca',1881).
 distance('Church Holy Spirit in Sassia','Museo Carlo Bilotti',2283).
-distance('Church Holy Spirit in Sassia','Palazzo Wedekind',1530).
 distance('Church Holy Spirit in Sassia','Cloaca Maxima',2124).
 distance('Church Holy Spirit in Sassia','Temple of Apollo Palatinus',2590).
 distance('Church Holy Spirit in Sassia','Circus Maximus',2618).
@@ -12295,23 +12228,23 @@ distance('Church Holy Spirit in Sassia','Mouth of Truth',2244).
 distance('Church Holy Spirit in Sassia','Basilica di Santa Sabina all Aventino',2432).
 distance('Church Holy Spirit in Sassia','Santa Maria in Cosmedin',2257).
 distance('Church Holy Spirit in Sassia','Non-Catholic Cemetery',3174).
-distance('Church Holy Spirit in Sassia','Basilica Santa Cecilia in Trastevere',2034).
+distance('Church Holy Spirit in Sassia','Basilica di Santa Cecilia in Trastevere',2034).
 distance('Church Holy Spirit in Sassia','Mattatoio',2941).
 distance('Church Holy Spirit in Sassia','Pyramid of Caius Cestius',3215).
 distance('Church Holy Spirit in Sassia','Turtle Fountain',1607).
 distance('Church Holy Spirit in Sassia','Basilica di San Bartolomeo all Isola',1878).
 distance('Church Holy Spirit in Sassia','Chiesa di Santa Prisca',2763).
-distance('Church Holy Spirit in Sassia','Tempio Maggiore di Roma',1752).
+distance('Church Holy Spirit in Sassia','Tempio Maggiore',1752).
 distance('Church Holy Spirit in Sassia','Portico of Octavia',1753).
 distance('Church Holy Spirit in Sassia','Basilica Santi Giovanni e Paolo',3063).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Gardens of Vatican City',997).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Fiumi Fountain',992).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Sistine Chapel',640).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Villa Farnesina',1089).
-distance('Parrocchia Santuario Santa Maria in Traspontina','Church of St. Louis of the French',1079).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Palazzo Madama',1060).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Galleria Spada',1237).
-distance('Parrocchia Santuario Santa Maria in Traspontina','St. Angelo Bridge',366).
+distance('Parrocchia Santuario Santa Maria in Traspontina','Church of St. Louis of the French',1099).
+distance('Parrocchia Santuario Santa Maria in Traspontina','St. Angelo Bridge',362).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Palazzo Farnese',1129).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Sant Agnese in Agone',957).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Botanical Garden of Rome',1147).
@@ -12324,8 +12257,8 @@ distance('Parrocchia Santuario Santa Maria in Traspontina','Campo de  Fiori',110
 distance('Parrocchia Santuario Santa Maria in Traspontina','Piazza Navona',982).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Corte Suprema di Cassazione',696).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Museo di Roma - Palazzo Braschi',1041).
-distance('Parrocchia Santuario Santa Maria in Traspontina','Parrocchia Santa Maria in Vallicella',740).
-distance('Parrocchia Santuario Santa Maria in Traspontina','Chiesa di San Pietro in Montorio',1582).
+distance('Parrocchia Santuario Santa Maria in Traspontina','Church of Santa Maria in Vallicella',754).
+distance('Parrocchia Santuario Santa Maria in Traspontina','Church of San Pietro in Montorio',1582).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Saint Eligio of Orefici',905).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Palazzo del Commendatore',147).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Porta Santo Spirito',257).
@@ -12391,7 +12324,6 @@ distance('Parrocchia Santuario Santa Maria in Traspontina','Villa Balestra',2288
 distance('Parrocchia Santuario Santa Maria in Traspontina','Palazzo Borghese',1173).
 distance('Parrocchia Santuario Santa Maria in Traspontina','National Academy of San Luca',1787).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Museo Carlo Bilotti',2120).
-distance('Parrocchia Santuario Santa Maria in Traspontina','Palazzo Wedekind',1445).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Cloaca Maxima',2154).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Temple of Apollo Palatinus',2605).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Circus Maximus',2643).
@@ -12399,22 +12331,22 @@ distance('Parrocchia Santuario Santa Maria in Traspontina','Mouth of Truth',2271
 distance('Parrocchia Santuario Santa Maria in Traspontina','Basilica di Santa Sabina all Aventino',2486).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Santa Maria in Cosmedin',2284).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Non-Catholic Cemetery',3258).
-distance('Parrocchia Santuario Santa Maria in Traspontina','Basilica Santa Cecilia in Trastevere',2090).
+distance('Parrocchia Santuario Santa Maria in Traspontina','Basilica di Santa Cecilia in Trastevere',2090).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Mattatoio',3047).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Pyramid of Caius Cestius',3293).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Turtle Fountain',1608).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Basilica di San Bartolomeo all Isola',1907).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Chiesa di Santa Prisca',2808).
-distance('Parrocchia Santuario Santa Maria in Traspontina','Tempio Maggiore di Roma',1768).
+distance('Parrocchia Santuario Santa Maria in Traspontina','Tempio Maggiore',1768).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Portico of Octavia',1762).
 distance('Parrocchia Santuario Santa Maria in Traspontina','Basilica Santi Giovanni e Paolo',3064).
 distance('Gardens of Vatican City','Fiumi Fountain',1964).
 distance('Gardens of Vatican City','Sistine Chapel',359).
 distance('Gardens of Vatican City','Villa Farnesina',1800).
-distance('Gardens of Vatican City','Church of St. Louis of the French',2065).
 distance('Gardens of Vatican City','Palazzo Madama',2041).
 distance('Gardens of Vatican City','Galleria Spada',2081).
-distance('Gardens of Vatican City','St. Angelo Bridge',1360).
+distance('Gardens of Vatican City','Church of St. Louis of the French',2086).
+distance('Gardens of Vatican City','St. Angelo Bridge',1358).
 distance('Gardens of Vatican City','Palazzo Farnese',1968).
 distance('Gardens of Vatican City','Sant Agnese in Agone',1925).
 distance('Gardens of Vatican City','Botanical Garden of Rome',1632).
@@ -12427,8 +12359,8 @@ distance('Gardens of Vatican City','Campo de  Fiori',1994).
 distance('Gardens of Vatican City','Piazza Navona',1958).
 distance('Gardens of Vatican City','Corte Suprema di Cassazione',1651).
 distance('Gardens of Vatican City','Museo di Roma - Palazzo Braschi',1983).
-distance('Gardens of Vatican City','Parrocchia Santa Maria in Vallicella',1670).
-distance('Gardens of Vatican City','Chiesa di San Pietro in Montorio',2128).
+distance('Gardens of Vatican City','Church of Santa Maria in Vallicella',1676).
+distance('Gardens of Vatican City','Church of San Pietro in Montorio',2128).
 distance('Gardens of Vatican City','Saint Eligio of Orefici',1710).
 distance('Gardens of Vatican City','Palazzo del Commendatore',1030).
 distance('Gardens of Vatican City','Porta Santo Spirito',1012).
@@ -12494,7 +12426,6 @@ distance('Gardens of Vatican City','Villa Balestra',2769).
 distance('Gardens of Vatican City','Palazzo Borghese',2153).
 distance('Gardens of Vatican City','National Academy of San Luca',2784).
 distance('Gardens of Vatican City','Museo Carlo Bilotti',2950).
-distance('Gardens of Vatican City','Palazzo Wedekind',2442).
 distance('Gardens of Vatican City','Cloaca Maxima',2988).
 distance('Gardens of Vatican City','Temple of Apollo Palatinus',3473).
 distance('Gardens of Vatican City','Circus Maximus',3486).
@@ -12502,21 +12433,21 @@ distance('Gardens of Vatican City','Mouth of Truth',3110).
 distance('Gardens of Vatican City','Basilica di Santa Sabina all Aventino',3242).
 distance('Gardens of Vatican City','Santa Maria in Cosmedin',3125).
 distance('Gardens of Vatican City','Non-Catholic Cemetery',3885).
-distance('Gardens of Vatican City','Basilica Santa Cecilia in Trastevere',2847).
+distance('Gardens of Vatican City','Basilica di Santa Cecilia in Trastevere',2847).
 distance('Gardens of Vatican City','Mattatoio',3568).
 distance('Gardens of Vatican City','Pyramid of Caius Cestius',3944).
 distance('Gardens of Vatican City','Turtle Fountain',2515).
 distance('Gardens of Vatican City','Basilica di San Bartolomeo all Isola',2750).
 distance('Gardens of Vatican City','Chiesa di Santa Prisca',3589).
-distance('Gardens of Vatican City','Tempio Maggiore di Roma',2642).
+distance('Gardens of Vatican City','Tempio Maggiore',2642).
 distance('Gardens of Vatican City','Portico of Octavia',2652).
 distance('Gardens of Vatican City','Basilica Santi Giovanni e Paolo',3962).
 distance('Fiumi Fountain','Sistine Chapel',1605).
 distance('Fiumi Fountain','Villa Farnesina',766).
-distance('Fiumi Fountain','Church of St. Louis of the French',138).
 distance('Fiumi Fountain','Palazzo Madama',92).
 distance('Fiumi Fountain','Galleria Spada',537).
-distance('Fiumi Fountain','St. Angelo Bridge',632).
+distance('Fiumi Fountain','Church of St. Louis of the French',161).
+distance('Fiumi Fountain','St. Angelo Bridge',639).
 distance('Fiumi Fountain','Palazzo Farnese',504).
 distance('Fiumi Fountain','Sant Agnese in Agone',46).
 distance('Fiumi Fountain','Botanical Garden of Rome',1126).
@@ -12529,8 +12460,8 @@ distance('Fiumi Fountain','Campo de  Fiori',372).
 distance('Fiumi Fountain','Piazza Navona',21).
 distance('Fiumi Fountain','Corte Suprema di Cassazione',689).
 distance('Fiumi Fountain','Museo di Roma - Palazzo Braschi',160).
-distance('Fiumi Fountain','Parrocchia Santa Maria in Vallicella',330).
-distance('Fiumi Fountain','Chiesa di San Pietro in Montorio',1263).
+distance('Fiumi Fountain','Church of Santa Maria in Vallicella',338).
+distance('Fiumi Fountain','Church of San Pietro in Montorio',1263).
 distance('Fiumi Fountain','Saint Eligio of Orefici',561).
 distance('Fiumi Fountain','Palazzo del Commendatore',934).
 distance('Fiumi Fountain','Porta Santo Spirito',962).
@@ -12596,7 +12527,6 @@ distance('Fiumi Fountain','Villa Balestra',2488).
 distance('Fiumi Fountain','Palazzo Borghese',632).
 distance('Fiumi Fountain','National Academy of San Luca',926).
 distance('Fiumi Fountain','Museo Carlo Bilotti',1813).
-distance('Fiumi Fountain','Palazzo Wedekind',566).
 distance('Fiumi Fountain','Cloaca Maxima',1287).
 distance('Fiumi Fountain','Temple of Apollo Palatinus',1677).
 distance('Fiumi Fountain','Circus Maximus',1741).
@@ -12604,20 +12534,20 @@ distance('Fiumi Fountain','Mouth of Truth',1391).
 distance('Fiumi Fountain','Basilica di Santa Sabina all Aventino',1698).
 distance('Fiumi Fountain','Santa Maria in Cosmedin',1402).
 distance('Fiumi Fountain','Non-Catholic Cemetery',2572).
-distance('Fiumi Fountain','Basilica Santa Cecilia in Trastevere',1340).
+distance('Fiumi Fountain','Basilica di Santa Cecilia in Trastevere',1340).
 distance('Fiumi Fountain','Mattatoio',2496).
 distance('Fiumi Fountain','Pyramid of Caius Cestius',2579).
 distance('Fiumi Fountain','Turtle Fountain',681).
 distance('Fiumi Fountain','Basilica di San Bartolomeo all Isola',1049).
 distance('Fiumi Fountain','Chiesa di Santa Prisca',1970).
-distance('Fiumi Fountain','Tempio Maggiore di Roma',876).
+distance('Fiumi Fountain','Tempio Maggiore',876).
 distance('Fiumi Fountain','Portico of Octavia',847).
 distance('Fiumi Fountain','Basilica Santi Giovanni e Paolo',2101).
 distance('Sistine Chapel','Villa Farnesina',1485).
-distance('Sistine Chapel','Church of St. Louis of the French',1705).
 distance('Sistine Chapel','Palazzo Madama',1682).
 distance('Sistine Chapel','Galleria Spada',1742).
-distance('Sistine Chapel','St. Angelo Bridge',1002).
+distance('Sistine Chapel','Church of St. Louis of the French',1726).
+distance('Sistine Chapel','St. Angelo Bridge',999).
 distance('Sistine Chapel','Palazzo Farnese',1629).
 distance('Sistine Chapel','Sant Agnese in Agone',1567).
 distance('Sistine Chapel','Botanical Garden of Rome',1368).
@@ -12630,8 +12560,8 @@ distance('Sistine Chapel','Campo de  Fiori',1648).
 distance('Sistine Chapel','Piazza Navona',1598).
 distance('Sistine Chapel','Corte Suprema di Cassazione',1310).
 distance('Sistine Chapel','Museo di Roma - Palazzo Braschi',1627).
-distance('Sistine Chapel','Parrocchia Santa Maria in Vallicella',1314).
-distance('Sistine Chapel','Chiesa di San Pietro in Montorio',1862).
+distance('Sistine Chapel','Church of Santa Maria in Vallicella',1322).
+distance('Sistine Chapel','Church of San Pietro in Montorio',1862).
 distance('Sistine Chapel','Saint Eligio of Orefici',1374).
 distance('Sistine Chapel','Palazzo del Commendatore',671).
 distance('Sistine Chapel','Porta Santo Spirito',659).
@@ -12697,7 +12627,6 @@ distance('Sistine Chapel','Villa Balestra',2594).
 distance('Sistine Chapel','Palazzo Borghese',1805).
 distance('Sistine Chapel','National Academy of San Luca',2428).
 distance('Sistine Chapel','Museo Carlo Bilotti',2658).
-distance('Sistine Chapel','Palazzo Wedekind',2084).
 distance('Sistine Chapel','Cloaca Maxima',2657).
 distance('Sistine Chapel','Temple of Apollo Palatinus',3136).
 distance('Sistine Chapel','Circus Maximus',3155).
@@ -12705,19 +12634,19 @@ distance('Sistine Chapel','Mouth of Truth',2779).
 distance('Sistine Chapel','Basilica di Santa Sabina all Aventino',2931).
 distance('Sistine Chapel','Santa Maria in Cosmedin',2793).
 distance('Sistine Chapel','Non-Catholic Cemetery',3613).
-distance('Sistine Chapel','Basilica Santa Cecilia in Trastevere',2534).
+distance('Sistine Chapel','Basilica di Santa Cecilia in Trastevere',2534).
 distance('Sistine Chapel','Mattatoio',3326).
 distance('Sistine Chapel','Pyramid of Caius Cestius',3666).
 distance('Sistine Chapel','Turtle Fountain',2167).
 distance('Sistine Chapel','Basilica di San Bartolomeo all Isola',2416).
 distance('Sistine Chapel','Chiesa di Santa Prisca',3274).
-distance('Sistine Chapel','Tempio Maggiore di Roma',2301).
+distance('Sistine Chapel','Tempio Maggiore',2301).
 distance('Sistine Chapel','Portico of Octavia',2308).
 distance('Sistine Chapel','Basilica Santi Giovanni e Paolo',3619).
-distance('Villa Farnesina','Church of St. Louis of the French',896).
 distance('Villa Farnesina','Palazzo Madama',845).
 distance('Villa Farnesina','Galleria Spada',390).
-distance('Villa Farnesina','St. Angelo Bridge',912).
+distance('Villa Farnesina','Church of St. Louis of the French',916).
+distance('Villa Farnesina','St. Angelo Bridge',924).
 distance('Villa Farnesina','Palazzo Farnese',317).
 distance('Villa Farnesina','Sant Agnese in Agone',728).
 distance('Villa Farnesina','Botanical Garden of Rome',395).
@@ -12730,8 +12659,8 @@ distance('Villa Farnesina','Campo de  Fiori',447).
 distance('Villa Farnesina','Piazza Navona',782).
 distance('Villa Farnesina','Corte Suprema di Cassazione',1261).
 distance('Villa Farnesina','Museo di Roma - Palazzo Braschi',629).
-distance('Villa Farnesina','Parrocchia Santa Maria in Vallicella',564).
-distance('Villa Farnesina','Chiesa di San Pietro in Montorio',544).
+distance('Villa Farnesina','Church of Santa Maria in Vallicella',538).
+distance('Villa Farnesina','Church of San Pietro in Montorio',544).
 distance('Villa Farnesina','Saint Eligio of Orefici',239).
 distance('Villa Farnesina','Palazzo del Commendatore',952).
 distance('Villa Farnesina','Porta Santo Spirito',885).
@@ -12797,7 +12726,6 @@ distance('Villa Farnesina','Villa Balestra',3130).
 distance('Villa Farnesina','Palazzo Borghese',1386).
 distance('Villa Farnesina','National Academy of San Luca',1625).
 distance('Villa Farnesina','Museo Carlo Bilotti',2570).
-distance('Villa Farnesina','Palazzo Wedekind',1289).
 distance('Villa Farnesina','Cloaca Maxima',1202).
 distance('Villa Farnesina','Temple of Apollo Palatinus',1700).
 distance('Villa Farnesina','Circus Maximus',1697).
@@ -12805,116 +12733,18 @@ distance('Villa Farnesina','Mouth of Truth',1324).
 distance('Villa Farnesina','Basilica di Santa Sabina all Aventino',1446).
 distance('Villa Farnesina','Santa Maria in Cosmedin',1339).
 distance('Villa Farnesina','Non-Catholic Cemetery',2171).
-distance('Villa Farnesina','Basilica Santa Cecilia in Trastevere',1049).
+distance('Villa Farnesina','Basilica di Santa Cecilia in Trastevere',1049).
 distance('Villa Farnesina','Mattatoio',1964).
 distance('Villa Farnesina','Pyramid of Caius Cestius',2210).
 distance('Villa Farnesina','Turtle Fountain',854).
 distance('Villa Farnesina','Basilica di San Bartolomeo all Isola',976).
 distance('Villa Farnesina','Chiesa di Santa Prisca',1790).
-distance('Villa Farnesina','Tempio Maggiore di Roma',909).
+distance('Villa Farnesina','Tempio Maggiore',909).
 distance('Villa Farnesina','Portico of Octavia',941).
 distance('Villa Farnesina','Basilica Santi Giovanni e Paolo',2206).
-distance('Church of St. Louis of the French','Palazzo Madama',50).
-distance('Church of St. Louis of the French','Galleria Spada',635).
-distance('Church of St. Louis of the French','St. Angelo Bridge',713).
-distance('Church of St. Louis of the French','Palazzo Farnese',619).
-distance('Church of St. Louis of the French','Sant Agnese in Agone',184).
-distance('Church of St. Louis of the French','Botanical Garden of Rome',1262).
-distance('Church of St. Louis of the French','Chiesa di Santa Maria della Pace',241).
-distance('Church of St. Louis of the French','Obelisco Agonale',136).
-distance('Church of St. Louis of the French','Basilica of Santa Maria in Trastevere',1194).
-distance('Church of St. Louis of the French','Church of St Onuphrius at the Janiculum',1135).
-distance('Church of St. Louis of the French','Biblioteca Angelica',135).
-distance('Church of St. Louis of the French','Campo de  Fiori',480).
-distance('Church of St. Louis of the French','Piazza Navona',130).
-distance('Church of St. Louis of the French','Corte Suprema di Cassazione',683).
-distance('Church of St. Louis of the French','Museo di Roma - Palazzo Braschi',271).
-distance('Church of St. Louis of the French','Parrocchia Santa Maria in Vallicella',462).
-distance('Church of St. Louis of the French','Chiesa di San Pietro in Montorio',1380).
-distance('Church of St. Louis of the French','Saint Eligio of Orefici',698).
-distance('Church of St. Louis of the French','Palazzo del Commendatore',1035).
-distance('Church of St. Louis of the French','Porta Santo Spirito',1074).
-distance('Church of St. Louis of the French','Bernini Fountain',1451).
-distance('Church of St. Louis of the French','Presepe dei Netturbini',1593).
-distance('Church of St. Louis of the French','Church of Saints Michael and Magnus',1138).
-distance('Church of St. Louis of the French','Museum Leonardo Da Vinci Experience',1112).
-distance('Church of St. Louis of the French','Vatican Necropolis',1712).
-distance('Church of St. Louis of the French','Apostolic Palace',1588).
-distance('Church of St. Louis of the French','Ponte Vittorio Emanuele II',865).
-distance('Church of St. Louis of the French','Chiesa di Sant Anna dei Palafrenieri',1500).
-distance('Church of St. Louis of the French','Operativa Arte Contemporanea',716).
-distance('Church of St. Louis of the French','Santa Maria del Suffragio',703).
-distance('Church of St. Louis of the French','Vatican Apostolic Archive',1734).
-distance('Church of St. Louis of the French','Carriage Pavilion',1849).
-distance('Church of St. Louis of the French','Monastero Mater Ecclesi',2011).
-distance('Church of St. Louis of the French','Oratorio dei Filippini (Oratory of St Philip Neri)',500).
-distance('Church of St. Louis of the French','House of Hospitality Paul VI',2019).
-distance('Church of St. Louis of the French','Chiesa di Santa Maria del Rosario in Prati',1664).
-distance('Church of St. Louis of the French','Welcome To Rome',378).
-distance('Church of St. Louis of the French','Stadium of Domitian',181).
-distance('Church of St. Louis of the French','Palazzo Pamphili',230).
-distance('Church of St. Louis of the French','Fountain of the Moro',198).
-distance('Church of St. Louis of the French','Cappella Chigi',1328).
-distance('Church of St. Louis of the French','Chiesa di Gesu e Maria',968).
-distance('Church of St. Louis of the French','Villa Borghese',1722).
-distance('Church of St. Louis of the French','Passeggiata del Pincio',1373).
-distance('Church of St. Louis of the French','Borghese Gallery and Museum',2184).
-distance('Church of St. Louis of the French','National Gallery of Modern and Contemporary Art',2040).
-distance('Church of St. Louis of the French','Mausoleum of Augustus',733).
-distance('Church of St. Louis of the French','Chiesa Parrocchiale San Giacomo in Augusta',940).
-distance('Church of St. Louis of the French','Villa Medici',1177).
-distance('Church of St. Louis of the French','Basilica of Saint Lawrence in Lucina',537).
-distance('Church of St. Louis of the French','Basilica of SS. Ambrose and Charles on the Corso',712).
-distance('Church of St. Louis of the French','Giorgio de Chirico House Museum',946).
-distance('Church of St. Louis of the French','Santa Maria in Montesanto',1180).
-distance('Church of St. Louis of the French','Fontana della Barcaccia',941).
-distance('Church of St. Louis of the French','Museo Leonardo da Vinci',1308).
-distance('Church of St. Louis of the French','Explora - Il Museo dei Bambini di Roma',1719).
-distance('Church of St. Louis of the French','Orologio ad acqua del Pincio',1448).
-distance('Church of St. Louis of the French','Ponte Giacomo Matteotti',1674).
-distance('Church of St. Louis of the French','National Etruscan Museum of Villa Giulia',2102).
-distance('Church of St. Louis of the French','Fontana del Babuino',1002).
-distance('Church of St. Louis of the French','Fontana del Bottino',1063).
-distance('Church of St. Louis of the French','Trinita dei Monti',1060).
-distance('Church of St. Louis of the French','Galleria del Cembalo',502).
-distance('Church of St. Louis of the French','Chiesa di Santa Maria in Via',615).
-distance('Church of St. Louis of the French','Palazzo di Propaganda Fide',898).
-distance('Church of St. Louis of the French','Basilica di Sant Andrea delle Fratte',877).
-distance('Church of St. Louis of the French','Piazza del Popolo',1244).
-distance('Church of St. Louis of the French','Marcus Aurelius Column',473).
-distance('Church of St. Louis of the French','Piazza di Siena',1873).
-distance('Church of St. Louis of the French','All Saints  Anglican Church Rome',1033).
-distance('Church of St. Louis of the French','Church of Saint Roch  all Augusteo ',669).
-distance('Church of St. Louis of the French','Church of Our Lady in Trivio',701).
-distance('Church of St. Louis of the French','Il Tempio di Adriano',404).
-distance('Church of St. Louis of the French','Museo Civico di Zoologia',2476).
-distance('Church of St. Louis of the French','Basilica of St. Augustine in Campo Marzio',141).
-distance('Church of St. Louis of the French','Hendrik Christian Anderson Museum',1618).
-distance('Church of St. Louis of the French','Goethe House',1072).
-distance('Church of St. Louis of the French','Institute of Japanese Culture',2158).
-distance('Church of St. Louis of the French','Villa Balestra',2421).
-distance('Church of St. Louis of the French','Palazzo Borghese',527).
-distance('Church of St. Louis of the French','National Academy of San Luca',791).
-distance('Church of St. Louis of the French','Museo Carlo Bilotti',1698).
-distance('Church of St. Louis of the French','Palazzo Wedekind',430).
-distance('Church of St. Louis of the French','Cloaca Maxima',1300).
-distance('Church of St. Louis of the French','Temple of Apollo Palatinus',1658).
-distance('Church of St. Louis of the French','Circus Maximus',1733).
-distance('Church of St. Louis of the French','Mouth of Truth',1397).
-distance('Church of St. Louis of the French','Basilica di Santa Sabina all Aventino',1729).
-distance('Church of St. Louis of the French','Santa Maria in Cosmedin',1407).
-distance('Church of St. Louis of the French','Non-Catholic Cemetery',2617).
-distance('Church of St. Louis of the French','Basilica Santa Cecilia in Trastevere',1387).
-distance('Church of St. Louis of the French','Mattatoio',2567).
-distance('Church of St. Louis of the French','Pyramid of Caius Cestius',2618).
-distance('Church of St. Louis of the French','Turtle Fountain',686).
-distance('Church of St. Louis of the French','Basilica di San Bartolomeo all Isola',1071).
-distance('Church of St. Louis of the French','Chiesa di Santa Prisca',1982).
-distance('Church of St. Louis of the French','Tempio Maggiore di Roma',890).
-distance('Church of St. Louis of the French','Portico of Octavia',852).
-distance('Church of St. Louis of the French','Basilica Santi Giovanni e Paolo',2060).
 distance('Palazzo Madama','Galleria Spada',588).
-distance('Palazzo Madama','St. Angelo Bridge',697).
+distance('Palazzo Madama','Church of St. Louis of the French',71).
+distance('Palazzo Madama','St. Angelo Bridge',703).
 distance('Palazzo Madama','Palazzo Farnese',569).
 distance('Palazzo Madama','Sant Agnese in Agone',138).
 distance('Palazzo Madama','Botanical Garden of Rome',1212).
@@ -12927,8 +12757,8 @@ distance('Palazzo Madama','Campo de  Fiori',431).
 distance('Palazzo Madama','Piazza Navona',88).
 distance('Palazzo Madama','Corte Suprema di Cassazione',699).
 distance('Palazzo Madama','Museo di Roma - Palazzo Braschi',221).
-distance('Palazzo Madama','Parrocchia Santa Maria in Vallicella',421).
-distance('Palazzo Madama','Chiesa di San Pietro in Montorio',1330).
+distance('Palazzo Madama','Church of Santa Maria in Vallicella',430).
+distance('Palazzo Madama','Church of San Pietro in Montorio',1330).
 distance('Palazzo Madama','Saint Eligio of Orefici',648).
 distance('Palazzo Madama','Palazzo del Commendatore',1011).
 distance('Palazzo Madama','Porta Santo Spirito',1044).
@@ -12994,7 +12824,6 @@ distance('Palazzo Madama','Villa Balestra',2458).
 distance('Palazzo Madama','Palazzo Borghese',573).
 distance('Palazzo Madama','National Academy of San Luca',834).
 distance('Palazzo Madama','Museo Carlo Bilotti',1747).
-distance('Palazzo Madama','Palazzo Wedekind',474).
 distance('Palazzo Madama','Cloaca Maxima',1277).
 distance('Palazzo Madama','Temple of Apollo Palatinus',1647).
 distance('Palazzo Madama','Circus Maximus',1717).
@@ -13002,16 +12831,17 @@ distance('Palazzo Madama','Mouth of Truth',1377).
 distance('Palazzo Madama','Basilica di Santa Sabina all Aventino',1701).
 distance('Palazzo Madama','Santa Maria in Cosmedin',1387).
 distance('Palazzo Madama','Non-Catholic Cemetery',2585).
-distance('Palazzo Madama','Basilica Santa Cecilia in Trastevere',1353).
+distance('Palazzo Madama','Basilica di Santa Cecilia in Trastevere',1353).
 distance('Palazzo Madama','Mattatoio',2527).
 distance('Palazzo Madama','Pyramid of Caius Cestius',2588).
 distance('Palazzo Madama','Turtle Fountain',664).
 distance('Palazzo Madama','Basilica di San Bartolomeo all Isola',1045).
 distance('Palazzo Madama','Chiesa di Santa Prisca',1960).
-distance('Palazzo Madama','Tempio Maggiore di Roma',866).
+distance('Palazzo Madama','Tempio Maggiore',866).
 distance('Palazzo Madama','Portico of Octavia',831).
 distance('Palazzo Madama','Basilica Santi Giovanni e Paolo',2057).
-distance('Galleria Spada','St. Angelo Bridge',956).
+distance('Galleria Spada','Church of St. Louis of the French',649).
+distance('Galleria Spada','St. Angelo Bridge',968).
 distance('Galleria Spada','Palazzo Farnese',112).
 distance('Galleria Spada','Sant Agnese in Agone',518).
 distance('Galleria Spada','Botanical Garden of Rome',782).
@@ -13024,8 +12854,8 @@ distance('Galleria Spada','Campo de  Fiori',171).
 distance('Galleria Spada','Piazza Navona',559).
 distance('Galleria Spada','Corte Suprema di Cassazione',1182).
 distance('Galleria Spada','Museo di Roma - Palazzo Braschi',377).
-distance('Galleria Spada','Parrocchia Santa Maria in Vallicella',527).
-distance('Galleria Spada','Chiesa di San Pietro in Montorio',759).
+distance('Galleria Spada','Church of Santa Maria in Vallicella',505).
+distance('Galleria Spada','Church of San Pietro in Montorio',759).
 distance('Galleria Spada','Saint Eligio of Orefici',371).
 distance('Galleria Spada','Palazzo del Commendatore',1124).
 distance('Galleria Spada','Porta Santo Spirito',1093).
@@ -13091,7 +12921,6 @@ distance('Galleria Spada','Villa Balestra',3021).
 distance('Galleria Spada','Palazzo Borghese',1162).
 distance('Galleria Spada','National Academy of San Luca',1275).
 distance('Galleria Spada','Museo Carlo Bilotti',2332).
-distance('Galleria Spada','Palazzo Wedekind',965).
 distance('Galleria Spada','Cloaca Maxima',921).
 distance('Galleria Spada','Temple of Apollo Palatinus',1393).
 distance('Galleria Spada','Circus Maximus',1416).
@@ -13099,111 +12928,206 @@ distance('Galleria Spada','Mouth of Truth',1041).
 distance('Galleria Spada','Basilica di Santa Sabina all Aventino',1258).
 distance('Galleria Spada','Santa Maria in Cosmedin',1054).
 distance('Galleria Spada','Non-Catholic Cemetery',2084).
-distance('Galleria Spada','Basilica Santa Cecilia in Trastevere',869).
+distance('Galleria Spada','Basilica di Santa Cecilia in Trastevere',869).
 distance('Galleria Spada','Mattatoio',1970).
 distance('Galleria Spada','Pyramid of Caius Cestius',2103).
 distance('Galleria Spada','Turtle Fountain',471).
 distance('Galleria Spada','Basilica di San Bartolomeo all Isola',676).
 distance('Galleria Spada','Chiesa di Santa Prisca',1572).
-distance('Galleria Spada','Tempio Maggiore di Roma',563).
+distance('Galleria Spada','Tempio Maggiore',563).
 distance('Galleria Spada','Portico of Octavia',580).
 distance('Galleria Spada','Basilica Santi Giovanni e Paolo',1882).
-distance('St. Angelo Bridge','Palazzo Farnese',859).
-distance('St. Angelo Bridge','Sant Agnese in Agone',601).
-distance('St. Angelo Bridge','Botanical Garden of Rome',1093).
-distance('St. Angelo Bridge','Chiesa di Santa Maria della Pace',481).
-distance('St. Angelo Bridge','Obelisco Agonale',630).
-distance('St. Angelo Bridge','Basilica of Santa Maria in Trastevere',1394).
-distance('St. Angelo Bridge','Church of St Onuphrius at the Janiculum',652).
-distance('St. Angelo Bridge','Biblioteca Angelica',672).
-distance('St. Angelo Bridge','Campo de  Fiori',806).
-distance('St. Angelo Bridge','Piazza Navona',621).
-distance('St. Angelo Bridge','Corte Suprema di Cassazione',447).
-distance('St. Angelo Bridge','Museo di Roma - Palazzo Braschi',701).
-distance('St. Angelo Bridge','Parrocchia Santa Maria in Vallicella',430).
-distance('St. Angelo Bridge','Chiesa di San Pietro in Montorio',1448).
-distance('St. Angelo Bridge','Saint Eligio of Orefici',686).
-distance('St. Angelo Bridge','Palazzo del Commendatore',351).
-distance('St. Angelo Bridge','Porta Santo Spirito',430).
-distance('St. Angelo Bridge','Bernini Fountain',762).
-distance('St. Angelo Bridge','Presepe dei Netturbini',949).
-distance('St. Angelo Bridge','Church of Saints Michael and Magnus',453).
-distance('St. Angelo Bridge','Museum Leonardo Da Vinci Experience',407).
-distance('St. Angelo Bridge','Vatican Necropolis',1025).
-distance('St. Angelo Bridge','Apostolic Palace',878).
-distance('St. Angelo Bridge','Ponte Vittorio Emanuele II',190).
-distance('St. Angelo Bridge','Chiesa di Sant Anna dei Palafrenieri',786).
-distance('St. Angelo Bridge','Operativa Arte Contemporanea',237).
-distance('St. Angelo Bridge','Santa Maria del Suffragio',435).
-distance('St. Angelo Bridge','Vatican Apostolic Archive',1020).
-distance('St. Angelo Bridge','Carriage Pavilion',1135).
-distance('St. Angelo Bridge','Monastero Mater Ecclesi',1305).
-distance('St. Angelo Bridge','Oratorio dei Filippini (Oratory of St Philip Neri)',363).
-distance('St. Angelo Bridge','House of Hospitality Paul VI',1306).
-distance('St. Angelo Bridge','Chiesa di Santa Maria del Rosario in Prati',1002).
-distance('St. Angelo Bridge','Welcome To Rome',624).
-distance('St. Angelo Bridge','Stadium of Domitian',533).
-distance('St. Angelo Bridge','Palazzo Pamphili',679).
-distance('St. Angelo Bridge','Fountain of the Moro',688).
-distance('St. Angelo Bridge','Cappella Chigi',1358).
-distance('St. Angelo Bridge','Chiesa di Gesu e Maria',1155).
-distance('St. Angelo Bridge','Villa Borghese',1984).
-distance('St. Angelo Bridge','Passeggiata del Pincio',1576).
-distance('St. Angelo Bridge','Borghese Gallery and Museum',2538).
-distance('St. Angelo Bridge','National Gallery of Modern and Contemporary Art',2137).
-distance('St. Angelo Bridge','Mausoleum of Augustus',951).
-distance('St. Angelo Bridge','Chiesa Parrocchiale San Giacomo in Augusta',1126).
-distance('St. Angelo Bridge','Villa Medici',1523).
-distance('St. Angelo Bridge','Basilica of Saint Lawrence in Lucina',1027).
-distance('St. Angelo Bridge','Basilica of SS. Ambrose and Charles on the Corso',1065).
-distance('St. Angelo Bridge','Giorgio de Chirico House Museum',1406).
-distance('St. Angelo Bridge','Santa Maria in Montesanto',1261).
-distance('St. Angelo Bridge','Fontana della Barcaccia',1383).
-distance('St. Angelo Bridge','Museo Leonardo da Vinci',1335).
-distance('St. Angelo Bridge','Explora - Il Museo dei Bambini di Roma',1631).
-distance('St. Angelo Bridge','Orologio ad acqua del Pincio',1622).
-distance('St. Angelo Bridge','Ponte Giacomo Matteotti',1446).
-distance('St. Angelo Bridge','National Etruscan Museum of Villa Giulia',2064).
-distance('St. Angelo Bridge','Fontana del Babuino',1278).
-distance('St. Angelo Bridge','Fontana del Bottino',1469).
-distance('St. Angelo Bridge','Trinita dei Monti',1511).
-distance('St. Angelo Bridge','Galleria del Cembalo',879).
-distance('St. Angelo Bridge','Chiesa di Santa Maria in Via',1239).
-distance('St. Angelo Bridge','Palazzo di Propaganda Fide',1415).
+distance('Church of St. Louis of the French','St. Angelo Bridge',738).
+distance('Church of St. Louis of the French','Palazzo Farnese',636).
+distance('Church of St. Louis of the French','Sant Agnese in Agone',207).
+distance('Church of St. Louis of the French','Botanical Garden of Rome',1283).
+distance('Church of St. Louis of the French','Chiesa di Santa Maria della Pace',263).
+distance('Church of St. Louis of the French','Obelisco Agonale',159).
+distance('Church of St. Louis of the French','Basilica of Santa Maria in Trastevere',1207).
+distance('Church of St. Louis of the French','Church of St Onuphrius at the Janiculum',1158).
+distance('Church of St. Louis of the French','Biblioteca Angelica',132).
+distance('Church of St. Louis of the French','Campo de  Fiori',497).
+distance('Church of St. Louis of the French','Piazza Navona',153).
+distance('Church of St. Louis of the French','Corte Suprema di Cassazione',690).
+distance('Church of St. Louis of the French','Museo di Roma - Palazzo Braschi',289).
+distance('Church of St. Louis of the French','Church of Santa Maria in Vallicella',496).
+distance('Church of St. Louis of the French','Church of San Pietro in Montorio',1396).
+distance('Church of St. Louis of the French','Saint Eligio of Orefici',720).
+distance('Church of St. Louis of the French','Palazzo del Commendatore',1057).
+distance('Church of St. Louis of the French','Porta Santo Spirito',1096).
+distance('Church of St. Louis of the French','Bernini Fountain',1473).
+distance('Church of St. Louis of the French','Presepe dei Netturbini',1615).
+distance('Church of St. Louis of the French','Church of Saints Michael and Magnus',1159).
+distance('Church of St. Louis of the French','Museum Leonardo Da Vinci Experience',1132).
+distance('Church of St. Louis of the French','Vatican Necropolis',1734).
+distance('Church of St. Louis of the French','Apostolic Palace',1608).
+distance('Church of St. Louis of the French','Ponte Vittorio Emanuele II',886).
+distance('Church of St. Louis of the French','Chiesa di Sant Anna dei Palafrenieri',1519).
+distance('Church of St. Louis of the French','Operativa Arte Contemporanea',739).
+distance('Church of St. Louis of the French','Santa Maria del Suffragio',726).
+distance('Church of St. Louis of the French','Vatican Apostolic Archive',1753).
+distance('Church of St. Louis of the French','Carriage Pavilion',1868).
+distance('Church of St. Louis of the French','Monastero Mater Ecclesi',2032).
+distance('Church of St. Louis of the French','Oratorio dei Filippini (Oratory of St Philip Neri)',524).
+distance('Church of St. Louis of the French','House of Hospitality Paul VI',2037).
+distance('Church of St. Louis of the French','Chiesa di Santa Maria del Rosario in Prati',1679).
+distance('Church of St. Louis of the French','Welcome To Rome',399).
+distance('Church of St. Louis of the French','Stadium of Domitian',199).
+distance('Church of St. Louis of the French','Palazzo Pamphili',249).
+distance('Church of St. Louis of the French','Fountain of the Moro',217).
+distance('Church of St. Louis of the French','Cappella Chigi',1319).
+distance('Church of St. Louis of the French','Chiesa di Gesu e Maria',957).
+distance('Church of St. Louis of the French','Villa Borghese',1705).
+distance('Church of St. Louis of the French','Passeggiata del Pincio',1359).
+distance('Church of St. Louis of the French','Borghese Gallery and Museum',2165).
+distance('Church of St. Louis of the French','National Gallery of Modern and Contemporary Art',2027).
+distance('Church of St. Louis of the French','Mausoleum of Augustus',722).
+distance('Church of St. Louis of the French','Chiesa Parrocchiale San Giacomo in Augusta',928).
+distance('Church of St. Louis of the French','Villa Medici',1159).
+distance('Church of St. Louis of the French','Basilica of Saint Lawrence in Lucina',518).
+distance('Church of St. Louis of the French','Basilica of SS. Ambrose and Charles on the Corso',696).
+distance('Church of St. Louis of the French','Giorgio de Chirico House Museum',926).
+distance('Church of St. Louis of the French','Santa Maria in Montesanto',1171).
+distance('Church of St. Louis of the French','Fontana della Barcaccia',921).
+distance('Church of St. Louis of the French','Museo Leonardo da Vinci',1300).
+distance('Church of St. Louis of the French','Explora - Il Museo dei Bambini di Roma',1713).
+distance('Church of St. Louis of the French','Orologio ad acqua del Pincio',1434).
+distance('Church of St. Louis of the French','Ponte Giacomo Matteotti',1672).
+distance('Church of St. Louis of the French','National Etruscan Museum of Villa Giulia',2093).
+distance('Church of St. Louis of the French','Fontana del Babuino',987).
+distance('Church of St. Louis of the French','Fontana del Bottino',1043).
+distance('Church of St. Louis of the French','Trinita dei Monti',1040).
+distance('Church of St. Louis of the French','Galleria del Cembalo',489).
+distance('Church of St. Louis of the French','Chiesa di Santa Maria in Via',592).
+distance('Church of St. Louis of the French','Palazzo di Propaganda Fide',877).
+distance('Church of St. Louis of the French','Basilica di Sant Andrea delle Fratte',854).
+distance('Church of St. Louis of the French','Piazza del Popolo',1235).
+distance('Church of St. Louis of the French','Marcus Aurelius Column',450).
+distance('Church of St. Louis of the French','Piazza di Siena',1855).
+distance('Church of St. Louis of the French','All Saints  Anglican Church Rome',1020).
+distance('Church of St. Louis of the French','Church of Saint Roch  all Augusteo ',660).
+distance('Church of St. Louis of the French','Church of Our Lady in Trivio',678).
+distance('Church of St. Louis of the French','Il Tempio di Adriano',381).
+distance('Church of St. Louis of the French','Museo Civico di Zoologia',2460).
+distance('Church of St. Louis of the French','Basilica of St. Augustine in Campo Marzio',141).
+distance('Church of St. Louis of the French','Hendrik Christian Anderson Museum',1614).
+distance('Church of St. Louis of the French','Goethe House',1061).
+distance('Church of St. Louis of the French','Institute of Japanese Culture',2148).
+distance('Church of St. Louis of the French','Villa Balestra',2415).
+distance('Church of St. Louis of the French','Palazzo Borghese',516).
+distance('Church of St. Louis of the French','National Academy of San Luca',767).
+distance('Church of St. Louis of the French','Museo Carlo Bilotti',1683).
+distance('Church of St. Louis of the French','Cloaca Maxima',1298).
+distance('Church of St. Louis of the French','Temple of Apollo Palatinus',1650).
+distance('Church of St. Louis of the French','Circus Maximus',1727).
+distance('Church of St. Louis of the French','Mouth of Truth',1394).
+distance('Church of St. Louis of the French','Basilica di Santa Sabina all Aventino',1729).
+distance('Church of St. Louis of the French','Santa Maria in Cosmedin',1403).
+distance('Church of St. Louis of the French','Non-Catholic Cemetery',2619).
+distance('Church of St. Louis of the French','Basilica di Santa Cecilia in Trastevere',1390).
+distance('Church of St. Louis of the French','Mattatoio',2574).
+distance('Church of St. Louis of the French','Pyramid of Caius Cestius',2620).
+distance('Church of St. Louis of the French','Turtle Fountain',684).
+distance('Church of St. Louis of the French','Basilica di San Bartolomeo all Isola',1071).
+distance('Church of St. Louis of the French','Chiesa di Santa Prisca',1979).
+distance('Church of St. Louis of the French','Tempio Maggiore',889).
+distance('Church of St. Louis of the French','Portico of Octavia',849).
+distance('Church of St. Louis of the French','Basilica Santi Giovanni e Paolo',2048).
+distance('St. Angelo Bridge','Palazzo Farnese',870).
+distance('St. Angelo Bridge','Sant Agnese in Agone',609).
+distance('St. Angelo Bridge','Botanical Garden of Rome',1105).
+distance('St. Angelo Bridge','Chiesa di Santa Maria della Pace',487).
+distance('St. Angelo Bridge','Obelisco Agonale',637).
+distance('St. Angelo Bridge','Basilica of Santa Maria in Trastevere',1406).
+distance('St. Angelo Bridge','Church of St Onuphrius at the Janiculum',660).
+distance('St. Angelo Bridge','Biblioteca Angelica',676).
+distance('St. Angelo Bridge','Campo de  Fiori',817).
+distance('St. Angelo Bridge','Piazza Navona',628).
+distance('St. Angelo Bridge','Corte Suprema di Cassazione',438).
+distance('St. Angelo Bridge','Museo di Roma - Palazzo Braschi',710).
+distance('St. Angelo Bridge','Church of Santa Maria in Vallicella',462).
+distance('St. Angelo Bridge','Church of San Pietro in Montorio',1461).
+distance('St. Angelo Bridge','Saint Eligio of Orefici',699).
+distance('St. Angelo Bridge','Palazzo del Commendatore',352).
+distance('St. Angelo Bridge','Porta Santo Spirito',434).
+distance('St. Angelo Bridge','Bernini Fountain',761).
+distance('St. Angelo Bridge','Presepe dei Netturbini',951).
+distance('St. Angelo Bridge','Church of Saints Michael and Magnus',454).
+distance('St. Angelo Bridge','Museum Leonardo Da Vinci Experience',405).
+distance('St. Angelo Bridge','Vatican Necropolis',1024).
+distance('St. Angelo Bridge','Apostolic Palace',874).
+distance('St. Angelo Bridge','Ponte Vittorio Emanuele II',194).
+distance('St. Angelo Bridge','Chiesa di Sant Anna dei Palafrenieri',781).
+distance('St. Angelo Bridge','Operativa Arte Contemporanea',249).
+distance('St. Angelo Bridge','Santa Maria del Suffragio',447).
+distance('St. Angelo Bridge','Vatican Apostolic Archive',1015).
+distance('St. Angelo Bridge','Carriage Pavilion',1130).
+distance('St. Angelo Bridge','Monastero Mater Ecclesi',1302).
+distance('St. Angelo Bridge','Oratorio dei Filippini (Oratory of St Philip Neri)',375).
+distance('St. Angelo Bridge','House of Hospitality Paul VI',1300).
+distance('St. Angelo Bridge','Chiesa di Santa Maria del Rosario in Prati',992).
+distance('St. Angelo Bridge','Welcome To Rome',634).
+distance('St. Angelo Bridge','Stadium of Domitian',538).
+distance('St. Angelo Bridge','Palazzo Pamphili',687).
+distance('St. Angelo Bridge','Fountain of the Moro',696).
+distance('St. Angelo Bridge','Cappella Chigi',1349).
+distance('St. Angelo Bridge','Chiesa di Gesu e Maria',1149).
+distance('St. Angelo Bridge','Villa Borghese',1977).
+distance('St. Angelo Bridge','Passeggiata del Pincio',1569).
+distance('St. Angelo Bridge','Borghese Gallery and Museum',2532).
+distance('St. Angelo Bridge','National Gallery of Modern and Contemporary Art',2128).
+distance('St. Angelo Bridge','Mausoleum of Augustus',946).
+distance('St. Angelo Bridge','Chiesa Parrocchiale San Giacomo in Augusta',1119).
+distance('St. Angelo Bridge','Villa Medici',1518).
+distance('St. Angelo Bridge','Basilica of Saint Lawrence in Lucina',1026).
+distance('St. Angelo Bridge','Basilica of SS. Ambrose and Charles on the Corso',1062).
+distance('St. Angelo Bridge','Giorgio de Chirico House Museum',1403).
+distance('St. Angelo Bridge','Santa Maria in Montesanto',1253).
+distance('St. Angelo Bridge','Fontana della Barcaccia',1380).
+distance('St. Angelo Bridge','Museo Leonardo da Vinci',1326).
+distance('St. Angelo Bridge','Explora - Il Museo dei Bambini di Roma',1620).
+distance('St. Angelo Bridge','Orologio ad acqua del Pincio',1614).
+distance('St. Angelo Bridge','Ponte Giacomo Matteotti',1434).
+distance('St. Angelo Bridge','National Etruscan Museum of Villa Giulia',2053).
+distance('St. Angelo Bridge','Fontana del Babuino',1273).
+distance('St. Angelo Bridge','Fontana del Bottino',1465).
+distance('St. Angelo Bridge','Trinita dei Monti',1508).
+distance('St. Angelo Bridge','Galleria del Cembalo',877).
+distance('St. Angelo Bridge','Chiesa di Santa Maria in Via',1240).
+distance('St. Angelo Bridge','Palazzo di Propaganda Fide',1414).
 distance('St. Angelo Bridge','Basilica di Sant Andrea delle Fratte',1441).
-distance('St. Angelo Bridge','Piazza del Popolo',1286).
-distance('St. Angelo Bridge','Marcus Aurelius Column',1127).
-distance('St. Angelo Bridge','Piazza di Siena',2157).
-distance('St. Angelo Bridge','All Saints  Anglican Church Rome',1261).
-distance('St. Angelo Bridge','Church of Saint Roch  all Augusteo ',879).
-distance('St. Angelo Bridge','Church of Our Lady in Trivio',1350).
-distance('St. Angelo Bridge','Il Tempio di Adriano',1093).
-distance('St. Angelo Bridge','Museo Civico di Zoologia',2669).
-distance('St. Angelo Bridge','Basilica of St. Augustine in Campo Marzio',657).
-distance('St. Angelo Bridge','Hendrik Christian Anderson Museum',1458).
-distance('St. Angelo Bridge','Goethe House',1203).
-distance('St. Angelo Bridge','Institute of Japanese Culture',2154).
-distance('St. Angelo Bridge','Villa Balestra',2256).
-distance('St. Angelo Bridge','Palazzo Borghese',848).
-distance('St. Angelo Bridge','National Academy of San Luca',1429).
-distance('St. Angelo Bridge','Museo Carlo Bilotti',1902).
-distance('St. Angelo Bridge','Palazzo Wedekind',1082).
-distance('St. Angelo Bridge','Cloaca Maxima',1849).
-distance('St. Angelo Bridge','Temple of Apollo Palatinus',2280).
-distance('St. Angelo Bridge','Circus Maximus',2329).
-distance('St. Angelo Bridge','Mouth of Truth',1963).
-distance('St. Angelo Bridge','Basilica di Santa Sabina all Aventino',2214).
-distance('St. Angelo Bridge','Santa Maria in Cosmedin',1976).
-distance('St. Angelo Bridge','Non-Catholic Cemetery',3029).
-distance('St. Angelo Bridge','Basilica Santa Cecilia in Trastevere',1826).
-distance('St. Angelo Bridge','Mattatoio',2866).
-distance('St. Angelo Bridge','Pyramid of Caius Cestius',3054).
-distance('St. Angelo Bridge','Turtle Fountain',1277).
-distance('St. Angelo Bridge','Basilica di San Bartolomeo all Isola',1602).
-distance('St. Angelo Bridge','Chiesa di Santa Prisca',2519).
-distance('St. Angelo Bridge','Tempio Maggiore di Roma',1450).
-distance('St. Angelo Bridge','Portico of Octavia',1437).
-distance('St. Angelo Bridge','Basilica Santi Giovanni e Paolo',2724).
+distance('St. Angelo Bridge','Piazza del Popolo',1277).
+distance('St. Angelo Bridge','Marcus Aurelius Column',1129).
+distance('St. Angelo Bridge','Piazza di Siena',2150).
+distance('St. Angelo Bridge','All Saints  Anglican Church Rome',1255).
+distance('St. Angelo Bridge','Church of Saint Roch  all Augusteo ',874).
+distance('St. Angelo Bridge','Church of Our Lady in Trivio',1352).
+distance('St. Angelo Bridge','Il Tempio di Adriano',1097).
+distance('St. Angelo Bridge','Museo Civico di Zoologia',2661).
+distance('St. Angelo Bridge','Basilica of St. Augustine in Campo Marzio',660).
+distance('St. Angelo Bridge','Hendrik Christian Anderson Museum',1447).
+distance('St. Angelo Bridge','Goethe House',1195).
+distance('St. Angelo Bridge','Institute of Japanese Culture',2144).
+distance('St. Angelo Bridge','Villa Balestra',2244).
+distance('St. Angelo Bridge','Palazzo Borghese',846).
+distance('St. Angelo Bridge','National Academy of San Luca',1430).
+distance('St. Angelo Bridge','Museo Carlo Bilotti',1894).
+distance('St. Angelo Bridge','Cloaca Maxima',1860).
+distance('St. Angelo Bridge','Temple of Apollo Palatinus',2289).
+distance('St. Angelo Bridge','Circus Maximus',2339).
+distance('St. Angelo Bridge','Mouth of Truth',1974).
+distance('St. Angelo Bridge','Basilica di Santa Sabina all Aventino',2225).
+distance('St. Angelo Bridge','Santa Maria in Cosmedin',1986).
+distance('St. Angelo Bridge','Non-Catholic Cemetery',3041).
+distance('St. Angelo Bridge','Basilica di Santa Cecilia in Trastevere',1837).
+distance('St. Angelo Bridge','Mattatoio',2878).
+distance('St. Angelo Bridge','Pyramid of Caius Cestius',3066).
+distance('St. Angelo Bridge','Turtle Fountain',1286).
+distance('St. Angelo Bridge','Basilica di San Bartolomeo all Isola',1613).
+distance('St. Angelo Bridge','Chiesa di Santa Prisca',2530).
+distance('St. Angelo Bridge','Tempio Maggiore',1460).
+distance('St. Angelo Bridge','Portico of Octavia',1446).
+distance('St. Angelo Bridge','Basilica Santi Giovanni e Paolo',2733).
 distance('Palazzo Farnese','Sant Agnese in Agone',476).
 distance('Palazzo Farnese','Botanical Garden of Rome',713).
 distance('Palazzo Farnese','Chiesa di Santa Maria della Pace',570).
@@ -13215,8 +13139,8 @@ distance('Palazzo Farnese','Campo de  Fiori',140).
 distance('Palazzo Farnese','Piazza Navona',524).
 distance('Palazzo Farnese','Corte Suprema di Cassazione',1112).
 distance('Palazzo Farnese','Museo di Roma - Palazzo Braschi',349).
-distance('Palazzo Farnese','Parrocchia Santa Maria in Vallicella',434).
-distance('Palazzo Farnese','Chiesa di San Pietro in Montorio',760).
+distance('Palazzo Farnese','Church of Santa Maria in Vallicella',411).
+distance('Palazzo Farnese','Church of San Pietro in Montorio',760).
 distance('Palazzo Farnese','Saint Eligio of Orefici',260).
 distance('Palazzo Farnese','Palazzo del Commendatore',1014).
 distance('Palazzo Farnese','Porta Santo Spirito',981).
@@ -13282,7 +13206,6 @@ distance('Palazzo Farnese','Villa Balestra',2965).
 distance('Palazzo Farnese','Palazzo Borghese',1137).
 distance('Palazzo Farnese','National Academy of San Luca',1312).
 distance('Palazzo Farnese','Museo Carlo Bilotti',2316).
-distance('Palazzo Farnese','Palazzo Wedekind',985).
 distance('Palazzo Farnese','Cloaca Maxima',1032).
 distance('Palazzo Farnese','Temple of Apollo Palatinus',1506).
 distance('Palazzo Farnese','Circus Maximus',1528).
@@ -13290,13 +13213,13 @@ distance('Palazzo Farnese','Mouth of Truth',1153).
 distance('Palazzo Farnese','Basilica di Santa Sabina all Aventino',1360).
 distance('Palazzo Farnese','Santa Maria in Cosmedin',1166).
 distance('Palazzo Farnese','Non-Catholic Cemetery',2172).
-distance('Palazzo Farnese','Basilica Santa Cecilia in Trastevere',968).
+distance('Palazzo Farnese','Basilica di Santa Cecilia in Trastevere',968).
 distance('Palazzo Farnese','Mattatoio',2039).
 distance('Palazzo Farnese','Pyramid of Caius Cestius',2196).
 distance('Palazzo Farnese','Turtle Fountain',572).
 distance('Palazzo Farnese','Basilica di San Bartolomeo all Isola',788).
 distance('Palazzo Farnese','Chiesa di Santa Prisca',1679).
-distance('Palazzo Farnese','Tempio Maggiore di Roma',675).
+distance('Palazzo Farnese','Tempio Maggiore',675).
 distance('Palazzo Farnese','Portico of Octavia',690).
 distance('Palazzo Farnese','Basilica Santi Giovanni e Paolo',1994).
 distance('Sant Agnese in Agone','Botanical Garden of Rome',1084).
@@ -13309,8 +13232,8 @@ distance('Sant Agnese in Agone','Campo de  Fiori',348).
 distance('Sant Agnese in Agone','Piazza Navona',56).
 distance('Sant Agnese in Agone','Corte Suprema di Cassazione',688).
 distance('Sant Agnese in Agone','Museo di Roma - Palazzo Braschi',144).
-distance('Sant Agnese in Agone','Parrocchia Santa Maria in Vallicella',284).
-distance('Sant Agnese in Agone','Chiesa di San Pietro in Montorio',1232).
+distance('Sant Agnese in Agone','Church of Santa Maria in Vallicella',292).
+distance('Sant Agnese in Agone','Church of San Pietro in Montorio',1232).
 distance('Sant Agnese in Agone','Saint Eligio of Orefici',519).
 distance('Sant Agnese in Agone','Palazzo del Commendatore',895).
 distance('Sant Agnese in Agone','Porta Santo Spirito',921).
@@ -13376,7 +13299,6 @@ distance('Sant Agnese in Agone','Villa Balestra',2503).
 distance('Sant Agnese in Agone','Palazzo Borghese',663).
 distance('Sant Agnese in Agone','National Academy of San Luca',973).
 distance('Sant Agnese in Agone','Museo Carlo Bilotti',1847).
-distance('Sant Agnese in Agone','Palazzo Wedekind',613).
 distance('Sant Agnese in Agone','Cloaca Maxima',1296).
 distance('Sant Agnese in Agone','Temple of Apollo Palatinus',1695).
 distance('Sant Agnese in Agone','Circus Maximus',1755).
@@ -13384,13 +13306,13 @@ distance('Sant Agnese in Agone','Mouth of Truth',1402).
 distance('Sant Agnese in Agone','Basilica di Santa Sabina all Aventino',1701).
 distance('Sant Agnese in Agone','Santa Maria in Cosmedin',1413).
 distance('Sant Agnese in Agone','Non-Catholic Cemetery',2568).
-distance('Sant Agnese in Agone','Basilica Santa Cecilia in Trastevere',1337).
+distance('Sant Agnese in Agone','Basilica di Santa Cecilia in Trastevere',1337).
 distance('Sant Agnese in Agone','Mattatoio',2483).
 distance('Sant Agnese in Agone','Pyramid of Caius Cestius',2577).
 distance('Sant Agnese in Agone','Turtle Fountain',695).
 distance('Sant Agnese in Agone','Basilica di San Bartolomeo all Isola',1055).
 distance('Sant Agnese in Agone','Chiesa di Santa Prisca',1978).
-distance('Sant Agnese in Agone','Tempio Maggiore di Roma',886).
+distance('Sant Agnese in Agone','Tempio Maggiore',886).
 distance('Sant Agnese in Agone','Portico of Octavia',860).
 distance('Sant Agnese in Agone','Basilica Santi Giovanni e Paolo',2126).
 distance('Botanical Garden of Rome','Chiesa di Santa Maria della Pace',1111).
@@ -13402,8 +13324,8 @@ distance('Botanical Garden of Rome','Campo de  Fiori',839).
 distance('Botanical Garden of Rome','Piazza Navona',1139).
 distance('Botanical Garden of Rome','Corte Suprema di Cassazione',1507).
 distance('Botanical Garden of Rome','Museo di Roma - Palazzo Braschi',1005).
-distance('Botanical Garden of Rome','Parrocchia Santa Maria in Vallicella',862).
-distance('Botanical Garden of Rome','Chiesa di San Pietro in Montorio',496).
+distance('Botanical Garden of Rome','Church of Santa Maria in Vallicella',839).
+distance('Botanical Garden of Rome','Church of San Pietro in Montorio',496).
 distance('Botanical Garden of Rome','Saint Eligio of Orefici',564).
 distance('Botanical Garden of Rome','Palazzo del Commendatore',999).
 distance('Botanical Garden of Rome','Porta Santo Spirito',897).
@@ -13469,7 +13391,6 @@ distance('Botanical Garden of Rome','Villa Balestra',3349).
 distance('Botanical Garden of Rome','Palazzo Borghese',1720).
 distance('Botanical Garden of Rome','National Academy of San Luca',2013).
 distance('Botanical Garden of Rome','Museo Carlo Bilotti',2892).
-distance('Botanical Garden of Rome','Palazzo Wedekind',1671).
 distance('Botanical Garden of Rome','Cloaca Maxima',1496).
 distance('Botanical Garden of Rome','Temple of Apollo Palatinus',1999).
 distance('Botanical Garden of Rome','Circus Maximus',1974).
@@ -13477,13 +13398,13 @@ distance('Botanical Garden of Rome','Mouth of Truth',1614).
 distance('Botanical Garden of Rome','Basilica di Santa Sabina all Aventino',1652).
 distance('Botanical Garden of Rome','Santa Maria in Cosmedin',1630).
 distance('Botanical Garden of Rome','Non-Catholic Cemetery',2253).
-distance('Botanical Garden of Rome','Basilica Santa Cecilia in Trastevere',1275).
+distance('Botanical Garden of Rome','Basilica di Santa Cecilia in Trastevere',1275).
 distance('Botanical Garden of Rome','Mattatoio',1960).
 distance('Botanical Garden of Rome','Pyramid of Caius Cestius',2311).
 distance('Botanical Garden of Rome','Turtle Fountain',1235).
 distance('Botanical Garden of Rome','Basilica di San Bartolomeo all Isola',1295).
 distance('Botanical Garden of Rome','Chiesa di Santa Prisca',2008).
-distance('Botanical Garden of Rome','Tempio Maggiore di Roma',1261).
+distance('Botanical Garden of Rome','Tempio Maggiore',1261).
 distance('Botanical Garden of Rome','Portico of Octavia',1303).
 distance('Botanical Garden of Rome','Basilica Santi Giovanni e Paolo',2515).
 distance('Chiesa di Santa Maria della Pace','Obelisco Agonale',152).
@@ -13494,8 +13415,8 @@ distance('Chiesa di Santa Maria della Pace','Campo de  Fiori',456).
 distance('Chiesa di Santa Maria della Pace','Piazza Navona',140).
 distance('Chiesa di Santa Maria della Pace','Corte Suprema di Cassazione',560).
 distance('Chiesa di Santa Maria della Pace','Museo di Roma - Palazzo Braschi',270).
-distance('Chiesa di Santa Maria della Pace','Parrocchia Santa Maria in Vallicella',256).
-distance('Chiesa di Santa Maria della Pace','Chiesa di San Pietro in Montorio',1308).
+distance('Chiesa di Santa Maria della Pace','Church of Santa Maria in Vallicella',275).
+distance('Chiesa di Santa Maria della Pace','Church of San Pietro in Montorio',1308).
 distance('Chiesa di Santa Maria della Pace','Saint Eligio of Orefici',555).
 distance('Chiesa di Santa Maria della Pace','Palazzo del Commendatore',794).
 distance('Chiesa di Santa Maria della Pace','Porta Santo Spirito',833).
@@ -13561,7 +13482,6 @@ distance('Chiesa di Santa Maria della Pace','Villa Balestra',2395).
 distance('Chiesa di Santa Maria della Pace','Palazzo Borghese',609).
 distance('Chiesa di Santa Maria della Pace','National Academy of San Luca',1017).
 distance('Chiesa di Santa Maria della Pace','Museo Carlo Bilotti',1788).
-distance('Chiesa di Santa Maria della Pace','Palazzo Wedekind',655).
 distance('Chiesa di Santa Maria della Pace','Cloaca Maxima',1430).
 distance('Chiesa di Santa Maria della Pace','Temple of Apollo Palatinus',1829).
 distance('Chiesa di Santa Maria della Pace','Circus Maximus',1890).
@@ -13569,13 +13489,13 @@ distance('Chiesa di Santa Maria della Pace','Mouth of Truth',1537).
 distance('Chiesa di Santa Maria della Pace','Basilica di Santa Sabina all Aventino',1832).
 distance('Chiesa di Santa Maria della Pace','Santa Maria in Cosmedin',1548).
 distance('Chiesa di Santa Maria della Pace','Non-Catholic Cemetery',2694).
-distance('Chiesa di Santa Maria della Pace','Basilica Santa Cecilia in Trastevere',1465).
+distance('Chiesa di Santa Maria della Pace','Basilica di Santa Cecilia in Trastevere',1465).
 distance('Chiesa di Santa Maria della Pace','Mattatoio',2598).
 distance('Chiesa di Santa Maria della Pace','Pyramid of Caius Cestius',2706).
 distance('Chiesa di Santa Maria della Pace','Turtle Fountain',830).
 distance('Chiesa di Santa Maria della Pace','Basilica di San Bartolomeo all Isola',1189).
 distance('Chiesa di Santa Maria della Pace','Chiesa di Santa Prisca',2112).
-distance('Chiesa di Santa Maria della Pace','Tempio Maggiore di Roma',1020).
+distance('Chiesa di Santa Maria della Pace','Tempio Maggiore',1020).
 distance('Chiesa di Santa Maria della Pace','Portico of Octavia',995).
 distance('Chiesa di Santa Maria della Pace','Basilica Santi Giovanni e Paolo',2256).
 distance('Obelisco Agonale','Basilica of Santa Maria in Trastevere',1097).
@@ -13585,8 +13505,8 @@ distance('Obelisco Agonale','Campo de  Fiori',376).
 distance('Obelisco Agonale','Piazza Navona',17).
 distance('Obelisco Agonale','Corte Suprema di Cassazione',685).
 distance('Obelisco Agonale','Museo di Roma - Palazzo Braschi',164).
-distance('Obelisco Agonale','Parrocchia Santa Maria in Vallicella',331).
-distance('Obelisco Agonale','Chiesa di San Pietro in Montorio',1267).
+distance('Obelisco Agonale','Church of Santa Maria in Vallicella',339).
+distance('Obelisco Agonale','Church of San Pietro in Montorio',1267).
 distance('Obelisco Agonale','Saint Eligio of Orefici',564).
 distance('Obelisco Agonale','Palazzo del Commendatore',933).
 distance('Obelisco Agonale','Porta Santo Spirito',962).
@@ -13652,7 +13572,6 @@ distance('Obelisco Agonale','Villa Balestra',2484).
 distance('Obelisco Agonale','Palazzo Borghese',628).
 distance('Obelisco Agonale','National Academy of San Luca',925).
 distance('Obelisco Agonale','Museo Carlo Bilotti',1810).
-distance('Obelisco Agonale','Palazzo Wedekind',565).
 distance('Obelisco Agonale','Cloaca Maxima',1291).
 distance('Obelisco Agonale','Temple of Apollo Palatinus',1680).
 distance('Obelisco Agonale','Circus Maximus',1744).
@@ -13660,13 +13579,13 @@ distance('Obelisco Agonale','Mouth of Truth',1395).
 distance('Obelisco Agonale','Basilica di Santa Sabina all Aventino',1702).
 distance('Obelisco Agonale','Santa Maria in Cosmedin',1405).
 distance('Obelisco Agonale','Non-Catholic Cemetery',2576).
-distance('Obelisco Agonale','Basilica Santa Cecilia in Trastevere',1344).
+distance('Obelisco Agonale','Basilica di Santa Cecilia in Trastevere',1344).
 distance('Obelisco Agonale','Mattatoio',2501).
 distance('Obelisco Agonale','Pyramid of Caius Cestius',2583).
 distance('Obelisco Agonale','Turtle Fountain',684).
 distance('Obelisco Agonale','Basilica di San Bartolomeo all Isola',1052).
 distance('Obelisco Agonale','Chiesa di Santa Prisca',1973).
-distance('Obelisco Agonale','Tempio Maggiore di Roma',880).
+distance('Obelisco Agonale','Tempio Maggiore',880).
 distance('Obelisco Agonale','Portico of Octavia',851).
 distance('Obelisco Agonale','Basilica Santi Giovanni e Paolo',2104).
 distance('Basilica of Santa Maria in Trastevere','Church of St Onuphrius at the Janiculum',1133).
@@ -13675,8 +13594,8 @@ distance('Basilica of Santa Maria in Trastevere','Campo de  Fiori',720).
 distance('Basilica of Santa Maria in Trastevere','Piazza Navona',1113).
 distance('Basilica of Santa Maria in Trastevere','Corte Suprema di Cassazione',1699).
 distance('Basilica of Santa Maria in Trastevere','Museo di Roma - Palazzo Braschi',933).
-distance('Basilica of Santa Maria in Trastevere','Parrocchia Santa Maria in Vallicella',1002).
-distance('Basilica of Santa Maria in Trastevere','Chiesa di San Pietro in Montorio',282).
+distance('Basilica of Santa Maria in Trastevere','Church of Santa Maria in Vallicella',976).
+distance('Basilica of Santa Maria in Trastevere','Church of San Pietro in Montorio',282).
 distance('Basilica of Santa Maria in Trastevere','Saint Eligio of Orefici',707).
 distance('Basilica of Santa Maria in Trastevere','Palazzo del Commendatore',1451).
 distance('Basilica of Santa Maria in Trastevere','Porta Santo Spirito',1381).
@@ -13742,7 +13661,6 @@ distance('Basilica of Santa Maria in Trastevere','Villa Balestra',3559).
 distance('Basilica of Santa Maria in Trastevere','Palazzo Borghese',1720).
 distance('Basilica of Santa Maria in Trastevere','National Academy of San Luca',1780).
 distance('Basilica of Santa Maria in Trastevere','Museo Carlo Bilotti',2889).
-distance('Basilica of Santa Maria in Trastevere','Palazzo Wedekind',1501).
 distance('Basilica of Santa Maria in Trastevere','Cloaca Maxima',877).
 distance('Basilica of Santa Maria in Trastevere','Temple of Apollo Palatinus',1374).
 distance('Basilica of Santa Maria in Trastevere','Circus Maximus',1336).
@@ -13750,13 +13668,13 @@ distance('Basilica of Santa Maria in Trastevere','Mouth of Truth',989).
 distance('Basilica of Santa Maria in Trastevere','Basilica di Santa Sabina all Aventino',1003).
 distance('Basilica of Santa Maria in Trastevere','Santa Maria in Cosmedin',1005).
 distance('Basilica of Santa Maria in Trastevere','Non-Catholic Cemetery',1673).
-distance('Basilica of Santa Maria in Trastevere','Basilica Santa Cecilia in Trastevere',626).
+distance('Basilica of Santa Maria in Trastevere','Basilica di Santa Cecilia in Trastevere',626).
 distance('Basilica of Santa Maria in Trastevere','Mattatoio',1472).
 distance('Basilica of Santa Maria in Trastevere','Pyramid of Caius Cestius',1716).
 distance('Basilica of Santa Maria in Trastevere','Turtle Fountain',816).
 distance('Basilica of Santa Maria in Trastevere','Basilica di San Bartolomeo all Isola',715).
 distance('Basilica of Santa Maria in Trastevere','Chiesa di Santa Prisca',1359).
-distance('Basilica of Santa Maria in Trastevere','Tempio Maggiore di Roma',749).
+distance('Basilica of Santa Maria in Trastevere','Tempio Maggiore',749).
 distance('Basilica of Santa Maria in Trastevere','Portico of Octavia',810).
 distance('Basilica of Santa Maria in Trastevere','Basilica Santi Giovanni e Paolo',1892).
 distance('Church of St Onuphrius at the Janiculum','Biblioteca Angelica',1164).
@@ -13764,8 +13682,8 @@ distance('Church of St Onuphrius at the Janiculum','Campo de  Fiori',906).
 distance('Church of St Onuphrius at the Janiculum','Piazza Navona',1006).
 distance('Church of St Onuphrius at the Janiculum','Corte Suprema di Cassazione',1099).
 distance('Church of St Onuphrius at the Janiculum','Museo di Roma - Palazzo Braschi',959).
-distance('Church of St Onuphrius at the Janiculum','Parrocchia Santa Maria in Vallicella',673).
-distance('Church of St Onuphrius at the Janiculum','Chiesa di San Pietro in Montorio',1060).
+distance('Church of St Onuphrius at the Janiculum','Church of Santa Maria in Vallicella',666).
+distance('Church of St Onuphrius at the Janiculum','Church of San Pietro in Montorio',1060).
 distance('Church of St Onuphrius at the Janiculum','Saint Eligio of Orefici',593).
 distance('Church of St Onuphrius at the Janiculum','Palazzo del Commendatore',438).
 distance('Church of St Onuphrius at the Janiculum','Porta Santo Spirito',324).
@@ -13831,7 +13749,6 @@ distance('Church of St Onuphrius at the Janiculum','Villa Balestra',2853).
 distance('Church of St Onuphrius at the Janiculum','Palazzo Borghese',1452).
 distance('Church of St Onuphrius at the Janiculum','National Academy of San Luca',1925).
 distance('Church of St Onuphrius at the Janiculum','Museo Carlo Bilotti',2552).
-distance('Church of St Onuphrius at the Janiculum','Palazzo Wedekind',1562).
 distance('Church of St Onuphrius at the Janiculum','Cloaca Maxima',1855).
 distance('Church of St Onuphrius at the Janiculum','Temple of Apollo Palatinus',2346).
 distance('Church of St Onuphrius at the Janiculum','Circus Maximus',2353).
@@ -13839,21 +13756,21 @@ distance('Church of St Onuphrius at the Janiculum','Mouth of Truth',1978).
 distance('Church of St Onuphrius at the Janiculum','Basilica di Santa Sabina all Aventino',2109).
 distance('Church of St Onuphrius at the Janiculum','Santa Maria in Cosmedin',1992).
 distance('Church of St Onuphrius at the Janiculum','Non-Catholic Cemetery',2798).
-distance('Church of St Onuphrius at the Janiculum','Basilica Santa Cecilia in Trastevere',1713).
+distance('Church of St Onuphrius at the Janiculum','Basilica di Santa Cecilia in Trastevere',1713).
 distance('Church of St Onuphrius at the Janiculum','Mattatoio',2536).
 distance('Church of St Onuphrius at the Janiculum','Pyramid of Caius Cestius',2846).
 distance('Church of St Onuphrius at the Janiculum','Turtle Fountain',1420).
 distance('Church of St Onuphrius at the Janiculum','Basilica di San Bartolomeo all Isola',1620).
 distance('Church of St Onuphrius at the Janiculum','Chiesa di Santa Prisca',2454).
-distance('Church of St Onuphrius at the Janiculum','Tempio Maggiore di Roma',1525).
+distance('Church of St Onuphrius at the Janiculum','Tempio Maggiore',1525).
 distance('Church of St Onuphrius at the Janiculum','Portico of Octavia',1542).
 distance('Church of St Onuphrius at the Janiculum','Basilica Santi Giovanni e Paolo',2843).
 distance('Biblioteca Angelica','Campo de  Fiori',601).
 distance('Biblioteca Angelica','Piazza Navona',215).
 distance('Biblioteca Angelica','Corte Suprema di Cassazione',570).
 distance('Biblioteca Angelica','Museo di Roma - Palazzo Braschi',388).
-distance('Biblioteca Angelica','Parrocchia Santa Maria in Vallicella',509).
-distance('Biblioteca Angelica','Chiesa di San Pietro in Montorio',1496).
+distance('Biblioteca Angelica','Church of Santa Maria in Vallicella',526).
+distance('Biblioteca Angelica','Church of San Pietro in Montorio',1496).
 distance('Biblioteca Angelica','Saint Eligio of Orefici',784).
 distance('Biblioteca Angelica','Palazzo del Commendatore',1013).
 distance('Biblioteca Angelica','Porta Santo Spirito',1065).
@@ -13919,7 +13836,6 @@ distance('Biblioteca Angelica','Villa Balestra',2285).
 distance('Biblioteca Angelica','Palazzo Borghese',400).
 distance('Biblioteca Angelica','National Academy of San Luca',770).
 distance('Biblioteca Angelica','Museo Carlo Bilotti',1580).
-distance('Biblioteca Angelica','Palazzo Wedekind',413).
 distance('Biblioteca Angelica','Cloaca Maxima',1429).
 distance('Biblioteca Angelica','Temple of Apollo Palatinus',1774).
 distance('Biblioteca Angelica','Circus Maximus',1854).
@@ -13927,20 +13843,20 @@ distance('Biblioteca Angelica','Mouth of Truth',1524).
 distance('Biblioteca Angelica','Basilica di Santa Sabina all Aventino',1862).
 distance('Biblioteca Angelica','Santa Maria in Cosmedin',1533).
 distance('Biblioteca Angelica','Non-Catholic Cemetery',2751).
-distance('Biblioteca Angelica','Basilica Santa Cecilia in Trastevere',1522).
+distance('Biblioteca Angelica','Basilica di Santa Cecilia in Trastevere',1522).
 distance('Biblioteca Angelica','Mattatoio',2702).
 distance('Biblioteca Angelica','Pyramid of Caius Cestius',2752).
 distance('Biblioteca Angelica','Turtle Fountain',815).
 distance('Biblioteca Angelica','Basilica di San Bartolomeo all Isola',1203).
 distance('Biblioteca Angelica','Chiesa di Santa Prisca',2110).
-distance('Biblioteca Angelica','Tempio Maggiore di Roma',1021).
+distance('Biblioteca Angelica','Tempio Maggiore',1021).
 distance('Biblioteca Angelica','Portico of Octavia',980).
 distance('Biblioteca Angelica','Basilica Santi Giovanni e Paolo',2162).
 distance('Campo de  Fiori','Piazza Navona',392).
 distance('Campo de  Fiori','Corte Suprema di Cassazione',1011).
 distance('Campo de  Fiori','Museo di Roma - Palazzo Braschi',213).
-distance('Campo de  Fiori','Parrocchia Santa Maria in Vallicella',377).
-distance('Campo de  Fiori','Chiesa di San Pietro in Montorio',899).
+distance('Campo de  Fiori','Church of Santa Maria in Vallicella',358).
+distance('Campo de  Fiori','Church of San Pietro in Montorio',899).
 distance('Campo de  Fiori','Saint Eligio of Orefici',326).
 distance('Campo de  Fiori','Palazzo del Commendatore',1006).
 distance('Campo de  Fiori','Porta Santo Spirito',990).
@@ -14006,7 +13922,6 @@ distance('Campo de  Fiori','Villa Balestra',2850).
 distance('Campo de  Fiori','Palazzo Borghese',1002).
 distance('Campo de  Fiori','National Academy of San Luca',1177).
 distance('Campo de  Fiori','Museo Carlo Bilotti',2179).
-distance('Campo de  Fiori','Palazzo Wedekind',846).
 distance('Campo de  Fiori','Cloaca Maxima',1047).
 distance('Campo de  Fiori','Temple of Apollo Palatinus',1499).
 distance('Campo de  Fiori','Circus Maximus',1534).
@@ -14014,19 +13929,19 @@ distance('Campo de  Fiori','Mouth of Truth',1164).
 distance('Campo de  Fiori','Basilica di Santa Sabina all Aventino',1410).
 distance('Campo de  Fiori','Santa Maria in Cosmedin',1176).
 distance('Campo de  Fiori','Non-Catholic Cemetery',2250).
-distance('Campo de  Fiori','Basilica Santa Cecilia in Trastevere',1028).
+distance('Campo de  Fiori','Basilica di Santa Cecilia in Trastevere',1028).
 distance('Campo de  Fiori','Mattatoio',2142).
 distance('Campo de  Fiori','Pyramid of Caius Cestius',2266).
 distance('Campo de  Fiori','Turtle Fountain',520).
 distance('Campo de  Fiori','Basilica di San Bartolomeo all Isola',800).
 distance('Campo de  Fiori','Chiesa di Santa Prisca',1713).
-distance('Campo de  Fiori','Tempio Maggiore di Roma',660).
+distance('Campo de  Fiori','Tempio Maggiore',660).
 distance('Campo de  Fiori','Portico of Octavia',661).
 distance('Campo de  Fiori','Basilica Santi Giovanni e Paolo',1971).
 distance('Piazza Navona','Corte Suprema di Cassazione',669).
 distance('Piazza Navona','Museo di Roma - Palazzo Braschi',181).
-distance('Piazza Navona','Parrocchia Santa Maria in Vallicella',333).
-distance('Piazza Navona','Chiesa di San Pietro in Montorio',1282).
+distance('Piazza Navona','Church of Santa Maria in Vallicella',343).
+distance('Piazza Navona','Church of San Pietro in Montorio',1282).
 distance('Piazza Navona','Saint Eligio of Orefici',575).
 distance('Piazza Navona','Palazzo del Commendatore',927).
 distance('Piazza Navona','Porta Santo Spirito',958).
@@ -14092,7 +14007,6 @@ distance('Piazza Navona','Villa Balestra',2467).
 distance('Piazza Navona','Palazzo Borghese',612).
 distance('Piazza Navona','National Academy of San Luca',921).
 distance('Piazza Navona','Museo Carlo Bilotti',1795).
-distance('Piazza Navona','Palazzo Wedekind',560).
 distance('Piazza Navona','Cloaca Maxima',1307).
 distance('Piazza Navona','Temple of Apollo Palatinus',1694).
 distance('Piazza Navona','Circus Maximus',1759).
@@ -14100,18 +14014,18 @@ distance('Piazza Navona','Mouth of Truth',1411).
 distance('Piazza Navona','Basilica di Santa Sabina all Aventino',1719).
 distance('Piazza Navona','Santa Maria in Cosmedin',1421).
 distance('Piazza Navona','Non-Catholic Cemetery',2593).
-distance('Piazza Navona','Basilica Santa Cecilia in Trastevere',1361).
+distance('Piazza Navona','Basilica di Santa Cecilia in Trastevere',1361).
 distance('Piazza Navona','Mattatoio',2518).
 distance('Piazza Navona','Pyramid of Caius Cestius',2600).
 distance('Piazza Navona','Turtle Fountain',699).
 distance('Piazza Navona','Basilica di San Bartolomeo all Isola',1069).
 distance('Piazza Navona','Chiesa di Santa Prisca',1990).
-distance('Piazza Navona','Tempio Maggiore di Roma',896).
+distance('Piazza Navona','Tempio Maggiore',896).
 distance('Piazza Navona','Portico of Octavia',866).
 distance('Piazza Navona','Basilica Santi Giovanni e Paolo',2117).
 distance('Corte Suprema di Cassazione','Museo di Roma - Palazzo Braschi',830).
-distance('Corte Suprema di Cassazione','Parrocchia Santa Maria in Vallicella',701).
-distance('Corte Suprema di Cassazione','Chiesa di San Pietro in Montorio',1805).
+distance('Corte Suprema di Cassazione','Church of Santa Maria in Vallicella',728).
+distance('Corte Suprema di Cassazione','Church of San Pietro in Montorio',1805).
 distance('Corte Suprema di Cassazione','Saint Eligio of Orefici',1022).
 distance('Corte Suprema di Cassazione','Palazzo del Commendatore',753).
 distance('Corte Suprema di Cassazione','Porta Santo Spirito',855).
@@ -14177,7 +14091,6 @@ distance('Corte Suprema di Cassazione','Villa Balestra',1868).
 distance('Corte Suprema di Cassazione','Palazzo Borghese',509).
 distance('Corte Suprema di Cassazione','National Academy of San Luca',1181).
 distance('Corte Suprema di Cassazione','Museo Carlo Bilotti',1457).
-distance('Corte Suprema di Cassazione','Palazzo Wedekind',890).
 distance('Corte Suprema di Cassazione','Cloaca Maxima',1974).
 distance('Corte Suprema di Cassazione','Temple of Apollo Palatinus',2341).
 distance('Corte Suprema di Cassazione','Circus Maximus',2416).
@@ -14185,17 +14098,17 @@ distance('Corte Suprema di Cassazione','Mouth of Truth',2076).
 distance('Corte Suprema di Cassazione','Basilica di Santa Sabina all Aventino',2388).
 distance('Corte Suprema di Cassazione','Santa Maria in Cosmedin',2086).
 distance('Corte Suprema di Cassazione','Non-Catholic Cemetery',3254).
-distance('Corte Suprema di Cassazione','Basilica Santa Cecilia in Trastevere',2024).
+distance('Corte Suprema di Cassazione','Basilica di Santa Cecilia in Trastevere',2024).
 distance('Corte Suprema di Cassazione','Mattatoio',3151).
 distance('Corte Suprema di Cassazione','Pyramid of Caius Cestius',3265).
 distance('Corte Suprema di Cassazione','Turtle Fountain',1363).
 distance('Corte Suprema di Cassazione','Basilica di San Bartolomeo all Isola',1738).
 distance('Corte Suprema di Cassazione','Chiesa di Santa Prisca',2657).
-distance('Corte Suprema di Cassazione','Tempio Maggiore di Roma',1563).
+distance('Corte Suprema di Cassazione','Tempio Maggiore',1563).
 distance('Corte Suprema di Cassazione','Portico of Octavia',1530).
 distance('Corte Suprema di Cassazione','Basilica Santi Giovanni e Paolo',2732).
-distance('Museo di Roma - Palazzo Braschi','Parrocchia Santa Maria in Vallicella',313).
-distance('Museo di Roma - Palazzo Braschi','Chiesa di San Pietro in Montorio',1109).
+distance('Museo di Roma - Palazzo Braschi','Church of Santa Maria in Vallicella',308).
+distance('Museo di Roma - Palazzo Braschi','Church of San Pietro in Montorio',1109).
 distance('Museo di Roma - Palazzo Braschi','Saint Eligio of Orefici',448).
 distance('Museo di Roma - Palazzo Braschi','Palazzo del Commendatore',962).
 distance('Museo di Roma - Palazzo Braschi','Porta Santo Spirito',971).
@@ -14261,7 +14174,6 @@ distance('Museo di Roma - Palazzo Braschi','Villa Balestra',2646).
 distance('Museo di Roma - Palazzo Braschi','Palazzo Borghese',789).
 distance('Museo di Roma - Palazzo Braschi','National Academy of San Luca',1014).
 distance('Museo di Roma - Palazzo Braschi','Museo Carlo Bilotti',1967).
-distance('Museo di Roma - Palazzo Braschi','Palazzo Wedekind',666).
 distance('Museo di Roma - Palazzo Braschi','Cloaca Maxima',1165).
 distance('Museo di Roma - Palazzo Braschi','Temple of Apollo Palatinus',1580).
 distance('Museo di Roma - Palazzo Braschi','Circus Maximus',1633).
@@ -14269,180 +14181,178 @@ distance('Museo di Roma - Palazzo Braschi','Mouth of Truth',1274).
 distance('Museo di Roma - Palazzo Braschi','Basilica di Santa Sabina all Aventino',1562).
 distance('Museo di Roma - Palazzo Braschi','Santa Maria in Cosmedin',1286).
 distance('Museo di Roma - Palazzo Braschi','Non-Catholic Cemetery',2425).
-distance('Museo di Roma - Palazzo Braschi','Basilica Santa Cecilia in Trastevere',1194).
+distance('Museo di Roma - Palazzo Braschi','Basilica di Santa Cecilia in Trastevere',1194).
 distance('Museo di Roma - Palazzo Braschi','Mattatoio',2339).
 distance('Museo di Roma - Palazzo Braschi','Pyramid of Caius Cestius',2435).
 distance('Museo di Roma - Palazzo Braschi','Turtle Fountain',576).
 distance('Museo di Roma - Palazzo Braschi','Basilica di San Bartolomeo all Isola',922).
 distance('Museo di Roma - Palazzo Braschi','Chiesa di Santa Prisca',1845).
-distance('Museo di Roma - Palazzo Braschi','Tempio Maggiore di Roma',758).
+distance('Museo di Roma - Palazzo Braschi','Tempio Maggiore',758).
 distance('Museo di Roma - Palazzo Braschi','Portico of Octavia',738).
 distance('Museo di Roma - Palazzo Braschi','Basilica Santi Giovanni e Paolo',2025).
-distance('Parrocchia Santa Maria in Vallicella','Chiesa di San Pietro in Montorio',1105).
-distance('Parrocchia Santa Maria in Vallicella','Saint Eligio of Orefici',325).
-distance('Parrocchia Santa Maria in Vallicella','Palazzo del Commendatore',652).
-distance('Parrocchia Santa Maria in Vallicella','Porta Santo Spirito',658).
-distance('Parrocchia Santa Maria in Vallicella','Bernini Fountain',1049).
-distance('Parrocchia Santa Maria in Vallicella','Presepe dei Netturbini',1155).
-distance('Parrocchia Santa Maria in Vallicella','Church of Saints Michael and Magnus',746).
-distance('Parrocchia Santa Maria in Vallicella','Museum Leonardo Da Vinci Experience',748).
-distance('Parrocchia Santa Maria in Vallicella','Vatican Necropolis',1301).
-distance('Parrocchia Santa Maria in Vallicella','Apostolic Palace',1217).
-distance('Parrocchia Santa Maria in Vallicella','Ponte Vittorio Emanuele II',499).
-distance('Parrocchia Santa Maria in Vallicella','Chiesa di Sant Anna dei Palafrenieri',1150).
-distance('Parrocchia Santa Maria in Vallicella','Operativa Arte Contemporanea',301).
-distance('Parrocchia Santa Maria in Vallicella','Santa Maria del Suffragio',240).
-distance('Parrocchia Santa Maria in Vallicella','Vatican Apostolic Archive',1381).
-distance('Parrocchia Santa Maria in Vallicella','Carriage Pavilion',1495).
-distance('Parrocchia Santa Maria in Vallicella','Monastero Mater Ecclesi',1620).
-distance('Parrocchia Santa Maria in Vallicella','Oratorio dei Filippini (Oratory of St Philip Neri)',68).
-distance('Parrocchia Santa Maria in Vallicella','House of Hospitality Paul VI',1681).
-distance('Parrocchia Santa Maria in Vallicella','Chiesa di Santa Maria del Rosario in Prati',1427).
-distance('Parrocchia Santa Maria in Vallicella','Welcome To Rome',203).
-distance('Parrocchia Santa Maria in Vallicella','Stadium of Domitian',339).
-distance('Parrocchia Santa Maria in Vallicella','Palazzo Pamphili',310).
-distance('Parrocchia Santa Maria in Vallicella','Fountain of the Moro',333).
-distance('Parrocchia Santa Maria in Vallicella','Cappella Chigi',1563).
-distance('Parrocchia Santa Maria in Vallicella','Chiesa di Gesu e Maria',1269).
-distance('Parrocchia Santa Maria in Vallicella','Villa Borghese',2081).
-distance('Parrocchia Santa Maria in Vallicella','Passeggiata del Pincio',1698).
-distance('Parrocchia Santa Maria in Vallicella','Borghese Gallery and Museum',2586).
-distance('Parrocchia Santa Maria in Vallicella','National Gallery of Modern and Contemporary Art',2326).
-distance('Parrocchia Santa Maria in Vallicella','Mausoleum of Augustus',1032).
-distance('Parrocchia Santa Maria in Vallicella','Chiesa Parrocchiale San Giacomo in Augusta',1238).
-distance('Parrocchia Santa Maria in Vallicella','Villa Medici',1560).
-distance('Parrocchia Santa Maria in Vallicella','Basilica of Saint Lawrence in Lucina',954).
-distance('Parrocchia Santa Maria in Vallicella','Basilica of SS. Ambrose and Charles on the Corso',1078).
-distance('Parrocchia Santa Maria in Vallicella','Giorgio de Chirico House Museum',1368).
-distance('Parrocchia Santa Maria in Vallicella','Santa Maria in Montesanto',1437).
-distance('Parrocchia Santa Maria in Vallicella','Fontana della Barcaccia',1356).
-distance('Parrocchia Santa Maria in Vallicella','Museo Leonardo da Vinci',1541).
-distance('Parrocchia Santa Maria in Vallicella','Explora - Il Museo dei Bambini di Roma',1901).
-distance('Parrocchia Santa Maria in Vallicella','Orologio ad acqua del Pincio',1760).
-distance('Parrocchia Santa Maria in Vallicella','Ponte Giacomo Matteotti',1772).
-distance('Parrocchia Santa Maria in Vallicella','National Etruscan Museum of Villa Giulia',2319).
-distance('Parrocchia Santa Maria in Vallicella','Fontana del Babuino',1348).
-distance('Parrocchia Santa Maria in Vallicella','Fontana del Bottino',1467).
-distance('Parrocchia Santa Maria in Vallicella','Trinita dei Monti',1482).
-distance('Parrocchia Santa Maria in Vallicella','Galleria del Cembalo',861).
-distance('Parrocchia Santa Maria in Vallicella','Chiesa di Santa Maria in Via',1076).
-distance('Parrocchia Santa Maria in Vallicella','Palazzo di Propaganda Fide',1338).
-distance('Parrocchia Santa Maria in Vallicella','Basilica di Sant Andrea delle Fratte',1330).
-distance('Parrocchia Santa Maria in Vallicella','Piazza del Popolo',1483).
-distance('Parrocchia Santa Maria in Vallicella','Marcus Aurelius Column',936).
-distance('Parrocchia Santa Maria in Vallicella','Piazza di Siena',2243).
-distance('Parrocchia Santa Maria in Vallicella','All Saints  Anglican Church Rome',1357).
-distance('Parrocchia Santa Maria in Vallicella','Church of Saint Roch  all Augusteo ',957).
-distance('Parrocchia Santa Maria in Vallicella','Church of Our Lady in Trivio',1164).
-distance('Parrocchia Santa Maria in Vallicella','Il Tempio di Adriano',863).
-distance('Parrocchia Santa Maria in Vallicella','Museo Civico di Zoologia',2813).
-distance('Parrocchia Santa Maria in Vallicella','Basilica of St. Augustine in Campo Marzio',499).
-distance('Parrocchia Santa Maria in Vallicella','Hendrik Christian Anderson Museum',1756).
-distance('Parrocchia Santa Maria in Vallicella','Goethe House',1349).
-distance('Parrocchia Santa Maria in Vallicella','Institute of Japanese Culture',2395).
-distance('Parrocchia Santa Maria in Vallicella','Villa Balestra',2569).
-distance('Parrocchia Santa Maria in Vallicella','Palazzo Borghese',859).
-distance('Parrocchia Santa Maria in Vallicella','National Academy of San Luca',1254).
-distance('Parrocchia Santa Maria in Vallicella','Museo Carlo Bilotti',2030).
-distance('Parrocchia Santa Maria in Vallicella','Palazzo Wedekind',892).
-distance('Parrocchia Santa Maria in Vallicella','Cloaca Maxima',1423).
-distance('Parrocchia Santa Maria in Vallicella','Temple of Apollo Palatinus',1865).
-distance('Parrocchia Santa Maria in Vallicella','Circus Maximus',1907).
-distance('Parrocchia Santa Maria in Vallicella','Mouth of Truth',1539).
-distance('Parrocchia Santa Maria in Vallicella','Basilica di Santa Sabina all Aventino',1784).
-distance('Parrocchia Santa Maria in Vallicella','Santa Maria in Cosmedin',1551).
-distance('Parrocchia Santa Maria in Vallicella','Non-Catholic Cemetery',2607).
-distance('Parrocchia Santa Maria in Vallicella','Basilica Santa Cecilia in Trastevere',1397).
-distance('Parrocchia Santa Maria in Vallicella','Mattatoio',2466).
-distance('Parrocchia Santa Maria in Vallicella','Pyramid of Caius Cestius',2629).
-distance('Parrocchia Santa Maria in Vallicella','Turtle Fountain',868).
-distance('Parrocchia Santa Maria in Vallicella','Basilica di San Bartolomeo all Isola',1176).
-distance('Parrocchia Santa Maria in Vallicella','Chiesa di Santa Prisca',2090).
-distance('Parrocchia Santa Maria in Vallicella','Tempio Maggiore di Roma',1030).
-distance('Parrocchia Santa Maria in Vallicella','Portico of Octavia',1022).
-distance('Parrocchia Santa Maria in Vallicella','Basilica Santi Giovanni e Paolo',2325).
-distance('Chiesa di San Pietro in Montorio','Saint Eligio of Orefici',782).
-distance('Chiesa di San Pietro in Montorio','Palazzo del Commendatore',1437).
-distance('Chiesa di San Pietro in Montorio','Porta Santo Spirito',1349).
-distance('Chiesa di San Pietro in Montorio','Bernini Fountain',1627).
-distance('Chiesa di San Pietro in Montorio','Presepe dei Netturbini',1531).
-distance('Chiesa di San Pietro in Montorio','Church of Saints Michael and Magnus',1469).
-distance('Chiesa di San Pietro in Montorio','Museum Leonardo Da Vinci Experience',1539).
-distance('Chiesa di San Pietro in Montorio','Vatican Necropolis',1769).
-distance('Chiesa di San Pietro in Montorio','Apostolic Palace',1849).
-distance('Chiesa di San Pietro in Montorio','Ponte Vittorio Emanuele II',1390).
-distance('Chiesa di San Pietro in Montorio','Chiesa di Sant Anna dei Palafrenieri',1855).
-distance('Chiesa di San Pietro in Montorio','Operativa Arte Contemporanea',1216).
-distance('Chiesa di San Pietro in Montorio','Santa Maria del Suffragio',1013).
-distance('Chiesa di San Pietro in Montorio','Vatican Apostolic Archive',2031).
-distance('Chiesa di San Pietro in Montorio','Carriage Pavilion',2120).
-distance('Chiesa di San Pietro in Montorio','Monastero Mater Ecclesi',2104).
-distance('Chiesa di San Pietro in Montorio','Oratorio dei Filippini (Oratory of St Philip Neri)',1144).
-distance('Chiesa di San Pietro in Montorio','House of Hospitality Paul VI',2321).
-distance('Chiesa di San Pietro in Montorio','Chiesa di Santa Maria del Rosario in Prati',2296).
-distance('Chiesa di San Pietro in Montorio','Welcome To Rome',1032).
-distance('Chiesa di San Pietro in Montorio','Stadium of Domitian',1371).
-distance('Chiesa di San Pietro in Montorio','Palazzo Pamphili',1152).
-distance('Chiesa di San Pietro in Montorio','Fountain of the Moro',1182).
-distance('Chiesa di San Pietro in Montorio','Cappella Chigi',2657).
-distance('Chiesa di San Pietro in Montorio','Chiesa di Gesu e Maria',2332).
-distance('Chiesa di San Pietro in Montorio','Villa Borghese',3102).
-distance('Chiesa di San Pietro in Montorio','Passeggiata del Pincio',2749).
-distance('Chiesa di San Pietro in Montorio','Borghese Gallery and Museum',3544).
-distance('Chiesa di San Pietro in Montorio','National Gallery of Modern and Contemporary Art',3404).
-distance('Chiesa di San Pietro in Montorio','Mausoleum of Augustus',2092).
-distance('Chiesa di San Pietro in Montorio','Chiesa Parrocchiale San Giacomo in Augusta',2302).
-distance('Chiesa di San Pietro in Montorio','Villa Medici',2554).
-distance('Chiesa di San Pietro in Montorio','Basilica of Saint Lawrence in Lucina',1910).
-distance('Chiesa di San Pietro in Montorio','Basilica of SS. Ambrose and Charles on the Corso',2091).
-distance('Chiesa di San Pietro in Montorio','Giorgio de Chirico House Museum',2305).
-distance('Chiesa di San Pietro in Montorio','Santa Maria in Montesanto',2522).
-distance('Chiesa di San Pietro in Montorio','Fontana della Barcaccia',2306).
-distance('Chiesa di San Pietro in Montorio','Museo Leonardo da Vinci',2636).
-distance('Chiesa di San Pietro in Montorio','Explora - Il Museo dei Bambini di Roma',3006).
-distance('Chiesa di San Pietro in Montorio','Orologio ad acqua del Pincio',2820).
-distance('Chiesa di San Pietro in Montorio','Ponte Giacomo Matteotti',2872).
-distance('Chiesa di San Pietro in Montorio','National Etruscan Museum of Villa Giulia',3420).
-distance('Chiesa di San Pietro in Montorio','Fontana del Babuino',2380).
-distance('Chiesa di San Pietro in Montorio','Fontana del Bottino',2432).
-distance('Chiesa di San Pietro in Montorio','Trinita dei Monti',2416).
-distance('Chiesa di San Pietro in Montorio','Galleria del Cembalo',1878).
-distance('Chiesa di San Pietro in Montorio','Chiesa di Santa Maria in Via',1901).
-distance('Chiesa di San Pietro in Montorio','Palazzo di Propaganda Fide',2234).
-distance('Chiesa di San Pietro in Montorio','Basilica di Sant Andrea delle Fratte',2182).
-distance('Chiesa di San Pietro in Montorio','Piazza del Popolo',2575).
-distance('Chiesa di San Pietro in Montorio','Marcus Aurelius Column',1754).
-distance('Chiesa di San Pietro in Montorio','Piazza di Siena',3251).
-distance('Chiesa di San Pietro in Montorio','All Saints  Anglican Church Rome',2407).
-distance('Chiesa di San Pietro in Montorio','Church of Saint Roch  all Augusteo ',2021).
-distance('Chiesa di San Pietro in Montorio','Church of Our Lady in Trivio',1934).
-distance('Chiesa di San Pietro in Montorio','Il Tempio di Adriano',1641).
-distance('Chiesa di San Pietro in Montorio','Museo Civico di Zoologia',3856).
-distance('Chiesa di San Pietro in Montorio','Basilica of St. Augustine in Campo Marzio',1494).
-distance('Chiesa di San Pietro in Montorio','Hendrik Christian Anderson Museum',2861).
-distance('Chiesa di San Pietro in Montorio','Goethe House',2425).
-distance('Chiesa di San Pietro in Montorio','Institute of Japanese Culture',3492).
-distance('Chiesa di San Pietro in Montorio','Villa Balestra',3674).
-distance('Chiesa di San Pietro in Montorio','Palazzo Borghese',1895).
-distance('Chiesa di San Pietro in Montorio','National Academy of San Luca',2023).
-distance('Chiesa di San Pietro in Montorio','Museo Carlo Bilotti',3077).
-distance('Chiesa di San Pietro in Montorio','Palazzo Wedekind',1724).
-distance('Chiesa di San Pietro in Montorio','Cloaca Maxima',1142).
-distance('Chiesa di San Pietro in Montorio','Temple of Apollo Palatinus',1631).
-distance('Chiesa di San Pietro in Montorio','Circus Maximus',1581).
-distance('Chiesa di San Pietro in Montorio','Mouth of Truth',1250).
-distance('Chiesa di San Pietro in Montorio','Basilica di Santa Sabina all Aventino',1204).
-distance('Chiesa di San Pietro in Montorio','Santa Maria in Cosmedin',1266).
-distance('Chiesa di San Pietro in Montorio','Non-Catholic Cemetery',1756).
-distance('Chiesa di San Pietro in Montorio','Basilica Santa Cecilia in Trastevere',861).
-distance('Chiesa di San Pietro in Montorio','Mattatoio',1475).
-distance('Chiesa di San Pietro in Montorio','Pyramid of Caius Cestius',1816).
-distance('Chiesa di San Pietro in Montorio','Turtle Fountain',1085).
-distance('Chiesa di San Pietro in Montorio','Basilica di San Bartolomeo all Isola',995).
-distance('Chiesa di San Pietro in Montorio','Chiesa di Santa Prisca',1561).
-distance('Chiesa di San Pietro in Montorio','Tempio Maggiore di Roma',1030).
-distance('Chiesa di San Pietro in Montorio','Portico of Octavia',1090).
-distance('Chiesa di San Pietro in Montorio','Basilica Santi Giovanni e Paolo',2148).
+distance('Church of Santa Maria in Vallicella','Church of San Pietro in Montorio',1079).
+distance('Church of Santa Maria in Vallicella','Saint Eligio of Orefici',299).
+distance('Church of Santa Maria in Vallicella','Palazzo del Commendatore',662).
+distance('Church of Santa Maria in Vallicella','Porta Santo Spirito',664).
+distance('Church of Santa Maria in Vallicella','Bernini Fountain',1055).
+distance('Church of Santa Maria in Vallicella','Presepe dei Netturbini',1156).
+distance('Church of Santa Maria in Vallicella','Church of Saints Michael and Magnus',755).
+distance('Church of Santa Maria in Vallicella','Museum Leonardo Da Vinci Experience',760).
+distance('Church of Santa Maria in Vallicella','Vatican Necropolis',1305).
+distance('Church of Santa Maria in Vallicella','Apostolic Palace',1226).
+distance('Church of Santa Maria in Vallicella','Ponte Vittorio Emanuele II',513).
+distance('Church of Santa Maria in Vallicella','Chiesa di Sant Anna dei Palafrenieri',1162).
+distance('Church of Santa Maria in Vallicella','Operativa Arte Contemporanea',311).
+distance('Church of Santa Maria in Vallicella','Santa Maria del Suffragio',231).
+distance('Church of Santa Maria in Vallicella','Vatican Apostolic Archive',1393).
+distance('Church of Santa Maria in Vallicella','Carriage Pavilion',1506).
+distance('Church of Santa Maria in Vallicella','Monastero Mater Ecclesi',1627).
+distance('Church of Santa Maria in Vallicella','Oratorio dei Filippini (Oratory of St Philip Neri)',87).
+distance('Church of Santa Maria in Vallicella','House of Hospitality Paul VI',1693).
+distance('Church of Santa Maria in Vallicella','Chiesa di Santa Maria del Rosario in Prati',1446).
+distance('Church of Santa Maria in Vallicella','Welcome To Rome',190).
+distance('Church of Santa Maria in Vallicella','Stadium of Domitian',357).
+distance('Church of Santa Maria in Vallicella','Palazzo Pamphili',309).
+distance('Church of Santa Maria in Vallicella','Fountain of the Moro',334).
+distance('Church of Santa Maria in Vallicella','Cappella Chigi',1589).
+distance('Church of Santa Maria in Vallicella','Chiesa di Gesu e Maria',1292).
+distance('Church of Santa Maria in Vallicella','Villa Borghese',2103).
+distance('Church of Santa Maria in Vallicella','Passeggiata del Pincio',1721).
+distance('Church of Santa Maria in Vallicella','Borghese Gallery and Museum',2606).
+distance('Church of Santa Maria in Vallicella','National Gallery of Modern and Contemporary Art',2351).
+distance('Church of Santa Maria in Vallicella','Mausoleum of Augustus',1055).
+distance('Church of Santa Maria in Vallicella','Chiesa Parrocchiale San Giacomo in Augusta',1261).
+distance('Church of Santa Maria in Vallicella','Villa Medici',1580).
+distance('Church of Santa Maria in Vallicella','Basilica of Saint Lawrence in Lucina',971).
+distance('Church of Santa Maria in Vallicella','Basilica of SS. Ambrose and Charles on the Corso',1099).
+distance('Church of Santa Maria in Vallicella','Giorgio de Chirico House Museum',1386).
+distance('Church of Santa Maria in Vallicella','Santa Maria in Montesanto',1461).
+distance('Church of Santa Maria in Vallicella','Fontana della Barcaccia',1374).
+distance('Church of Santa Maria in Vallicella','Museo Leonardo da Vinci',1567).
+distance('Church of Santa Maria in Vallicella','Explora - Il Museo dei Bambini di Roma',1928).
+distance('Church of Santa Maria in Vallicella','Orologio ad acqua del Pincio',1784).
+distance('Church of Santa Maria in Vallicella','Ponte Giacomo Matteotti',1799).
+distance('Church of Santa Maria in Vallicella','National Etruscan Museum of Villa Giulia',2345).
+distance('Church of Santa Maria in Vallicella','Fontana del Babuino',1370).
+distance('Church of Santa Maria in Vallicella','Fontana del Bottino',1486).
+distance('Church of Santa Maria in Vallicella','Trinita dei Monti',1500).
+distance('Church of Santa Maria in Vallicella','Galleria del Cembalo',881).
+distance('Church of Santa Maria in Vallicella','Chiesa di Santa Maria in Via',1088).
+distance('Church of Santa Maria in Vallicella','Palazzo di Propaganda Fide',1354).
+distance('Church of Santa Maria in Vallicella','Basilica di Sant Andrea delle Fratte',1343).
+distance('Church of Santa Maria in Vallicella','Piazza del Popolo',1508).
+distance('Church of Santa Maria in Vallicella','Marcus Aurelius Column',946).
+distance('Church of Santa Maria in Vallicella','Piazza di Siena',2265).
+distance('Church of Santa Maria in Vallicella','All Saints  Anglican Church Rome',1380).
+distance('Church of Santa Maria in Vallicella','Church of Saint Roch  all Augusteo ',981).
+distance('Church of Santa Maria in Vallicella','Church of Our Lady in Trivio',1174).
+distance('Church of Santa Maria in Vallicella','Il Tempio di Adriano',871).
+distance('Church of Santa Maria in Vallicella','Museo Civico di Zoologia',2837).
+distance('Church of Santa Maria in Vallicella','Basilica of St. Augustine in Campo Marzio',515).
+distance('Church of Santa Maria in Vallicella','Hendrik Christian Anderson Museum',1783).
+distance('Church of Santa Maria in Vallicella','Goethe House',1373).
+distance('Church of Santa Maria in Vallicella','Institute of Japanese Culture',2420).
+distance('Church of Santa Maria in Vallicella','Villa Balestra',2596).
+distance('Church of Santa Maria in Vallicella','Palazzo Borghese',880).
+distance('Church of Santa Maria in Vallicella','National Academy of San Luca',1264).
+distance('Church of Santa Maria in Vallicella','Museo Carlo Bilotti',2053).
+distance('Church of Santa Maria in Vallicella','Cloaca Maxima',1405).
+distance('Church of Santa Maria in Vallicella','Temple of Apollo Palatinus',1850).
+distance('Church of Santa Maria in Vallicella','Circus Maximus',1890).
+distance('Church of Santa Maria in Vallicella','Mouth of Truth',1521).
+distance('Church of Santa Maria in Vallicella','Basilica di Santa Sabina all Aventino',1763).
+distance('Church of Santa Maria in Vallicella','Santa Maria in Cosmedin',1534).
+distance('Church of Santa Maria in Vallicella','Non-Catholic Cemetery',2583).
+distance('Church of Santa Maria in Vallicella','Basilica di Santa Cecilia in Trastevere',1375).
+distance('Church of Santa Maria in Vallicella','Mattatoio',2441).
+distance('Church of Santa Maria in Vallicella','Pyramid of Caius Cestius',2606).
+distance('Church of Santa Maria in Vallicella','Turtle Fountain',855).
+distance('Church of Santa Maria in Vallicella','Basilica di San Bartolomeo all Isola',1158).
+distance('Church of Santa Maria in Vallicella','Chiesa di Santa Prisca',2070).
+distance('Church of Santa Maria in Vallicella','Tempio Maggiore',1013).
+distance('Church of Santa Maria in Vallicella','Portico of Octavia',1007).
+distance('Church of Santa Maria in Vallicella','Basilica Santi Giovanni e Paolo',2312).
+distance('Church of San Pietro in Montorio','Saint Eligio of Orefici',782).
+distance('Church of San Pietro in Montorio','Palazzo del Commendatore',1437).
+distance('Church of San Pietro in Montorio','Porta Santo Spirito',1349).
+distance('Church of San Pietro in Montorio','Bernini Fountain',1627).
+distance('Church of San Pietro in Montorio','Presepe dei Netturbini',1531).
+distance('Church of San Pietro in Montorio','Church of Saints Michael and Magnus',1469).
+distance('Church of San Pietro in Montorio','Museum Leonardo Da Vinci Experience',1539).
+distance('Church of San Pietro in Montorio','Vatican Necropolis',1769).
+distance('Church of San Pietro in Montorio','Apostolic Palace',1849).
+distance('Church of San Pietro in Montorio','Ponte Vittorio Emanuele II',1390).
+distance('Church of San Pietro in Montorio','Chiesa di Sant Anna dei Palafrenieri',1855).
+distance('Church of San Pietro in Montorio','Operativa Arte Contemporanea',1216).
+distance('Church of San Pietro in Montorio','Santa Maria del Suffragio',1013).
+distance('Church of San Pietro in Montorio','Vatican Apostolic Archive',2031).
+distance('Church of San Pietro in Montorio','Carriage Pavilion',2120).
+distance('Church of San Pietro in Montorio','Monastero Mater Ecclesi',2104).
+distance('Church of San Pietro in Montorio','Oratorio dei Filippini (Oratory of St Philip Neri)',1144).
+distance('Church of San Pietro in Montorio','House of Hospitality Paul VI',2321).
+distance('Church of San Pietro in Montorio','Chiesa di Santa Maria del Rosario in Prati',2296).
+distance('Church of San Pietro in Montorio','Welcome To Rome',1032).
+distance('Church of San Pietro in Montorio','Stadium of Domitian',1371).
+distance('Church of San Pietro in Montorio','Palazzo Pamphili',1152).
+distance('Church of San Pietro in Montorio','Fountain of the Moro',1182).
+distance('Church of San Pietro in Montorio','Cappella Chigi',2657).
+distance('Church of San Pietro in Montorio','Chiesa di Gesu e Maria',2332).
+distance('Church of San Pietro in Montorio','Villa Borghese',3102).
+distance('Church of San Pietro in Montorio','Passeggiata del Pincio',2749).
+distance('Church of San Pietro in Montorio','Borghese Gallery and Museum',3544).
+distance('Church of San Pietro in Montorio','National Gallery of Modern and Contemporary Art',3404).
+distance('Church of San Pietro in Montorio','Mausoleum of Augustus',2092).
+distance('Church of San Pietro in Montorio','Chiesa Parrocchiale San Giacomo in Augusta',2302).
+distance('Church of San Pietro in Montorio','Villa Medici',2554).
+distance('Church of San Pietro in Montorio','Basilica of Saint Lawrence in Lucina',1910).
+distance('Church of San Pietro in Montorio','Basilica of SS. Ambrose and Charles on the Corso',2091).
+distance('Church of San Pietro in Montorio','Giorgio de Chirico House Museum',2305).
+distance('Church of San Pietro in Montorio','Santa Maria in Montesanto',2522).
+distance('Church of San Pietro in Montorio','Fontana della Barcaccia',2306).
+distance('Church of San Pietro in Montorio','Museo Leonardo da Vinci',2636).
+distance('Church of San Pietro in Montorio','Explora - Il Museo dei Bambini di Roma',3006).
+distance('Church of San Pietro in Montorio','Orologio ad acqua del Pincio',2820).
+distance('Church of San Pietro in Montorio','Ponte Giacomo Matteotti',2872).
+distance('Church of San Pietro in Montorio','National Etruscan Museum of Villa Giulia',3420).
+distance('Church of San Pietro in Montorio','Fontana del Babuino',2380).
+distance('Church of San Pietro in Montorio','Fontana del Bottino',2432).
+distance('Church of San Pietro in Montorio','Trinita dei Monti',2416).
+distance('Church of San Pietro in Montorio','Galleria del Cembalo',1878).
+distance('Church of San Pietro in Montorio','Chiesa di Santa Maria in Via',1901).
+distance('Church of San Pietro in Montorio','Palazzo di Propaganda Fide',2234).
+distance('Church of San Pietro in Montorio','Basilica di Sant Andrea delle Fratte',2182).
+distance('Church of San Pietro in Montorio','Piazza del Popolo',2575).
+distance('Church of San Pietro in Montorio','Marcus Aurelius Column',1754).
+distance('Church of San Pietro in Montorio','Piazza di Siena',3251).
+distance('Church of San Pietro in Montorio','All Saints  Anglican Church Rome',2407).
+distance('Church of San Pietro in Montorio','Church of Saint Roch  all Augusteo ',2021).
+distance('Church of San Pietro in Montorio','Church of Our Lady in Trivio',1934).
+distance('Church of San Pietro in Montorio','Il Tempio di Adriano',1641).
+distance('Church of San Pietro in Montorio','Museo Civico di Zoologia',3856).
+distance('Church of San Pietro in Montorio','Basilica of St. Augustine in Campo Marzio',1494).
+distance('Church of San Pietro in Montorio','Hendrik Christian Anderson Museum',2861).
+distance('Church of San Pietro in Montorio','Goethe House',2425).
+distance('Church of San Pietro in Montorio','Institute of Japanese Culture',3492).
+distance('Church of San Pietro in Montorio','Villa Balestra',3674).
+distance('Church of San Pietro in Montorio','Palazzo Borghese',1895).
+distance('Church of San Pietro in Montorio','National Academy of San Luca',2023).
+distance('Church of San Pietro in Montorio','Museo Carlo Bilotti',3077).
+distance('Church of San Pietro in Montorio','Cloaca Maxima',1142).
+distance('Church of San Pietro in Montorio','Temple of Apollo Palatinus',1631).
+distance('Church of San Pietro in Montorio','Circus Maximus',1581).
+distance('Church of San Pietro in Montorio','Mouth of Truth',1250).
+distance('Church of San Pietro in Montorio','Basilica di Santa Sabina all Aventino',1204).
+distance('Church of San Pietro in Montorio','Santa Maria in Cosmedin',1266).
+distance('Church of San Pietro in Montorio','Non-Catholic Cemetery',1756).
+distance('Church of San Pietro in Montorio','Basilica di Santa Cecilia in Trastevere',861).
+distance('Church of San Pietro in Montorio','Mattatoio',1475).
+distance('Church of San Pietro in Montorio','Pyramid of Caius Cestius',1816).
+distance('Church of San Pietro in Montorio','Turtle Fountain',1085).
+distance('Church of San Pietro in Montorio','Basilica di San Bartolomeo all Isola',995).
+distance('Church of San Pietro in Montorio','Chiesa di Santa Prisca',1561).
+distance('Church of San Pietro in Montorio','Tempio Maggiore',1030).
+distance('Church of San Pietro in Montorio','Portico of Octavia',1090).
+distance('Church of San Pietro in Montorio','Basilica Santi Giovanni e Paolo',2148).
 distance('Saint Eligio of Orefici','Palazzo del Commendatore',779).
 distance('Saint Eligio of Orefici','Porta Santo Spirito',734).
 distance('Saint Eligio of Orefici','Bernini Fountain',1106).
@@ -14507,7 +14417,6 @@ distance('Saint Eligio of Orefici','Villa Balestra',2891).
 distance('Saint Eligio of Orefici','Palazzo Borghese',1164).
 distance('Saint Eligio of Orefici','National Academy of San Luca',1463).
 distance('Saint Eligio of Orefici','Museo Carlo Bilotti',2344).
-distance('Saint Eligio of Orefici','Palazzo Wedekind',1113).
 distance('Saint Eligio of Orefici','Cloaca Maxima',1283).
 distance('Saint Eligio of Orefici','Temple of Apollo Palatinus',1763).
 distance('Saint Eligio of Orefici','Circus Maximus',1780).
@@ -14515,13 +14424,13 @@ distance('Saint Eligio of Orefici','Mouth of Truth',1404).
 distance('Saint Eligio of Orefici','Basilica di Santa Sabina all Aventino',1585).
 distance('Saint Eligio of Orefici','Santa Maria in Cosmedin',1419).
 distance('Saint Eligio of Orefici','Non-Catholic Cemetery',2358).
-distance('Saint Eligio of Orefici','Basilica Santa Cecilia in Trastevere',1187).
+distance('Saint Eligio of Orefici','Basilica di Santa Cecilia in Trastevere',1187).
 distance('Saint Eligio of Orefici','Mattatoio',2179).
 distance('Saint Eligio of Orefici','Pyramid of Caius Cestius',2390).
 distance('Saint Eligio of Orefici','Turtle Fountain',828).
 distance('Saint Eligio of Orefici','Basilica di San Bartolomeo all Isola',1041).
 distance('Saint Eligio of Orefici','Chiesa di Santa Prisca',1915).
-distance('Saint Eligio of Orefici','Tempio Maggiore di Roma',934).
+distance('Saint Eligio of Orefici','Tempio Maggiore',934).
 distance('Saint Eligio of Orefici','Portico of Octavia',949).
 distance('Saint Eligio of Orefici','Basilica Santi Giovanni e Paolo',2254).
 distance('Palazzo del Commendatore','Porta Santo Spirito',118).
@@ -14587,7 +14496,6 @@ distance('Palazzo del Commendatore','Villa Balestra',2421).
 distance('Palazzo del Commendatore','Palazzo Borghese',1196).
 distance('Palazzo del Commendatore','National Academy of San Luca',1777).
 distance('Palazzo del Commendatore','Museo Carlo Bilotti',2201).
-distance('Palazzo del Commendatore','Palazzo Wedekind',1425).
 distance('Palazzo del Commendatore','Cloaca Maxima',2045).
 distance('Palazzo del Commendatore','Temple of Apollo Palatinus',2506).
 distance('Palazzo del Commendatore','Circus Maximus',2538).
@@ -14595,13 +14503,13 @@ distance('Palazzo del Commendatore','Mouth of Truth',2164).
 distance('Palazzo del Commendatore','Basilica di Santa Sabina all Aventino',2364).
 distance('Palazzo del Commendatore','Santa Maria in Cosmedin',2177).
 distance('Palazzo del Commendatore','Non-Catholic Cemetery',3123).
-distance('Palazzo del Commendatore','Basilica Santa Cecilia in Trastevere',1967).
+distance('Palazzo del Commendatore','Basilica di Santa Cecilia in Trastevere',1967).
 distance('Palazzo del Commendatore','Mattatoio',2904).
 distance('Palazzo del Commendatore','Pyramid of Caius Cestius',3161).
 distance('Palazzo del Commendatore','Turtle Fountain',1517).
 distance('Palazzo del Commendatore','Basilica di San Bartolomeo all Isola',1799).
 distance('Palazzo del Commendatore','Chiesa di Santa Prisca',2691).
-distance('Palazzo del Commendatore','Tempio Maggiore di Roma',1667).
+distance('Palazzo del Commendatore','Tempio Maggiore',1667).
 distance('Palazzo del Commendatore','Portico of Octavia',1666).
 distance('Palazzo del Commendatore','Basilica Santi Giovanni e Paolo',2974).
 distance('Porta Santo Spirito','Bernini Fountain',391).
@@ -14666,7 +14574,6 @@ distance('Porta Santo Spirito','Villa Balestra',2539).
 distance('Porta Santo Spirito','Palazzo Borghese',1279).
 distance('Porta Santo Spirito','National Academy of San Luca',1835).
 distance('Porta Santo Spirito','Museo Carlo Bilotti',2309).
-distance('Porta Santo Spirito','Palazzo Wedekind',1478).
 distance('Porta Santo Spirito','Cloaca Maxima',2014).
 distance('Porta Santo Spirito','Temple of Apollo Palatinus',2484).
 distance('Porta Santo Spirito','Circus Maximus',2509).
@@ -14674,13 +14581,13 @@ distance('Porta Santo Spirito','Mouth of Truth',2134).
 distance('Porta Santo Spirito','Basilica di Santa Sabina all Aventino',2315).
 distance('Porta Santo Spirito','Santa Maria in Cosmedin',2148).
 distance('Porta Santo Spirito','Non-Catholic Cemetery',3054).
-distance('Porta Santo Spirito','Basilica Santa Cecilia in Trastevere',1917).
+distance('Porta Santo Spirito','Basilica di Santa Cecilia in Trastevere',1917).
 distance('Porta Santo Spirito','Mattatoio',2821).
 distance('Porta Santo Spirito','Pyramid of Caius Cestius',3095).
 distance('Porta Santo Spirito','Turtle Fountain',1508).
 distance('Porta Santo Spirito','Basilica di San Bartolomeo all Isola',1769).
 distance('Porta Santo Spirito','Chiesa di Santa Prisca',2648).
-distance('Porta Santo Spirito','Tempio Maggiore di Roma',1647).
+distance('Porta Santo Spirito','Tempio Maggiore',1647).
 distance('Porta Santo Spirito','Portico of Octavia',1651).
 distance('Porta Santo Spirito','Basilica Santi Giovanni e Paolo',2962).
 distance('Bernini Fountain','Presepe dei Netturbini',267).
@@ -14744,7 +14651,6 @@ distance('Bernini Fountain','Villa Balestra',2574).
 distance('Bernini Fountain','Palazzo Borghese',1592).
 distance('Bernini Fountain','National Academy of San Luca',2191).
 distance('Bernini Fountain','Museo Carlo Bilotti',2520).
-distance('Bernini Fountain','Palazzo Wedekind',1841).
 distance('Bernini Fountain','Cloaca Maxima',2390).
 distance('Bernini Fountain','Temple of Apollo Palatinus',2867).
 distance('Bernini Fountain','Circus Maximus',2887).
@@ -14752,13 +14658,13 @@ distance('Bernini Fountain','Mouth of Truth',2511).
 distance('Bernini Fountain','Basilica di Santa Sabina all Aventino',2670).
 distance('Bernini Fountain','Santa Maria in Cosmedin',2525).
 distance('Bernini Fountain','Non-Catholic Cemetery',3369).
-distance('Bernini Fountain','Basilica Santa Cecilia in Trastevere',2272).
+distance('Bernini Fountain','Basilica di Santa Cecilia in Trastevere',2272).
 distance('Bernini Fountain','Mattatoio',3099).
 distance('Bernini Fountain','Pyramid of Caius Cestius',3418).
 distance('Bernini Fountain','Turtle Fountain',1897).
 distance('Bernini Fountain','Basilica di San Bartolomeo all Isola',2148).
 distance('Bernini Fountain','Chiesa di Santa Prisca',3010).
-distance('Bernini Fountain','Tempio Maggiore di Roma',2032).
+distance('Bernini Fountain','Tempio Maggiore',2032).
 distance('Bernini Fountain','Portico of Octavia',2038).
 distance('Bernini Fountain','Basilica Santi Giovanni e Paolo',3349).
 distance('Presepe dei Netturbini','Church of Saints Michael and Magnus',502).
@@ -14821,7 +14727,6 @@ distance('Presepe dei Netturbini','Villa Balestra',2840).
 distance('Presepe dei Netturbini','Palazzo Borghese',1796).
 distance('Presepe dei Netturbini','National Academy of San Luca',2360).
 distance('Presepe dei Netturbini','Museo Carlo Bilotti',2769).
-distance('Presepe dei Netturbini','Palazzo Wedekind',2003).
 distance('Presepe dei Netturbini','Cloaca Maxima',2402).
 distance('Presepe dei Netturbini','Temple of Apollo Palatinus',2893).
 distance('Presepe dei Netturbini','Circus Maximus',2900).
@@ -14829,13 +14734,13 @@ distance('Presepe dei Netturbini','Mouth of Truth',2525).
 distance('Presepe dei Netturbini','Basilica di Santa Sabina all Aventino',2643).
 distance('Presepe dei Netturbini','Santa Maria in Cosmedin',2539).
 distance('Presepe dei Netturbini','Non-Catholic Cemetery',3288).
-distance('Presepe dei Netturbini','Basilica Santa Cecilia in Trastevere',2249).
+distance('Presepe dei Netturbini','Basilica di Santa Cecilia in Trastevere',2249).
 distance('Presepe dei Netturbini','Mattatoio',2984).
 distance('Presepe dei Netturbini','Pyramid of Caius Cestius',3345).
 distance('Presepe dei Netturbini','Turtle Fountain',1959).
 distance('Presepe dei Netturbini','Basilica di San Bartolomeo all Isola',2168).
 distance('Presepe dei Netturbini','Chiesa di Santa Prisca',2992).
-distance('Presepe dei Netturbini','Tempio Maggiore di Roma',2071).
+distance('Presepe dei Netturbini','Tempio Maggiore',2071).
 distance('Presepe dei Netturbini','Portico of Octavia',2087).
 distance('Presepe dei Netturbini','Basilica Santi Giovanni e Paolo',3390).
 distance('Church of Saints Michael and Magnus','Museum Leonardo Da Vinci Experience',97).
@@ -14897,7 +14802,6 @@ distance('Church of Saints Michael and Magnus','Villa Balestra',2460).
 distance('Church of Saints Michael and Magnus','Palazzo Borghese',1296).
 distance('Church of Saints Michael and Magnus','National Academy of San Luca',1880).
 distance('Church of Saints Michael and Magnus','Museo Carlo Bilotti',2282).
-distance('Church of Saints Michael and Magnus','Palazzo Wedekind',1529).
 distance('Church of Saints Michael and Magnus','Cloaca Maxima',2124).
 distance('Church of Saints Michael and Magnus','Temple of Apollo Palatinus',2590).
 distance('Church of Saints Michael and Magnus','Circus Maximus',2618).
@@ -14905,13 +14809,13 @@ distance('Church of Saints Michael and Magnus','Mouth of Truth',2244).
 distance('Church of Saints Michael and Magnus','Basilica di Santa Sabina all Aventino',2432).
 distance('Church of Saints Michael and Magnus','Santa Maria in Cosmedin',2257).
 distance('Church of Saints Michael and Magnus','Non-Catholic Cemetery',3175).
-distance('Church of Saints Michael and Magnus','Basilica Santa Cecilia in Trastevere',2034).
+distance('Church of Saints Michael and Magnus','Basilica di Santa Cecilia in Trastevere',2034).
 distance('Church of Saints Michael and Magnus','Mattatoio',2942).
 distance('Church of Saints Michael and Magnus','Pyramid of Caius Cestius',3216).
 distance('Church of Saints Michael and Magnus','Turtle Fountain',1607).
 distance('Church of Saints Michael and Magnus','Basilica di San Bartolomeo all Isola',1879).
 distance('Church of Saints Michael and Magnus','Chiesa di Santa Prisca',2763).
-distance('Church of Saints Michael and Magnus','Tempio Maggiore di Roma',1752).
+distance('Church of Saints Michael and Magnus','Tempio Maggiore',1752).
 distance('Church of Saints Michael and Magnus','Portico of Octavia',1753).
 distance('Church of Saints Michael and Magnus','Basilica Santi Giovanni e Paolo',3063).
 distance('Museum Leonardo Da Vinci Experience','Vatican Necropolis',620).
@@ -14972,7 +14876,6 @@ distance('Museum Leonardo Da Vinci Experience','Villa Balestra',2362).
 distance('Museum Leonardo Da Vinci Experience','Palazzo Borghese',1233).
 distance('Museum Leonardo Da Vinci Experience','National Academy of San Luca',1836).
 distance('Museum Leonardo Da Vinci Experience','Museo Carlo Bilotti',2195).
-distance('Museum Leonardo Da Vinci Experience','Palazzo Wedekind',1489).
 distance('Museum Leonardo Da Vinci Experience','Cloaca Maxima',2149).
 distance('Museum Leonardo Da Vinci Experience','Temple of Apollo Palatinus',2607).
 distance('Museum Leonardo Da Vinci Experience','Circus Maximus',2641).
@@ -14980,13 +14883,13 @@ distance('Museum Leonardo Da Vinci Experience','Mouth of Truth',2268).
 distance('Museum Leonardo Da Vinci Experience','Basilica di Santa Sabina all Aventino',2471).
 distance('Museum Leonardo Da Vinci Experience','Santa Maria in Cosmedin',2281).
 distance('Museum Leonardo Da Vinci Experience','Non-Catholic Cemetery',3230).
-distance('Museum Leonardo Da Vinci Experience','Basilica Santa Cecilia in Trastevere',2074).
+distance('Museum Leonardo Da Vinci Experience','Basilica di Santa Cecilia in Trastevere',2074).
 distance('Museum Leonardo Da Vinci Experience','Mattatoio',3008).
 distance('Museum Leonardo Da Vinci Experience','Pyramid of Caius Cestius',3268).
 distance('Museum Leonardo Da Vinci Experience','Turtle Fountain',1616).
 distance('Museum Leonardo Da Vinci Experience','Basilica di San Bartolomeo all Isola',1903).
 distance('Museum Leonardo Da Vinci Experience','Chiesa di Santa Prisca',2797).
-distance('Museum Leonardo Da Vinci Experience','Tempio Maggiore di Roma',1769).
+distance('Museum Leonardo Da Vinci Experience','Tempio Maggiore',1769).
 distance('Museum Leonardo Da Vinci Experience','Portico of Octavia',1766).
 distance('Museum Leonardo Da Vinci Experience','Basilica Santi Giovanni e Paolo',3073).
 distance('Vatican Necropolis','Apostolic Palace',257).
@@ -15046,7 +14949,6 @@ distance('Vatican Necropolis','Villa Balestra',2718).
 distance('Vatican Necropolis','Palazzo Borghese',1851).
 distance('Vatican Necropolis','National Academy of San Luca',2454).
 distance('Vatican Necropolis','Museo Carlo Bilotti',2746).
-distance('Vatican Necropolis','Palazzo Wedekind',2104).
 distance('Vatican Necropolis','Cloaca Maxima',2607).
 distance('Vatican Necropolis','Temple of Apollo Palatinus',3092).
 distance('Vatican Necropolis','Circus Maximus',3105).
@@ -15054,13 +14956,13 @@ distance('Vatican Necropolis','Mouth of Truth',2729).
 distance('Vatican Necropolis','Basilica di Santa Sabina all Aventino',2864).
 distance('Vatican Necropolis','Santa Maria in Cosmedin',2743).
 distance('Vatican Necropolis','Non-Catholic Cemetery',3525).
-distance('Vatican Necropolis','Basilica Santa Cecilia in Trastevere',2469).
+distance('Vatican Necropolis','Basilica di Santa Cecilia in Trastevere',2469).
 distance('Vatican Necropolis','Mattatoio',3226).
 distance('Vatican Necropolis','Pyramid of Caius Cestius',3580).
 distance('Vatican Necropolis','Turtle Fountain',2137).
 distance('Vatican Necropolis','Basilica di San Bartolomeo all Isola',2368).
 distance('Vatican Necropolis','Chiesa di Santa Prisca',3210).
-distance('Vatican Necropolis','Tempio Maggiore di Roma',2262).
+distance('Vatican Necropolis','Tempio Maggiore',2262).
 distance('Vatican Necropolis','Portico of Octavia',2272).
 distance('Vatican Necropolis','Basilica Santi Giovanni e Paolo',3581).
 distance('Apostolic Palace','Ponte Vittorio Emanuele II',728).
@@ -15119,7 +15021,6 @@ distance('Apostolic Palace','Villa Balestra',2461).
 distance('Apostolic Palace','Palazzo Borghese',1665).
 distance('Apostolic Palace','National Academy of San Luca',2296).
 distance('Apostolic Palace','Museo Carlo Bilotti',2507).
-distance('Apostolic Palace','Palazzo Wedekind',1957).
 distance('Apostolic Palace','Cloaca Maxima',2589).
 distance('Apostolic Palace','Temple of Apollo Palatinus',3060).
 distance('Apostolic Palace','Circus Maximus',3085).
@@ -15127,13 +15028,13 @@ distance('Apostolic Palace','Mouth of Truth',2710).
 distance('Apostolic Palace','Basilica di Santa Sabina all Aventino',2881).
 distance('Apostolic Palace','Santa Maria in Cosmedin',2724).
 distance('Apostolic Palace','Non-Catholic Cemetery',3590).
-distance('Apostolic Palace','Basilica Santa Cecilia in Trastevere',2483).
+distance('Apostolic Palace','Basilica di Santa Cecilia in Trastevere',2483).
 distance('Apostolic Palace','Mattatoio',3322).
 distance('Apostolic Palace','Pyramid of Caius Cestius',3638).
 distance('Apostolic Palace','Turtle Fountain',2079).
 distance('Apostolic Palace','Basilica di San Bartolomeo all Isola',2345).
 distance('Apostolic Palace','Chiesa di Santa Prisca',3219).
-distance('Apostolic Palace','Tempio Maggiore di Roma',2222).
+distance('Apostolic Palace','Tempio Maggiore',2222).
 distance('Apostolic Palace','Portico of Octavia',2225).
 distance('Apostolic Palace','Basilica Santi Giovanni e Paolo',3535).
 distance('Ponte Vittorio Emanuele II','Chiesa di Sant Anna dei Palafrenieri',652).
@@ -15191,7 +15092,6 @@ distance('Ponte Vittorio Emanuele II','Villa Balestra',2375).
 distance('Ponte Vittorio Emanuele II','Palazzo Borghese',1039).
 distance('Ponte Vittorio Emanuele II','National Academy of San Luca',1607).
 distance('Ponte Vittorio Emanuele II','Museo Carlo Bilotti',2080).
-distance('Ponte Vittorio Emanuele II','Palazzo Wedekind',1255).
 distance('Ponte Vittorio Emanuele II','Cloaca Maxima',1913).
 distance('Ponte Vittorio Emanuele II','Temple of Apollo Palatinus',2363).
 distance('Ponte Vittorio Emanuele II','Circus Maximus',2401).
@@ -15199,13 +15099,13 @@ distance('Ponte Vittorio Emanuele II','Mouth of Truth',2030).
 distance('Ponte Vittorio Emanuele II','Basilica di Santa Sabina all Aventino',2250).
 distance('Ponte Vittorio Emanuele II','Santa Maria in Cosmedin',2043).
 distance('Ponte Vittorio Emanuele II','Non-Catholic Cemetery',3033).
-distance('Ponte Vittorio Emanuele II','Basilica Santa Cecilia in Trastevere',1855).
+distance('Ponte Vittorio Emanuele II','Basilica di Santa Cecilia in Trastevere',1855).
 distance('Ponte Vittorio Emanuele II','Mattatoio',2839).
 distance('Ponte Vittorio Emanuele II','Pyramid of Caius Cestius',3066).
 distance('Ponte Vittorio Emanuele II','Turtle Fountain',1368).
 distance('Ponte Vittorio Emanuele II','Basilica di San Bartolomeo all Isola',1665).
 distance('Ponte Vittorio Emanuele II','Chiesa di Santa Prisca',2569).
-distance('Ponte Vittorio Emanuele II','Tempio Maggiore di Roma',1526).
+distance('Ponte Vittorio Emanuele II','Tempio Maggiore',1526).
 distance('Ponte Vittorio Emanuele II','Portico of Octavia',1521).
 distance('Ponte Vittorio Emanuele II','Basilica Santi Giovanni e Paolo',2824).
 distance('Chiesa di Sant Anna dei Palafrenieri','Operativa Arte Contemporanea',850).
@@ -15262,7 +15162,6 @@ distance('Chiesa di Sant Anna dei Palafrenieri','Villa Balestra',2346).
 distance('Chiesa di Sant Anna dei Palafrenieri','Palazzo Borghese',1551).
 distance('Chiesa di Sant Anna dei Palafrenieri','National Academy of San Luca',2191).
 distance('Chiesa di Sant Anna dei Palafrenieri','Museo Carlo Bilotti',2379).
-distance('Chiesa di Sant Anna dei Palafrenieri','Palazzo Wedekind',1856).
 distance('Chiesa di Sant Anna dei Palafrenieri','Cloaca Maxima',2544).
 distance('Chiesa di Sant Anna dei Palafrenieri','Temple of Apollo Palatinus',3007).
 distance('Chiesa di Sant Anna dei Palafrenieri','Circus Maximus',3038).
@@ -15270,13 +15169,13 @@ distance('Chiesa di Sant Anna dei Palafrenieri','Mouth of Truth',2663).
 distance('Chiesa di Sant Anna dei Palafrenieri','Basilica di Santa Sabina all Aventino',2852).
 distance('Chiesa di Sant Anna dei Palafrenieri','Santa Maria in Cosmedin',2677).
 distance('Chiesa di Sant Anna dei Palafrenieri','Non-Catholic Cemetery',3583).
-distance('Chiesa di Sant Anna dei Palafrenieri','Basilica Santa Cecilia in Trastevere',2454).
+distance('Chiesa di Sant Anna dei Palafrenieri','Basilica di Santa Cecilia in Trastevere',2454).
 distance('Chiesa di Sant Anna dei Palafrenieri','Mattatoio',3331).
 distance('Chiesa di Sant Anna dei Palafrenieri','Pyramid of Caius Cestius',3627).
 distance('Chiesa di Sant Anna dei Palafrenieri','Turtle Fountain',2017).
 distance('Chiesa di Sant Anna dei Palafrenieri','Basilica di San Bartolomeo all Isola',2298).
 distance('Chiesa di Sant Anna dei Palafrenieri','Chiesa di Santa Prisca',3184).
-distance('Chiesa di Sant Anna dei Palafrenieri','Tempio Maggiore di Roma',2168).
+distance('Chiesa di Sant Anna dei Palafrenieri','Tempio Maggiore',2168).
 distance('Chiesa di Sant Anna dei Palafrenieri','Portico of Octavia',2167).
 distance('Chiesa di Sant Anna dei Palafrenieri','Basilica Santi Giovanni e Paolo',3474).
 distance('Operativa Arte Contemporanea','Santa Maria del Suffragio',206).
@@ -15332,7 +15231,6 @@ distance('Operativa Arte Contemporanea','Villa Balestra',2493).
 distance('Operativa Arte Contemporanea','Palazzo Borghese',987).
 distance('Operativa Arte Contemporanea','National Academy of San Luca',1490).
 distance('Operativa Arte Contemporanea','Museo Carlo Bilotti',2098).
-distance('Operativa Arte Contemporanea','Palazzo Wedekind',1130).
 distance('Operativa Arte Contemporanea','Cloaca Maxima',1704).
 distance('Operativa Arte Contemporanea','Temple of Apollo Palatinus',2158).
 distance('Operativa Arte Contemporanea','Circus Maximus',2194).
@@ -15340,13 +15238,13 @@ distance('Operativa Arte Contemporanea','Mouth of Truth',1822).
 distance('Operativa Arte Contemporanea','Basilica di Santa Sabina all Aventino',2041).
 distance('Operativa Arte Contemporanea','Santa Maria in Cosmedin',1835).
 distance('Operativa Arte Contemporanea','Non-Catholic Cemetery',2831).
-distance('Operativa Arte Contemporanea','Basilica Santa Cecilia in Trastevere',1647).
+distance('Operativa Arte Contemporanea','Basilica di Santa Cecilia in Trastevere',1647).
 distance('Operativa Arte Contemporanea','Mattatoio',2648).
 distance('Operativa Arte Contemporanea','Pyramid of Caius Cestius',2861).
 distance('Operativa Arte Contemporanea','Turtle Fountain',1166).
 distance('Operativa Arte Contemporanea','Basilica di San Bartolomeo all Isola',1457).
 distance('Operativa Arte Contemporanea','Chiesa di Santa Prisca',2359).
-distance('Operativa Arte Contemporanea','Tempio Maggiore di Roma',1320).
+distance('Operativa Arte Contemporanea','Tempio Maggiore',1320).
 distance('Operativa Arte Contemporanea','Portico of Octavia',1317).
 distance('Operativa Arte Contemporanea','Basilica Santi Giovanni e Paolo',2623).
 distance('Santa Maria del Suffragio','Vatican Apostolic Archive',1232).
@@ -15401,7 +15299,6 @@ distance('Santa Maria del Suffragio','Villa Balestra',2680).
 distance('Santa Maria del Suffragio','Palazzo Borghese',1072).
 distance('Santa Maria del Suffragio','National Academy of San Luca',1494).
 distance('Santa Maria del Suffragio','Museo Carlo Bilotti',2224).
-distance('Santa Maria del Suffragio','Palazzo Wedekind',1132).
 distance('Santa Maria del Suffragio','Cloaca Maxima',1535).
 distance('Santa Maria del Suffragio','Temple of Apollo Palatinus',2003).
 distance('Santa Maria del Suffragio','Circus Maximus',2029).
@@ -15409,13 +15306,13 @@ distance('Santa Maria del Suffragio','Mouth of Truth',1655).
 distance('Santa Maria del Suffragio','Basilica di Santa Sabina all Aventino',1853).
 distance('Santa Maria del Suffragio','Santa Maria in Cosmedin',1668).
 distance('Santa Maria del Suffragio','Non-Catholic Cemetery',2630).
-distance('Santa Maria del Suffragio','Basilica Santa Cecilia in Trastevere',1457).
+distance('Santa Maria del Suffragio','Basilica di Santa Cecilia in Trastevere',1457).
 distance('Santa Maria del Suffragio','Mattatoio',2442).
 distance('Santa Maria del Suffragio','Pyramid of Caius Cestius',2662).
 distance('Santa Maria del Suffragio','Turtle Fountain',1031).
 distance('Santa Maria del Suffragio','Basilica di San Bartolomeo all Isola',1289).
 distance('Santa Maria del Suffragio','Chiesa di Santa Prisca',2179).
-distance('Santa Maria del Suffragio','Tempio Maggiore di Roma',1166).
+distance('Santa Maria del Suffragio','Tempio Maggiore',1166).
 distance('Santa Maria del Suffragio','Portico of Octavia',1170).
 distance('Santa Maria del Suffragio','Basilica Santi Giovanni e Paolo',2481).
 distance('Vatican Apostolic Archive','Carriage Pavilion',114).
@@ -15469,7 +15366,6 @@ distance('Vatican Apostolic Archive','Villa Balestra',2406).
 distance('Vatican Apostolic Archive','Palazzo Borghese',1769).
 distance('Vatican Apostolic Archive','National Academy of San Luca',2418).
 distance('Vatican Apostolic Archive','Museo Carlo Bilotti',2541).
-distance('Vatican Apostolic Archive','Palazzo Wedekind',2087).
 distance('Vatican Apostolic Archive','Cloaca Maxima',2766).
 distance('Vatican Apostolic Archive','Temple of Apollo Palatinus',3233).
 distance('Vatican Apostolic Archive','Circus Maximus',3261).
@@ -15477,13 +15373,13 @@ distance('Vatican Apostolic Archive','Mouth of Truth',2886).
 distance('Vatican Apostolic Archive','Basilica di Santa Sabina all Aventino',3063).
 distance('Vatican Apostolic Archive','Santa Maria in Cosmedin',2900).
 distance('Vatican Apostolic Archive','Non-Catholic Cemetery',3774).
-distance('Vatican Apostolic Archive','Basilica Santa Cecilia in Trastevere',2665).
+distance('Vatican Apostolic Archive','Basilica di Santa Cecilia in Trastevere',2665).
 distance('Vatican Apostolic Archive','Mattatoio',3503).
 distance('Vatican Apostolic Archive','Pyramid of Caius Cestius',3822).
 distance('Vatican Apostolic Archive','Turtle Fountain',2247).
 distance('Vatican Apostolic Archive','Basilica di San Bartolomeo all Isola',2522).
 distance('Vatican Apostolic Archive','Chiesa di Santa Prisca',3399).
-distance('Vatican Apostolic Archive','Tempio Maggiore di Roma',2395).
+distance('Vatican Apostolic Archive','Tempio Maggiore',2395).
 distance('Vatican Apostolic Archive','Portico of Octavia',2396).
 distance('Vatican Apostolic Archive','Basilica Santi Giovanni e Paolo',3704).
 distance('Carriage Pavilion','Monastero Mater Ecclesi',274).
@@ -15536,7 +15432,6 @@ distance('Carriage Pavilion','Villa Balestra',2445).
 distance('Carriage Pavilion','Palazzo Borghese',1878).
 distance('Carriage Pavilion','National Academy of San Luca',2530).
 distance('Carriage Pavilion','Museo Carlo Bilotti',2625).
-distance('Carriage Pavilion','Palazzo Wedekind',2200).
 distance('Carriage Pavilion','Cloaca Maxima',2875).
 distance('Carriage Pavilion','Temple of Apollo Palatinus',3344).
 distance('Carriage Pavilion','Circus Maximus',3371).
@@ -15544,13 +15439,13 @@ distance('Carriage Pavilion','Mouth of Truth',2996).
 distance('Carriage Pavilion','Basilica di Santa Sabina all Aventino',3167).
 distance('Carriage Pavilion','Santa Maria in Cosmedin',3010).
 distance('Carriage Pavilion','Non-Catholic Cemetery',3868).
-distance('Carriage Pavilion','Basilica Santa Cecilia in Trastevere',2769).
+distance('Carriage Pavilion','Basilica di Santa Cecilia in Trastevere',2769).
 distance('Carriage Pavilion','Mattatoio',3589).
 distance('Carriage Pavilion','Pyramid of Caius Cestius',3918).
 distance('Carriage Pavilion','Turtle Fountain',2360).
 distance('Carriage Pavilion','Basilica di San Bartolomeo all Isola',2631).
 distance('Carriage Pavilion','Chiesa di Santa Prisca',3505).
-distance('Carriage Pavilion','Tempio Maggiore di Roma',2506).
+distance('Carriage Pavilion','Tempio Maggiore',2506).
 distance('Carriage Pavilion','Portico of Octavia',2508).
 distance('Carriage Pavilion','Basilica Santi Giovanni e Paolo',3817).
 distance('Monastero Mater Ecclesi','Oratorio dei Filippini (Oratory of St Philip Neri)',1557).
@@ -15602,7 +15497,6 @@ distance('Monastero Mater Ecclesi','Villa Balestra',2717).
 distance('Monastero Mater Ecclesi','Palazzo Borghese',2093).
 distance('Monastero Mater Ecclesi','National Academy of San Luca',2726).
 distance('Monastero Mater Ecclesi','Museo Carlo Bilotti',2889).
-distance('Monastero Mater Ecclesi','Palazzo Wedekind',2386).
 distance('Monastero Mater Ecclesi','Cloaca Maxima',2949).
 distance('Monastero Mater Ecclesi','Temple of Apollo Palatinus',3432).
 distance('Monastero Mater Ecclesi','Circus Maximus',3447).
@@ -15610,13 +15504,13 @@ distance('Monastero Mater Ecclesi','Mouth of Truth',3070).
 distance('Monastero Mater Ecclesi','Basilica di Santa Sabina all Aventino',3208).
 distance('Monastero Mater Ecclesi','Santa Maria in Cosmedin',3085).
 distance('Monastero Mater Ecclesi','Non-Catholic Cemetery',3861).
-distance('Monastero Mater Ecclesi','Basilica Santa Cecilia in Trastevere',2813).
+distance('Monastero Mater Ecclesi','Basilica di Santa Cecilia in Trastevere',2813).
 distance('Monastero Mater Ecclesi','Mattatoio',3551).
 distance('Monastero Mater Ecclesi','Pyramid of Caius Cestius',3918).
 distance('Monastero Mater Ecclesi','Turtle Fountain',2469).
 distance('Monastero Mater Ecclesi','Basilica di San Bartolomeo all Isola',2709).
 distance('Monastero Mater Ecclesi','Chiesa di Santa Prisca',3554).
-distance('Monastero Mater Ecclesi','Tempio Maggiore di Roma',2599).
+distance('Monastero Mater Ecclesi','Tempio Maggiore',2599).
 distance('Monastero Mater Ecclesi','Portico of Octavia',2608).
 distance('Monastero Mater Ecclesi','Basilica Santi Giovanni e Paolo',3918).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','House of Hospitality Paul VI',1614).
@@ -15667,7 +15561,6 @@ distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Villa Balestra',2
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Palazzo Borghese',859).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','National Academy of San Luca',1289).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Museo Carlo Bilotti',2020).
-distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Palazzo Wedekind',927).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Cloaca Maxima',1492).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Temple of Apollo Palatinus',1934).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Circus Maximus',1976).
@@ -15675,13 +15568,13 @@ distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Mouth of Truth',1
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Basilica di Santa Sabina all Aventino',1850).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Santa Maria in Cosmedin',1620).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Non-Catholic Cemetery',2669).
-distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Basilica Santa Cecilia in Trastevere',1462).
+distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Basilica di Santa Cecilia in Trastevere',1462).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Mattatoio',2521).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Pyramid of Caius Cestius',2693).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Turtle Fountain',936).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Basilica di San Bartolomeo all Isola',1244).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Chiesa di Santa Prisca',2158).
-distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Tempio Maggiore di Roma',1098).
+distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Tempio Maggiore',1098).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Portico of Octavia',1091).
 distance('Oratorio dei Filippini (Oratory of St Philip Neri)','Basilica Santi Giovanni e Paolo',2393).
 distance('House of Hospitality Paul VI','Chiesa di Santa Maria del Rosario in Prati',560).
@@ -15731,7 +15624,6 @@ distance('House of Hospitality Paul VI','Villa Balestra',2415).
 distance('House of Hospitality Paul VI','Palazzo Borghese',2012).
 distance('House of Hospitality Paul VI','National Academy of San Luca',2676).
 distance('House of Hospitality Paul VI','Museo Carlo Bilotti',2687).
-distance('House of Hospitality Paul VI','Palazzo Wedekind',2356).
 distance('House of Hospitality Paul VI','Cloaca Maxima',3071).
 distance('House of Hospitality Paul VI','Temple of Apollo Palatinus',3537).
 distance('House of Hospitality Paul VI','Circus Maximus',3566).
@@ -15739,13 +15631,13 @@ distance('House of Hospitality Paul VI','Mouth of Truth',3191).
 distance('House of Hospitality Paul VI','Basilica di Santa Sabina all Aventino',3367).
 distance('House of Hospitality Paul VI','Santa Maria in Cosmedin',3205).
 distance('House of Hospitality Paul VI','Non-Catholic Cemetery',4069).
-distance('House of Hospitality Paul VI','Basilica Santa Cecilia in Trastevere',2969).
+distance('House of Hospitality Paul VI','Basilica di Santa Cecilia in Trastevere',2969).
 distance('House of Hospitality Paul VI','Mattatoio',3788).
 distance('House of Hospitality Paul VI','Pyramid of Caius Cestius',4119).
 distance('House of Hospitality Paul VI','Turtle Fountain',2549).
 distance('House of Hospitality Paul VI','Basilica di San Bartolomeo all Isola',2826).
 distance('House of Hospitality Paul VI','Chiesa di Santa Prisca',3704).
-distance('House of Hospitality Paul VI','Tempio Maggiore di Roma',2699).
+distance('House of Hospitality Paul VI','Tempio Maggiore',2699).
 distance('House of Hospitality Paul VI','Portico of Octavia',2698).
 distance('House of Hospitality Paul VI','Basilica Santi Giovanni e Paolo',4006).
 distance('Chiesa di Santa Maria del Rosario in Prati','Welcome To Rome',1625).
@@ -15794,7 +15686,6 @@ distance('Chiesa di Santa Maria del Rosario in Prati','Villa Balestra',1903).
 distance('Chiesa di Santa Maria del Rosario in Prati','Palazzo Borghese',1548).
 distance('Chiesa di Santa Maria del Rosario in Prati','National Academy of San Luca',2230).
 distance('Chiesa di Santa Maria del Rosario in Prati','Museo Carlo Bilotti',2129).
-distance('Chiesa di Santa Maria del Rosario in Prati','Palazzo Wedekind',1940).
 distance('Chiesa di Santa Maria del Rosario in Prati','Cloaca Maxima',2851).
 distance('Chiesa di Santa Maria del Rosario in Prati','Temple of Apollo Palatinus',3281).
 distance('Chiesa di Santa Maria del Rosario in Prati','Circus Maximus',3331).
@@ -15802,13 +15693,13 @@ distance('Chiesa di Santa Maria del Rosario in Prati','Mouth of Truth',2965).
 distance('Chiesa di Santa Maria del Rosario in Prati','Basilica di Santa Sabina all Aventino',3202).
 distance('Chiesa di Santa Maria del Rosario in Prati','Santa Maria in Cosmedin',2978).
 distance('Chiesa di Santa Maria del Rosario in Prati','Non-Catholic Cemetery',3983).
-distance('Chiesa di Santa Maria del Rosario in Prati','Basilica Santa Cecilia in Trastevere',2808).
+distance('Chiesa di Santa Maria del Rosario in Prati','Basilica di Santa Cecilia in Trastevere',2808).
 distance('Chiesa di Santa Maria del Rosario in Prati','Mattatoio',3767).
 distance('Chiesa di Santa Maria del Rosario in Prati','Pyramid of Caius Cestius',4018).
 distance('Chiesa di Santa Maria del Rosario in Prati','Turtle Fountain',2277).
 distance('Chiesa di Santa Maria del Rosario in Prati','Basilica di San Bartolomeo all Isola',2603).
 distance('Chiesa di Santa Maria del Rosario in Prati','Chiesa di Santa Prisca',3516).
-distance('Chiesa di Santa Maria del Rosario in Prati','Tempio Maggiore di Roma',2453).
+distance('Chiesa di Santa Maria del Rosario in Prati','Tempio Maggiore',2453).
 distance('Chiesa di Santa Maria del Rosario in Prati','Portico of Octavia',2438).
 distance('Chiesa di Santa Maria del Rosario in Prati','Basilica Santi Giovanni e Paolo',3715).
 distance('Welcome To Rome','Stadium of Domitian',339).
@@ -15856,7 +15747,6 @@ distance('Welcome To Rome','Villa Balestra',2676).
 distance('Welcome To Rome','Palazzo Borghese',866).
 distance('Welcome To Rome','National Academy of San Luca',1146).
 distance('Welcome To Rome','Museo Carlo Bilotti',2050).
-distance('Welcome To Rome','Palazzo Wedekind',793).
 distance('Welcome To Rome','Cloaca Maxima',1225).
 distance('Welcome To Rome','Temple of Apollo Palatinus',1662).
 distance('Welcome To Rome','Circus Maximus',1706).
@@ -15864,13 +15754,13 @@ distance('Welcome To Rome','Mouth of Truth',1339).
 distance('Welcome To Rome','Basilica di Santa Sabina all Aventino',1598).
 distance('Welcome To Rome','Santa Maria in Cosmedin',1352).
 distance('Welcome To Rome','Non-Catholic Cemetery',2439).
-distance('Welcome To Rome','Basilica Santa Cecilia in Trastevere',1217).
+distance('Welcome To Rome','Basilica di Santa Cecilia in Trastevere',1217).
 distance('Welcome To Rome','Mattatoio',2324).
 distance('Welcome To Rome','Pyramid of Caius Cestius',2456).
 distance('Welcome To Rome','Turtle Fountain',665).
 distance('Welcome To Rome','Basilica di San Bartolomeo all Isola',978).
 distance('Welcome To Rome','Chiesa di Santa Prisca',1897).
-distance('Welcome To Rome','Tempio Maggiore di Roma',828).
+distance('Welcome To Rome','Tempio Maggiore',828).
 distance('Welcome To Rome','Portico of Octavia',819).
 distance('Welcome To Rome','Basilica Santi Giovanni e Paolo',2122).
 distance('Stadium of Domitian','Palazzo Pamphili',253).
@@ -15917,7 +15807,6 @@ distance('Stadium of Domitian','Villa Balestra',2351).
 distance('Stadium of Domitian','Palazzo Borghese',533).
 distance('Stadium of Domitian','National Academy of San Luca',938).
 distance('Stadium of Domitian','Museo Carlo Bilotti',1716).
-distance('Stadium of Domitian','Palazzo Wedekind',577).
 distance('Stadium of Domitian','Cloaca Maxima',1431).
 distance('Stadium of Domitian','Temple of Apollo Palatinus',1814).
 distance('Stadium of Domitian','Circus Maximus',1881).
@@ -15925,13 +15814,13 @@ distance('Stadium of Domitian','Mouth of Truth',1535).
 distance('Stadium of Domitian','Basilica di Santa Sabina all Aventino',1844).
 distance('Stadium of Domitian','Santa Maria in Cosmedin',1545).
 distance('Stadium of Domitian','Non-Catholic Cemetery',2717).
-distance('Stadium of Domitian','Basilica Santa Cecilia in Trastevere',1485).
+distance('Stadium of Domitian','Basilica di Santa Cecilia in Trastevere',1485).
 distance('Stadium of Domitian','Mattatoio',2635).
 distance('Stadium of Domitian','Pyramid of Caius Cestius',2725).
 distance('Stadium of Domitian','Turtle Fountain',823).
 distance('Stadium of Domitian','Basilica di San Bartolomeo all Isola',1194).
 distance('Stadium of Domitian','Chiesa di Santa Prisca',2114).
-distance('Stadium of Domitian','Tempio Maggiore di Roma',1020).
+distance('Stadium of Domitian','Tempio Maggiore',1020).
 distance('Stadium of Domitian','Portico of Octavia',989).
 distance('Stadium of Domitian','Basilica Santi Giovanni e Paolo',2229).
 distance('Palazzo Pamphili','Fountain of the Moro',33).
@@ -15977,7 +15866,6 @@ distance('Palazzo Pamphili','Villa Balestra',2602).
 distance('Palazzo Pamphili','Palazzo Borghese',745).
 distance('Palazzo Pamphili','National Academy of San Luca',988).
 distance('Palazzo Pamphili','Museo Carlo Bilotti',1924).
-distance('Palazzo Pamphili','Palazzo Wedekind',635).
 distance('Palazzo Pamphili','Cloaca Maxima',1198).
 distance('Palazzo Pamphili','Temple of Apollo Palatinus',1606).
 distance('Palazzo Pamphili','Circus Maximus',1662).
@@ -15985,13 +15873,13 @@ distance('Palazzo Pamphili','Mouth of Truth',1306).
 distance('Palazzo Pamphili','Basilica di Santa Sabina all Aventino',1599).
 distance('Palazzo Pamphili','Santa Maria in Cosmedin',1317).
 distance('Palazzo Pamphili','Non-Catholic Cemetery',2465).
-distance('Palazzo Pamphili','Basilica Santa Cecilia in Trastevere',1234).
+distance('Palazzo Pamphili','Basilica di Santa Cecilia in Trastevere',1234).
 distance('Palazzo Pamphili','Mattatoio',2383).
 distance('Palazzo Pamphili','Pyramid of Caius Cestius',2475).
 distance('Palazzo Pamphili','Turtle Fountain',603).
 distance('Palazzo Pamphili','Basilica di San Bartolomeo all Isola',956).
 distance('Palazzo Pamphili','Chiesa di Santa Prisca',1879).
-distance('Palazzo Pamphili','Tempio Maggiore di Roma',789).
+distance('Palazzo Pamphili','Tempio Maggiore',789).
 distance('Palazzo Pamphili','Portico of Octavia',767).
 distance('Palazzo Pamphili','Basilica Santi Giovanni e Paolo',2045).
 distance('Fountain of the Moro','Cappella Chigi',1506).
@@ -16036,7 +15924,6 @@ distance('Fountain of the Moro','Villa Balestra',2582).
 distance('Fountain of the Moro','Palazzo Borghese',717).
 distance('Fountain of the Moro','National Academy of San Luca',955).
 distance('Fountain of the Moro','Museo Carlo Bilotti',1895).
-distance('Fountain of the Moro','Palazzo Wedekind',602).
 distance('Fountain of the Moro','Cloaca Maxima',1201).
 distance('Fountain of the Moro','Temple of Apollo Palatinus',1602).
 distance('Fountain of the Moro','Circus Maximus',1661).
@@ -16044,13 +15931,13 @@ distance('Fountain of the Moro','Mouth of Truth',1308).
 distance('Fountain of the Moro','Basilica di Santa Sabina all Aventino',1608).
 distance('Fountain of the Moro','Santa Maria in Cosmedin',1319).
 distance('Fountain of the Moro','Non-Catholic Cemetery',2478).
-distance('Fountain of the Moro','Basilica Santa Cecilia in Trastevere',1247).
+distance('Fountain of the Moro','Basilica di Santa Cecilia in Trastevere',1247).
 distance('Fountain of the Moro','Mattatoio',2402).
 distance('Fountain of the Moro','Pyramid of Caius Cestius',2487).
 distance('Fountain of the Moro','Turtle Fountain',601).
 distance('Fountain of the Moro','Basilica di San Bartolomeo all Isola',961).
 distance('Fountain of the Moro','Chiesa di Santa Prisca',1883).
-distance('Fountain of the Moro','Tempio Maggiore di Roma',791).
+distance('Fountain of the Moro','Tempio Maggiore',791).
 distance('Fountain of the Moro','Portico of Octavia',766).
 distance('Fountain of the Moro','Basilica Santi Giovanni e Paolo',2036).
 distance('Cappella Chigi','Chiesa di Gesu e Maria',396).
@@ -16094,7 +15981,6 @@ distance('Cappella Chigi','Villa Balestra',1125).
 distance('Cappella Chigi','Palazzo Borghese',809).
 distance('Cappella Chigi','National Academy of San Luca',1247).
 distance('Cappella Chigi','Museo Carlo Bilotti',605).
-distance('Cappella Chigi','Palazzo Wedekind',1204).
 distance('Cappella Chigi','Cloaca Maxima',2550).
 distance('Cappella Chigi','Temple of Apollo Palatinus',2791).
 distance('Cappella Chigi','Circus Maximus',2901).
@@ -16102,13 +15988,13 @@ distance('Cappella Chigi','Mouth of Truth',2625).
 distance('Cappella Chigi','Basilica di Santa Sabina all Aventino',3004).
 distance('Cappella Chigi','Santa Maria in Cosmedin',2631).
 distance('Cappella Chigi','Non-Catholic Cemetery',3911).
-distance('Cappella Chigi','Basilica Santa Cecilia in Trastevere',2695).
+distance('Cappella Chigi','Basilica di Santa Cecilia in Trastevere',2695).
 distance('Cappella Chigi','Mattatoio',3892).
 distance('Cappella Chigi','Pyramid of Caius Cestius',3900).
 distance('Cappella Chigi','Turtle Fountain',1958).
 distance('Cappella Chigi','Basilica di San Bartolomeo all Isola',2349).
 distance('Cappella Chigi','Chiesa di Santa Prisca',3206).
-distance('Cappella Chigi','Tempio Maggiore di Roma',2164).
+distance('Cappella Chigi','Tempio Maggiore',2164).
 distance('Cappella Chigi','Portico of Octavia',2110).
 distance('Cappella Chigi','Basilica Santi Giovanni e Paolo',3061).
 distance('Chiesa di Gesu e Maria','Villa Borghese',830).
@@ -16151,7 +16037,6 @@ distance('Chiesa di Gesu e Maria','Villa Balestra',1521).
 distance('Chiesa di Gesu e Maria','Palazzo Borghese',441).
 distance('Chiesa di Gesu e Maria','National Academy of San Luca',869).
 distance('Chiesa di Gesu e Maria','Museo Carlo Bilotti',762).
-distance('Chiesa di Gesu e Maria','Palazzo Wedekind',808).
 distance('Chiesa di Gesu e Maria','Cloaca Maxima',2157).
 distance('Chiesa di Gesu e Maria','Temple of Apollo Palatinus',2396).
 distance('Chiesa di Gesu e Maria','Circus Maximus',2505).
@@ -16159,13 +16044,13 @@ distance('Chiesa di Gesu e Maria','Mouth of Truth',2230).
 distance('Chiesa di Gesu e Maria','Basilica di Santa Sabina all Aventino',2614).
 distance('Chiesa di Gesu e Maria','Santa Maria in Cosmedin',2236).
 distance('Chiesa di Gesu e Maria','Non-Catholic Cemetery',3521).
-distance('Chiesa di Gesu e Maria','Basilica Santa Cecilia in Trastevere',2312).
+distance('Chiesa di Gesu e Maria','Basilica di Santa Cecilia in Trastevere',2312).
 distance('Chiesa di Gesu e Maria','Mattatoio',3517).
 distance('Chiesa di Gesu e Maria','Pyramid of Caius Cestius',3509).
 distance('Chiesa di Gesu e Maria','Turtle Fountain',1572).
 distance('Chiesa di Gesu e Maria','Basilica di San Bartolomeo all Isola',1961).
 distance('Chiesa di Gesu e Maria','Chiesa di Santa Prisca',2811).
-distance('Chiesa di Gesu e Maria','Tempio Maggiore di Roma',1776).
+distance('Chiesa di Gesu e Maria','Tempio Maggiore',1776).
 distance('Chiesa di Gesu e Maria','Portico of Octavia',1720).
 distance('Chiesa di Gesu e Maria','Basilica Santi Giovanni e Paolo',2674).
 distance('Villa Borghese','Passeggiata del Pincio',412).
@@ -16207,7 +16092,6 @@ distance('Villa Borghese','Villa Balestra',1340).
 distance('Villa Borghese','Palazzo Borghese',1224).
 distance('Villa Borghese','National Academy of San Luca',1260).
 distance('Villa Borghese','Museo Carlo Bilotti',167).
-distance('Villa Borghese','Palazzo Wedekind',1421).
 distance('Villa Borghese','Cloaca Maxima',2723).
 distance('Villa Borghese','Temple of Apollo Palatinus',2838).
 distance('Villa Borghese','Circus Maximus',2971).
@@ -16215,13 +16099,13 @@ distance('Villa Borghese','Mouth of Truth',2770).
 distance('Villa Borghese','Basilica di Santa Sabina all Aventino',3184).
 distance('Villa Borghese','Santa Maria in Cosmedin',2771).
 distance('Villa Borghese','Non-Catholic Cemetery',4090).
-distance('Villa Borghese','Basilica Santa Cecilia in Trastevere',2943).
+distance('Villa Borghese','Basilica di Santa Cecilia in Trastevere',2943).
 distance('Villa Borghese','Mattatoio',4162).
 distance('Villa Borghese','Pyramid of Caius Cestius',4058).
 distance('Villa Borghese','Turtle Fountain',2208).
 distance('Villa Borghese','Basilica di San Bartolomeo all Isola',2571).
 distance('Villa Borghese','Chiesa di Santa Prisca',3313).
-distance('Villa Borghese','Tempio Maggiore di Roma',2395).
+distance('Villa Borghese','Tempio Maggiore',2395).
 distance('Villa Borghese','Portico of Octavia',2329).
 distance('Villa Borghese','Basilica Santi Giovanni e Paolo',2989).
 distance('Passeggiata del Pincio','Borghese Gallery and Museum',996).
@@ -16262,7 +16146,6 @@ distance('Passeggiata del Pincio','Villa Balestra',1299).
 distance('Passeggiata del Pincio','Palazzo Borghese',853).
 distance('Passeggiata del Pincio','National Academy of San Luca',1068).
 distance('Passeggiata del Pincio','Museo Carlo Bilotti',332).
-distance('Passeggiata del Pincio','Palazzo Wedekind',1134).
 distance('Passeggiata del Pincio','Cloaca Maxima',2481).
 distance('Passeggiata del Pincio','Temple of Apollo Palatinus',2660).
 distance('Passeggiata del Pincio','Circus Maximus',2782).
@@ -16270,13 +16153,13 @@ distance('Passeggiata del Pincio','Mouth of Truth',2541).
 distance('Passeggiata del Pincio','Basilica di Santa Sabina all Aventino',2942).
 distance('Passeggiata del Pincio','Santa Maria in Cosmedin',2545).
 distance('Passeggiata del Pincio','Non-Catholic Cemetery',3853).
-distance('Passeggiata del Pincio','Basilica Santa Cecilia in Trastevere',2668).
+distance('Passeggiata del Pincio','Basilica di Santa Cecilia in Trastevere',2668).
 distance('Passeggiata del Pincio','Mattatoio',3884).
 distance('Passeggiata del Pincio','Pyramid of Caius Cestius',3831).
 distance('Passeggiata del Pincio','Turtle Fountain',1925).
 distance('Passeggiata del Pincio','Basilica di San Bartolomeo all Isola',2305).
 distance('Passeggiata del Pincio','Chiesa di Santa Prisca',3108).
-distance('Passeggiata del Pincio','Tempio Maggiore di Roma',2123).
+distance('Passeggiata del Pincio','Tempio Maggiore',2123).
 distance('Passeggiata del Pincio','Portico of Octavia',2061).
 distance('Passeggiata del Pincio','Basilica Santi Giovanni e Paolo',2876).
 distance('Borghese Gallery and Museum','National Gallery of Modern and Contemporary Art',885).
@@ -16316,7 +16199,6 @@ distance('Borghese Gallery and Museum','Villa Balestra',1723).
 distance('Borghese Gallery and Museum','Palazzo Borghese',1731).
 distance('Borghese Gallery and Museum','National Academy of San Luca',1567).
 distance('Borghese Gallery and Museum','Museo Carlo Bilotti',738).
-distance('Borghese Gallery and Museum','Palazzo Wedekind',1821).
 distance('Borghese Gallery and Museum','Cloaca Maxima',3006).
 distance('Borghese Gallery and Museum','Temple of Apollo Palatinus',3028).
 distance('Borghese Gallery and Museum','Circus Maximus',3172).
@@ -16324,13 +16206,13 @@ distance('Borghese Gallery and Museum','Mouth of Truth',3032).
 distance('Borghese Gallery and Museum','Basilica di Santa Sabina all Aventino',3455).
 distance('Borghese Gallery and Museum','Santa Maria in Cosmedin',3031).
 distance('Borghese Gallery and Museum','Non-Catholic Cemetery',4338).
-distance('Borghese Gallery and Museum','Basilica Santa Cecilia in Trastevere',3267).
+distance('Borghese Gallery and Museum','Basilica di Santa Cecilia in Trastevere',3267).
 distance('Borghese Gallery and Museum','Mattatoio',4473).
 distance('Borghese Gallery and Museum','Pyramid of Caius Cestius',4292).
 distance('Borghese Gallery and Museum','Turtle Fountain',2565).
 distance('Borghese Gallery and Museum','Basilica di San Bartolomeo all Isola',2893).
 distance('Borghese Gallery and Museum','Chiesa di Santa Prisca',3529).
-distance('Borghese Gallery and Museum','Tempio Maggiore di Roma',2731).
+distance('Borghese Gallery and Museum','Tempio Maggiore',2731).
 distance('Borghese Gallery and Museum','Portico of Octavia',2661).
 distance('Borghese Gallery and Museum','Basilica Santi Giovanni e Paolo',3080).
 distance('National Gallery of Modern and Contemporary Art','Mausoleum of Augustus',1312).
@@ -16369,7 +16251,6 @@ distance('National Gallery of Modern and Contemporary Art','Villa Balestra',850)
 distance('National Gallery of Modern and Contemporary Art','Palazzo Borghese',1513).
 distance('National Gallery of Modern and Contemporary Art','National Academy of San Luca',1720).
 distance('National Gallery of Modern and Contemporary Art','Museo Carlo Bilotti',415).
-distance('National Gallery of Modern and Contemporary Art','Palazzo Wedekind',1814).
 distance('National Gallery of Modern and Contemporary Art','Cloaca Maxima',3156).
 distance('National Gallery of Modern and Contemporary Art','Temple of Apollo Palatinus',3314).
 distance('National Gallery of Modern and Contemporary Art','Circus Maximus',3441).
@@ -16377,13 +16258,13 @@ distance('National Gallery of Modern and Contemporary Art','Mouth of Truth',3214
 distance('National Gallery of Modern and Contemporary Art','Basilica di Santa Sabina all Aventino',3619).
 distance('National Gallery of Modern and Contemporary Art','Santa Maria in Cosmedin',3217).
 distance('National Gallery of Modern and Contemporary Art','Non-Catholic Cemetery',4529).
-distance('National Gallery of Modern and Contemporary Art','Basilica Santa Cecilia in Trastevere',3348).
+distance('National Gallery of Modern and Contemporary Art','Basilica di Santa Cecilia in Trastevere',3348).
 distance('National Gallery of Modern and Contemporary Art','Mattatoio',4564).
 distance('National Gallery of Modern and Contemporary Art','Pyramid of Caius Cestius',4505).
 distance('National Gallery of Modern and Contemporary Art','Turtle Fountain',2605).
 distance('National Gallery of Modern and Contemporary Art','Basilica di San Bartolomeo all Isola',2984).
 distance('National Gallery of Modern and Contemporary Art','Chiesa di Santa Prisca',3774).
-distance('National Gallery of Modern and Contemporary Art','Tempio Maggiore di Roma',2803).
+distance('National Gallery of Modern and Contemporary Art','Tempio Maggiore',2803).
 distance('National Gallery of Modern and Contemporary Art','Portico of Octavia',2741).
 distance('National Gallery of Modern and Contemporary Art','Basilica Santi Giovanni e Paolo',3493).
 distance('Mausoleum of Augustus','Chiesa Parrocchiale San Giacomo in Augusta',209).
@@ -16421,7 +16302,6 @@ distance('Mausoleum of Augustus','Villa Balestra',1718).
 distance('Mausoleum of Augustus','Palazzo Borghese',207).
 distance('Mausoleum of Augustus','National Academy of San Luca',778).
 distance('Mausoleum of Augustus','Museo Carlo Bilotti',998).
-distance('Mausoleum of Augustus','Palazzo Wedekind',629).
 distance('Mausoleum of Augustus','Cloaca Maxima',1954).
 distance('Mausoleum of Augustus','Temple of Apollo Palatinus',2222).
 distance('Mausoleum of Augustus','Circus Maximus',2325).
@@ -16429,13 +16309,13 @@ distance('Mausoleum of Augustus','Mouth of Truth',2034).
 distance('Mausoleum of Augustus','Basilica di Santa Sabina all Aventino',2406).
 distance('Mausoleum of Augustus','Santa Maria in Cosmedin',2040).
 distance('Mausoleum of Augustus','Non-Catholic Cemetery',3310).
-distance('Mausoleum of Augustus','Basilica Santa Cecilia in Trastevere',2093).
+distance('Mausoleum of Augustus','Basilica di Santa Cecilia in Trastevere',2093).
 distance('Mausoleum of Augustus','Mattatoio',3291).
 distance('Mausoleum of Augustus','Pyramid of Caius Cestius',3302).
 distance('Mausoleum of Augustus','Turtle Fountain',1358).
 distance('Mausoleum of Augustus','Basilica di San Bartolomeo all Isola',1749).
 distance('Mausoleum of Augustus','Chiesa di Santa Prisca',2618).
-distance('Mausoleum of Augustus','Tempio Maggiore di Roma',1564).
+distance('Mausoleum of Augustus','Tempio Maggiore',1564).
 distance('Mausoleum of Augustus','Portico of Octavia',1511).
 distance('Mausoleum of Augustus','Basilica Santi Giovanni e Paolo',2532).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Villa Medici',435).
@@ -16472,7 +16352,6 @@ distance('Chiesa Parrocchiale San Giacomo in Augusta','Villa Balestra',1542).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Palazzo Borghese',412).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','National Academy of San Luca',860).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Museo Carlo Bilotti',793).
-distance('Chiesa Parrocchiale San Giacomo in Augusta','Palazzo Wedekind',787).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Cloaca Maxima',2134).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Temple of Apollo Palatinus',2377).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Circus Maximus',2486).
@@ -16480,13 +16359,13 @@ distance('Chiesa Parrocchiale San Giacomo in Augusta','Mouth of Truth',2208).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Basilica di Santa Sabina all Aventino',2590).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Santa Maria in Cosmedin',2214).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Non-Catholic Cemetery',3497).
-distance('Chiesa Parrocchiale San Giacomo in Augusta','Basilica Santa Cecilia in Trastevere',2286).
+distance('Chiesa Parrocchiale San Giacomo in Augusta','Basilica di Santa Cecilia in Trastevere',2286).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Mattatoio',3491).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Pyramid of Caius Cestius',3485).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Turtle Fountain',1547).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Basilica di San Bartolomeo all Isola',1937).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Chiesa di Santa Prisca',2790).
-distance('Chiesa Parrocchiale San Giacomo in Augusta','Tempio Maggiore di Roma',1752).
+distance('Chiesa Parrocchiale San Giacomo in Augusta','Tempio Maggiore',1752).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Portico of Octavia',1696).
 distance('Chiesa Parrocchiale San Giacomo in Augusta','Basilica Santi Giovanni e Paolo',2660).
 distance('Villa Medici','Basilica of Saint Lawrence in Lucina',643).
@@ -16522,7 +16401,6 @@ distance('Villa Medici','Villa Balestra',1630).
 distance('Villa Medici','Palazzo Borghese',703).
 distance('Villa Medici','National Academy of San Luca',749).
 distance('Villa Medici','Museo Carlo Bilotti',570).
-distance('Villa Medici','Palazzo Wedekind',869).
 distance('Villa Medici','Cloaca Maxima',2190).
 distance('Villa Medici','Temple of Apollo Palatinus',2344).
 distance('Villa Medici','Circus Maximus',2469).
@@ -16530,13 +16408,13 @@ distance('Villa Medici','Mouth of Truth',2244).
 distance('Villa Medici','Basilica di Santa Sabina all Aventino',2652).
 distance('Villa Medici','Santa Maria in Cosmedin',2246).
 distance('Villa Medici','Non-Catholic Cemetery',3561).
-distance('Villa Medici','Basilica Santa Cecilia in Trastevere',2397).
+distance('Villa Medici','Basilica di Santa Cecilia in Trastevere',2397).
 distance('Villa Medici','Mattatoio',3616).
 distance('Villa Medici','Pyramid of Caius Cestius',3535).
 distance('Villa Medici','Turtle Fountain',1659).
 distance('Villa Medici','Basilica di San Bartolomeo all Isola',2027).
 distance('Villa Medici','Chiesa di Santa Prisca',2802).
-distance('Villa Medici','Tempio Maggiore di Roma',1849).
+distance('Villa Medici','Tempio Maggiore',1849).
 distance('Villa Medici','Portico of Octavia',1785).
 distance('Villa Medici','Basilica Santi Giovanni e Paolo',2547).
 distance('Basilica of Saint Lawrence in Lucina','Basilica of SS. Ambrose and Charles on the Corso',223).
@@ -16571,7 +16449,6 @@ distance('Basilica of Saint Lawrence in Lucina','Villa Balestra',2048).
 distance('Basilica of Saint Lawrence in Lucina','Palazzo Borghese',228).
 distance('Basilica of Saint Lawrence in Lucina','National Academy of San Luca',457).
 distance('Basilica of Saint Lawrence in Lucina','Museo Carlo Bilotti',1185).
-distance('Basilica of Saint Lawrence in Lucina','Palazzo Wedekind',281).
 distance('Basilica of Saint Lawrence in Lucina','Cloaca Maxima',1631).
 distance('Basilica of Saint Lawrence in Lucina','Temple of Apollo Palatinus',1874).
 distance('Basilica of Saint Lawrence in Lucina','Circus Maximus',1980).
@@ -16579,13 +16456,13 @@ distance('Basilica of Saint Lawrence in Lucina','Mouth of Truth',1703).
 distance('Basilica of Saint Lawrence in Lucina','Basilica di Santa Sabina all Aventino',2089).
 distance('Basilica of Saint Lawrence in Lucina','Santa Maria in Cosmedin',1709).
 distance('Basilica of Saint Lawrence in Lucina','Non-Catholic Cemetery',2998).
-distance('Basilica of Saint Lawrence in Lucina','Basilica Santa Cecilia in Trastevere',1798).
+distance('Basilica of Saint Lawrence in Lucina','Basilica di Santa Cecilia in Trastevere',1798).
 distance('Basilica of Saint Lawrence in Lucina','Mattatoio',3012).
 distance('Basilica of Saint Lawrence in Lucina','Pyramid of Caius Cestius',2984).
 distance('Basilica of Saint Lawrence in Lucina','Turtle Fountain',1055).
 distance('Basilica of Saint Lawrence in Lucina','Basilica di San Bartolomeo all Isola',1441).
 distance('Basilica of Saint Lawrence in Lucina','Chiesa di Santa Prisca',2284).
-distance('Basilica of Saint Lawrence in Lucina','Tempio Maggiore di Roma',1257).
+distance('Basilica of Saint Lawrence in Lucina','Tempio Maggiore',1257).
 distance('Basilica of Saint Lawrence in Lucina','Portico of Octavia',1198).
 distance('Basilica of Saint Lawrence in Lucina','Basilica Santi Giovanni e Paolo',2176).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Giorgio de Chirico House Museum',350).
@@ -16619,7 +16496,6 @@ distance('Basilica of SS. Ambrose and Charles on the Corso','Villa Balestra',182
 distance('Basilica of SS. Ambrose and Charles on the Corso','Palazzo Borghese',223).
 distance('Basilica of SS. Ambrose and Charles on the Corso','National Academy of San Luca',601).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Museo Carlo Bilotti',986).
-distance('Basilica of SS. Ambrose and Charles on the Corso','Palazzo Wedekind',503).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Cloaca Maxima',1854).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Temple of Apollo Palatinus',2092).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Circus Maximus',2200).
@@ -16627,13 +16503,13 @@ distance('Basilica of SS. Ambrose and Charles on the Corso','Mouth of Truth',192
 distance('Basilica of SS. Ambrose and Charles on the Corso','Basilica di Santa Sabina all Aventino',2312).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Santa Maria in Cosmedin',1932).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Non-Catholic Cemetery',3221).
-distance('Basilica of SS. Ambrose and Charles on the Corso','Basilica Santa Cecilia in Trastevere',2018).
+distance('Basilica of SS. Ambrose and Charles on the Corso','Basilica di Santa Cecilia in Trastevere',2018).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Mattatoio',3228).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Pyramid of Caius Cestius',3207).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Turtle Fountain',1275).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Basilica di San Bartolomeo all Isola',1662).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Chiesa di Santa Prisca',2506).
-distance('Basilica of SS. Ambrose and Charles on the Corso','Tempio Maggiore di Roma',1478).
+distance('Basilica of SS. Ambrose and Charles on the Corso','Tempio Maggiore',1478).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Portico of Octavia',1420).
 distance('Basilica of SS. Ambrose and Charles on the Corso','Basilica Santi Giovanni e Paolo',2380).
 distance('Giorgio de Chirico House Museum','Santa Maria in Montesanto',688).
@@ -16666,7 +16542,6 @@ distance('Giorgio de Chirico House Museum','Villa Balestra',1901).
 distance('Giorgio de Chirico House Museum','Palazzo Borghese',557).
 distance('Giorgio de Chirico House Museum','National Academy of San Luca',453).
 distance('Giorgio de Chirico House Museum','Museo Carlo Bilotti',868).
-distance('Giorgio de Chirico House Museum','Palazzo Wedekind',591).
 distance('Giorgio de Chirico House Museum','Cloaca Maxima',1892).
 distance('Giorgio de Chirico House Museum','Temple of Apollo Palatinus',2047).
 distance('Giorgio de Chirico House Museum','Circus Maximus',2172).
@@ -16674,13 +16549,13 @@ distance('Giorgio de Chirico House Museum','Mouth of Truth',1945).
 distance('Giorgio de Chirico House Museum','Basilica di Santa Sabina all Aventino',2354).
 distance('Giorgio de Chirico House Museum','Santa Maria in Cosmedin',1948).
 distance('Giorgio de Chirico House Museum','Non-Catholic Cemetery',3263).
-distance('Giorgio de Chirico House Museum','Basilica Santa Cecilia in Trastevere',2105).
+distance('Giorgio de Chirico House Museum','Basilica di Santa Cecilia in Trastevere',2105).
 distance('Giorgio de Chirico House Museum','Mattatoio',3325).
 distance('Giorgio de Chirico House Museum','Pyramid of Caius Cestius',3236).
 distance('Giorgio de Chirico House Museum','Turtle Fountain',1372).
 distance('Giorgio de Chirico House Museum','Basilica di San Bartolomeo all Isola',1734).
 distance('Giorgio de Chirico House Museum','Chiesa di Santa Prisca',2503).
-distance('Giorgio de Chirico House Museum','Tempio Maggiore di Roma',1558).
+distance('Giorgio de Chirico House Museum','Tempio Maggiore',1558).
 distance('Giorgio de Chirico House Museum','Portico of Octavia',1492).
 distance('Giorgio de Chirico House Museum','Basilica Santi Giovanni e Paolo',2265).
 distance('Santa Maria in Montesanto','Fontana della Barcaccia',651).
@@ -16712,7 +16587,6 @@ distance('Santa Maria in Montesanto','Villa Balestra',1282).
 distance('Santa Maria in Montesanto','Palazzo Borghese',657).
 distance('Santa Maria in Montesanto','National Academy of San Luca',1098).
 distance('Santa Maria in Montesanto','Museo Carlo Bilotti',650).
-distance('Santa Maria in Montesanto','Palazzo Wedekind',1047).
 distance('Santa Maria in Montesanto','Cloaca Maxima',2394).
 distance('Santa Maria in Montesanto','Temple of Apollo Palatinus',2635).
 distance('Santa Maria in Montesanto','Circus Maximus',2745).
@@ -16720,13 +16594,13 @@ distance('Santa Maria in Montesanto','Mouth of Truth',2468).
 distance('Santa Maria in Montesanto','Basilica di Santa Sabina all Aventino',2849).
 distance('Santa Maria in Montesanto','Santa Maria in Cosmedin',2474).
 distance('Santa Maria in Montesanto','Non-Catholic Cemetery',3755).
-distance('Santa Maria in Montesanto','Basilica Santa Cecilia in Trastevere',2541).
+distance('Santa Maria in Montesanto','Basilica di Santa Cecilia in Trastevere',2541).
 distance('Santa Maria in Montesanto','Mattatoio',3741).
 distance('Santa Maria in Montesanto','Pyramid of Caius Cestius',3744).
 distance('Santa Maria in Montesanto','Turtle Fountain',1804).
 distance('Santa Maria in Montesanto','Basilica di San Bartolomeo all Isola',2195).
 distance('Santa Maria in Montesanto','Chiesa di Santa Prisca',3050).
-distance('Santa Maria in Montesanto','Tempio Maggiore di Roma',2009).
+distance('Santa Maria in Montesanto','Tempio Maggiore',2009).
 distance('Santa Maria in Montesanto','Portico of Octavia',1954).
 distance('Santa Maria in Montesanto','Basilica Santi Giovanni e Paolo',2910).
 distance('Fontana della Barcaccia','Museo Leonardo da Vinci',782).
@@ -16757,7 +16631,6 @@ distance('Fontana della Barcaccia','Villa Balestra',1868).
 distance('Fontana della Barcaccia','Palazzo Borghese',534).
 distance('Fontana della Barcaccia','National Academy of San Luca',482).
 distance('Fontana della Barcaccia','Museo Carlo Bilotti',848).
-distance('Fontana della Barcaccia','Palazzo Wedekind',598).
 distance('Fontana della Barcaccia','Cloaca Maxima',1911).
 distance('Fontana della Barcaccia','Temple of Apollo Palatinus',2074).
 distance('Fontana della Barcaccia','Circus Maximus',2197).
@@ -16765,13 +16638,13 @@ distance('Fontana della Barcaccia','Mouth of Truth',1966).
 distance('Fontana della Barcaccia','Basilica di Santa Sabina all Aventino',2374).
 distance('Fontana della Barcaccia','Santa Maria in Cosmedin',1969).
 distance('Fontana della Barcaccia','Non-Catholic Cemetery',3283).
-distance('Fontana della Barcaccia','Basilica Santa Cecilia in Trastevere',2120).
+distance('Fontana della Barcaccia','Basilica di Santa Cecilia in Trastevere',2120).
 distance('Fontana della Barcaccia','Mattatoio',3340).
 distance('Fontana della Barcaccia','Pyramid of Caius Cestius',3257).
 distance('Fontana della Barcaccia','Turtle Fountain',1384).
 distance('Fontana della Barcaccia','Basilica di San Bartolomeo all Isola',1750).
 distance('Fontana della Barcaccia','Chiesa di Santa Prisca',2527).
-distance('Fontana della Barcaccia','Tempio Maggiore di Roma',1573).
+distance('Fontana della Barcaccia','Tempio Maggiore',1573).
 distance('Fontana della Barcaccia','Portico of Octavia',1507).
 distance('Fontana della Barcaccia','Basilica Santi Giovanni e Paolo',2297).
 distance('Museo Leonardo da Vinci','Explora - Il Museo dei Bambini di Roma',436).
@@ -16801,7 +16674,6 @@ distance('Museo Leonardo da Vinci','Villa Balestra',1140).
 distance('Museo Leonardo da Vinci','Palazzo Borghese',790).
 distance('Museo Leonardo da Vinci','National Academy of San Luca',1238).
 distance('Museo Leonardo da Vinci','Museo Carlo Bilotti',624).
-distance('Museo Leonardo da Vinci','Palazzo Wedekind',1189).
 distance('Museo Leonardo da Vinci','Cloaca Maxima',2533).
 distance('Museo Leonardo da Vinci','Temple of Apollo Palatinus',2778).
 distance('Museo Leonardo da Vinci','Circus Maximus',2887).
@@ -16809,13 +16681,13 @@ distance('Museo Leonardo da Vinci','Mouth of Truth',2609).
 distance('Museo Leonardo da Vinci','Basilica di Santa Sabina all Aventino',2988).
 distance('Museo Leonardo da Vinci','Santa Maria in Cosmedin',2615).
 distance('Museo Leonardo da Vinci','Non-Catholic Cemetery',3893).
-distance('Museo Leonardo da Vinci','Basilica Santa Cecilia in Trastevere',2677).
+distance('Museo Leonardo da Vinci','Basilica di Santa Cecilia in Trastevere',2677).
 distance('Museo Leonardo da Vinci','Mattatoio',3873).
 distance('Museo Leonardo da Vinci','Pyramid of Caius Cestius',3883).
 distance('Museo Leonardo da Vinci','Turtle Fountain',1941).
 distance('Museo Leonardo da Vinci','Basilica di San Bartolomeo all Isola',2332).
 distance('Museo Leonardo da Vinci','Chiesa di Santa Prisca',3191).
-distance('Museo Leonardo da Vinci','Tempio Maggiore di Roma',2147).
+distance('Museo Leonardo da Vinci','Tempio Maggiore',2147).
 distance('Museo Leonardo da Vinci','Portico of Octavia',2093).
 distance('Museo Leonardo da Vinci','Basilica Santi Giovanni e Paolo',3051).
 distance('Explora - Il Museo dei Bambini di Roma','Orologio ad acqua del Pincio',607).
@@ -16844,7 +16716,6 @@ distance('Explora - Il Museo dei Bambini di Roma','Villa Balestra',707).
 distance('Explora - Il Museo dei Bambini di Roma','Palazzo Borghese',1214).
 distance('Explora - Il Museo dei Bambini di Roma','National Academy of San Luca',1665).
 distance('Explora - Il Museo dei Bambini di Roma','Museo Carlo Bilotti',723).
-distance('Explora - Il Museo dei Bambini di Roma','Palazzo Wedekind',1625).
 distance('Explora - Il Museo dei Bambini di Roma','Cloaca Maxima',2965).
 distance('Explora - Il Museo dei Bambini di Roma','Temple of Apollo Palatinus',3214).
 distance('Explora - Il Museo dei Bambini di Roma','Circus Maximus',3324).
@@ -16852,13 +16723,13 @@ distance('Explora - Il Museo dei Bambini di Roma','Mouth of Truth',3043).
 distance('Explora - Il Museo dei Bambini di Roma','Basilica di Santa Sabina all Aventino',3418).
 distance('Explora - Il Museo dei Bambini di Roma','Santa Maria in Cosmedin',3049).
 distance('Explora - Il Museo dei Bambini di Roma','Non-Catholic Cemetery',4321).
-distance('Explora - Il Museo dei Bambini di Roma','Basilica Santa Cecilia in Trastevere',3099).
+distance('Explora - Il Museo dei Bambini di Roma','Basilica di Santa Cecilia in Trastevere',3099).
 distance('Explora - Il Museo dei Bambini di Roma','Mattatoio',4286).
 distance('Explora - Il Museo dei Bambini di Roma','Pyramid of Caius Cestius',4313).
 distance('Explora - Il Museo dei Bambini di Roma','Turtle Fountain',2368).
 distance('Explora - Il Museo dei Bambini di Roma','Basilica di San Bartolomeo all Isola',2760).
 distance('Explora - Il Museo dei Bambini di Roma','Chiesa di Santa Prisca',3626).
-distance('Explora - Il Museo dei Bambini di Roma','Tempio Maggiore di Roma',2575).
+distance('Explora - Il Museo dei Bambini di Roma','Tempio Maggiore',2575).
 distance('Explora - Il Museo dei Bambini di Roma','Portico of Octavia',2523).
 distance('Explora - Il Museo dei Bambini di Roma','Basilica Santi Giovanni e Paolo',3482).
 distance('Orologio ad acqua del Pincio','Ponte Giacomo Matteotti',871).
@@ -16886,7 +16757,6 @@ distance('Orologio ad acqua del Pincio','Villa Balestra',1214).
 distance('Orologio ad acqua del Pincio','Palazzo Borghese',924).
 distance('Orologio ad acqua del Pincio','National Academy of San Luca',1157).
 distance('Orologio ad acqua del Pincio','Museo Carlo Bilotti',280).
-distance('Orologio ad acqua del Pincio','Palazzo Wedekind',1219).
 distance('Orologio ad acqua del Pincio','Cloaca Maxima',2567).
 distance('Orologio ad acqua del Pincio','Temple of Apollo Palatinus',2749).
 distance('Orologio ad acqua del Pincio','Circus Maximus',2871).
@@ -16894,13 +16764,13 @@ distance('Orologio ad acqua del Pincio','Mouth of Truth',2629).
 distance('Orologio ad acqua del Pincio','Basilica di Santa Sabina all Aventino',3029).
 distance('Orologio ad acqua del Pincio','Santa Maria in Cosmedin',2633).
 distance('Orologio ad acqua del Pincio','Non-Catholic Cemetery',3940).
-distance('Orologio ad acqua del Pincio','Basilica Santa Cecilia in Trastevere',2752).
+distance('Orologio ad acqua del Pincio','Basilica di Santa Cecilia in Trastevere',2752).
 distance('Orologio ad acqua del Pincio','Mattatoio',3967).
 distance('Orologio ad acqua del Pincio','Pyramid of Caius Cestius',3919).
 distance('Orologio ad acqua del Pincio','Turtle Fountain',2009).
 distance('Orologio ad acqua del Pincio','Basilica di San Bartolomeo all Isola',2390).
 distance('Orologio ad acqua del Pincio','Chiesa di Santa Prisca',3196).
-distance('Orologio ad acqua del Pincio','Tempio Maggiore di Roma',2208).
+distance('Orologio ad acqua del Pincio','Tempio Maggiore',2208).
 distance('Orologio ad acqua del Pincio','Portico of Octavia',2147).
 distance('Orologio ad acqua del Pincio','Basilica Santi Giovanni e Paolo',2964).
 distance('Ponte Giacomo Matteotti','National Etruscan Museum of Villa Giulia',721).
@@ -16927,7 +16797,6 @@ distance('Ponte Giacomo Matteotti','Villa Balestra',810).
 distance('Ponte Giacomo Matteotti','Palazzo Borghese',1219).
 distance('Ponte Giacomo Matteotti','National Academy of San Luca',1777).
 distance('Ponte Giacomo Matteotti','Museo Carlo Bilotti',1041).
-distance('Ponte Giacomo Matteotti','Palazzo Wedekind',1667).
 distance('Ponte Giacomo Matteotti','Cloaca Maxima',2962).
 distance('Ponte Giacomo Matteotti','Temple of Apollo Palatinus',3257).
 distance('Ponte Giacomo Matteotti','Circus Maximus',3355).
@@ -16935,13 +16804,13 @@ distance('Ponte Giacomo Matteotti','Mouth of Truth',3050).
 distance('Ponte Giacomo Matteotti','Basilica di Santa Sabina all Aventino',3401).
 distance('Ponte Giacomo Matteotti','Santa Maria in Cosmedin',3057).
 distance('Ponte Giacomo Matteotti','Non-Catholic Cemetery',4290).
-distance('Ponte Giacomo Matteotti','Basilica Santa Cecilia in Trastevere',3059).
+distance('Ponte Giacomo Matteotti','Basilica di Santa Cecilia in Trastevere',3059).
 distance('Ponte Giacomo Matteotti','Mattatoio',4215).
 distance('Ponte Giacomo Matteotti','Pyramid of Caius Cestius',4292).
 distance('Ponte Giacomo Matteotti','Turtle Fountain',2351).
 distance('Ponte Giacomo Matteotti','Basilica di San Bartolomeo all Isola',2741).
 distance('Ponte Giacomo Matteotti','Chiesa di Santa Prisca',3637).
-distance('Ponte Giacomo Matteotti','Tempio Maggiore di Roma',2558).
+distance('Ponte Giacomo Matteotti','Tempio Maggiore',2558).
 distance('Ponte Giacomo Matteotti','Portico of Octavia',2513).
 distance('Ponte Giacomo Matteotti','Basilica Santi Giovanni e Paolo',3568).
 distance('National Etruscan Museum of Villa Giulia','Fontana del Babuino',1187).
@@ -16967,7 +16836,6 @@ distance('National Etruscan Museum of Villa Giulia','Villa Balestra',471).
 distance('National Etruscan Museum of Villa Giulia','Palazzo Borghese',1581).
 distance('National Etruscan Museum of Villa Giulia','National Academy of San Luca',1927).
 distance('National Etruscan Museum of Villa Giulia','Museo Carlo Bilotti',719).
-distance('National Etruscan Museum of Villa Giulia','Palazzo Wedekind',1951).
 distance('National Etruscan Museum of Villa Giulia','Cloaca Maxima',3305).
 distance('National Etruscan Museum of Villa Giulia','Temple of Apollo Palatinus',3513).
 distance('National Etruscan Museum of Villa Giulia','Circus Maximus',3631).
@@ -16975,13 +16843,13 @@ distance('National Etruscan Museum of Villa Giulia','Mouth of Truth',3374).
 distance('National Etruscan Museum of Villa Giulia','Basilica di Santa Sabina all Aventino',3763).
 distance('National Etruscan Museum of Villa Giulia','Santa Maria in Cosmedin',3379).
 distance('National Etruscan Museum of Villa Giulia','Non-Catholic Cemetery',4672).
-distance('National Etruscan Museum of Villa Giulia','Basilica Santa Cecilia in Trastevere',3463).
+distance('National Etruscan Museum of Villa Giulia','Basilica di Santa Cecilia in Trastevere',3463).
 distance('National Etruscan Museum of Villa Giulia','Mattatoio',4665).
 distance('National Etruscan Museum of Villa Giulia','Pyramid of Caius Cestius',4658).
 distance('National Etruscan Museum of Villa Giulia','Turtle Fountain',2724).
 distance('National Etruscan Museum of Villa Giulia','Basilica di San Bartolomeo all Isola',3113).
 distance('National Etruscan Museum of Villa Giulia','Chiesa di Santa Prisca',3949).
-distance('National Etruscan Museum of Villa Giulia','Tempio Maggiore di Roma',2928).
+distance('National Etruscan Museum of Villa Giulia','Tempio Maggiore',2928).
 distance('National Etruscan Museum of Villa Giulia','Portico of Octavia',2871).
 distance('National Etruscan Museum of Villa Giulia','Basilica Santi Giovanni e Paolo',3737).
 distance('Fontana del Babuino','Fontana del Bottino',279).
@@ -17006,7 +16874,6 @@ distance('Fontana del Babuino','Villa Balestra',1589).
 distance('Fontana del Babuino','Palazzo Borghese',491).
 distance('Fontana del Babuino','National Academy of San Luca',763).
 distance('Fontana del Babuino','Museo Carlo Bilotti',696).
-distance('Fontana del Babuino','Palazzo Wedekind',770).
 distance('Fontana del Babuino','Cloaca Maxima',2122).
 distance('Fontana del Babuino','Temple of Apollo Palatinus',2329).
 distance('Fontana del Babuino','Circus Maximus',2445).
@@ -17014,13 +16881,13 @@ distance('Fontana del Babuino','Mouth of Truth',2188).
 distance('Fontana del Babuino','Basilica di Santa Sabina all Aventino',2583).
 distance('Fontana del Babuino','Santa Maria in Cosmedin',2193).
 distance('Fontana del Babuino','Non-Catholic Cemetery',3493).
-distance('Fontana del Babuino','Basilica Santa Cecilia in Trastevere',2299).
+distance('Fontana del Babuino','Basilica di Santa Cecilia in Trastevere',2299).
 distance('Fontana del Babuino','Mattatoio',3513).
 distance('Fontana del Babuino','Pyramid of Caius Cestius',3475).
 distance('Fontana del Babuino','Turtle Fountain',1556).
 distance('Fontana del Babuino','Basilica di San Bartolomeo all Isola',1939).
 distance('Fontana del Babuino','Chiesa di Santa Prisca',2762).
-distance('Fontana del Babuino','Tempio Maggiore di Roma',1756).
+distance('Fontana del Babuino','Tempio Maggiore',1756).
 distance('Fontana del Babuino','Portico of Octavia',1696).
 distance('Fontana del Babuino','Basilica Santi Giovanni e Paolo',2581).
 distance('Fontana del Bottino','Trinita dei Monti',99).
@@ -17044,7 +16911,6 @@ distance('Fontana del Bottino','Villa Balestra',1775).
 distance('Fontana del Bottino','Palazzo Borghese',627).
 distance('Fontana del Bottino','National Academy of San Luca',594).
 distance('Fontana del Bottino','Museo Carlo Bilotti',723).
-distance('Fontana del Bottino','Palazzo Wedekind',728).
 distance('Fontana del Bottino','Cloaca Maxima',2037).
 distance('Fontana del Bottino','Temple of Apollo Palatinus',2188).
 distance('Fontana del Bottino','Circus Maximus',2314).
@@ -17052,13 +16918,13 @@ distance('Fontana del Bottino','Mouth of Truth',2090).
 distance('Fontana del Bottino','Basilica di Santa Sabina all Aventino',2499).
 distance('Fontana del Bottino','Santa Maria in Cosmedin',2092).
 distance('Fontana del Bottino','Non-Catholic Cemetery',3408).
-distance('Fontana del Bottino','Basilica Santa Cecilia in Trastevere',2249).
+distance('Fontana del Bottino','Basilica di Santa Cecilia in Trastevere',2249).
 distance('Fontana del Bottino','Mattatoio',3469).
 distance('Fontana del Bottino','Pyramid of Caius Cestius',3381).
 distance('Fontana del Bottino','Turtle Fountain',1514).
 distance('Fontana del Bottino','Basilica di San Bartolomeo all Isola',1878).
 distance('Fontana del Bottino','Chiesa di Santa Prisca',2647).
-distance('Fontana del Bottino','Tempio Maggiore di Roma',1701).
+distance('Fontana del Bottino','Tempio Maggiore',1701).
 distance('Fontana del Bottino','Portico of Octavia',1636).
 distance('Fontana del Bottino','Basilica Santi Giovanni e Paolo',2396).
 distance('Trinita dei Monti','Galleria del Cembalo',638).
@@ -17081,7 +16947,6 @@ distance('Trinita dei Monti','Villa Balestra',1869).
 distance('Trinita dei Monti','Palazzo Borghese',663).
 distance('Trinita dei Monti','National Academy of San Luca',519).
 distance('Trinita dei Monti','Museo Carlo Bilotti',792).
-distance('Trinita dei Monti','Palazzo Wedekind',698).
 distance('Trinita dei Monti','Cloaca Maxima',1977).
 distance('Trinita dei Monti','Temple of Apollo Palatinus',2112).
 distance('Trinita dei Monti','Circus Maximus',2240).
@@ -17089,13 +16954,13 @@ distance('Trinita dei Monti','Mouth of Truth',2026).
 distance('Trinita dei Monti','Basilica di Santa Sabina all Aventino',2439).
 distance('Trinita dei Monti','Santa Maria in Cosmedin',2028).
 distance('Trinita dei Monti','Non-Catholic Cemetery',3345).
-distance('Trinita dei Monti','Basilica Santa Cecilia in Trastevere',2200).
+distance('Trinita dei Monti','Basilica di Santa Cecilia in Trastevere',2200).
 distance('Trinita dei Monti','Mattatoio',3418).
 distance('Trinita dei Monti','Pyramid of Caius Cestius',3316).
 distance('Trinita dei Monti','Turtle Fountain',1471).
 distance('Trinita dei Monti','Basilica di San Bartolomeo all Isola',1827).
 distance('Trinita dei Monti','Chiesa di Santa Prisca',2576).
-distance('Trinita dei Monti','Tempio Maggiore di Roma',1653).
+distance('Trinita dei Monti','Tempio Maggiore',1653).
 distance('Trinita dei Monti','Portico of Octavia',1586).
 distance('Trinita dei Monti','Basilica Santi Giovanni e Paolo',2308).
 distance('Galleria del Cembalo','Chiesa di Santa Maria in Via',454).
@@ -17117,7 +16982,6 @@ distance('Galleria del Cembalo','Villa Balestra',1966).
 distance('Galleria del Cembalo','Palazzo Borghese',59).
 distance('Galleria del Cembalo','National Academy of San Luca',629).
 distance('Galleria del Cembalo','Museo Carlo Bilotti',1198).
-distance('Galleria del Cembalo','Palazzo Wedekind',400).
 distance('Galleria del Cembalo','Cloaca Maxima',1706).
 distance('Galleria del Cembalo','Temple of Apollo Palatinus',1984).
 distance('Galleria del Cembalo','Circus Maximus',2083).
@@ -17125,13 +16989,13 @@ distance('Galleria del Cembalo','Mouth of Truth',1787).
 distance('Galleria del Cembalo','Basilica di Santa Sabina all Aventino',2158).
 distance('Galleria del Cembalo','Santa Maria in Cosmedin',1794).
 distance('Galleria del Cembalo','Non-Catholic Cemetery',3062).
-distance('Galleria del Cembalo','Basilica Santa Cecilia in Trastevere',1845).
+distance('Galleria del Cembalo','Basilica di Santa Cecilia in Trastevere',1845).
 distance('Galleria del Cembalo','Mattatoio',3047).
 distance('Galleria del Cembalo','Pyramid of Caius Cestius',3053).
 distance('Galleria del Cembalo','Turtle Fountain',1109).
 distance('Galleria del Cembalo','Basilica di San Bartolomeo all Isola',1501).
 distance('Galleria del Cembalo','Chiesa di Santa Prisca',2373).
-distance('Galleria del Cembalo','Tempio Maggiore di Roma',1316).
+distance('Galleria del Cembalo','Tempio Maggiore',1316).
 distance('Galleria del Cembalo','Portico of Octavia',1263).
 distance('Galleria del Cembalo','Basilica Santi Giovanni e Paolo',2310).
 distance('Chiesa di Santa Maria in Via','Palazzo di Propaganda Fide',344).
@@ -17152,7 +17016,6 @@ distance('Chiesa di Santa Maria in Via','Villa Balestra',2276).
 distance('Chiesa di Santa Maria in Via','Palazzo Borghese',512).
 distance('Chiesa di Santa Maria in Via','National Academy of San Luca',190).
 distance('Chiesa di Santa Maria in Via','Museo Carlo Bilotti',1310).
-distance('Chiesa di Santa Maria in Via','Palazzo Wedekind',188).
 distance('Chiesa di Santa Maria in Via','Cloaca Maxima',1451).
 distance('Chiesa di Santa Maria in Via','Temple of Apollo Palatinus',1639).
 distance('Chiesa di Santa Maria in Via','Circus Maximus',1755).
@@ -17160,13 +17023,13 @@ distance('Chiesa di Santa Maria in Via','Mouth of Truth',1509).
 distance('Chiesa di Santa Maria in Via','Basilica di Santa Sabina all Aventino',1913).
 distance('Chiesa di Santa Maria in Via','Santa Maria in Cosmedin',1512).
 distance('Chiesa di Santa Maria in Via','Non-Catholic Cemetery',2823).
-distance('Chiesa di Santa Maria in Via','Basilica Santa Cecilia in Trastevere',1660).
+distance('Chiesa di Santa Maria in Via','Basilica di Santa Cecilia in Trastevere',1660).
 distance('Chiesa di Santa Maria in Via','Mattatoio',2879).
 distance('Chiesa di Santa Maria in Via','Pyramid of Caius Cestius',2799).
 distance('Chiesa di Santa Maria in Via','Turtle Fountain',928).
 distance('Chiesa di Santa Maria in Via','Basilica di San Bartolomeo all Isola',1289).
 distance('Chiesa di Santa Maria in Via','Chiesa di Santa Prisca',2076).
-distance('Chiesa di Santa Maria in Via','Tempio Maggiore di Roma',1112).
+distance('Chiesa di Santa Maria in Via','Tempio Maggiore',1112).
 distance('Chiesa di Santa Maria in Via','Portico of Octavia',1047).
 distance('Chiesa di Santa Maria in Via','Basilica Santi Giovanni e Paolo',1909).
 distance('Palazzo di Propaganda Fide','Basilica di Sant Andrea delle Fratte',114).
@@ -17186,7 +17049,6 @@ distance('Palazzo di Propaganda Fide','Villa Balestra',2029).
 distance('Palazzo di Propaganda Fide','Palazzo Borghese',577).
 distance('Palazzo di Propaganda Fide','National Academy of San Luca',327).
 distance('Palazzo di Propaganda Fide','Museo Carlo Bilotti',987).
-distance('Palazzo di Propaganda Fide','Palazzo Wedekind',510).
 distance('Palazzo di Propaganda Fide','Cloaca Maxima',1777).
 distance('Palazzo di Propaganda Fide','Temple of Apollo Palatinus',1922).
 distance('Palazzo di Propaganda Fide','Circus Maximus',2047).
@@ -17194,13 +17056,13 @@ distance('Palazzo di Propaganda Fide','Mouth of Truth',1827).
 distance('Palazzo di Propaganda Fide','Basilica di Santa Sabina all Aventino',2239).
 distance('Palazzo di Propaganda Fide','Santa Maria in Cosmedin',1829).
 distance('Palazzo di Propaganda Fide','Non-Catholic Cemetery',3146).
-distance('Palazzo di Propaganda Fide','Basilica Santa Cecilia in Trastevere',1999).
+distance('Palazzo di Propaganda Fide','Basilica di Santa Cecilia in Trastevere',1999).
 distance('Palazzo di Propaganda Fide','Mattatoio',3218).
 distance('Palazzo di Propaganda Fide','Pyramid of Caius Cestius',3117).
 distance('Palazzo di Propaganda Fide','Turtle Fountain',1272).
 distance('Palazzo di Propaganda Fide','Basilica di San Bartolomeo all Isola',1626).
 distance('Palazzo di Propaganda Fide','Chiesa di Santa Prisca',2381).
-distance('Palazzo di Propaganda Fide','Tempio Maggiore di Roma',1453).
+distance('Palazzo di Propaganda Fide','Tempio Maggiore',1453).
 distance('Palazzo di Propaganda Fide','Portico of Octavia',1385).
 distance('Palazzo di Propaganda Fide','Basilica Santi Giovanni e Paolo',2137).
 distance('Basilica di Sant Andrea delle Fratte','Piazza del Popolo',998).
@@ -17219,7 +17081,6 @@ distance('Basilica di Sant Andrea delle Fratte','Villa Balestra',2143).
 distance('Basilica di Sant Andrea delle Fratte','Palazzo Borghese',625).
 distance('Basilica di Sant Andrea delle Fratte','National Academy of San Luca',219).
 distance('Basilica di Sant Andrea delle Fratte','Museo Carlo Bilotti',1093).
-distance('Basilica di Sant Andrea delle Fratte','Palazzo Wedekind',463).
 distance('Basilica di Sant Andrea delle Fratte','Cloaca Maxima',1680).
 distance('Basilica di Sant Andrea delle Fratte','Temple of Apollo Palatinus',1812).
 distance('Basilica di Sant Andrea delle Fratte','Circus Maximus',1939).
@@ -17227,13 +17088,13 @@ distance('Basilica di Sant Andrea delle Fratte','Mouth of Truth',1726).
 distance('Basilica di Sant Andrea delle Fratte','Basilica di Santa Sabina all Aventino',2141).
 distance('Basilica di Sant Andrea delle Fratte','Santa Maria in Cosmedin',1728).
 distance('Basilica di Sant Andrea delle Fratte','Non-Catholic Cemetery',3046).
-distance('Basilica di Sant Andrea delle Fratte','Basilica Santa Cecilia in Trastevere',1912).
+distance('Basilica di Sant Andrea delle Fratte','Basilica di Santa Cecilia in Trastevere',1912).
 distance('Basilica di Sant Andrea delle Fratte','Mattatoio',3128).
 distance('Basilica di Sant Andrea delle Fratte','Pyramid of Caius Cestius',3016).
 distance('Basilica di Sant Andrea delle Fratte','Turtle Fountain',1193).
 distance('Basilica di Sant Andrea delle Fratte','Basilica di San Bartolomeo all Isola',1537).
 distance('Basilica di Sant Andrea delle Fratte','Chiesa di Santa Prisca',2275).
-distance('Basilica di Sant Andrea delle Fratte','Tempio Maggiore di Roma',1367).
+distance('Basilica di Sant Andrea delle Fratte','Tempio Maggiore',1367).
 distance('Basilica di Sant Andrea delle Fratte','Portico of Octavia',1299).
 distance('Basilica di Sant Andrea delle Fratte','Basilica Santi Giovanni e Paolo',2023).
 distance('Piazza del Popolo','Marcus Aurelius Column',1134).
@@ -17251,7 +17112,6 @@ distance('Piazza del Popolo','Villa Balestra',1204).
 distance('Piazza del Popolo','Palazzo Borghese',725).
 distance('Piazza del Popolo','National Academy of San Luca',1180).
 distance('Piazza del Popolo','Museo Carlo Bilotti',649).
-distance('Piazza del Popolo','Palazzo Wedekind',1125).
 distance('Piazza del Popolo','Cloaca Maxima',2469).
 distance('Piazza del Popolo','Temple of Apollo Palatinus',2715).
 distance('Piazza del Popolo','Circus Maximus',2824).
@@ -17259,13 +17119,13 @@ distance('Piazza del Popolo','Mouth of Truth',2545).
 distance('Piazza del Popolo','Basilica di Santa Sabina all Aventino',2923).
 distance('Piazza del Popolo','Santa Maria in Cosmedin',2551).
 distance('Piazza del Popolo','Non-Catholic Cemetery',3828).
-distance('Piazza del Popolo','Basilica Santa Cecilia in Trastevere',2612).
+distance('Piazza del Popolo','Basilica di Santa Cecilia in Trastevere',2612).
 distance('Piazza del Popolo','Mattatoio',3809).
 distance('Piazza del Popolo','Pyramid of Caius Cestius',3818).
 distance('Piazza del Popolo','Turtle Fountain',1876).
 distance('Piazza del Popolo','Basilica di San Bartolomeo all Isola',2267).
 distance('Piazza del Popolo','Chiesa di Santa Prisca',3127).
-distance('Piazza del Popolo','Tempio Maggiore di Roma',2082).
+distance('Piazza del Popolo','Tempio Maggiore',2082).
 distance('Piazza del Popolo','Portico of Octavia',2028).
 distance('Piazza del Popolo','Basilica Santi Giovanni e Paolo',2991).
 distance('Marcus Aurelius Column','Piazza di Siena',1533).
@@ -17282,7 +17142,6 @@ distance('Marcus Aurelius Column','Villa Balestra',2337).
 distance('Marcus Aurelius Column','Palazzo Borghese',484).
 distance('Marcus Aurelius Column','National Academy of San Luca',318).
 distance('Marcus Aurelius Column','Museo Carlo Bilotti',1420).
-distance('Marcus Aurelius Column','Palazzo Wedekind',44).
 distance('Marcus Aurelius Column','Cloaca Maxima',1354).
 distance('Marcus Aurelius Column','Temple of Apollo Palatinus',1581).
 distance('Marcus Aurelius Column','Circus Maximus',1689).
@@ -17290,13 +17149,13 @@ distance('Marcus Aurelius Column','Mouth of Truth',1421).
 distance('Marcus Aurelius Column','Basilica di Santa Sabina all Aventino',1815).
 distance('Marcus Aurelius Column','Santa Maria in Cosmedin',1425).
 distance('Marcus Aurelius Column','Non-Catholic Cemetery',2726).
-distance('Marcus Aurelius Column','Basilica Santa Cecilia in Trastevere',1544).
+distance('Marcus Aurelius Column','Basilica di Santa Cecilia in Trastevere',1544).
 distance('Marcus Aurelius Column','Mattatoio',2763).
 distance('Marcus Aurelius Column','Pyramid of Caius Cestius',2707).
 distance('Marcus Aurelius Column','Turtle Fountain',804).
 distance('Marcus Aurelius Column','Basilica di San Bartolomeo all Isola',1177).
 distance('Marcus Aurelius Column','Chiesa di Santa Prisca',1997).
-distance('Marcus Aurelius Column','Tempio Maggiore di Roma',997).
+distance('Marcus Aurelius Column','Tempio Maggiore',997).
 distance('Marcus Aurelius Column','Portico of Octavia',934).
 distance('Marcus Aurelius Column','Basilica Santi Giovanni e Paolo',1887).
 distance('Piazza di Siena','All Saints  Anglican Church Rome',898).
@@ -17312,7 +17171,6 @@ distance('Piazza di Siena','Villa Balestra',1407).
 distance('Piazza di Siena','Palazzo Borghese',1384).
 distance('Piazza di Siena','National Academy of San Luca',1363).
 distance('Piazza di Siena','Museo Carlo Bilotti',315).
-distance('Piazza di Siena','Palazzo Wedekind',1553).
 distance('Piazza di Siena','Cloaca Maxima',2829).
 distance('Piazza di Siena','Temple of Apollo Palatinus',2918).
 distance('Piazza di Siena','Circus Maximus',3054).
@@ -17320,13 +17178,13 @@ distance('Piazza di Siena','Mouth of Truth',2869).
 distance('Piazza di Siena','Basilica di Santa Sabina all Aventino',3287).
 distance('Piazza di Siena','Santa Maria in Cosmedin',2870).
 distance('Piazza di Siena','Non-Catholic Cemetery',4189).
-distance('Piazza di Siena','Basilica Santa Cecilia in Trastevere',3060).
+distance('Piazza di Siena','Basilica di Santa Cecilia in Trastevere',3060).
 distance('Piazza di Siena','Mattatoio',4278).
 distance('Piazza di Siena','Pyramid of Caius Cestius',4153).
 distance('Piazza di Siena','Turtle Fountain',2333).
 distance('Piazza di Siena','Basilica di San Bartolomeo all Isola',2687).
 distance('Piazza di Siena','Chiesa di Santa Prisca',3402).
-distance('Piazza di Siena','Tempio Maggiore di Roma',2514).
+distance('Piazza di Siena','Tempio Maggiore',2514).
 distance('Piazza di Siena','Portico of Octavia',2447).
 distance('Piazza di Siena','Basilica Santi Giovanni e Paolo',3041).
 distance('All Saints  Anglican Church Rome','Church of Saint Roch  all Augusteo ',400).
@@ -17341,7 +17199,6 @@ distance('All Saints  Anglican Church Rome','Villa Balestra',1515).
 distance('All Saints  Anglican Church Rome','Palazzo Borghese',511).
 distance('All Saints  Anglican Church Rome','National Academy of San Luca',842).
 distance('All Saints  Anglican Church Rome','Museo Carlo Bilotti',674).
-distance('All Saints  Anglican Church Rome','Palazzo Wedekind',829).
 distance('All Saints  Anglican Church Rome','Cloaca Maxima',2183).
 distance('All Saints  Anglican Church Rome','Temple of Apollo Palatinus',2400).
 distance('All Saints  Anglican Church Rome','Circus Maximus',2514).
@@ -17349,13 +17206,13 @@ distance('All Saints  Anglican Church Rome','Mouth of Truth',2251).
 distance('All Saints  Anglican Church Rome','Basilica di Santa Sabina all Aventino',2642).
 distance('All Saints  Anglican Church Rome','Santa Maria in Cosmedin',2256).
 distance('All Saints  Anglican Church Rome','Non-Catholic Cemetery',3552).
-distance('All Saints  Anglican Church Rome','Basilica Santa Cecilia in Trastevere',2352).
+distance('All Saints  Anglican Church Rome','Basilica di Santa Cecilia in Trastevere',2352).
 distance('All Saints  Anglican Church Rome','Mattatoio',3563).
 distance('All Saints  Anglican Church Rome','Pyramid of Caius Cestius',3536).
 distance('All Saints  Anglican Church Rome','Turtle Fountain',1609).
 distance('All Saints  Anglican Church Rome','Basilica di San Bartolomeo all Isola',1995).
 distance('All Saints  Anglican Church Rome','Chiesa di Santa Prisca',2828).
-distance('All Saints  Anglican Church Rome','Tempio Maggiore di Roma',1811).
+distance('All Saints  Anglican Church Rome','Tempio Maggiore',1811).
 distance('All Saints  Anglican Church Rome','Portico of Octavia',1753).
 distance('All Saints  Anglican Church Rome','Basilica Santi Giovanni e Paolo',2658).
 distance('Church of Saint Roch  all Augusteo ','Church of Our Lady in Trivio',750).
@@ -17369,7 +17226,6 @@ distance('Church of Saint Roch  all Augusteo ','Villa Balestra',1767).
 distance('Church of Saint Roch  all Augusteo ','Palazzo Borghese',155).
 distance('Church of Saint Roch  all Augusteo ','National Academy of San Luca',787).
 distance('Church of Saint Roch  all Augusteo ','Museo Carlo Bilotti',1072).
-distance('Church of Saint Roch  all Augusteo ','Palazzo Wedekind',603).
 distance('Church of Saint Roch  all Augusteo ','Cloaca Maxima',1909).
 distance('Church of Saint Roch  all Augusteo ','Temple of Apollo Palatinus',2190).
 distance('Church of Saint Roch  all Augusteo ','Circus Maximus',2290).
@@ -17377,13 +17233,13 @@ distance('Church of Saint Roch  all Augusteo ','Mouth of Truth',1991).
 distance('Church of Saint Roch  all Augusteo ','Basilica di Santa Sabina all Aventino',2358).
 distance('Church of Saint Roch  all Augusteo ','Santa Maria in Cosmedin',1998).
 distance('Church of Saint Roch  all Augusteo ','Non-Catholic Cemetery',3260).
-distance('Church of Saint Roch  all Augusteo ','Basilica Santa Cecilia in Trastevere',2039).
+distance('Church of Saint Roch  all Augusteo ','Basilica di Santa Cecilia in Trastevere',2039).
 distance('Church of Saint Roch  all Augusteo ','Mattatoio',3233).
 distance('Church of Saint Roch  all Augusteo ','Pyramid of Caius Cestius',3254).
 distance('Church of Saint Roch  all Augusteo ','Turtle Fountain',1308).
 distance('Church of Saint Roch  all Augusteo ','Basilica di San Bartolomeo all Isola',1700).
 distance('Church of Saint Roch  all Augusteo ','Chiesa di Santa Prisca',2578).
-distance('Church of Saint Roch  all Augusteo ','Tempio Maggiore di Roma',1515).
+distance('Church of Saint Roch  all Augusteo ','Tempio Maggiore',1515).
 distance('Church of Saint Roch  all Augusteo ','Portico of Octavia',1464).
 distance('Church of Saint Roch  all Augusteo ','Basilica Santi Giovanni e Paolo',2512).
 distance('Church of Our Lady in Trivio','Il Tempio di Adriano',310).
@@ -17396,7 +17252,6 @@ distance('Church of Our Lady in Trivio','Villa Balestra',2363).
 distance('Church of Our Lady in Trivio','Palazzo Borghese',635).
 distance('Church of Our Lady in Trivio','National Academy of San Luca',92).
 distance('Church of Our Lady in Trivio','Museo Carlo Bilotti',1358).
-distance('Church of Our Lady in Trivio','Palazzo Wedekind',274).
 distance('Church of Our Lady in Trivio','Cloaca Maxima',1407).
 distance('Church of Our Lady in Trivio','Temple of Apollo Palatinus',1561).
 distance('Church of Our Lady in Trivio','Circus Maximus',1683).
@@ -17404,13 +17259,13 @@ distance('Church of Our Lady in Trivio','Mouth of Truth',1456).
 distance('Church of Our Lady in Trivio','Basilica di Santa Sabina all Aventino',1868).
 distance('Church of Our Lady in Trivio','Santa Maria in Cosmedin',1458).
 distance('Church of Our Lady in Trivio','Non-Catholic Cemetery',2775).
-distance('Church of Our Lady in Trivio','Basilica Santa Cecilia in Trastevere',1636).
+distance('Church of Our Lady in Trivio','Basilica di Santa Cecilia in Trastevere',1636).
 distance('Church of Our Lady in Trivio','Mattatoio',2852).
 distance('Church of Our Lady in Trivio','Pyramid of Caius Cestius',2747).
 distance('Church of Our Lady in Trivio','Turtle Fountain',921).
 distance('Church of Our Lady in Trivio','Basilica di San Bartolomeo all Isola',1261).
 distance('Church of Our Lady in Trivio','Chiesa di Santa Prisca',2012).
-distance('Church of Our Lady in Trivio','Tempio Maggiore di Roma',1092).
+distance('Church of Our Lady in Trivio','Tempio Maggiore',1092).
 distance('Church of Our Lady in Trivio','Portico of Octavia',1023).
 distance('Church of Our Lady in Trivio','Basilica Santi Giovanni e Paolo',1810).
 distance('Il Tempio di Adriano','Museo Civico di Zoologia',2282).
@@ -17422,7 +17277,6 @@ distance('Il Tempio di Adriano','Villa Balestra',2432).
 distance('Il Tempio di Adriano','Palazzo Borghese',544).
 distance('Il Tempio di Adriano','National Academy of San Luca',403).
 distance('Il Tempio di Adriano','Museo Carlo Bilotti',1535).
-distance('Il Tempio di Adriano','Palazzo Wedekind',104).
 distance('Il Tempio di Adriano','Cloaca Maxima',1249).
 distance('Il Tempio di Adriano','Temple of Apollo Palatinus',1497).
 distance('Il Tempio di Adriano','Circus Maximus',1600).
@@ -17430,13 +17284,13 @@ distance('Il Tempio di Adriano','Mouth of Truth',1319).
 distance('Il Tempio di Adriano','Basilica di Santa Sabina all Aventino',1708).
 distance('Il Tempio di Adriano','Santa Maria in Cosmedin',1325).
 distance('Il Tempio di Adriano','Non-Catholic Cemetery',2618).
-distance('Il Tempio di Adriano','Basilica Santa Cecilia in Trastevere',1430).
+distance('Il Tempio di Adriano','Basilica di Santa Cecilia in Trastevere',1430).
 distance('Il Tempio di Adriano','Mattatoio',2648).
 distance('Il Tempio di Adriano','Pyramid of Caius Cestius',2602).
 distance('Il Tempio di Adriano','Turtle Fountain',689).
 distance('Il Tempio di Adriano','Basilica di San Bartolomeo all Isola',1065).
 distance('Il Tempio di Adriano','Chiesa di Santa Prisca',1900).
-distance('Il Tempio di Adriano','Tempio Maggiore di Roma',884).
+distance('Il Tempio di Adriano','Tempio Maggiore',884).
 distance('Il Tempio di Adriano','Portico of Octavia',822).
 distance('Il Tempio di Adriano','Basilica Santi Giovanni e Paolo',1825).
 distance('Museo Civico di Zoologia','Basilica of St. Augustine in Campo Marzio',2364).
@@ -17447,7 +17301,6 @@ distance('Museo Civico di Zoologia','Villa Balestra',1253).
 distance('Museo Civico di Zoologia','Palazzo Borghese',1965).
 distance('Museo Civico di Zoologia','National Academy of San Luca',2004).
 distance('Museo Civico di Zoologia','Museo Carlo Bilotti',783).
-distance('Museo Civico di Zoologia','Palazzo Wedekind',2182).
 distance('Museo Civico di Zoologia','Cloaca Maxima',3469).
 distance('Museo Civico di Zoologia','Temple of Apollo Palatinus',3553).
 distance('Museo Civico di Zoologia','Circus Maximus',3690).
@@ -17455,13 +17308,13 @@ distance('Museo Civico di Zoologia','Mouth of Truth',3510).
 distance('Museo Civico di Zoologia','Basilica di Santa Sabina all Aventino',3928).
 distance('Museo Civico di Zoologia','Santa Maria in Cosmedin',3511).
 distance('Museo Civico di Zoologia','Non-Catholic Cemetery',4829).
-distance('Museo Civico di Zoologia','Basilica Santa Cecilia in Trastevere',3699).
+distance('Museo Civico di Zoologia','Basilica di Santa Cecilia in Trastevere',3699).
 distance('Museo Civico di Zoologia','Mattatoio',4917).
 distance('Museo Civico di Zoologia','Pyramid of Caius Cestius',4793).
 distance('Museo Civico di Zoologia','Turtle Fountain',2967).
 distance('Museo Civico di Zoologia','Basilica di San Bartolomeo all Isola',3326).
 distance('Museo Civico di Zoologia','Chiesa di Santa Prisca',4040).
-distance('Museo Civico di Zoologia','Tempio Maggiore di Roma',3152).
+distance('Museo Civico di Zoologia','Tempio Maggiore',3152).
 distance('Museo Civico di Zoologia','Portico of Octavia',3085).
 distance('Museo Civico di Zoologia','Basilica Santi Giovanni e Paolo',3654).
 distance('Basilica of St. Augustine in Campo Marzio','Hendrik Christian Anderson Museum',1477).
@@ -17471,7 +17324,6 @@ distance('Basilica of St. Augustine in Campo Marzio','Villa Balestra',2280).
 distance('Basilica of St. Augustine in Campo Marzio','Palazzo Borghese',401).
 distance('Basilica of St. Augustine in Campo Marzio','National Academy of San Luca',785).
 distance('Basilica of St. Augustine in Campo Marzio','Museo Carlo Bilotti',1583).
-distance('Basilica of St. Augustine in Campo Marzio','Palazzo Wedekind',428).
 distance('Basilica of St. Augustine in Campo Marzio','Cloaca Maxima',1439).
 distance('Basilica of St. Augustine in Campo Marzio','Temple of Apollo Palatinus',1787).
 distance('Basilica of St. Augustine in Campo Marzio','Circus Maximus',1865).
@@ -17479,13 +17331,13 @@ distance('Basilica of St. Augustine in Campo Marzio','Mouth of Truth',1534).
 distance('Basilica of St. Augustine in Campo Marzio','Basilica di Santa Sabina all Aventino',1870).
 distance('Basilica of St. Augustine in Campo Marzio','Santa Maria in Cosmedin',1543).
 distance('Basilica of St. Augustine in Campo Marzio','Non-Catholic Cemetery',2758).
-distance('Basilica of St. Augustine in Campo Marzio','Basilica Santa Cecilia in Trastevere',1528).
+distance('Basilica of St. Augustine in Campo Marzio','Basilica di Santa Cecilia in Trastevere',1528).
 distance('Basilica of St. Augustine in Campo Marzio','Mattatoio',2706).
 distance('Basilica of St. Augustine in Campo Marzio','Pyramid of Caius Cestius',2760).
 distance('Basilica of St. Augustine in Campo Marzio','Turtle Fountain',825).
 distance('Basilica of St. Augustine in Campo Marzio','Basilica di San Bartolomeo all Isola',1212).
 distance('Basilica of St. Augustine in Campo Marzio','Chiesa di Santa Prisca',2120).
-distance('Basilica of St. Augustine in Campo Marzio','Tempio Maggiore di Roma',1030).
+distance('Basilica of St. Augustine in Campo Marzio','Tempio Maggiore',1030).
 distance('Basilica of St. Augustine in Campo Marzio','Portico of Octavia',990).
 distance('Basilica of St. Augustine in Campo Marzio','Basilica Santi Giovanni e Paolo',2176).
 distance('Hendrik Christian Anderson Museum','Goethe House',680).
@@ -17494,7 +17346,6 @@ distance('Hendrik Christian Anderson Museum','Villa Balestra',813).
 distance('Hendrik Christian Anderson Museum','Palazzo Borghese',1139).
 distance('Hendrik Christian Anderson Museum','National Academy of San Luca',1663).
 distance('Hendrik Christian Anderson Museum','Museo Carlo Bilotti',888).
-distance('Hendrik Christian Anderson Museum','Palazzo Wedekind',1576).
 distance('Hendrik Christian Anderson Museum','Cloaca Maxima',2892).
 distance('Hendrik Christian Anderson Museum','Temple of Apollo Palatinus',3170).
 distance('Hendrik Christian Anderson Museum','Circus Maximus',3273).
@@ -17502,13 +17353,13 @@ distance('Hendrik Christian Anderson Museum','Mouth of Truth',2976).
 distance('Hendrik Christian Anderson Museum','Basilica di Santa Sabina all Aventino',3337).
 distance('Hendrik Christian Anderson Museum','Santa Maria in Cosmedin',2983).
 distance('Hendrik Christian Anderson Museum','Non-Catholic Cemetery',4234).
-distance('Hendrik Christian Anderson Museum','Basilica Santa Cecilia in Trastevere',3005).
+distance('Hendrik Christian Anderson Museum','Basilica di Santa Cecilia in Trastevere',3005).
 distance('Hendrik Christian Anderson Museum','Mattatoio',4176).
 distance('Hendrik Christian Anderson Museum','Pyramid of Caius Cestius',4231).
 distance('Hendrik Christian Anderson Museum','Turtle Fountain',2286).
 distance('Hendrik Christian Anderson Museum','Basilica di San Bartolomeo all Isola',2678).
 distance('Hendrik Christian Anderson Museum','Chiesa di Santa Prisca',3563).
-distance('Hendrik Christian Anderson Museum','Tempio Maggiore di Roma',2493).
+distance('Hendrik Christian Anderson Museum','Tempio Maggiore',2493).
 distance('Hendrik Christian Anderson Museum','Portico of Octavia',2445).
 distance('Hendrik Christian Anderson Museum','Basilica Santi Giovanni e Paolo',3466).
 distance('Goethe House','Institute of Japanese Culture',1087).
@@ -17516,7 +17367,6 @@ distance('Goethe House','Villa Balestra',1403).
 distance('Goethe House','Palazzo Borghese',546).
 distance('Goethe House','National Academy of San Luca',982).
 distance('Goethe House','Museo Carlo Bilotti',698).
-distance('Goethe House','Palazzo Wedekind',927).
 distance('Goethe House','Cloaca Maxima',2274).
 distance('Goethe House','Temple of Apollo Palatinus',2514).
 distance('Goethe House','Circus Maximus',2624).
@@ -17524,20 +17374,19 @@ distance('Goethe House','Mouth of Truth',2348).
 distance('Goethe House','Basilica di Santa Sabina all Aventino',2730).
 distance('Goethe House','Santa Maria in Cosmedin',2354).
 distance('Goethe House','Non-Catholic Cemetery',3637).
-distance('Goethe House','Basilica Santa Cecilia in Trastevere',2425).
+distance('Goethe House','Basilica di Santa Cecilia in Trastevere',2425).
 distance('Goethe House','Mattatoio',3628).
 distance('Goethe House','Pyramid of Caius Cestius',3625).
 distance('Goethe House','Turtle Fountain',1686).
 distance('Goethe House','Basilica di San Bartolomeo all Isola',2076).
 distance('Goethe House','Chiesa di Santa Prisca',2929).
-distance('Goethe House','Tempio Maggiore di Roma',1891).
+distance('Goethe House','Tempio Maggiore',1891).
 distance('Goethe House','Portico of Octavia',1836).
 distance('Goethe House','Basilica Santi Giovanni e Paolo',2790).
 distance('Institute of Japanese Culture','Villa Balestra',541).
 distance('Institute of Japanese Culture','Palazzo Borghese',1633).
 distance('Institute of Japanese Culture','National Academy of San Luca',1937).
 distance('Institute of Japanese Culture','Museo Carlo Bilotti',681).
-distance('Institute of Japanese Culture','Palazzo Wedekind',1985).
 distance('Institute of Japanese Culture','Cloaca Maxima',3338).
 distance('Institute of Japanese Culture','Temple of Apollo Palatinus',3530).
 distance('Institute of Japanese Culture','Circus Maximus',3651).
@@ -17545,19 +17394,18 @@ distance('Institute of Japanese Culture','Mouth of Truth',3404).
 distance('Institute of Japanese Culture','Basilica di Santa Sabina all Aventino',3798).
 distance('Institute of Japanese Culture','Santa Maria in Cosmedin',3408).
 distance('Institute of Japanese Culture','Non-Catholic Cemetery',4709).
-distance('Institute of Japanese Culture','Basilica Santa Cecilia in Trastevere',3507).
+distance('Institute of Japanese Culture','Basilica di Santa Cecilia in Trastevere',3507).
 distance('Institute of Japanese Culture','Mattatoio',4714).
 distance('Institute of Japanese Culture','Pyramid of Caius Cestius',4691).
 distance('Institute of Japanese Culture','Turtle Fountain',2765).
 distance('Institute of Japanese Culture','Basilica di San Bartolomeo all Isola',3152).
 distance('Institute of Japanese Culture','Chiesa di Santa Prisca',3974).
-distance('Institute of Japanese Culture','Tempio Maggiore di Roma',2968).
+distance('Institute of Japanese Culture','Tempio Maggiore',2968).
 distance('Institute of Japanese Culture','Portico of Octavia',2909).
 distance('Institute of Japanese Culture','Basilica Santi Giovanni e Paolo',3737).
 distance('Villa Balestra','Palazzo Borghese',1921).
 distance('Villa Balestra','National Academy of San Luca',2347).
 distance('Villa Balestra','Museo Carlo Bilotti',1190).
-distance('Villa Balestra','Palazzo Wedekind',2330).
 distance('Villa Balestra','Cloaca Maxima',3672).
 distance('Villa Balestra','Temple of Apollo Palatinus',3915).
 distance('Villa Balestra','Circus Maximus',4026).
@@ -17565,18 +17413,17 @@ distance('Villa Balestra','Mouth of Truth',3750).
 distance('Villa Balestra','Basilica di Santa Sabina all Aventino',4125).
 distance('Villa Balestra','Santa Maria in Cosmedin',3756).
 distance('Villa Balestra','Non-Catholic Cemetery',5027).
-distance('Villa Balestra','Basilica Santa Cecilia in Trastevere',3804).
+distance('Villa Balestra','Basilica di Santa Cecilia in Trastevere',3804).
 distance('Villa Balestra','Mattatoio',4985).
 distance('Villa Balestra','Pyramid of Caius Cestius',5020).
 distance('Villa Balestra','Turtle Fountain',3075).
 distance('Villa Balestra','Basilica di San Bartolomeo all Isola',3467).
 distance('Villa Balestra','Chiesa di Santa Prisca',4332).
-distance('Villa Balestra','Tempio Maggiore di Roma',3282).
+distance('Villa Balestra','Tempio Maggiore',3282).
 distance('Villa Balestra','Portico of Octavia',3230).
 distance('Villa Balestra','Basilica Santi Giovanni e Paolo',4165).
 distance('Palazzo Borghese','National Academy of San Luca',685).
 distance('Palazzo Borghese','Museo Carlo Bilotti',1183).
-distance('Palazzo Borghese','Palazzo Wedekind',458).
 distance('Palazzo Borghese','Cloaca Maxima',1754).
 distance('Palazzo Borghese','Temple of Apollo Palatinus',2038).
 distance('Palazzo Borghese','Circus Maximus',2136).
@@ -17584,17 +17431,16 @@ distance('Palazzo Borghese','Mouth of Truth',1836).
 distance('Palazzo Borghese','Basilica di Santa Sabina all Aventino',2203).
 distance('Palazzo Borghese','Santa Maria in Cosmedin',1843).
 distance('Palazzo Borghese','Non-Catholic Cemetery',3106).
-distance('Palazzo Borghese','Basilica Santa Cecilia in Trastevere',1886).
+distance('Palazzo Borghese','Basilica di Santa Cecilia in Trastevere',1886).
 distance('Palazzo Borghese','Mattatoio',3084).
 distance('Palazzo Borghese','Pyramid of Caius Cestius',3099).
 distance('Palazzo Borghese','Turtle Fountain',1153).
 distance('Palazzo Borghese','Basilica di San Bartolomeo all Isola',1545).
 distance('Palazzo Borghese','Chiesa di Santa Prisca',2423).
-distance('Palazzo Borghese','Tempio Maggiore di Roma',1360).
+distance('Palazzo Borghese','Tempio Maggiore',1360).
 distance('Palazzo Borghese','Portico of Octavia',1309).
 distance('Palazzo Borghese','Basilica Santi Giovanni e Paolo',2368).
 distance('National Academy of San Luca','Museo Carlo Bilotti',1312).
-distance('National Academy of San Luca','Palazzo Wedekind',362).
 distance('National Academy of San Luca','Cloaca Maxima',1465).
 distance('National Academy of San Luca','Temple of Apollo Palatinus',1594).
 distance('National Academy of San Luca','Circus Maximus',1721).
@@ -17602,16 +17448,15 @@ distance('National Academy of San Luca','Mouth of Truth',1509).
 distance('National Academy of San Luca','Basilica di Santa Sabina all Aventino',1925).
 distance('National Academy of San Luca','Santa Maria in Cosmedin',1510).
 distance('National Academy of San Luca','Non-Catholic Cemetery',2829).
-distance('National Academy of San Luca','Basilica Santa Cecilia in Trastevere',1705).
+distance('National Academy of San Luca','Basilica di Santa Cecilia in Trastevere',1705).
 distance('National Academy of San Luca','Mattatoio',2919).
 distance('National Academy of San Luca','Pyramid of Caius Cestius',2797).
 distance('National Academy of San Luca','Turtle Fountain',999).
 distance('National Academy of San Luca','Basilica di San Bartolomeo all Isola',1330).
 distance('National Academy of San Luca','Chiesa di Santa Prisca',2056).
-distance('National Academy of San Luca','Tempio Maggiore di Roma',1164).
+distance('National Academy of San Luca','Tempio Maggiore',1164).
 distance('National Academy of San Luca','Portico of Octavia',1095).
 distance('National Academy of San Luca','Basilica Santi Giovanni e Paolo',1818).
-distance('Museo Carlo Bilotti','Palazzo Wedekind',1432).
 distance('Museo Carlo Bilotti','Cloaca Maxima',2760).
 distance('Museo Carlo Bilotti','Temple of Apollo Palatinus',2903).
 distance('Museo Carlo Bilotti','Circus Maximus',3032).
@@ -17619,44 +17464,28 @@ distance('Museo Carlo Bilotti','Mouth of Truth',2813).
 distance('Museo Carlo Bilotti','Basilica di Santa Sabina all Aventino',3222).
 distance('Museo Carlo Bilotti','Santa Maria in Cosmedin',2816).
 distance('Museo Carlo Bilotti','Non-Catholic Cemetery',4132).
-distance('Museo Carlo Bilotti','Basilica Santa Cecilia in Trastevere',2965).
+distance('Museo Carlo Bilotti','Basilica di Santa Cecilia in Trastevere',2965).
 distance('Museo Carlo Bilotti','Mattatoio',4183).
 distance('Museo Carlo Bilotti','Pyramid of Caius Cestius',4104).
 distance('Museo Carlo Bilotti','Turtle Fountain',2224).
 distance('Museo Carlo Bilotti','Basilica di San Bartolomeo all Isola',2597).
 distance('Museo Carlo Bilotti','Chiesa di Santa Prisca',3368).
-distance('Museo Carlo Bilotti','Tempio Maggiore di Roma',2417).
+distance('Museo Carlo Bilotti','Tempio Maggiore',2417).
 distance('Museo Carlo Bilotti','Portico of Octavia',2353).
 distance('Museo Carlo Bilotti','Basilica Santi Giovanni e Paolo',3078).
-distance('Palazzo Wedekind','Cloaca Maxima',1353).
-distance('Palazzo Wedekind','Temple of Apollo Palatinus',1594).
-distance('Palazzo Wedekind','Circus Maximus',1699).
-distance('Palazzo Wedekind','Mouth of Truth',1423).
-distance('Palazzo Wedekind','Basilica di Santa Sabina all Aventino',1813).
-distance('Palazzo Wedekind','Santa Maria in Cosmedin',1428).
-distance('Palazzo Wedekind','Non-Catholic Cemetery',2723).
-distance('Palazzo Wedekind','Basilica Santa Cecilia in Trastevere',1534).
-distance('Palazzo Wedekind','Mattatoio',2752).
-distance('Palazzo Wedekind','Pyramid of Caius Cestius',2706).
-distance('Palazzo Wedekind','Turtle Fountain',792).
-distance('Palazzo Wedekind','Basilica di San Bartolomeo all Isola',1170).
-distance('Palazzo Wedekind','Chiesa di Santa Prisca',2002).
-distance('Palazzo Wedekind','Tempio Maggiore di Roma',988).
-distance('Palazzo Wedekind','Portico of Octavia',927).
-distance('Palazzo Wedekind','Basilica Santi Giovanni e Paolo',1910).
 distance('Cloaca Maxima','Temple of Apollo Palatinus',503).
 distance('Cloaca Maxima','Circus Maximus',497).
 distance('Cloaca Maxima','Mouth of Truth',122).
 distance('Cloaca Maxima','Basilica di Santa Sabina all Aventino',462).
 distance('Cloaca Maxima','Santa Maria in Cosmedin',137).
 distance('Cloaca Maxima','Non-Catholic Cemetery',1372).
-distance('Cloaca Maxima','Basilica Santa Cecilia in Trastevere',340).
+distance('Cloaca Maxima','Basilica di Santa Cecilia in Trastevere',340).
 distance('Cloaca Maxima','Mattatoio',1468).
 distance('Cloaca Maxima','Pyramid of Caius Cestius',1352).
 distance('Cloaca Maxima','Turtle Fountain',614).
 distance('Cloaca Maxima','Basilica di San Bartolomeo all Isola',247).
 distance('Cloaca Maxima','Chiesa di Santa Prisca',683).
-distance('Cloaca Maxima','Tempio Maggiore di Roma',411).
+distance('Cloaca Maxima','Tempio Maggiore',411).
 distance('Cloaca Maxima','Portico of Octavia',449).
 distance('Cloaca Maxima','Basilica Santi Giovanni e Paolo',1019).
 distance('Temple of Apollo Palatinus','Circus Maximus',150).
@@ -17664,279 +17493,274 @@ distance('Temple of Apollo Palatinus','Mouth of Truth',385).
 distance('Temple of Apollo Palatinus','Basilica di Santa Sabina all Aventino',603).
 distance('Temple of Apollo Palatinus','Santa Maria in Cosmedin',369).
 distance('Temple of Apollo Palatinus','Non-Catholic Cemetery',1337).
-distance('Temple of Apollo Palatinus','Basilica Santa Cecilia in Trastevere',780).
+distance('Temple of Apollo Palatinus','Basilica di Santa Cecilia in Trastevere',780).
 distance('Temple of Apollo Palatinus','Mattatoio',1601).
 distance('Temple of Apollo Palatinus','Pyramid of Caius Cestius',1276).
 distance('Temple of Apollo Palatinus','Turtle Fountain',1003).
 distance('Temple of Apollo Palatinus','Basilica di San Bartolomeo all Isola',725).
 distance('Temple of Apollo Palatinus','Chiesa di Santa Prisca',511).
-distance('Temple of Apollo Palatinus','Tempio Maggiore di Roma',838).
+distance('Temple of Apollo Palatinus','Tempio Maggiore',838).
 distance('Temple of Apollo Palatinus','Portico of Octavia',843).
 distance('Temple of Apollo Palatinus','Basilica Santi Giovanni e Paolo',518).
 distance('Circus Maximus','Mouth of Truth',376).
 distance('Circus Maximus','Basilica di Santa Sabina all Aventino',480).
 distance('Circus Maximus','Santa Maria in Cosmedin',361).
 distance('Circus Maximus','Non-Catholic Cemetery',1187).
-distance('Circus Maximus','Basilica Santa Cecilia in Trastevere',719).
+distance('Circus Maximus','Basilica di Santa Cecilia in Trastevere',719).
 distance('Circus Maximus','Mattatoio',1455).
 distance('Circus Maximus','Pyramid of Caius Cestius',1127).
 distance('Circus Maximus','Turtle Fountain',1060).
 distance('Circus Maximus','Basilica di San Bartolomeo all Isola',740).
 distance('Circus Maximus','Chiesa di Santa Prisca',362).
-distance('Circus Maximus','Tempio Maggiore di Roma',878).
+distance('Circus Maximus','Tempio Maggiore',878).
 distance('Circus Maximus','Portico of Octavia',895).
 distance('Circus Maximus','Basilica Santi Giovanni e Paolo',580).
 distance('Mouth of Truth','Basilica di Santa Sabina all Aventino',423).
 distance('Mouth of Truth','Santa Maria in Cosmedin',15).
 distance('Mouth of Truth','Non-Catholic Cemetery',1320).
-distance('Mouth of Truth','Basilica Santa Cecilia in Trastevere',417).
+distance('Mouth of Truth','Basilica di Santa Cecilia in Trastevere',417).
 distance('Mouth of Truth','Mattatoio',1458).
 distance('Mouth of Truth','Pyramid of Caius Cestius',1291).
 distance('Mouth of Truth','Turtle Fountain',712).
 distance('Mouth of Truth','Basilica di San Bartolomeo all Isola',365).
 distance('Mouth of Truth','Chiesa di Santa Prisca',587).
-distance('Mouth of Truth','Tempio Maggiore di Roma',516).
+distance('Mouth of Truth','Tempio Maggiore',516).
 distance('Mouth of Truth','Portico of Octavia',545).
 distance('Mouth of Truth','Basilica Santi Giovanni e Paolo',903).
 distance('Basilica di Santa Sabina all Aventino','Santa Maria in Cosmedin',425).
 distance('Basilica di Santa Sabina all Aventino','Non-Catholic Cemetery',910).
-distance('Basilica di Santa Sabina all Aventino','Basilica Santa Cecilia in Trastevere',398).
+distance('Basilica di Santa Sabina all Aventino','Basilica di Santa Cecilia in Trastevere',398).
 distance('Basilica di Santa Sabina all Aventino','Mattatoio',1041).
 distance('Basilica di Santa Sabina all Aventino','Pyramid of Caius Cestius',895).
 distance('Basilica di Santa Sabina all Aventino','Turtle Fountain',1051).
 distance('Basilica di Santa Sabina all Aventino','Basilica di San Bartolomeo all Isola',659).
 distance('Basilica di Santa Sabina all Aventino','Chiesa di Santa Prisca',357).
-distance('Basilica di Santa Sabina all Aventino','Tempio Maggiore di Roma',844).
+distance('Basilica di Santa Sabina all Aventino','Tempio Maggiore',844).
 distance('Basilica di Santa Sabina all Aventino','Portico of Octavia',894).
 distance('Basilica di Santa Sabina all Aventino','Basilica Santi Giovanni e Paolo',1047).
 distance('Santa Maria in Cosmedin','Non-Catholic Cemetery',1318).
-distance('Santa Maria in Cosmedin','Basilica Santa Cecilia in Trastevere',431).
+distance('Santa Maria in Cosmedin','Basilica di Santa Cecilia in Trastevere',431).
 distance('Santa Maria in Cosmedin','Mattatoio',1462).
 distance('Santa Maria in Cosmedin','Pyramid of Caius Cestius',1288).
 distance('Santa Maria in Cosmedin','Turtle Fountain',722).
 distance('Santa Maria in Cosmedin','Basilica di San Bartolomeo all Isola',378).
 distance('Santa Maria in Cosmedin','Chiesa di Santa Prisca',579).
-distance('Santa Maria in Cosmedin','Tempio Maggiore di Roma',528).
+distance('Santa Maria in Cosmedin','Tempio Maggiore',528).
 distance('Santa Maria in Cosmedin','Portico of Octavia',555).
 distance('Santa Maria in Cosmedin','Basilica Santi Giovanni e Paolo',887).
-distance('Non-Catholic Cemetery','Basilica Santa Cecilia in Trastevere',1231).
+distance('Non-Catholic Cemetery','Basilica di Santa Cecilia in Trastevere',1231).
 distance('Non-Catholic Cemetery','Mattatoio',516).
 distance('Non-Catholic Cemetery','Pyramid of Caius Cestius',118).
 distance('Non-Catholic Cemetery','Turtle Fountain',1952).
 distance('Non-Catholic Cemetery','Basilica di San Bartolomeo all Isola',1561).
 distance('Non-Catholic Cemetery','Chiesa di Santa Prisca',825).
-distance('Non-Catholic Cemetery','Tempio Maggiore di Roma',1746).
+distance('Non-Catholic Cemetery','Tempio Maggiore',1746).
 distance('Non-Catholic Cemetery','Portico of Octavia',1801).
 distance('Non-Catholic Cemetery','Basilica Santi Giovanni e Paolo',1540).
-distance('Basilica Santa Cecilia in Trastevere','Mattatoio',1219).
-distance('Basilica Santa Cecilia in Trastevere','Pyramid of Caius Cestius',1241).
-distance('Basilica Santa Cecilia in Trastevere','Turtle Fountain',743).
-distance('Basilica Santa Cecilia in Trastevere','Basilica di San Bartolomeo all Isola',375).
-distance('Basilica Santa Cecilia in Trastevere','Chiesa di Santa Prisca',742).
-distance('Basilica Santa Cecilia in Trastevere','Tempio Maggiore di Roma',547).
-distance('Basilica Santa Cecilia in Trastevere','Portico of Octavia',613).
-distance('Basilica Santa Cecilia in Trastevere','Basilica Santi Giovanni e Paolo',1291).
+distance('Basilica di Santa Cecilia in Trastevere','Mattatoio',1219).
+distance('Basilica di Santa Cecilia in Trastevere','Pyramid of Caius Cestius',1241).
+distance('Basilica di Santa Cecilia in Trastevere','Turtle Fountain',743).
+distance('Basilica di Santa Cecilia in Trastevere','Basilica di San Bartolomeo all Isola',375).
+distance('Basilica di Santa Cecilia in Trastevere','Chiesa di Santa Prisca',742).
+distance('Basilica di Santa Cecilia in Trastevere','Tempio Maggiore',547).
+distance('Basilica di Santa Cecilia in Trastevere','Portico of Octavia',613).
+distance('Basilica di Santa Cecilia in Trastevere','Basilica Santi Giovanni e Paolo',1291).
 distance('Mattatoio','Pyramid of Caius Cestius',633).
 distance('Mattatoio','Turtle Fountain',1959).
 distance('Mattatoio','Basilica di San Bartolomeo all Isola',1591).
 distance('Mattatoio','Chiesa di Santa Prisca',1128).
-distance('Mattatoio','Tempio Maggiore di Roma',1767).
+distance('Mattatoio','Tempio Maggiore',1767).
 distance('Mattatoio','Portico of Octavia',1832).
 distance('Mattatoio','Basilica Santi Giovanni e Paolo',1917).
 distance('Pyramid of Caius Cestius','Turtle Fountain',1946).
 distance('Pyramid of Caius Cestius','Basilica di San Bartolomeo all Isola',1553).
 distance('Pyramid of Caius Cestius','Chiesa di Santa Prisca',765).
-distance('Pyramid of Caius Cestius','Tempio Maggiore di Roma',1738).
+distance('Pyramid of Caius Cestius','Tempio Maggiore',1738).
 distance('Pyramid of Caius Cestius','Portico of Octavia',1790).
 distance('Pyramid of Caius Cestius','Basilica Santi Giovanni e Paolo',1447).
 distance('Turtle Fountain','Basilica di San Bartolomeo all Isola',392).
 distance('Turtle Fountain','Chiesa di Santa Prisca',1296).
-distance('Turtle Fountain','Tempio Maggiore di Roma',207).
+distance('Turtle Fountain','Tempio Maggiore',207).
 distance('Turtle Fountain','Portico of Octavia',167).
 distance('Turtle Fountain','Basilica Santi Giovanni e Paolo',1457).
 distance('Basilica di San Bartolomeo all Isola','Chiesa di Santa Prisca',923).
-distance('Basilica di San Bartolomeo all Isola','Tempio Maggiore di Roma',185).
+distance('Basilica di San Bartolomeo all Isola','Tempio Maggiore',185).
 distance('Basilica di San Bartolomeo all Isola','Portico of Octavia',243).
 distance('Basilica di San Bartolomeo all Isola','Basilica Santi Giovanni e Paolo',1230).
-distance('Chiesa di Santa Prisca','Tempio Maggiore di Roma',1094).
+distance('Chiesa di Santa Prisca','Tempio Maggiore',1094).
 distance('Chiesa di Santa Prisca','Portico of Octavia',1130).
 distance('Chiesa di Santa Prisca','Basilica Santi Giovanni e Paolo',799).
-distance('Tempio Maggiore di Roma','Portico of Octavia',71).
-distance('Tempio Maggiore di Roma','Basilica Santi Giovanni e Paolo',1319).
+distance('Tempio Maggiore','Portico of Octavia',71).
+distance('Tempio Maggiore','Basilica Santi Giovanni e Paolo',1319).
 distance('Portico of Octavia','Basilica Santi Giovanni e Paolo',1311).
-tourismRateOutOfTen('Il Tempio dei Dioscuri',6).
-tourismRateOutOfTen('Basilica Julia',2).
+tourismRateOutOfTen('Il Tempio dei Dioscuri',1).
+tourismRateOutOfTen('Basilica Julia',9).
 tourismRateOutOfTen('Fountain of the Bees',6).
-tourismRateOutOfTen('Ludus Magnus',7).
-tourismRateOutOfTen('Palazzetto Zuccari',1).
+tourismRateOutOfTen('Ludus Magnus',1).
+tourismRateOutOfTen('Palazzetto Zuccari',3).
 tourismRateOutOfTen('Fontana del Mose',1).
-tourismRateOutOfTen('Chiesa di Santa Bibiana',5).
-tourismRateOutOfTen('Santissima Trinita degli Spagnoli',10).
+tourismRateOutOfTen('Santissima Trinita degli Spagnoli',8).
 tourismRateOutOfTen('Colosseum',10).
 tourismRateOutOfTen('Trevi Fountain',10).
-tourismRateOutOfTen('Capitoline Museums',3).
-tourismRateOutOfTen('Arch of Constantine',1).
-tourismRateOutOfTen('Obelisco del Pantheon',1).
+tourismRateOutOfTen('Capitoline Museums',6).
+tourismRateOutOfTen('Arch of Constantine',6).
+tourismRateOutOfTen('Obelisco del Pantheon',6).
 tourismRateOutOfTen('Piazza di Spagna',1).
-tourismRateOutOfTen('Basilica Papale di Santa Maria Maggiore',6).
+tourismRateOutOfTen('Basilica Papale di Santa Maria Maggiore',3).
 tourismRateOutOfTen('Roman Forum',10).
-tourismRateOutOfTen('Basilica of San Pietro in Vincoli',1).
-tourismRateOutOfTen('Palazzo Massimo alle Terme',6).
-tourismRateOutOfTen('Monument to Victor Emmanuel II',1).
-tourismRateOutOfTen('Campidoglio',10).
-tourismRateOutOfTen('Mercati di Traiano Museo dei Fori Imperiali',7).
-tourismRateOutOfTen('Equestrian Statue of Marcus Aurelius',2).
-tourismRateOutOfTen('Convento dei Frati Cappuccini',8).
-tourismRateOutOfTen('Quirinal Palace',2).
-tourismRateOutOfTen('Basilica di San Clemente',2).
-tourismRateOutOfTen('Chiesa di Sant  Ignazio di Loyola',7).
-tourismRateOutOfTen('Chiesa del Gesu',2).
-tourismRateOutOfTen('Piazza Barberini',8).
+tourismRateOutOfTen('Basilica of San Pietro in Vincoli',3).
+tourismRateOutOfTen('National Roman Museum - Palazzo Massimo',7).
+tourismRateOutOfTen('Monument to Victor Emmanuel II',3).
+tourismRateOutOfTen('Campidoglio',3).
+tourismRateOutOfTen('Mercati di Traiano Museo dei Fori Imperiali',9).
+tourismRateOutOfTen('Equestrian Statue of Marcus Aurelius',10).
+tourismRateOutOfTen('Convento dei Frati Cappuccini',9).
+tourismRateOutOfTen('Quirinal Palace',1).
+tourismRateOutOfTen('Basilica di San Clemente',1).
+tourismRateOutOfTen('Chiesa di Sant  Ignazio di Loyola',3).
+tourismRateOutOfTen('Piazza Barberini',6).
 tourismRateOutOfTen('Palazzo delle Esposizioni',3).
+tourismRateOutOfTen('Chiesa del Gesu',3).
 tourismRateOutOfTen('Basilica di Santa Maria in Ara coeli',1).
-tourismRateOutOfTen('Palazzo Montecitorio',3).
+tourismRateOutOfTen('Palazzo Montecitorio',2).
 tourismRateOutOfTen('Domus Aurea',9).
-tourismRateOutOfTen('National Gallery of Ancient Art in Barberini Palace',6).
-tourismRateOutOfTen('Doria Pamphili Gallery',9).
-tourismRateOutOfTen('Piazza Venezia',1).
+tourismRateOutOfTen('National Gallery of Ancient Art in Barberini Palace',2).
+tourismRateOutOfTen('Doria Pamphili Gallery',5).
+tourismRateOutOfTen('Piazza Venezia',4).
 tourismRateOutOfTen('Pantheon',10).
-tourismRateOutOfTen('Basilica of Saint Mary of Minerva',1).
-tourismRateOutOfTen('Santa Maria degli Angeli e dei Martiri',6).
+tourismRateOutOfTen('Basilica of Saint Mary of Minerva',7).
+tourismRateOutOfTen('Basilica of Saint Mary of the Angels and Martyrs',6).
 tourismRateOutOfTen('Parrocchia Santa Maria Maggiore',5).
 tourismRateOutOfTen('Mamertine Prison',1).
-tourismRateOutOfTen('Mose di Michelangelo',2).
+tourismRateOutOfTen('Mose di Michelangelo',7).
 tourismRateOutOfTen('Capanne di Romolo',3).
-tourismRateOutOfTen('Basilica San Silvestro in Capite',7).
-tourismRateOutOfTen('Basilica del Sacro Cuore di Gesu',9).
-tourismRateOutOfTen('Largo di Torre Argentina',8).
-tourismRateOutOfTen('Chiesa di Santa Maria ai Monti',6).
+tourismRateOutOfTen('Basilica San Silvestro in Capite',9).
+tourismRateOutOfTen('Basilica del Sacro Cuore di Gesu',1).
+tourismRateOutOfTen('Largo di Torre Argentina',9).
+tourismRateOutOfTen('Chiesa di Santa Maria ai Monti',9).
 tourismRateOutOfTen('Basilica of St Mark Evangelist at Campidoglio',6).
 tourismRateOutOfTen('St. Paul s Within the Walls',6).
-tourismRateOutOfTen('Septimius Severus Arch',5).
-tourismRateOutOfTen('Palazzo Sciarra Colonna Carbognano',3).
-tourismRateOutOfTen('The Keats - Shelley House',1).
-tourismRateOutOfTen('Basilica Ulpia',6).
-tourismRateOutOfTen('Temple of Vesta',9).
-tourismRateOutOfTen('Chiesa San Marcello al Corso',1).
-tourismRateOutOfTen('San Stanislao alle Botteghe Oscure',4).
-tourismRateOutOfTen('Column of Phocas',2).
-tourismRateOutOfTen('Antoninus and Faustina Temple',7).
-tourismRateOutOfTen('Marcello Theater',7).
-tourismRateOutOfTen('Chiesa di Santa Maria in Portico in Campitelli',8).
-tourismRateOutOfTen('The Church of Santa Maria della Vittoria',1).
-tourismRateOutOfTen('The Last Judgment',6).
+tourismRateOutOfTen('Septimius Severus Arch',8).
+tourismRateOutOfTen('Palazzo Sciarra Colonna Carbognano',7).
+tourismRateOutOfTen('The Keats - Shelley House',3).
+tourismRateOutOfTen('Basilica Ulpia',5).
+tourismRateOutOfTen('Temple of Vesta',7).
+tourismRateOutOfTen('Chiesa San Marcello al Corso',5).
+tourismRateOutOfTen('San Stanislao alle Botteghe Oscure',1).
+tourismRateOutOfTen('Column of Phocas',9).
+tourismRateOutOfTen('Antoninus and Faustina Temple',6).
+tourismRateOutOfTen('Marcello Theater',9).
+tourismRateOutOfTen('Chiesa di Santa Maria in Portico in Campitelli',10).
+tourismRateOutOfTen('Church of Santa Maria della Vittoria',10).
+tourismRateOutOfTen('The Last Judgment',7).
 tourismRateOutOfTen('Chiesa di Santo Stefano degli Abissini',9).
-tourismRateOutOfTen('Fontana di Piazza Farnese',3).
-tourismRateOutOfTen('Villa Abamelek',5).
-tourismRateOutOfTen('Palazzo Torres',8).
+tourismRateOutOfTen('Fontana di Piazza Farnese',8).
+tourismRateOutOfTen('Palazzo Torres',4).
 tourismRateOutOfTen('Castel Sant Angelo',8).
-tourismRateOutOfTen('Vidoni Palace',1).
+tourismRateOutOfTen('Vidoni Palace',2).
 tourismRateOutOfTen('Vatican Museums',10).
 tourismRateOutOfTen('Fontana di Piazza Nicosia',1).
 tourismRateOutOfTen('St. Peter s Basilica',10).
-tourismRateOutOfTen('Church Holy Spirit in Sassia',5).
-tourismRateOutOfTen('Parrocchia Santuario Santa Maria in Traspontina',7).
-tourismRateOutOfTen('Gardens of Vatican City',8).
-tourismRateOutOfTen('Fiumi Fountain',3).
+tourismRateOutOfTen('Church Holy Spirit in Sassia',2).
+tourismRateOutOfTen('Parrocchia Santuario Santa Maria in Traspontina',8).
+tourismRateOutOfTen('Gardens of Vatican City',4).
+tourismRateOutOfTen('Fiumi Fountain',2).
 tourismRateOutOfTen('Sistine Chapel',1).
-tourismRateOutOfTen('Villa Farnesina',6).
-tourismRateOutOfTen('Church of St. Louis of the French',5).
-tourismRateOutOfTen('Palazzo Madama',6).
-tourismRateOutOfTen('Galleria Spada',3).
-tourismRateOutOfTen('St. Angelo Bridge',4).
-tourismRateOutOfTen('Palazzo Farnese',6).
-tourismRateOutOfTen('Sant Agnese in Agone',6).
-tourismRateOutOfTen('Botanical Garden of Rome',6).
-tourismRateOutOfTen('Chiesa di Santa Maria della Pace',3).
-tourismRateOutOfTen('Obelisco Agonale',1).
-tourismRateOutOfTen('Basilica of Santa Maria in Trastevere',8).
-tourismRateOutOfTen('Church of St Onuphrius at the Janiculum',1).
-tourismRateOutOfTen('Biblioteca Angelica',4).
-tourismRateOutOfTen('Campo de  Fiori',8).
+tourismRateOutOfTen('Villa Farnesina',1).
+tourismRateOutOfTen('Palazzo Madama',2).
+tourismRateOutOfTen('Galleria Spada',7).
+tourismRateOutOfTen('Church of St. Louis of the French',6).
+tourismRateOutOfTen('St. Angelo Bridge',8).
+tourismRateOutOfTen('Palazzo Farnese',8).
+tourismRateOutOfTen('Sant Agnese in Agone',9).
+tourismRateOutOfTen('Botanical Garden of Rome',7).
+tourismRateOutOfTen('Chiesa di Santa Maria della Pace',8).
+tourismRateOutOfTen('Obelisco Agonale',4).
+tourismRateOutOfTen('Basilica of Santa Maria in Trastevere',2).
+tourismRateOutOfTen('Church of St Onuphrius at the Janiculum',6).
+tourismRateOutOfTen('Biblioteca Angelica',5).
+tourismRateOutOfTen('Campo de  Fiori',5).
 tourismRateOutOfTen('Piazza Navona',10).
-tourismRateOutOfTen('Corte Suprema di Cassazione',5).
-tourismRateOutOfTen('Museo di Roma - Palazzo Braschi',3).
-tourismRateOutOfTen('Parrocchia Santa Maria in Vallicella',10).
-tourismRateOutOfTen('Chiesa di San Pietro in Montorio',6).
-tourismRateOutOfTen('Saint Eligio of Orefici',1).
-tourismRateOutOfTen('Palazzo del Commendatore',9).
-tourismRateOutOfTen('Porta Santo Spirito',9).
-tourismRateOutOfTen('Bernini Fountain',8).
-tourismRateOutOfTen('Presepe dei Netturbini',7).
-tourismRateOutOfTen('Church of Saints Michael and Magnus',4).
-tourismRateOutOfTen('Museum Leonardo Da Vinci Experience',1).
-tourismRateOutOfTen('Vatican Necropolis',3).
+tourismRateOutOfTen('Corte Suprema di Cassazione',9).
+tourismRateOutOfTen('Museo di Roma - Palazzo Braschi',8).
+tourismRateOutOfTen('Church of Santa Maria in Vallicella',1).
+tourismRateOutOfTen('Church of San Pietro in Montorio',2).
+tourismRateOutOfTen('Saint Eligio of Orefici',7).
+tourismRateOutOfTen('Palazzo del Commendatore',4).
+tourismRateOutOfTen('Porta Santo Spirito',7).
+tourismRateOutOfTen('Bernini Fountain',7).
+tourismRateOutOfTen('Presepe dei Netturbini',8).
+tourismRateOutOfTen('Church of Saints Michael and Magnus',2).
+tourismRateOutOfTen('Museum Leonardo Da Vinci Experience',4).
+tourismRateOutOfTen('Vatican Necropolis',9).
 tourismRateOutOfTen('Apostolic Palace',5).
-tourismRateOutOfTen('Ponte Vittorio Emanuele II',9).
-tourismRateOutOfTen('Chiesa di Sant Anna dei Palafrenieri',1).
-tourismRateOutOfTen('Operativa Arte Contemporanea',4).
+tourismRateOutOfTen('Ponte Vittorio Emanuele II',1).
+tourismRateOutOfTen('Chiesa di Sant Anna dei Palafrenieri',7).
+tourismRateOutOfTen('Operativa Arte Contemporanea',3).
 tourismRateOutOfTen('Santa Maria del Suffragio',1).
-tourismRateOutOfTen('Vatican Apostolic Archive',1).
-tourismRateOutOfTen('Carriage Pavilion',9).
+tourismRateOutOfTen('Vatican Apostolic Archive',2).
+tourismRateOutOfTen('Carriage Pavilion',5).
 tourismRateOutOfTen('Monastero Mater Ecclesi',5).
 tourismRateOutOfTen('Oratorio dei Filippini (Oratory of St Philip Neri)',1).
-tourismRateOutOfTen('House of Hospitality Paul VI',8).
-tourismRateOutOfTen('Chiesa di Santa Maria del Rosario in Prati',3).
-tourismRateOutOfTen('Welcome To Rome',10).
-tourismRateOutOfTen('Stadium of Domitian',3).
-tourismRateOutOfTen('Palazzo Pamphili',1).
-tourismRateOutOfTen('Fountain of the Moro',1).
-tourismRateOutOfTen('Cappella Chigi',2).
-tourismRateOutOfTen('Chiesa di Gesu e Maria',2).
-tourismRateOutOfTen('Villa Borghese',4).
-tourismRateOutOfTen('Passeggiata del Pincio',3).
-tourismRateOutOfTen('Borghese Gallery and Museum',3).
+tourismRateOutOfTen('House of Hospitality Paul VI',1).
+tourismRateOutOfTen('Chiesa di Santa Maria del Rosario in Prati',5).
+tourismRateOutOfTen('Welcome To Rome',1).
+tourismRateOutOfTen('Stadium of Domitian',7).
+tourismRateOutOfTen('Palazzo Pamphili',4).
+tourismRateOutOfTen('Fountain of the Moro',9).
+tourismRateOutOfTen('Cappella Chigi',9).
+tourismRateOutOfTen('Chiesa di Gesu e Maria',1).
+tourismRateOutOfTen('Villa Borghese',7).
+tourismRateOutOfTen('Passeggiata del Pincio',1).
+tourismRateOutOfTen('Borghese Gallery and Museum',2).
 tourismRateOutOfTen('National Gallery of Modern and Contemporary Art',5).
-tourismRateOutOfTen('Mausoleum of Augustus',10).
-tourismRateOutOfTen('Chiesa Parrocchiale San Giacomo in Augusta',8).
-tourismRateOutOfTen('Villa Medici',3).
-tourismRateOutOfTen('Basilica of Saint Lawrence in Lucina',1).
-tourismRateOutOfTen('Basilica of SS. Ambrose and Charles on the Corso',7).
-tourismRateOutOfTen('Giorgio de Chirico House Museum',3).
-tourismRateOutOfTen('Santa Maria in Montesanto',4).
-tourismRateOutOfTen('Fontana della Barcaccia',1).
-tourismRateOutOfTen('Museo Leonardo da Vinci',5).
-tourismRateOutOfTen('Explora - Il Museo dei Bambini di Roma',7).
-tourismRateOutOfTen('Orologio ad acqua del Pincio',9).
-tourismRateOutOfTen('Ponte Giacomo Matteotti',1).
-tourismRateOutOfTen('National Etruscan Museum of Villa Giulia',8).
-tourismRateOutOfTen('Fontana del Babuino',3).
-tourismRateOutOfTen('Fontana del Bottino',7).
-tourismRateOutOfTen('Trinita dei Monti',9).
+tourismRateOutOfTen('Mausoleum of Augustus',6).
+tourismRateOutOfTen('Chiesa Parrocchiale San Giacomo in Augusta',2).
+tourismRateOutOfTen('Villa Medici',5).
+tourismRateOutOfTen('Basilica of Saint Lawrence in Lucina',3).
+tourismRateOutOfTen('Basilica of SS. Ambrose and Charles on the Corso',5).
+tourismRateOutOfTen('Giorgio de Chirico House Museum',4).
+tourismRateOutOfTen('Santa Maria in Montesanto',9).
+tourismRateOutOfTen('Fontana della Barcaccia',6).
+tourismRateOutOfTen('Museo Leonardo da Vinci',2).
+tourismRateOutOfTen('Explora - Il Museo dei Bambini di Roma',2).
+tourismRateOutOfTen('Orologio ad acqua del Pincio',1).
+tourismRateOutOfTen('Ponte Giacomo Matteotti',3).
+tourismRateOutOfTen('National Etruscan Museum of Villa Giulia',5).
+tourismRateOutOfTen('Fontana del Babuino',1).
+tourismRateOutOfTen('Fontana del Bottino',5).
+tourismRateOutOfTen('Trinita dei Monti',6).
 tourismRateOutOfTen('Galleria del Cembalo',5).
-tourismRateOutOfTen('Chiesa di Santa Maria in Via',4).
-tourismRateOutOfTen('Palazzo di Propaganda Fide',7).
-tourismRateOutOfTen('Basilica di Sant Andrea delle Fratte',7).
-tourismRateOutOfTen('Piazza del Popolo',3).
-tourismRateOutOfTen('Marcus Aurelius Column',4).
+tourismRateOutOfTen('Chiesa di Santa Maria in Via',6).
+tourismRateOutOfTen('Palazzo di Propaganda Fide',2).
+tourismRateOutOfTen('Basilica di Sant Andrea delle Fratte',1).
+tourismRateOutOfTen('Piazza del Popolo',4).
+tourismRateOutOfTen('Marcus Aurelius Column',5).
 tourismRateOutOfTen('Piazza di Siena',8).
-tourismRateOutOfTen('All Saints  Anglican Church Rome',6).
-tourismRateOutOfTen('Church of Saint Roch  all Augusteo ',8).
-tourismRateOutOfTen('Church of Our Lady in Trivio',4).
-tourismRateOutOfTen('Il Tempio di Adriano',1).
-tourismRateOutOfTen('Museo Civico di Zoologia',9).
-tourismRateOutOfTen('Basilica of St. Augustine in Campo Marzio',5).
-tourismRateOutOfTen('Hendrik Christian Anderson Museum',8).
-tourismRateOutOfTen('Goethe House',5).
-tourismRateOutOfTen('Institute of Japanese Culture',8).
-tourismRateOutOfTen('Villa Balestra',9).
-tourismRateOutOfTen('Palazzo Borghese',8).
-tourismRateOutOfTen('National Academy of San Luca',6).
-tourismRateOutOfTen('Museo Carlo Bilotti',2).
-tourismRateOutOfTen('Palazzo Wedekind',1).
-tourismRateOutOfTen('Cloaca Maxima',10).
-tourismRateOutOfTen('Temple of Apollo Palatinus',7).
-tourismRateOutOfTen('Circus Maximus',9).
-tourismRateOutOfTen('Mouth of Truth',1).
-tourismRateOutOfTen('Basilica di Santa Sabina all Aventino',8).
-tourismRateOutOfTen('Santa Maria in Cosmedin',1).
-tourismRateOutOfTen('Non-Catholic Cemetery',9).
-tourismRateOutOfTen('Basilica Santa Cecilia in Trastevere',4).
-tourismRateOutOfTen('Mattatoio',4).
-tourismRateOutOfTen('Pyramid of Caius Cestius',5).
-tourismRateOutOfTen('Turtle Fountain',4).
-tourismRateOutOfTen('Basilica di San Bartolomeo all Isola',3).
-tourismRateOutOfTen('Chiesa di Santa Prisca',3).
-tourismRateOutOfTen('Tempio Maggiore di Roma',9).
+tourismRateOutOfTen('All Saints  Anglican Church Rome',5).
+tourismRateOutOfTen('Church of Saint Roch  all Augusteo ',2).
+tourismRateOutOfTen('Church of Our Lady in Trivio',2).
+tourismRateOutOfTen('Il Tempio di Adriano',8).
+tourismRateOutOfTen('Basilica of St. Augustine in Campo Marzio',3).
+tourismRateOutOfTen('Hendrik Christian Anderson Museum',9).
+tourismRateOutOfTen('Goethe House',2).
+tourismRateOutOfTen('Institute of Japanese Culture',10).
+tourismRateOutOfTen('Villa Balestra',8).
+tourismRateOutOfTen('Palazzo Borghese',9).
+tourismRateOutOfTen('National Academy of San Luca',8).
+tourismRateOutOfTen('Museo Carlo Bilotti',4).
+tourismRateOutOfTen('Cloaca Maxima',7).
+tourismRateOutOfTen('Temple of Apollo Palatinus',3).
+tourismRateOutOfTen('Circus Maximus',7).
+tourismRateOutOfTen('Mouth of Truth',10).
+tourismRateOutOfTen('Basilica di Santa Sabina all Aventino',2).
+tourismRateOutOfTen('Santa Maria in Cosmedin',5).
+tourismRateOutOfTen('Non-Catholic Cemetery',5).
+tourismRateOutOfTen('Basilica di Santa Cecilia in Trastevere',8).
+tourismRateOutOfTen('Pyramid of Caius Cestius',6).
+tourismRateOutOfTen('Turtle Fountain',9).
+tourismRateOutOfTen('Basilica di San Bartolomeo all Isola',7).
+tourismRateOutOfTen('Chiesa di Santa Prisca',9).
+tourismRateOutOfTen('Tempio Maggiore',3).
 tourismRateOutOfTen('Portico of Octavia',7).
-tourismRateOutOfTen('Basilica Santi Giovanni e Paolo',5).
+tourismRateOutOfTen('Basilica Santi Giovanni e Paolo',8).

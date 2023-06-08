@@ -4,4 +4,4 @@ libs (pip install):
 - pyswip
 - requests
 - swipl
-- 
+- networkx

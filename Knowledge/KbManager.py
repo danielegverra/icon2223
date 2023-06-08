@@ -9,18 +9,18 @@ from Utility import printMap
 
 # Log configuration
 log.basicConfig(level=log.INFO)
-handler = log.FileHandler("logKbManager.txt", mode="w")
+handler = log.FileHandler("Logs/logKbManager.txt", mode="w")
 handler.setLevel(log.INFO)
 log.getLogger("").addHandler(handler)
 
 
 # Dictionary de-serialization
-with open("poiDictionary.pickle", "rb") as f:
+with open("Storage/poiDictionary.pickle", "rb") as f:
     poiMap = pk.load(f)
 log.info("Map de-serialized correctly.\n")
 
 # Opening prolog facts file (write mode)
-file = open("facts.pl", "w")
+file = open("Knowledge/Facts.pl", "w")
 log.info("File opened correctly.\n")
 
 # Writing facts to prolog file
@@ -73,13 +73,21 @@ log.info("File closed correctly.\n")
 
 # Reading prolog file
 prolog = Prolog()
-prolog.consult("Facts.pl")
-prolog.consult("Rules.pl")
+prolog.consult("Knowledge/Facts.pl")
+prolog.consult("Knowledge/Rules.pl")
 log.info("Prolog consulted correctly.\n")
 
 # Opening prolog facts file (append mode)
-file = open("facts.pl", "a")
+file = open("Knowledge/Facts.pl", "a")
 log.info("File opened correctly.\n")
+
+# Deletion unconnected poi
+unusedPoi = []
+for value in poiMap.values():
+    if not bool(list(prolog.query(f"connectivityCheck('{value.name}')"))):
+        unusedPoi.append(value.placeId)
+for poi in unusedPoi:
+    del poiMap[poi]
 
 # Creation new feature (density)
 for value in poiMap.values():
@@ -104,11 +112,11 @@ file.close()
 log.info("File closed correctly.\n")
 
 # Reloaded facts file
-prolog.consult("Facts.pl")
+prolog.consult("Knowledge/Facts.pl")
 log.info("Prolog consulted correctly.\n")
 
 # Opening prolog facts file (append mode)
-file = open("facts.pl", "a")
+file = open("Knowledge/Facts.pl", "a")
 log.info("File opened correctly.\n")
 
 # Creation new feature (highlyRated)
@@ -191,9 +199,9 @@ log.info("TourismPriority feature created correctly.\n")
 
 for poi in poiMap.values():
     log.info(poi)
-log.info("Map populated correctly.\n")
+log.info(f"Map populated correctly ({poiMap.__len__()}).\n")
 
 # Dictionary serialization
-with open("poiDictionaryEnhanced.pickle", "wb") as f:
+with open("Storage/poiDictionaryEnhanced.pickle", "wb") as f:
     pk.dump(poiMap, f)
 log.info("Map serialized correctly.\n")

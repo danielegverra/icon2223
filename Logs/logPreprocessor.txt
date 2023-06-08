@@ -4,24 +4,24 @@ Place id: ChIJ6RRKjbRhLxMRKHHdS4QvkK4
 Name: Il Tempio dei Dioscuri
 Address: Rome
 Type: Museum
-Properties: ['Modern art', 'Historical', 'Educational']
+Properties: ['Educational']
 Latitude: 41.89170310000001
 Longitude: 12.4856645
 Rating: 4.7
 HighlyRated: None
-Rating count: 111
+Rating count: 112
 Popular: None
 HighlyRecommended: None
 Centre distance: 1167
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 963399
+Tourism rate: 288473
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 927
+Age: 1764
 Ancient: None
-Surface: 1346.24
-Height: 6.52
+Surface: 5529.96
+Height: 19.9
 Impressive: None
 Price: 0
 Cheap: None
@@ -32,27 +32,27 @@ tourismPriority: None
 Place id: ChIJM2qBt7RhLxMRBvo4dDqpXpw
 Name: Basilica Julia
 Address: Foro Romano, Roma
-Type: Park
-Properties: ['Historical']
+Type: Monument
+Properties: ['Modern art', 'Historical']
 Latitude: 41.89199659999999
 Longitude: 12.4847898
 Rating: 4.5
 HighlyRated: None
-Rating count: 144
+Rating count: 145
 Popular: None
 HighlyRecommended: None
 Centre distance: 1095
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 481901
+Handicap accessibility: True
+Tourism rate: 1403967
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1156
+Age: 1295
 Ancient: None
-Surface: 2858.75
-Height: 5.65
+Surface: 5247.71
+Height: 19.17
 Impressive: None
-Price: 0
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -61,25 +61,25 @@ tourismPriority: None
 Place id: ChIJF_bCxathLxMRS4-5fHPJuAQ
 Name: Fountain of the Bees
 Address: Via Vittorio Veneto, 13, Roma
-Type: Fountain
-Properties: ['Educational']
+Type: Place of warship
+Properties: ['Educational', 'Historical']
 Latitude: 41.90428929999999
 Longitude: 12.4887696
 Rating: 4.4
 HighlyRated: None
-Rating count: 113
+Rating count: 115
 Popular: None
 HighlyRecommended: None
 Centre distance: 1166
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1004162
+Handicap accessibility: False
+Tourism rate: 952460
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 660
+Age: 1641
 Ancient: None
-Surface: 2853.93
-Height: 3.68
+Surface: 6295.38
+Height: 15.36
 Impressive: None
 Price: 0
 Cheap: None
@@ -90,27 +90,27 @@ tourismPriority: None
 Place id: ChIJJ540e7dhLxMR05OTuWWdXow
 Name: Ludus Magnus
 Address: Via di San Giovanni in Laterano, Roma
-Type: Square
-Properties: ['Modern art', 'Historical']
+Type: Bridge
+Properties: ['Educational']
 Latitude: 41.890087
 Longitude: 12.4949419
 Rating: 4.4
 HighlyRated: None
-Rating count: 332
+Rating count: 335
 Popular: None
 HighlyRecommended: None
 Centre distance: 1871
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1103600
+Tourism rate: 399907
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 245
+Age: 233
 Ancient: None
-Surface: 7902.88
-Height: 17.46
+Surface: 7964.99
+Height: 19.43
 Impressive: None
-Price: 0
+Price: 5
 Cheap: None
 Density: None
 timeToVisit: None
@@ -119,27 +119,27 @@ tourismPriority: None
 Place id: ChIJjUhGK1VgLxMRbrvPHT8eqj4
 Name: Palazzetto Zuccari
 Address: Via Gregoriana, 28, Roma
-Type: Bridge
-Properties: ['Historical']
+Type: Museum
+Properties: ['Entertainment', 'Educational']
 Latitude: 41.9055329
 Longitude: 12.48401
 Rating: 4.5
 HighlyRated: None
-Rating count: 201
+Rating count: 202
 Popular: None
 HighlyRecommended: None
 Centre distance: 928
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 226498
+Tourism rate: 587538
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1709
+Age: 1736
 Ancient: None
-Surface: 5322.94
-Height: 0.41
+Surface: 7999.13
+Height: 9.26
 Impressive: None
-Price: 0
+Price: 10
 Cheap: None
 Density: None
 timeToVisit: None
@@ -148,25 +148,25 @@ tourismPriority: None
 Place id: ChIJi9yyY6hhLxMRVNyx8X7arwA
 Name: Fontana del Mose
 Address: Piazza di San Bernardo, Roma
-Type: Museum
-Properties: ['Historical']
+Type: Monument
+Properties: ['Educational', 'Modern art']
 Latitude: 41.9043951
 Longitude: 12.4944645
 Rating: 4.6
 HighlyRated: None
-Rating count: 807
+Rating count: 816
 Popular: None
 HighlyRecommended: None
 Centre distance: 1605
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 209520
+Tourism rate: 259588
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1413
+Age: 1622
 Ancient: None
-Surface: 5815.83
-Height: 9.43
+Surface: 4099.12
+Height: 5.0
 Impressive: None
 Price: 8
 Cheap: None
@@ -177,8 +177,8 @@ tourismPriority: None
 Place id: ChIJnY3wKJhhLxMRnTjd-I90d-U
 Name: Chiesa di Santa Bibiana
 Address: Via Giovanni Giolitti, 154, Roma
-Type: Viewpoint
-Properties: ['Modern art', 'Educational']
+Type: Bridge
+Properties: ['Modern art', 'Historical']
 Latitude: 41.89555439999999
 Longitude: 12.5092224
 Rating: 4.6
@@ -188,14 +188,14 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 2771
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 860470
+Handicap accessibility: True
+Tourism rate: 620421
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1417
+Age: 1957
 Ancient: None
-Surface: 7917.71
-Height: 1.3
+Surface: 3501.63
+Height: 3.29
 Impressive: None
 Price: 0
 Cheap: None
@@ -206,8 +206,8 @@ tourismPriority: None
 Place id: ChIJda54FlRgLxMRxStWVvnYaBA
 Name: Santissima Trinita degli Spagnoli
 Address: Via dei Condotti, 42, Roma
-Type: Fountain
-Properties: ['Historical']
+Type: Museum
+Properties: ['Educational', 'Historical']
 Latitude: 41.9046272
 Longitude: 12.479299
 Rating: 4.7
@@ -217,16 +217,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 621
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1469554
+Handicap accessibility: False
+Tourism rate: 1239361
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1811
+Age: 1350
 Ancient: None
-Surface: 4128.57
-Height: 3.86
+Surface: 3350.85
+Height: 16.65
 Impressive: None
-Price: 0
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -235,27 +235,27 @@ tourismPriority: None
 Place id: ChIJrRMgU7ZhLxMRxAOFkC7I8Sg
 Name: Colosseum
 Address: Piazza del Colosseo, 1, Roma
-Type: Place of warship
-Properties: ['Historical']
+Type: Square
+Properties: ['Educational', 'Modern art']
 Latitude: 41.8902102
 Longitude: 12.4922309
 Rating: 4.7
 HighlyRated: None
-Rating count: 345838
+Rating count: 347719
 Popular: None
 HighlyRecommended: None
 Centre distance: 1681
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 530667
+Handicap accessibility: False
+Tourism rate: 390852
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1810
+Age: 268
 Ancient: None
-Surface: 6440.84
-Height: 16.61
+Surface: 4096.86
+Height: 8.07
 Impressive: None
-Price: 6
+Price: 8
 Cheap: None
 Density: None
 timeToVisit: None
@@ -264,27 +264,27 @@ tourismPriority: None
 Place id: ChIJ1UCDJ1NgLxMRtrsCzOHxdvY
 Name: Trevi Fountain
 Address: Piazza di Trevi, Roma
-Type: Monument
-Properties: ['Historical']
+Type: Viewpoint
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.9009325
 Longitude: 12.483313
 Rating: 4.8
 HighlyRated: None
-Rating count: 361436
+Rating count: 363431
 Popular: None
 HighlyRecommended: None
 Centre distance: 606
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 246669
+Tourism rate: 275167
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1801
+Age: 1837
 Ancient: None
-Surface: 1233.01
-Height: 15.38
+Surface: 3183.12
+Height: 13.23
 Impressive: None
-Price: 8
+Price: 10
 Cheap: None
 Density: None
 timeToVisit: None
@@ -294,26 +294,26 @@ Place id: ChIJ8-wGeU9gLxMR--zJtnpGod4
 Name: Capitoline Museums
 Address: Piazza del Campidoglio, 1, Roma
 Type: Castle
-Properties: ['Modern art']
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.8929428
 Longitude: 12.4825577
 Rating: 4.7
 HighlyRated: None
-Rating count: 13772
+Rating count: 13818
 Popular: None
 HighlyRecommended: None
 Centre distance: 898
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 635987
+Tourism rate: 1046461
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1216
+Age: 1274
 Ancient: None
-Surface: 5411.76
-Height: 14.43
+Surface: 6119.53
+Height: 6.89
 Impressive: None
-Price: 0
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -322,27 +322,27 @@ tourismPriority: None
 Place id: ChIJn8yMY7ZhLxMRoGckLEOtWZU
 Name: Arch of Constantine
 Address: Via di San Gregorio, Roma
-Type: Park
-Properties: ['Modern art']
+Type: Fountain
+Properties: ['Educational', 'Historical']
 Latitude: 41.8897697
 Longitude: 12.4906017
 Rating: 4.7
 HighlyRated: None
-Rating count: 4570
+Rating count: 4601
 Popular: None
 HighlyRecommended: None
 Centre distance: 1609
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 349044
+Tourism rate: 1019432
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 222
+Age: 784
 Ancient: None
-Surface: 2460.22
-Height: 9.14
+Surface: 6853.83
+Height: 7.17
 Impressive: None
-Price: 8
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -352,26 +352,26 @@ Place id: ChIJd0eH3VFgLxMR59ZuxPeRwDE
 Name: Obelisco del Pantheon
 Address: Piazza della Rotonda, Roma
 Type: Place of warship
-Properties: ['Entertainment', 'Modern art', 'Historical']
+Properties: ['Entertainment', 'Educational']
 Latitude: 41.8993212
 Longitude: 12.4767522
 Rating: 4.7
 HighlyRated: None
-Rating count: 1602
+Rating count: 1605
 Popular: None
 HighlyRecommended: None
 Centre distance: 46
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 306799
+Tourism rate: 1047282
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1923
+Age: 1096
 Ancient: None
-Surface: 7887.89
-Height: 14.95
+Surface: 4989.82
+Height: 18.48
 Impressive: None
-Price: 9
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -380,27 +380,27 @@ tourismPriority: None
 Place id: ChIJ4_TEG1VgLxMROFkd29jWdug
 Name: Piazza di Spagna
 Address: Piazza di Spagna, Roma
-Type: Bridge
-Properties: ['Entertainment']
+Type: Museum
+Properties: ['Educational']
 Latitude: 41.9056978
 Longitude: 12.482327
 Rating: 4.7
 HighlyRated: None
-Rating count: 119187
+Rating count: 119780
 Popular: None
 HighlyRecommended: None
 Centre distance: 852
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 398123
+Handicap accessibility: True
+Tourism rate: 269057
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1359
+Age: 558
 Ancient: None
-Surface: 835.19
-Height: 5.76
+Surface: 7243.16
+Height: 10.14
 Impressive: None
-Price: 0
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -409,27 +409,27 @@ tourismPriority: None
 Place id: ChIJ1zB926RhLxMRejWMj_tUs_c
 Name: Basilica Papale di Santa Maria Maggiore
 Address: Piazza di Santa Maria Maggiore, Roma
-Type: Viewpoint
-Properties: ['Entertainment', 'Modern art', 'Historical']
+Type: Park
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.89759859999999
 Longitude: 12.4984084
 Rating: 4.8
 HighlyRated: None
-Rating count: 29726
+Rating count: 29939
 Popular: None
 HighlyRecommended: None
 Centre distance: 1850
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1003664
+Handicap accessibility: True
+Tourism rate: 608338
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 915
+Age: 798
 Ancient: None
-Surface: 7073.87
-Height: 18.79
+Surface: 3934.55
+Height: 10.54
 Impressive: None
-Price: 10
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -438,27 +438,27 @@ tourismPriority: None
 Place id: ChIJ782pg7NhLxMR5n3swAdAkfo
 Name: Roman Forum
 Address: Via della Salara Vecchia, 5/6, Roma
-Type: Monument
-Properties: ['Entertainment', 'Modern art', 'Historical']
+Type: Museum
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.8924623
 Longitude: 12.485325
 Rating: 4.7
 HighlyRated: None
-Rating count: 117548
+Rating count: 117912
 Popular: None
 HighlyRecommended: None
 Centre distance: 1086
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 284659
+Handicap accessibility: True
+Tourism rate: 708794
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1697
+Age: 1837
 Ancient: None
-Surface: 637.83
-Height: 13.65
+Surface: 4926.88
+Height: 4.93
 Impressive: None
-Price: 9
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -467,54 +467,54 @@ tourismPriority: None
 Place id: ChIJ9TEpHrFhLxMRMNSr5HbcOzI
 Name: Basilica of San Pietro in Vincoli
 Address: Piazza di San Pietro in Vincoli, 4/a, Roma
-Type: Museum
-Properties: ['Entertainment', 'Modern art', 'Historical']
-Latitude: 41.8938283
-Longitude: 12.4930664
+Type: Castle
+Properties: ['Entertainment', 'Educational']
+Latitude: 41.8937522
+Longitude: 12.492819
 Rating: 4.7
 HighlyRated: None
-Rating count: 12779
+Rating count: 12822
 Popular: None
 HighlyRecommended: None
-Centre distance: 1531
+Centre distance: 1516
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 241769
+Tourism rate: 572077
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 690
+Age: 921
 Ancient: None
-Surface: 5688.1
-Height: 5.52
+Surface: 1875.18
+Height: 13.2
 Impressive: None
-Price: 0
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
 tourismPriority: None
 
 Place id: ChIJ18PTgaZhLxMRvINaLw9AZ2w
-Name: Palazzo Massimo alle Terme
+Name: National Roman Museum - Palazzo Massimo
 Address: Largo di Villa Peretti, 2, Roma
-Type: Fountain
-Properties: ['Educational']
+Type: Place of warship
+Properties: ['Historical']
 Latitude: 41.9012198
 Longitude: 12.4982643
 Rating: 4.6
 HighlyRated: None
-Rating count: 4481
+Rating count: 4505
 Popular: None
 HighlyRecommended: None
 Centre distance: 1836
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1028679
+Handicap accessibility: True
+Tourism rate: 1185574
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1464
+Age: 646
 Ancient: None
-Surface: 4630.77
-Height: 6.93
+Surface: 528.71
+Height: 2.24
 Impressive: None
 Price: 0
 Cheap: None
@@ -525,27 +525,27 @@ tourismPriority: None
 Place id: ChIJ412AG01gLxMR4T-4pwdIFSE
 Name: Monument to Victor Emmanuel II
 Address: Piazza Venezia, Roma
-Type: Castle
-Properties: ['Modern art']
+Type: Monument
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.8945976
 Longitude: 12.4831269
 Rating: 4.8
 HighlyRated: None
-Rating count: 54604
+Rating count: 55078
 Popular: None
 HighlyRecommended: None
 Centre distance: 789
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 315497
+Tourism rate: 548220
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1505
+Age: 1062
 Ancient: None
-Surface: 2251.84
-Height: 18.8
+Surface: 1395.8
+Height: 17.7
 Impressive: None
-Price: 12
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -554,27 +554,27 @@ tourismPriority: None
 Place id: ChIJOclom0xgLxMRURy9OLL7Hg4
 Name: Campidoglio
 Address: Piazza del Campidoglio, Roma
-Type: Park
-Properties: ['Entertainment', 'Historical']
+Type: Bridge
+Properties: ['Educational']
 Latitude: 41.89335920000001
 Longitude: 12.4828018
 Rating: 4.7
 HighlyRated: None
-Rating count: 20231
+Rating count: 20293
 Popular: None
 HighlyRecommended: None
 Centre distance: 873
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1474284
+Handicap accessibility: True
+Tourism rate: 656627
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1873
+Age: 889
 Ancient: None
-Surface: 7188.03
-Height: 0.15
+Surface: 4498.92
+Height: 7.2
 Impressive: None
-Price: 8
+Price: 10
 Cheap: None
 Density: None
 timeToVisit: None
@@ -583,27 +583,27 @@ tourismPriority: None
 Place id: ChIJYevd8bJhLxMRvaa0jU2aqLE
 Name: Mercati di Traiano Museo dei Fori Imperiali
 Address: Via Quattro Novembre, 94, Roma
-Type: Square
-Properties: ['Educational']
+Type: Place of warship
+Properties: ['Educational', 'Modern art']
 Latitude: 41.89564130000001
 Longitude: 12.4862481
 Rating: 4.6
 HighlyRated: None
-Rating count: 7977
+Rating count: 7997
 Popular: None
 HighlyRecommended: None
 Centre distance: 934
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1111416
+Handicap accessibility: False
+Tourism rate: 1379568
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1582
+Age: 1803
 Ancient: None
-Surface: 7799.15
-Height: 15.83
+Surface: 2292.7
+Height: 19.84
 Impressive: None
-Price: 6
+Price: 7
 Cheap: None
 Density: None
 timeToVisit: None
@@ -612,25 +612,25 @@ tourismPriority: None
 Place id: ChIJ8fvgXktgLxMROOqha2fxbkg
 Name: Equestrian Statue of Marcus Aurelius
 Address: Piazza del Campidoglio, 1, Roma
-Type: Square
-Properties: ['Modern art']
+Type: Fountain
+Properties: ['Educational']
 Latitude: 41.89332470000001
 Longitude: 12.4829349
 Rating: 4.7
 HighlyRated: None
-Rating count: 285
+Rating count: 288
 Popular: None
 HighlyRecommended: None
 Centre distance: 883
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 431570
+Handicap accessibility: True
+Tourism rate: 1481963
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1334
+Age: 1661
 Ancient: None
-Surface: 5900.1
-Height: 5.92
+Surface: 849.39
+Height: 19.93
 Impressive: None
 Price: 0
 Cheap: None
@@ -642,24 +642,24 @@ Place id: ChIJhURtyqthLxMRQXDqNoUFSkM
 Name: Convento dei Frati Cappuccini
 Address: Via Vittorio Veneto, 27, Roma
 Type: Castle
-Properties: ['Modern art']
+Properties: ['Modern art', 'Historical']
 Latitude: 41.9048411
 Longitude: 12.4883873
 Rating: 4.2
 HighlyRated: None
-Rating count: 337
+Rating count: 339
 Popular: None
 HighlyRecommended: None
 Centre distance: 1168
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1221920
+Tourism rate: 1440361
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 370
+Age: 989
 Ancient: None
-Surface: 4642.19
-Height: 7.96
+Surface: 1953.02
+Height: 15.57
 Impressive: None
 Price: 0
 Cheap: None
@@ -670,27 +670,27 @@ tourismPriority: None
 Place id: ChIJEZYsp61hLxMRjFL7eK0va78
 Name: Quirinal Palace
 Address: Piazza del Quirinale, Roma
-Type: Museum
-Properties: ['Modern art', 'Educational']
+Type: Place of warship
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.8997546
 Longitude: 12.4867586
 Rating: 4.6
 HighlyRated: None
-Rating count: 3464
+Rating count: 3492
 Popular: None
 HighlyRecommended: None
 Centre distance: 872
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 422439
+Tourism rate: 211890
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1629
+Age: 234
 Ancient: None
-Surface: 3954.18
-Height: 7.08
+Surface: 7605.95
+Height: 18.44
 Impressive: None
-Price: 9
+Price: 5
 Cheap: None
 Density: None
 timeToVisit: None
@@ -698,26 +698,26 @@ tourismPriority: None
 
 Place id: ChIJ6V1-TbhhLxMRUbEhbeY44Zc
 Name: Basilica di San Clemente
-Address: Via Labicana, 95, Roma
-Type: Square
-Properties: ['Entertainment']
+Address: Piazza di San Clemente, Roma
+Type: Bridge
+Properties: ['Entertainment', 'Educational']
 Latitude: 41.8893347
 Longitude: 12.4975757
 Rating: 4.7
 HighlyRated: None
-Rating count: 5018
+Rating count: 5054
 Popular: None
 HighlyRecommended: None
 Centre distance: 2100
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 521876
+Handicap accessibility: False
+Tourism rate: 302539
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1636
+Age: 926
 Ancient: None
-Surface: 3144.23
-Height: 2.66
+Surface: 4556.13
+Height: 15.26
 Impressive: None
 Price: 6
 Cheap: None
@@ -728,25 +728,83 @@ tourismPriority: None
 Place id: ChIJzeDkbVJgLxMRf9wy9vdWbgw
 Name: Chiesa di Sant  Ignazio di Loyola
 Address: Via del Caravita, 8a, Roma
-Type: Museum
-Properties: ['Historical']
+Type: Bridge
+Properties: ['Educational']
 Latitude: 41.8987532
 Longitude: 12.4798693
 Rating: 4.8
 HighlyRated: None
-Rating count: 8693
+Rating count: 8769
 Popular: None
 HighlyRecommended: None
 Centre distance: 311
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1197878
+Handicap accessibility: False
+Tourism rate: 596117
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1555
+Age: 916
 Ancient: None
-Surface: 3633.78
-Height: 0.18
+Surface: 6407.83
+Height: 13.01
+Impressive: None
+Price: 7
+Cheap: None
+Density: None
+timeToVisit: None
+tourismPriority: None
+
+Place id: ChIJOfR_6athLxMRe5WMm35eHgc
+Name: Piazza Barberini
+Address: Piazza Barberini, Roma
+Type: Viewpoint
+Properties: ['Educational']
+Latitude: 41.90378459999999
+Longitude: 12.4886381
+Rating: 4.5
+HighlyRated: None
+Rating count: 23259
+Popular: None
+HighlyRecommended: None
+Centre distance: 1132
+CloseToCityCentre: None
+Handicap accessibility: False
+Tourism rate: 993522
+TurismRateOutOfTen: None
+TopTourismAttraction: None
+Age: 1469
+Ancient: None
+Surface: 6943.96
+Height: 12.92
+Impressive: None
+Price: 12
+Cheap: None
+Density: None
+timeToVisit: None
+tourismPriority: None
+
+Place id: ChIJbxxhZa5hLxMRRjFLUna6Ylk
+Name: Palazzo delle Esposizioni
+Address: Via Nazionale, 194, Roma
+Type: Viewpoint
+Properties: ['Educational', 'Modern art', 'Historical']
+Latitude: 41.8994596
+Longitude: 12.4901464
+Rating: 4.5
+HighlyRated: None
+Rating count: 5828
+Popular: None
+HighlyRecommended: None
+Centre distance: 1153
+CloseToCityCentre: None
+Handicap accessibility: True
+Tourism rate: 643205
+TurismRateOutOfTen: None
+TopTourismAttraction: None
+Age: 268
+Ancient: None
+Surface: 2163.35
+Height: 10.58
 Impressive: None
 Price: 0
 Cheap: None
@@ -756,86 +814,28 @@ tourismPriority: None
 
 Place id: ChIJK1-CN0xgLxMRZukH0_lPL70
 Name: Chiesa del Gesu
-Address: Via degli Astalli, 16, Roma
-Type: Fountain
-Properties: ['Entertainment', 'Educational']
-Latitude: 41.89592440000001
-Longitude: 12.4798623
+Address: Piazza del Gesu, Roma
+Type: Viewpoint
+Properties: ['Entertainment', 'Historical']
+Latitude: 41.8959012
+Longitude: 12.4793513
 Rating: 4.8
 HighlyRated: None
-Rating count: 4653
+Rating count: 4672
 Popular: None
 HighlyRecommended: None
-Centre distance: 498
-CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 429471
-TurismRateOutOfTen: None
-TopTourismAttraction: None
-Age: 1917
-Ancient: None
-Surface: 6346.81
-Height: 8.23
-Impressive: None
-Price: 6
-Cheap: None
-Density: None
-timeToVisit: None
-tourismPriority: None
-
-Place id: ChIJOfR_6athLxMRe5WMm35eHgc
-Name: Piazza Barberini
-Address: Piazza Barberini, Roma
-Type: Fountain
-Properties: ['Modern art', 'Historical']
-Latitude: 41.90378459999999
-Longitude: 12.4886381
-Rating: 4.5
-HighlyRated: None
-Rating count: 23223
-Popular: None
-HighlyRecommended: None
-Centre distance: 1132
-CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1250547
-TurismRateOutOfTen: None
-TopTourismAttraction: None
-Age: 1174
-Ancient: None
-Surface: 7075.28
-Height: 17.85
-Impressive: None
-Price: 7
-Cheap: None
-Density: None
-timeToVisit: None
-tourismPriority: None
-
-Place id: ChIJbxxhZa5hLxMRRjFLUna6Ylk
-Name: Palazzo delle Esposizioni
-Address: Via Nazionale, 194, Roma
-Type: Fountain
-Properties: ['Modern art', 'Educational']
-Latitude: 41.8994596
-Longitude: 12.4901464
-Rating: 4.5
-HighlyRated: None
-Rating count: 5801
-Popular: None
-HighlyRecommended: None
-Centre distance: 1153
+Centre distance: 476
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 622890
+Tourism rate: 604845
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 315
+Age: 1536
 Ancient: None
-Surface: 6322.11
-Height: 0.64
+Surface: 1137.67
+Height: 11.43
 Impressive: None
-Price: 0
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -844,25 +844,25 @@ tourismPriority: None
 Place id: ChIJOclom0xgLxMRewulHSml3Vw
 Name: Basilica di Santa Maria in Ara coeli
 Address: Scala dell Arce Capitolina, 12, Roma
-Type: Bridge
-Properties: ['Modern art', 'Historical']
+Type: Viewpoint
+Properties: ['Educational', 'Historical']
 Latitude: 41.89381509999999
 Longitude: 12.4834796
 Rating: 4.8
 HighlyRated: None
-Rating count: 2344
+Rating count: 2355
 Popular: None
 HighlyRecommended: None
 Centre distance: 872
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 310891
+Handicap accessibility: False
+Tourism rate: 384694
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1045
+Age: 1527
 Ancient: None
-Surface: 2559.91
-Height: 13.73
+Surface: 1442.31
+Height: 9.58
 Impressive: None
 Price: 0
 Cheap: None
@@ -873,27 +873,27 @@ tourismPriority: None
 Place id: ChIJC9NzLFJgLxMRgfEuylx5Gu8
 Name: Palazzo Montecitorio
 Address: Piazza di Monte Citorio, Roma
-Type: Monument
-Properties: ['Entertainment', 'Historical']
-Latitude: 41.9015668
-Longitude: 12.4787435
+Type: Museum
+Properties: ['Entertainment']
+Latitude: 41.90110689999999
+Longitude: 12.4786817
 Rating: 4.2
 HighlyRated: None
-Rating count: 727
+Rating count: 731
 Popular: None
 HighlyRecommended: None
-Centre distance: 307
+Centre distance: 268
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 600889
+Tourism rate: 433486
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 582
+Age: 941
 Ancient: None
-Surface: 2307.39
-Height: 18.5
+Surface: 5247.25
+Height: 7.04
 Impressive: None
-Price: 12
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -902,27 +902,27 @@ tourismPriority: None
 Place id: ChIJp-3oaLdhLxMRS_bYIp1GB8w
 Name: Domus Aurea
 Address: Via della Domus Aurea, Roma
-Type: Museum
-Properties: ['Entertainment', 'Historical']
+Type: Fountain
+Properties: ['Entertainment']
 Latitude: 41.8906222
 Longitude: 12.4956124
 Rating: 4.6
 HighlyRated: None
-Rating count: 2413
+Rating count: 2424
 Popular: None
 HighlyRecommended: None
 Centre distance: 1886
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1382430
+Tourism rate: 1372074
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 327
+Age: 1877
 Ancient: None
-Surface: 975.46
-Height: 1.54
+Surface: 7153.89
+Height: 14.15
 Impressive: None
-Price: 0
+Price: 7
 Cheap: None
 Density: None
 timeToVisit: None
@@ -931,27 +931,27 @@ tourismPriority: None
 Place id: ChIJk7HQeqlhLxMRwIY3JsnfdjU
 Name: National Gallery of Ancient Art in Barberini Palace
 Address: Via delle Quattro Fontane, 13, Roma
-Type: Viewpoint
-Properties: ['Entertainment']
+Type: Bridge
+Properties: ['Educational']
 Latitude: 41.90329080000001
 Longitude: 12.4898145
 Rating: 4.6
 HighlyRated: None
-Rating count: 5016
+Rating count: 5042
 Popular: None
 HighlyRecommended: None
 Centre distance: 1201
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1019144
+Tourism rate: 522969
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1056
+Age: 962
 Ancient: None
-Surface: 5973.39
-Height: 1.41
+Surface: 4961.35
+Height: 15.11
 Impressive: None
-Price: 9
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -960,27 +960,27 @@ tourismPriority: None
 Place id: ChIJF0obe01gLxMR0JJHtlD0kMY
 Name: Doria Pamphili Gallery
 Address: Via del Corso, 305, Roma
-Type: Viewpoint
-Properties: ['Modern art', 'Educational']
+Type: Park
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.89797819999999
 Longitude: 12.4815742
 Rating: 4.6
 HighlyRated: None
-Rating count: 5024
+Rating count: 5075
 Popular: None
 HighlyRecommended: None
 Centre distance: 473
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1410917
+Tourism rate: 868475
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 680
+Age: 1257
 Ancient: None
-Surface: 4732.15
-Height: 13.54
+Surface: 4104.1
+Height: 19.28
 Impressive: None
-Price: 0
+Price: 7
 Cheap: None
 Density: None
 timeToVisit: None
@@ -989,27 +989,27 @@ tourismPriority: None
 Place id: ChIJr3gt3ExgLxMRYaivihEa9K0
 Name: Piazza Venezia
 Address: Piazza Venezia, Roma
-Type: Place of warship
-Properties: ['Historical', 'Educational']
+Type: Monument
+Properties: ['Educational', 'Modern art']
 Latitude: 41.89576630000001
 Longitude: 12.4825739
 Rating: 4.7
 HighlyRated: None
-Rating count: 53400
+Rating count: 53468
 Popular: None
 HighlyRecommended: None
 Centre distance: 669
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 233356
+Handicap accessibility: True
+Tourism rate: 782947
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1490
+Age: 1328
 Ancient: None
-Surface: 3123.68
-Height: 14.06
+Surface: 3092.25
+Height: 16.76
 Impressive: None
-Price: 9
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1018,27 +1018,27 @@ tourismPriority: None
 Place id: ChIJqUCGZ09gLxMRLM42IPpl0co
 Name: Pantheon
 Address: Piazza della Rotonda, Roma
-Type: Bridge
-Properties: ['Educational']
+Type: Park
+Properties: ['Entertainment']
 Latitude: 41.8986108
 Longitude: 12.4768729
 Rating: 4.8
 HighlyRated: None
-Rating count: 200625
+Rating count: 201854
 Popular: None
 HighlyRecommended: None
 Centre distance: 112
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1146095
+Tourism rate: 954813
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1418
+Age: 1457
 Ancient: None
-Surface: 577.04
-Height: 10.15
+Surface: 446.2
+Height: 4.0
 Impressive: None
-Price: 6
+Price: 10
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1048,55 +1048,55 @@ Place id: ChIJU-kfDE5gLxMR1LRHd9Rfx04
 Name: Basilica of Saint Mary of Minerva
 Address: Piazza della Minerva, 42, Roma
 Type: Viewpoint
-Properties: ['Entertainment', 'Modern art', 'Historical']
+Properties: ['Historical']
 Latitude: 41.8979888
 Longitude: 12.4780226
 Rating: 4.7
 HighlyRated: None
-Rating count: 1993
+Rating count: 2009
 Popular: None
 HighlyRecommended: None
 Centre distance: 224
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 376709
+Handicap accessibility: True
+Tourism rate: 1106815
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1493
+Age: 1995
 Ancient: None
-Surface: 7714.96
-Height: 19.33
+Surface: 799.9
+Height: 2.74
 Impressive: None
-Price: 5
+Price: 7
 Cheap: None
 Density: None
 timeToVisit: None
 tourismPriority: None
 
 Place id: ChIJSfQGGqZhLxMRMAy6MdWbTrA
-Name: Santa Maria degli Angeli e dei Martiri
+Name: Basilica of Saint Mary of the Angels and Martyrs
 Address: Piazza della Repubblica, Roma
-Type: Square
-Properties: ['Entertainment']
+Type: Place of warship
+Properties: ['Educational']
 Latitude: 41.9031888
 Longitude: 12.4969341
 Rating: 4.7
 HighlyRated: None
-Rating count: 6642
+Rating count: 6682
 Popular: None
 HighlyRecommended: None
 Centre distance: 1764
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1064857
+Tourism rate: 1038399
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 829
+Age: 844
 Ancient: None
-Surface: 1594.48
-Height: 7.63
+Surface: 7854.86
+Height: 3.55
 Impressive: None
-Price: 11
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1105,8 +1105,8 @@ tourismPriority: None
 Place id: ChIJ1zB926RhLxMRbB4WoenMwOc
 Name: Parrocchia Santa Maria Maggiore
 Address: Via Carlo Alberto, 47 Ingresso Chiesa: via di S. Vito s.n.c, Via Carlo Alberto, 47, Roma
-Type: Viewpoint
-Properties: ['Entertainment', 'Educational']
+Type: Fountain
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.8959969
 Longitude: 12.5015035
 Rating: 4.6
@@ -1116,16 +1116,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 2131
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 876507
+Handicap accessibility: True
+Tourism rate: 827499
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1503
+Age: 1135
 Ancient: None
-Surface: 6484.48
-Height: 14.66
+Surface: 2435.35
+Height: 12.7
 Impressive: None
-Price: 0
+Price: 5
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1134,27 +1134,27 @@ tourismPriority: None
 Place id: ChIJhT_oa7NhLxMRfVMoVD43UJo
 Name: Mamertine Prison
 Address: Clivo Argentario, 1, Roma
-Type: Viewpoint
-Properties: ['Entertainment']
+Type: Monument
+Properties: ['Historical']
 Latitude: 41.89325289999999
 Longitude: 12.484504
 Rating: 3.8
 HighlyRated: None
-Rating count: 579
+Rating count: 595
 Popular: None
 HighlyRecommended: None
 Centre distance: 976
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 315659
+Handicap accessibility: False
+Tourism rate: 380686
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 689
+Age: 1585
 Ancient: None
-Surface: 816.1
-Height: 6.06
+Surface: 3291.14
+Height: 3.2
 Impressive: None
-Price: 0
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1163,25 +1163,25 @@ tourismPriority: None
 Place id: ChIJTzIpHrFhLxMR70pMGA-3MNQ
 Name: Mose di Michelangelo
 Address: Piazza di San Pietro in Vincoli, 4/A, Roma
-Type: Viewpoint
-Properties: ['Entertainment', 'Modern art']
+Type: Square
+Properties: ['Educational']
 Latitude: 41.89379449999999
 Longitude: 12.4928006
 Rating: 4.9
 HighlyRated: None
-Rating count: 4933
+Rating count: 4974
 Popular: None
 HighlyRecommended: None
 Centre distance: 1513
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 514579
+Tourism rate: 1132165
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 546
+Age: 1431
 Ancient: None
-Surface: 1913.51
-Height: 16.46
+Surface: 1874.69
+Height: 13.99
 Impressive: None
 Price: 0
 Cheap: None
@@ -1192,8 +1192,8 @@ tourismPriority: None
 Place id: ChIJ782pg7NhLxMR_tYhslDn5Rc
 Name: Capanne di Romolo
 Address: Italy
-Type: Bridge
-Properties: ['Educational']
+Type: Fountain
+Properties: ['Historical']
 Latitude: 41.8892388
 Longitude: 12.4849516
 Rating: 4.6
@@ -1204,13 +1204,13 @@ HighlyRecommended: None
 Centre distance: 1350
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 598255
+Tourism rate: 542627
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 686
+Age: 206
 Ancient: None
-Surface: 2287.6
-Height: 9.1
+Surface: 2153.17
+Height: 10.37
 Impressive: None
 Price: 0
 Cheap: None
@@ -1221,27 +1221,27 @@ tourismPriority: None
 Place id: ChIJoc4Mg1NgLxMRy-lfNWgHdTw
 Name: Basilica San Silvestro in Capite
 Address: Piazza di S.Silvestro, 17A, Roma
-Type: Bridge
-Properties: ['Entertainment', 'Historical', 'Educational']
+Type: Castle
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.9029134
 Longitude: 12.4807543
 Rating: 4.7
 HighlyRated: None
-Rating count: 783
+Rating count: 784
 Popular: None
 HighlyRecommended: None
 Centre distance: 531
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1069921
+Tourism rate: 1435401
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1389
+Age: 1099
 Ancient: None
-Surface: 2858.26
-Height: 10.15
+Surface: 4557.87
+Height: 7.83
 Impressive: None
-Price: 5
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1250,8 +1250,8 @@ tourismPriority: None
 Place id: ChIJNwyWP6FhLxMRh_kyLyxcnes
 Name: Basilica del Sacro Cuore di Gesu
 Address: Via Marsala, 42, Roma
-Type: Bridge
-Properties: ['Entertainment']
+Type: Park
+Properties: ['Educational', 'Historical']
 Latitude: 41.9025287
 Longitude: 12.5023811
 Rating: 4.7
@@ -1262,15 +1262,15 @@ HighlyRecommended: None
 Centre distance: 2194
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1446158
+Tourism rate: 320446
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 610
+Age: 1514
 Ancient: None
-Surface: 5494.04
-Height: 5.35
+Surface: 7567.06
+Height: 10.64
 Impressive: None
-Price: 0
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1280,26 +1280,26 @@ Place id: ChIJQ_PWjE5gLxMRzwPbBqolerU
 Name: Largo di Torre Argentina
 Address: Largo di Torre Argentina, Roma
 Type: Fountain
-Properties: ['Entertainment', 'Modern art', 'Historical']
+Properties: ['Historical']
 Latitude: 41.89540710000001
 Longitude: 12.4768597
 Rating: 4.5
 HighlyRated: None
-Rating count: 31715
+Rating count: 31817
 Popular: None
 HighlyRecommended: None
 Centre distance: 458
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1237394
+Handicap accessibility: False
+Tourism rate: 1337291
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1021
+Age: 1935
 Ancient: None
-Surface: 6059.1
-Height: 18.96
+Surface: 6139.35
+Height: 17.16
 Impressive: None
-Price: 0
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1308,27 +1308,27 @@ tourismPriority: None
 Place id: ChIJSaNEcbFhLxMRTPvGZ7sTDnM
 Name: Chiesa di Santa Maria ai Monti
 Address: Via della Madonna dei Monti, 41, Roma
-Type: Fountain
-Properties: ['Historical']
+Type: Museum
+Properties: ['Educational', 'Historical']
 Latitude: 41.8946127
 Longitude: 12.4906538
 Rating: 4.6
 HighlyRated: None
-Rating count: 591
+Rating count: 594
 Popular: None
 HighlyRecommended: None
 Centre distance: 1313
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1038072
+Tourism rate: 1340679
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 939
+Age: 1403
 Ancient: None
-Surface: 3093.33
-Height: 13.68
+Surface: 727.52
+Height: 9.66
 Impressive: None
-Price: 10
+Price: 5
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1337,8 +1337,8 @@ tourismPriority: None
 Place id: ChIJZbXD4kxgLxMRi_2_fAZuZkI
 Name: Basilica of St Mark Evangelist at Campidoglio
 Address: Palazzo Venezia, Piazza di San Marco, 48, Roma
-Type: Castle
-Properties: ['Historical', 'Educational']
+Type: Museum
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.8958595
 Longitude: 12.4816619
 Rating: 4.7
@@ -1348,16 +1348,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 605
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 938068
+Handicap accessibility: True
+Tourism rate: 992030
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1124
+Age: 467
 Ancient: None
-Surface: 5509.43
-Height: 13.1
+Surface: 6302.06
+Height: 1.7
 Impressive: None
-Price: 0
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1366,27 +1366,27 @@ tourismPriority: None
 Place id: ChIJ30sLQa9hLxMRMS8C0CtjqT0
 Name: St. Paul s Within the Walls
 Address: Via Nazionale, 16a, Roma
-Type: Square
-Properties: ['Educational']
+Type: Castle
+Properties: ['Modern art', 'Historical']
 Latitude: 41.901225
 Longitude: 12.4941547
 Rating: 4.6
 HighlyRated: None
-Rating count: 1206
+Rating count: 1209
 Popular: None
 HighlyRecommended: None
 Centre distance: 1497
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 997647
+Handicap accessibility: True
+Tourism rate: 995314
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 925
+Age: 591
 Ancient: None
-Surface: 3618.85
-Height: 17.84
+Surface: 1243.31
+Height: 12.07
 Impressive: None
-Price: 10
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1395,27 +1395,27 @@ tourismPriority: None
 Place id: ChIJBxt8qLRhLxMRhbiuqmVhI0I
 Name: Septimius Severus Arch
 Address: Via dell Arco di Settimio, Roma
-Type: Bridge
-Properties: ['Modern art', 'Historical', 'Educational']
+Type: Castle
+Properties: ['Entertainment']
 Latitude: 41.8928832
 Longitude: 12.4847441
 Rating: 4.8
 HighlyRated: None
-Rating count: 456
+Rating count: 458
 Popular: None
 HighlyRecommended: None
 Centre distance: 1019
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 823083
+Handicap accessibility: False
+Tourism rate: 1331820
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1476
+Age: 1946
 Ancient: None
-Surface: 4259.21
-Height: 16.8
+Surface: 3265.67
+Height: 18.4
 Impressive: None
-Price: 12
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1424,8 +1424,8 @@ tourismPriority: None
 Place id: ChIJnxXLilJgLxMRiieJjyBd86c
 Name: Palazzo Sciarra Colonna Carbognano
 Address: Via del Corso, 239, Roma
-Type: Fountain
-Properties: ['Modern art']
+Type: Monument
+Properties: ['Entertainment', 'Modern art', 'Historical']
 Latitude: 41.89961590000001
 Longitude: 12.4812815
 Rating: 4.7
@@ -1436,15 +1436,15 @@ HighlyRecommended: None
 Centre distance: 417
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 547472
+Tourism rate: 1169526
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1389
+Age: 1406
 Ancient: None
-Surface: 6843.97
-Height: 18.62
+Surface: 6899.39
+Height: 4.38
 Impressive: None
-Price: 0
+Price: 11
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1453,27 +1453,27 @@ tourismPriority: None
 Place id: ChIJXzcJH1VgLxMRoomAAmC-PuM
 Name: The Keats - Shelley House
 Address: Piazza di Spagna, 26, Roma
-Type: Park
-Properties: ['Entertainment']
+Type: Bridge
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.9057494
 Longitude: 12.4825019
 Rating: 4.6
 HighlyRated: None
-Rating count: 196
+Rating count: 198
 Popular: None
 HighlyRecommended: None
 Centre distance: 865
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 246023
+Handicap accessibility: False
+Tourism rate: 658292
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 405
+Age: 1142
 Ancient: None
-Surface: 6337.74
-Height: 4.84
+Surface: 7807.66
+Height: 16.19
 Impressive: None
-Price: 9
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1482,8 +1482,8 @@ tourismPriority: None
 Place id: ChIJnyYXKLNhLxMRqlZ0PIvr7-4
 Name: Basilica Ulpia
 Address: Foro Traiano, 1, Roma
-Type: Monument
-Properties: ['Entertainment', 'Modern art', 'Historical']
+Type: Bridge
+Properties: ['Educational']
 Latitude: 41.895572
 Longitude: 12.4845844
 Rating: 4.5
@@ -1494,15 +1494,15 @@ HighlyRecommended: None
 Centre distance: 818
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 996454
+Tourism rate: 815497
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 204
+Age: 1256
 Ancient: None
-Surface: 4337.44
-Height: 4.36
+Surface: 2119.64
+Height: 18.61
 Impressive: None
-Price: 0
+Price: 10
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1511,25 +1511,25 @@ tourismPriority: None
 Place id: ChIJ6wDBX7RhLxMRoPSsr-r1FhQ
 Name: Temple of Vesta
 Address: Via dei Fori Imperiali, Roma
-Type: Monument
-Properties: ['Entertainment']
+Type: Castle
+Properties: ['Modern art']
 Latitude: 41.891715
 Longitude: 12.4862091
 Rating: 4.6
 HighlyRated: None
-Rating count: 214
+Rating count: 216
 Popular: None
 HighlyRecommended: None
 Centre distance: 1197
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1446793
+Handicap accessibility: True
+Tourism rate: 1191550
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1362
+Age: 342
 Ancient: None
-Surface: 2524.01
-Height: 0.68
+Surface: 5065.27
+Height: 8.11
 Impressive: None
 Price: 0
 Cheap: None
@@ -1540,27 +1540,27 @@ tourismPriority: None
 Place id: ChIJF-pEgVJgLxMR1EQ7fh-OH2U
 Name: Chiesa San Marcello al Corso
 Address: Piazza San Marcello, 5, Roma
-Type: Park
-Properties: ['Historical']
+Type: Square
+Properties: ['Entertainment', 'Educational']
 Latitude: 41.8985206
 Longitude: 12.481612
 Rating: 4.7
 HighlyRated: None
-Rating count: 1796
+Rating count: 1803
 Popular: None
 HighlyRecommended: None
 Centre distance: 458
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 267779
+Handicap accessibility: False
+Tourism rate: 842581
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1122
+Age: 247
 Ancient: None
-Surface: 5386.75
-Height: 14.95
+Surface: 6659.64
+Height: 18.87
 Impressive: None
-Price: 8
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1569,8 +1569,8 @@ tourismPriority: None
 Place id: ChIJvT7ZFUxgLxMRzqyc6ybolT4
 Name: San Stanislao alle Botteghe Oscure
 Address: Via delle Botteghe Oscure, 15, Roma
-Type: Place of warship
-Properties: ['Entertainment', 'Modern art']
+Type: Fountain
+Properties: ['Historical']
 Latitude: 41.89486819999999
 Longitude: 12.4793552
 Rating: 4.6
@@ -1580,16 +1580,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 576
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 699950
+Handicap accessibility: True
+Tourism rate: 323756
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 668
+Age: 880
 Ancient: None
-Surface: 1600.99
-Height: 12.22
+Surface: 891.65
+Height: 0.19
 Impressive: None
-Price: 0
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1598,27 +1598,27 @@ tourismPriority: None
 Place id: ChIJibQilrRhLxMRuIdk3El5H7w
 Name: Column of Phocas
 Address: Via dei Fori Imperiali, 1, Roma
-Type: Place of warship
-Properties: ['Entertainment', 'Historical', 'Educational']
+Type: Museum
+Properties: ['Modern art']
 Latitude: 41.8924626
 Longitude: 12.4848656
 Rating: 4.6
 HighlyRated: None
-Rating count: 84
+Rating count: 85
 Popular: None
 HighlyRecommended: None
 Centre distance: 1060
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 439921
+Handicap accessibility: False
+Tourism rate: 1349752
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1441
+Age: 1243
 Ancient: None
-Surface: 2956.29
-Height: 5.72
+Surface: 3608.67
+Height: 18.92
 Impressive: None
-Price: 5
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1627,27 +1627,27 @@ tourismPriority: None
 Place id: ChIJqRSsibRhLxMRZsvnYX4PlkY
 Name: Antoninus and Faustina Temple
 Address: Via in Miranda, 1, Roma
-Type: Park
-Properties: ['Modern art']
+Type: Square
+Properties: ['Educational', 'Modern art', 'Historical']
 Latitude: 41.8922512
 Longitude: 12.4868264
 Rating: 4.7
 HighlyRated: None
-Rating count: 282
+Rating count: 283
 Popular: None
 HighlyRecommended: None
 Centre distance: 1192
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1106886
+Handicap accessibility: True
+Tourism rate: 1038882
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1216
+Age: 308
 Ancient: None
-Surface: 3907.14
-Height: 3.72
+Surface: 921.47
+Height: 14.44
 Impressive: None
-Price: 0
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1657,24 +1657,24 @@ Place id: ChIJp3-BzEtgLxMRMyxlHO3Qw3Y
 Name: Marcello Theater
 Address: Via del Teatro di Marcello, Roma
 Type: Fountain
-Properties: ['Modern art', 'Historical']
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.8919308
 Longitude: 12.4799083
 Rating: 4.6
 HighlyRated: None
-Rating count: 8651
+Rating count: 8704
 Popular: None
 HighlyRecommended: None
 Centre distance: 895
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1174328
+Handicap accessibility: True
+Tourism rate: 1338748
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1856
+Age: 233
 Ancient: None
-Surface: 3355.11
-Height: 8.65
+Surface: 7505.45
+Height: 5.66
 Impressive: None
 Price: 0
 Cheap: None
@@ -1686,55 +1686,55 @@ Place id: ChIJSTrt8ktgLxMRJNAT-SobsKk
 Name: Chiesa di Santa Maria in Portico in Campitelli
 Address: Piazza di Campitelli, 9, Roma
 Type: Museum
-Properties: ['Entertainment', 'Modern art', 'Educational']
+Properties: ['Entertainment']
 Latitude: 41.8930531
 Longitude: 12.4791914
 Rating: 4.7
 HighlyRated: None
-Rating count: 748
+Rating count: 749
 Popular: None
 HighlyRecommended: None
 Centre distance: 757
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1275100
+Tourism rate: 1480833
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 498
+Age: 626
 Ancient: None
-Surface: 3787.88
-Height: 6.28
+Surface: 1668.73
+Height: 1.2
 Impressive: None
-Price: 12
+Price: 10
 Cheap: None
 Density: None
 timeToVisit: None
 tourismPriority: None
 
 Place id: ChIJVbqwYKhhLxMRSAkyf1K0z1k
-Name: The Church of Santa Maria della Vittoria
+Name: Church of Santa Maria della Vittoria
 Address: Via Venti Settembre, 17, Roma
-Type: Castle
-Properties: ['Modern art', 'Historical', 'Educational']
+Type: Monument
+Properties: ['Entertainment', 'Educational', 'Historical']
 Latitude: 41.90470079999999
 Longitude: 12.4943693
 Rating: 4.7
 HighlyRated: None
-Rating count: 5712
+Rating count: 5726
 Popular: None
 HighlyRecommended: None
 Centre distance: 1610
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 331846
+Tourism rate: 1489161
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 794
+Age: 880
 Ancient: None
-Surface: 2335.41
-Height: 7.48
+Surface: 5461.39
+Height: 16.63
 Impressive: None
-Price: 6
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1743,27 +1743,27 @@ tourismPriority: None
 Place id: ChIJeb0jxWVgLxMR66bI7_F7PQA
 Name: The Last Judgment
 Address: 00120 Citta del Vaticano VA
-Type: Castle
-Properties: ['Entertainment']
+Type: Bridge
+Properties: ['Educational', 'Historical']
 Latitude: 41.902953
 Longitude: 12.454456
 Rating: 4.7
 HighlyRated: None
-Rating count: 251
+Rating count: 253
 Popular: None
 HighlyRecommended: None
 Centre distance: 1848
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1011276
+Tourism rate: 1086273
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1070
+Age: 223
 Ancient: None
-Surface: 1973.31
-Height: 16.5
+Surface: 6948.0
+Height: 18.92
 Impressive: None
-Price: 12
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1772,8 +1772,8 @@ tourismPriority: None
 Place id: ChIJK95AfGVgLxMRc4Uvp1dYum8
 Name: Chiesa di Santo Stefano degli Abissini
 Address: 
-Type: Square
-Properties: ['Entertainment', 'Historical', 'Educational']
+Type: Park
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.9017865
 Longitude: 12.4518432
 Rating: 4.4
@@ -1783,16 +1783,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 2040
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1421575
+Handicap accessibility: False
+Tourism rate: 1352310
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1045
+Age: 1008
 Ancient: None
-Surface: 7345.73
-Height: 9.13
+Surface: 4096.15
+Height: 16.63
 Impressive: None
-Price: 0
+Price: 11
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1801,8 +1801,8 @@ tourismPriority: None
 Place id: ChIJ6_1H5kVgLxMRmCp3rRLDv78
 Name: Fontana di Piazza Farnese
 Address: Piazza Farnese, Roma
-Type: Monument
-Properties: ['Educational']
+Type: Place of warship
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.89500969999999
 Longitude: 12.4714431
 Rating: 4.5
@@ -1812,16 +1812,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 639
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 637308
+Handicap accessibility: False
+Tourism rate: 1328641
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1433
+Age: 1911
 Ancient: None
-Surface: 2818.3
-Height: 15.9
+Surface: 4130.93
+Height: 3.15
 Impressive: None
-Price: 9
+Price: 5
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1830,8 +1830,8 @@ tourismPriority: None
 Place id: ChIJ67JcihRgLxMRRZZfZh_8yYQ
 Name: Villa Abamelek
 Address: Via Aurelia Antica, 12, Roma
-Type: Fountain
-Properties: ['Historical']
+Type: Bridge
+Properties: ['Educational']
 Latitude: 41.8890841
 Longitude: 12.4564241
 Rating: 4.5
@@ -1841,14 +1841,14 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 2012
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 845020
+Handicap accessibility: True
+Tourism rate: 1149351
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1651
+Age: 419
 Ancient: None
-Surface: 3495.27
-Height: 8.77
+Surface: 7104.34
+Height: 11.05
 Impressive: None
 Price: 12
 Cheap: None
@@ -1859,8 +1859,8 @@ tourismPriority: None
 Place id: ChIJI_Y5kk9gLxMRUjW2-zslhNQ
 Name: Palazzo Torres
 Address: Piazza Navona, 114, Roma
-Type: Viewpoint
-Properties: ['Historical', 'Educational']
+Type: Fountain
+Properties: ['Entertainment', 'Modern art', 'Historical']
 Latitude: 41.89781239999999
 Longitude: 12.4733069
 Rating: 4.4
@@ -1870,16 +1870,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 308
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1203966
+Handicap accessibility: False
+Tourism rate: 718750
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1765
+Age: 588
 Ancient: None
-Surface: 4846.17
-Height: 19.51
+Surface: 3401.36
+Height: 14.04
 Impressive: None
-Price: 12
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1889,26 +1889,26 @@ Place id: ChIJ0aTnEYeKJRMRiUF95xwRbDY
 Name: Castel Sant Angelo
 Address: Lungotevere Castello, 50, Roma
 Type: Place of warship
-Properties: ['Entertainment', 'Historical']
+Properties: ['Modern art']
 Latitude: 41.90306319999999
 Longitude: 12.466276
 Rating: 4.7
 HighlyRated: None
-Rating count: 76259
+Rating count: 76628
 Popular: None
 HighlyRecommended: None
 Centre distance: 916
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1051871
+Handicap accessibility: True
+Tourism rate: 1202853
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1782
+Age: 1159
 Ancient: None
-Surface: 1927.15
-Height: 19.05
+Surface: 5132.72
+Height: 17.81
 Impressive: None
-Price: 11
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1918,7 +1918,7 @@ Place id: ChIJr4exBU9gLxMRWBY_STXdDKQ
 Name: Vidoni Palace
 Address: Corso Vittorio Emanuele II, Roma
 Type: Fountain
-Properties: ['Modern art', 'Historical']
+Properties: ['Entertainment']
 Latitude: 41.8960558
 Longitude: 12.4748962
 Rating: 4.4
@@ -1928,16 +1928,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 400
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 202029
+Handicap accessibility: True
+Tourism rate: 442698
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 625
+Age: 1505
 Ancient: None
-Surface: 3583.48
-Height: 10.16
+Surface: 2681.47
+Height: 16.54
 Impressive: None
-Price: 0
+Price: 7
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1947,26 +1947,26 @@ Place id: ChIJKcGbg2NgLxMRthZkUqDs4M8
 Name: Vatican Museums
 Address: 
 Type: Square
-Properties: ['Entertainment', 'Historical', 'Educational']
+Properties: ['Modern art']
 Latitude: 41.9064878
 Longitude: 12.4536413
 Rating: 4.6
 HighlyRated: None
-Rating count: 148402
+Rating count: 149356
 Popular: None
 HighlyRecommended: None
 Centre distance: 2029
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 589879
+Handicap accessibility: True
+Tourism rate: 744969
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 709
+Age: 1385
 Ancient: None
-Surface: 7001.58
-Height: 6.79
+Surface: 5595.32
+Height: 8.34
 Impressive: None
-Price: 0
+Price: 5
 Cheap: None
 Density: None
 timeToVisit: None
@@ -1975,8 +1975,8 @@ tourismPriority: None
 Place id: ChIJQ7lx21BgLxMRFvhFw9yi0Zo
 Name: Fontana di Piazza Nicosia
 Address: Piazza Nicosia, Roma
-Type: Museum
-Properties: ['Modern art', 'Historical', 'Educational']
+Type: Fountain
+Properties: ['Modern art', 'Historical']
 Latitude: 41.9031315
 Longitude: 12.4747449
 Rating: 4.3
@@ -1987,13 +1987,13 @@ HighlyRecommended: None
 Centre distance: 420
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 275534
+Tourism rate: 325412
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1022
+Age: 1590
 Ancient: None
-Surface: 886.72
-Height: 1.77
+Surface: 2358.31
+Height: 0.56
 Impressive: None
 Price: 0
 Cheap: None
@@ -2004,27 +2004,27 @@ tourismPriority: None
 Place id: ChIJWZsUt2FgLxMRg1KHzXfwS3I
 Name: St. Peter s Basilica
 Address: Piazza San Pietro, Citta del Vaticano
-Type: Park
-Properties: ['Modern art']
+Type: Castle
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.90216669999999
 Longitude: 12.4539367
 Rating: 4.8
 HighlyRated: None
-Rating count: 135384
+Rating count: 135661
 Popular: None
 HighlyRecommended: None
 Centre distance: 1874
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 500395
+Tourism rate: 1371798
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 840
+Age: 295
 Ancient: None
-Surface: 1528.35
-Height: 11.97
+Surface: 5036.19
+Height: 7.07
 Impressive: None
-Price: 8
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2033,27 +2033,27 @@ tourismPriority: None
 Place id: ChIJSWeM92dgLxMR0CGAWRyONtI
 Name: Church Holy Spirit in Sassia
 Address: Via dei Penitenzieri, 12, Roma
-Type: Viewpoint
-Properties: ['Modern art', 'Educational']
+Type: Museum
+Properties: ['Modern art', 'Historical']
 Latitude: 41.9013388
 Longitude: 12.4610164
 Rating: 4.7
 HighlyRated: None
-Rating count: 1601
+Rating count: 1606
 Popular: None
 HighlyRecommended: None
 Centre distance: 1280
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 926182
+Tourism rate: 525889
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 897
+Age: 1078
 Ancient: None
-Surface: 6859.8
-Height: 10.7
+Surface: 7165.03
+Height: 1.42
 Impressive: None
-Price: 7
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2062,27 +2062,27 @@ tourismPriority: None
 Place id: ChIJL-vHo11gLxMRcD2yiIungXY
 Name: Parrocchia Santuario Santa Maria in Traspontina
 Address: Via della Conciliazione, Roma
-Type: Square
-Properties: ['Entertainment']
+Type: Museum
+Properties: ['Entertainment', 'Educational', 'Historical']
 Latitude: 41.9026429
 Longitude: 12.4621915
 Rating: 4.7
 HighlyRated: None
-Rating count: 1424
+Rating count: 1426
 Popular: None
 HighlyRecommended: None
 Centre distance: 1217
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1109704
+Tourism rate: 1222233
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 565
+Age: 1614
 Ancient: None
-Surface: 2062.1
-Height: 6.52
+Surface: 1454.38
+Height: 16.7
 Impressive: None
-Price: 11
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2091,27 +2091,27 @@ tourismPriority: None
 Place id: ChIJd8x_N2VgLxMRBD6rNtS4NAw
 Name: Gardens of Vatican City
 Address: Via Paolo VI, 29
-Type: Park
-Properties: ['Modern art', 'Historical']
+Type: Monument
+Properties: ['Educational', 'Historical']
 Latitude: 41.9036267
 Longitude: 12.4502458
 Rating: 4.7
 HighlyRated: None
-Rating count: 2185
+Rating count: 2191
 Popular: None
 HighlyRecommended: None
 Centre distance: 2205
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1265264
+Handicap accessibility: False
+Tourism rate: 754891
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1294
+Age: 1482
 Ancient: None
-Surface: 4315.98
-Height: 18.67
+Surface: 3010.89
+Height: 5.37
 Impressive: None
-Price: 0
+Price: 5
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2120,25 +2120,25 @@ tourismPriority: None
 Place id: ChIJG6cU-09gLxMR8hkxk2gJcFI
 Name: Fiumi Fountain
 Address: Fontana dei Quattro Fiumi, Piazza Navona, 90, Roma
-Type: Fountain
-Properties: ['Modern art', 'Educational']
+Type: Park
+Properties: ['Modern art']
 Latitude: 41.8989673
 Longitude: 12.4730872
 Rating: 4.8
 HighlyRated: None
-Rating count: 8440
+Rating count: 8472
 Popular: None
 HighlyRecommended: None
 Centre distance: 269
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 584407
+Handicap accessibility: False
+Tourism rate: 433263
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1813
+Age: 1606
 Ancient: None
-Surface: 5772.44
-Height: 7.05
+Surface: 4528.33
+Height: 5.3
 Impressive: None
 Price: 0
 Cheap: None
@@ -2149,27 +2149,27 @@ tourismPriority: None
 Place id: ChIJ268jxWVgLxMRIj61f4fIFqs
 Name: Sistine Chapel
 Address: 
-Type: Museum
-Properties: ['Entertainment', 'Modern art']
+Type: Place of warship
+Properties: ['Educational', 'Modern art']
 Latitude: 41.9029468
 Longitude: 12.4544835
 Rating: 4.7
 HighlyRated: None
-Rating count: 63304
+Rating count: 63969
 Popular: None
 HighlyRecommended: None
 Centre distance: 1846
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 310702
+Tourism rate: 244900
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1655
+Age: 1288
 Ancient: None
-Surface: 7134.53
-Height: 1.84
+Surface: 1097.92
+Height: 4.2
 Impressive: None
-Price: 10
+Price: 8
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2178,56 +2178,27 @@ tourismPriority: None
 Place id: ChIJmUUGzkZgLxMR-T6gV-Qsy4o
 Name: Villa Farnesina
 Address: Via della Lungara, 230, Roma
-Type: Square
-Properties: ['Historical', 'Educational']
+Type: Bridge
+Properties: ['Entertainment']
 Latitude: 41.89359939999999
 Longitude: 12.4672868
 Rating: 4.6
 HighlyRated: None
-Rating count: 2114
+Rating count: 2140
 Popular: None
 HighlyRecommended: None
 Centre distance: 992
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1036502
+Handicap accessibility: True
+Tourism rate: 281567
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 436
+Age: 1150
 Ancient: None
-Surface: 2021.31
-Height: 18.79
+Surface: 1750.93
+Height: 11.39
 Impressive: None
-Price: 8
-Cheap: None
-Density: None
-timeToVisit: None
-tourismPriority: None
-
-Place id: ChIJLQGCLlBgLxMRuYQp8kv6syI
-Name: Church of St. Louis of the French
-Address: Piazza di San Luigi de  Francesi, Roma
-Type: Viewpoint
-Properties: ['Entertainment', 'Historical']
-Latitude: 41.899581
-Longitude: 12.4745405
-Rating: 4.8
-HighlyRated: None
-Rating count: 5936
-Popular: None
-HighlyRecommended: None
-Centre distance: 142
-CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 886787
-TurismRateOutOfTen: None
-TopTourismAttraction: None
-Age: 628
-Ancient: None
-Surface: 4365.65
-Height: 2.48
-Impressive: None
-Price: 7
+Price: 5
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2236,27 +2207,27 @@ tourismPriority: None
 Place id: ChIJ9TYH3k9gLxMRxbpYbkbO7y4
 Name: Palazzo Madama
 Address: Piazza Madama, Roma
-Type: Park
-Properties: ['Modern art', 'Educational']
+Type: Place of warship
+Properties: ['Historical']
 Latitude: 41.8992385
 Longitude: 12.4741376
-Rating: 4.2
+Rating: 4.3
 HighlyRated: None
-Rating count: 315
+Rating count: 313
 Popular: None
 HighlyRecommended: None
 Centre distance: 177
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1046202
+Handicap accessibility: True
+Tourism rate: 464972
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1020
+Age: 384
 Ancient: None
-Surface: 5210.82
-Height: 5.53
+Surface: 1001.93
+Height: 6.55
 Impressive: None
-Price: 0
+Price: 10
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2265,27 +2236,56 @@ tourismPriority: None
 Place id: ChIJ_-4QBEZgLxMRJTdhvXwscbM
 Name: Galleria Spada
 Address: Piazza Capo di Ferro, 13, Roma
-Type: Fountain
-Properties: ['Modern art']
+Type: Place of warship
+Properties: ['Historical']
 Latitude: 41.89420339999999
 Longitude: 12.4719221
 Rating: 4.5
 HighlyRated: None
-Rating count: 1995
+Rating count: 2005
 Popular: None
 HighlyRecommended: None
 Centre distance: 690
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 551033
+Handicap accessibility: True
+Tourism rate: 1174862
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 520
+Age: 644
 Ancient: None
-Surface: 3345.03
-Height: 3.13
+Surface: 2692.05
+Height: 9.28
 Impressive: None
-Price: 6
+Price: 9
+Cheap: None
+Density: None
+timeToVisit: None
+tourismPriority: None
+
+Place id: ChIJLQGCLlBgLxMRuYQp8kv6syI
+Name: Church of St. Louis of the French
+Address: Piazza di San Luigi de  Francesi, Roma
+Type: Castle
+Properties: ['Educational', 'Historical']
+Latitude: 41.8996366
+Longitude: 12.4748126
+Rating: 4.8
+HighlyRated: None
+Rating count: 5951
+Popular: None
+HighlyRecommended: None
+Centre distance: 120
+CloseToCityCentre: None
+Handicap accessibility: True
+Tourism rate: 961109
+TurismRateOutOfTen: None
+TopTourismAttraction: None
+Age: 766
+Ancient: None
+Surface: 4228.69
+Height: 2.21
+Impressive: None
+Price: 8
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2294,27 +2294,27 @@ tourismPriority: None
 Place id: ChIJdQnXoVxgLxMRCQK0txZGq6g
 Name: St. Angelo Bridge
 Address: Ponte Sant Angelo, Roma
-Type: Castle
+Type: Square
 Properties: ['Entertainment', 'Modern art']
-Latitude: 41.901788
-Longitude: 12.4664617
+Latitude: 41.901901
+Longitude: 12.4664498
 Rating: 4.7
 HighlyRated: None
-Rating count: 18043
+Rating count: 18145
 Popular: None
 HighlyRecommended: None
-Centre distance: 850
+Centre distance: 855
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 771771
+Tourism rate: 1239461
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1502
+Age: 1748
 Ancient: None
-Surface: 1270.46
-Height: 12.52
+Surface: 2945.28
+Height: 13.72
 Impressive: None
-Price: 6
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2323,27 +2323,27 @@ tourismPriority: None
 Place id: ChIJr_HOwkVgLxMR4mpuNdNYM-k
 Name: Palazzo Farnese
 Address: Piazza Farnese, 67, Roma
-Type: Museum
-Properties: ['Entertainment', 'Modern art']
+Type: Monument
+Properties: ['Educational']
 Latitude: 41.8947597
 Longitude: 12.4707851
 Rating: 4.6
 HighlyRated: None
-Rating count: 1296
+Rating count: 1300
 Popular: None
 HighlyRecommended: None
 Centre distance: 696
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 957910
+Handicap accessibility: True
+Tourism rate: 1298776
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 759
+Age: 1576
 Ancient: None
-Surface: 2903.04
-Height: 0.64
+Surface: 2282.15
+Height: 1.72
 Impressive: None
-Price: 5
+Price: 8
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2352,27 +2352,27 @@ tourismPriority: None
 Place id: ChIJ88WtV0VgLxMRUbkqM8OUa4k
 Name: Sant Agnese in Agone
 Address: Via di Santa Maria dell Anima, 30/A, Roma
-Type: Monument
-Properties: ['Entertainment']
+Type: Park
+Properties: ['Entertainment', 'Modern art', 'Historical']
 Latitude: 41.8988438
 Longitude: 12.4725517
 Rating: 4.7
 HighlyRated: None
-Rating count: 1429
+Rating count: 1439
 Popular: None
 HighlyRecommended: None
 Centre distance: 315
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 985074
+Tourism rate: 1430449
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1442
+Age: 1682
 Ancient: None
-Surface: 4564.39
-Height: 6.65
+Surface: 5053.79
+Height: 6.23
 Impressive: None
-Price: 10
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2381,27 +2381,27 @@ tourismPriority: None
 Place id: ChIJa-FrY0BgLxMRDN1UR07SMIE
 Name: Botanical Garden of Rome
 Address: Largo Cristina di Svezia, 23 A - 24, Roma
-Type: Square
-Properties: ['Historical']
+Type: Monument
+Properties: ['Educational', 'Historical']
 Latitude: 41.8923247
 Longitude: 12.4628307
 Rating: 4.5
 HighlyRated: None
-Rating count: 8251
+Rating count: 8331
 Popular: None
 HighlyRecommended: None
 Centre distance: 1370
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 948792
+Handicap accessibility: False
+Tourism rate: 1177104
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1852
+Age: 1617
 Ancient: None
-Surface: 6409.96
-Height: 15.7
+Surface: 2518.4
+Height: 8.96
 Impressive: None
-Price: 0
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2410,25 +2410,25 @@ tourismPriority: None
 Place id: ChIJVwUlsVpgLxMRPaJOt8e6icE
 Name: Chiesa di Santa Maria della Pace
 Address: Arco della Pace, 5, Roma
-Type: Fountain
-Properties: ['Historical', 'Educational']
+Type: Square
+Properties: ['Entertainment', 'Educational']
 Latitude: 41.8998551
 Longitude: 12.471651
 Rating: 4.7
 HighlyRated: None
-Rating count: 1024
+Rating count: 1027
 Popular: None
 HighlyRecommended: None
 Centre distance: 383
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 664638
+Handicap accessibility: False
+Tourism rate: 1305137
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 671
+Age: 1932
 Ancient: None
-Surface: 3761.72
-Height: 3.0
+Surface: 3276.92
+Height: 2.02
 Impressive: None
 Price: 0
 Cheap: None
@@ -2439,27 +2439,27 @@ tourismPriority: None
 Place id: ChIJq37VjU9gLxMRiGir-sI8YSw
 Name: Obelisco Agonale
 Address: Fontana dei Quattro Fiumi, Piazza Navona, 90, Roma
-Type: Fountain
-Properties: ['Modern art', 'Historical']
+Type: Viewpoint
+Properties: ['Modern art']
 Latitude: 41.89900549999999
 Longitude: 12.4730887
 Rating: 4.8
 HighlyRated: None
-Rating count: 239
+Rating count: 240
 Popular: None
 HighlyRecommended: None
 Centre distance: 268
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 349249
+Handicap accessibility: True
+Tourism rate: 799337
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 859
+Age: 901
 Ancient: None
-Surface: 1525.68
-Height: 14.86
+Surface: 6794.38
+Height: 8.41
 Impressive: None
-Price: 6
+Price: 5
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2468,25 +2468,25 @@ tourismPriority: None
 Place id: ChIJs_RYejhgLxMRIkBM8PNSZzY
 Name: Basilica of Santa Maria in Trastevere
 Address: Piazza di Santa Maria in Trastevere, Roma
-Type: Bridge
+Type: Castle
 Properties: ['Modern art', 'Historical']
 Latitude: 41.8894657
 Longitude: 12.4696635
 Rating: 4.7
 HighlyRated: None
-Rating count: 15843
+Rating count: 15916
 Popular: None
 HighlyRecommended: None
 Centre distance: 1242
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1283573
+Tourism rate: 440523
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1101
+Age: 1829
 Ancient: None
-Surface: 5606.48
-Height: 9.3
+Surface: 6711.64
+Height: 11.25
 Impressive: None
 Price: 0
 Cheap: None
@@ -2497,7 +2497,7 @@ tourismPriority: None
 Place id: ChIJsQN-cUJgLxMRs_cgmyCWY7g
 Name: Church of St Onuphrius at the Janiculum
 Address: Piazza di Sant Onofrio, 2, Roma
-Type: Place of warship
+Type: Bridge
 Properties: ['Entertainment']
 Latitude: 41.8974535
 Longitude: 12.4611617
@@ -2509,15 +2509,15 @@ HighlyRecommended: None
 Centre distance: 1272
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 385323
+Tourism rate: 1038776
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1131
+Age: 1955
 Ancient: None
-Surface: 1888.72
-Height: 8.57
+Surface: 2718.9
+Height: 11.4
 Impressive: None
-Price: 0
+Price: 8
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2526,8 +2526,8 @@ tourismPriority: None
 Place id: ChIJk5PiQ1BgLxMR0E0jB7DanBI
 Name: Biblioteca Angelica
 Address: Piazza di S. Agostino, 8, Roma
-Type: Monument
-Properties: ['Modern art', 'Historical']
+Type: Fountain
+Properties: ['Entertainment', 'Modern art', 'Historical']
 Latitude: 41.9008002
 Longitude: 12.4744636
 Rating: 4.6
@@ -2538,15 +2538,15 @@ HighlyRecommended: None
 Centre distance: 205
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 786097
+Tourism rate: 915934
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1920
+Age: 343
 Ancient: None
-Surface: 2664.19
-Height: 5.98
+Surface: 633.16
+Height: 4.58
 Impressive: None
-Price: 12
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2556,26 +2556,26 @@ Place id: ChIJfc8DqVVgLxMRxPIIp3z8CBg
 Name: Campo de  Fiori
 Address: Campo de  Fiori, Roma
 Type: Bridge
-Properties: ['Entertainment', 'Historical', 'Educational']
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.8957466
 Longitude: 12.4718497
 Rating: 4.4
 HighlyRated: None
-Rating count: 53683
+Rating count: 53943
 Popular: None
 HighlyRecommended: None
 Centre distance: 555
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1307780
+Tourism rate: 852412
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 291
+Age: 1815
 Ancient: None
-Surface: 4186.92
-Height: 16.69
+Surface: 1554.02
+Height: 17.72
 Impressive: None
-Price: 7
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2585,26 +2585,26 @@ Place id: ChIJPRydwYNgLxMRSjOCLlYkV6M
 Name: Piazza Navona
 Address: Piazza Navona, Roma
 Type: Park
-Properties: ['Historical']
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.8991633
 Longitude: 12.4730742
 Rating: 4.7
 HighlyRated: None
-Rating count: 166407
+Rating count: 167260
 Popular: None
 HighlyRecommended: None
 Centre distance: 266
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1378274
+Tourism rate: 664166
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1151
+Age: 1385
 Ancient: None
-Surface: 2364.91
-Height: 19.37
+Surface: 6228.14
+Height: 10.89
 Impressive: None
-Price: 0
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2613,27 +2613,27 @@ tourismPriority: None
 Place id: ChIJtRMhPFpgLxMR7CRDfS2pipI
 Name: Corte Suprema di Cassazione
 Address: Piazza Cavour, Roma
-Type: Viewpoint
-Properties: ['Historical']
+Type: Square
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.9047619
 Longitude: 12.4700938
 Rating: 4.7
 HighlyRated: None
-Rating count: 951
+Rating count: 950
 Popular: None
 HighlyRecommended: None
 Centre distance: 775
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 918410
+Handicap accessibility: False
+Tourism rate: 1415129
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1229
+Age: 287
 Ancient: None
-Surface: 4584.75
-Height: 15.92
+Surface: 821.75
+Height: 8.79
 Impressive: None
-Price: 12
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2642,54 +2642,54 @@ tourismPriority: None
 Place id: ChIJbedagU9gLxMRdw-SiQm53EM
 Name: Museo di Roma - Palazzo Braschi
 Address: Piazza di San Pantaleo, 10, Piazza Navona, 2, Roma
-Type: Museum
+Type: Monument
 Properties: ['Entertainment']
 Latitude: 41.897551
 Longitude: 12.4727241
 Rating: 4.5
 HighlyRated: None
-Rating count: 4363
+Rating count: 4365
 Popular: None
 HighlyRecommended: None
 Centre distance: 364
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 546847
+Tourism rate: 1267662
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 510
+Age: 1769
 Ancient: None
-Surface: 3459.14
-Height: 6.49
+Surface: 4607.23
+Height: 9.62
 Impressive: None
-Price: 7
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
 tourismPriority: None
 
 Place id: ChIJkVJg0ERgLxMRGNnUp2rG6CI
-Name: Parrocchia Santa Maria in Vallicella
+Name: Church of Santa Maria in Vallicella
 Address: Via del Governo Vecchio, 134, Roma
-Type: Viewpoint
-Properties: ['Entertainment', 'Modern art']
-Latitude: 41.8984826
-Longitude: 12.46916
+Type: Park
+Properties: ['Entertainment', 'Educational']
+Latitude: 41.8982461
+Longitude: 12.469125
 Rating: 4.7
 HighlyRated: None
-Rating count: 1841
+Rating count: 1849
 Popular: None
 HighlyRecommended: None
-Centre distance: 599
+Centre distance: 607
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1495735
+Tourism rate: 230847
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 978
+Age: 810
 Ancient: None
-Surface: 4938.09
-Height: 4.69
+Surface: 4856.06
+Height: 10.54
 Impressive: None
 Price: 0
 Cheap: None
@@ -2698,29 +2698,29 @@ timeToVisit: None
 tourismPriority: None
 
 Place id: ChIJ75A8Mz9gLxMRe-4AGT3T_tA
-Name: Chiesa di San Pietro in Montorio
+Name: Church of San Pietro in Montorio
 Address: Piazza di San Pietro in Montorio, 3, Roma
-Type: Square
-Properties: ['Modern art', 'Historical', 'Educational']
+Type: Bridge
+Properties: ['Entertainment', 'Modern art', 'Historical']
 Latitude: 41.888744
 Longitude: 12.4664056
 Rating: 4.7
 HighlyRated: None
-Rating count: 1651
+Rating count: 1664
 Popular: None
 HighlyRecommended: None
 Centre distance: 1448
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1005498
+Tourism rate: 452326
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1208
+Age: 277
 Ancient: None
-Surface: 4563.57
-Height: 13.63
+Surface: 6156.24
+Height: 1.89
 Impressive: None
-Price: 10
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2729,8 +2729,8 @@ tourismPriority: None
 Place id: ChIJubv_FkRgLxMRvCMehfHmABc
 Name: Saint Eligio of Orefici
 Address: Via di Sant Eligio, 9, Roma
-Type: Museum
-Properties: ['Entertainment']
+Type: Place of warship
+Properties: ['Educational', 'Historical']
 Latitude: 41.8957023
 Longitude: 12.467916
 Rating: 4.5
@@ -2741,15 +2741,15 @@ HighlyRecommended: None
 Centre distance: 810
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 382792
+Tourism rate: 1099395
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 388
+Age: 1345
 Ancient: None
-Surface: 3494.51
-Height: 4.98
+Surface: 1522.09
+Height: 6.59
 Impressive: None
-Price: 0
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2758,8 +2758,8 @@ tourismPriority: None
 Place id: ChIJ8VdjGF1gLxMRXRd3ED2rD3I
 Name: Palazzo del Commendatore
 Address: Borgo Santo Spirito, 3, Roma
-Type: Fountain
-Properties: ['Entertainment', 'Historical']
+Type: Castle
+Properties: ['Educational', 'Modern art', 'Historical']
 Latitude: 41.90131359999999
 Longitude: 12.4622736
 Rating: 4.5
@@ -2769,14 +2769,14 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 1176
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1333548
+Handicap accessibility: True
+Tourism rate: 742918
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1150
+Age: 1477
 Ancient: None
-Surface: 779.52
-Height: 11.4
+Surface: 3253.01
+Height: 0.89
 Impressive: None
 Price: 0
 Cheap: None
@@ -2787,8 +2787,8 @@ tourismPriority: None
 Place id: ChIJo2jArUJgLxMR78rLtdu4xhc
 Name: Porta Santo Spirito
 Address: Rampa del Sangallo, Roma
-Type: Park
-Properties: ['Entertainment', 'Modern art']
+Type: Square
+Properties: ['Educational', 'Historical']
 Latitude: 41.900358
 Longitude: 12.4616346
 Rating: 4.3
@@ -2798,16 +2798,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 1216
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1374470
+Handicap accessibility: True
+Tourism rate: 1137342
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 683
+Age: 1278
 Ancient: None
-Surface: 524.0
-Height: 14.74
+Surface: 3156.55
+Height: 4.33
 Impressive: None
-Price: 8
+Price: 11
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2816,8 +2816,8 @@ tourismPriority: None
 Place id: ChIJkTHCOmZgLxMRSV23skC64Ws
 Name: Bernini Fountain
 Address: Piazza San Pietro
-Type: Castle
-Properties: ['Entertainment', 'Modern art', 'Historical']
+Type: Viewpoint
+Properties: ['Educational', 'Modern art', 'Historical']
 Latitude: 41.901708
 Longitude: 12.4572773
 Rating: 4.7
@@ -2828,15 +2828,15 @@ HighlyRecommended: None
 Centre distance: 1593
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1264228
+Tourism rate: 1160010
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 969
+Age: 1292
 Ancient: None
-Surface: 2928.73
-Height: 6.65
+Surface: 4776.48
+Height: 3.54
 Impressive: None
-Price: 0
+Price: 7
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2845,7 +2845,7 @@ tourismPriority: None
 Place id: ChIJ8WwVM29gLxMRz_tC56BF2xI
 Name: Presepe dei Netturbini
 Address: Italia, Via dei Cavalleggeri, 5, Roma
-Type: Museum
+Type: Park
 Properties: ['Historical']
 Latitude: 41.8997821
 Longitude: 12.4553432
@@ -2856,16 +2856,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 1735
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1195989
+Handicap accessibility: True
+Tourism rate: 1223865
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1986
+Age: 1030
 Ancient: None
-Surface: 2612.43
-Height: 16.9
+Surface: 7534.17
+Height: 11.55
 Impressive: None
-Price: 7
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2874,27 +2874,27 @@ tourismPriority: None
 Place id: ChIJwd_O2mdgLxMRHBXg6eMJ3bw
 Name: Church of Saints Michael and Magnus
 Address: Borgo Santo Spirito, 21/41, Roma
-Type: Bridge
-Properties: ['Historical', 'Educational']
+Type: Viewpoint
+Properties: ['Modern art']
 Latitude: 41.90134679999999
 Longitude: 12.4610238
 Rating: 4.4
 HighlyRated: None
-Rating count: 113
+Rating count: 114
 Popular: None
 HighlyRecommended: None
 Centre distance: 1279
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 756113
+Tourism rate: 481056
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1132
+Age: 980
 Ancient: None
-Surface: 6521.85
-Height: 12.53
+Surface: 1832.26
+Height: 7.71
 Impressive: None
-Price: 9
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2903,25 +2903,25 @@ tourismPriority: None
 Place id: ChIJZRHMZV1gLxMR6BtzBP3JiUk
 Name: Museum Leonardo Da Vinci Experience
 Address: Via della Conciliazione, 19, Roma
-Type: Castle
-Properties: ['Entertainment', 'Modern art', 'Historical']
+Type: Square
+Properties: ['Educational', 'Modern art']
 Latitude: 41.90212519999999
 Longitude: 12.4615714
 Rating: 4.4
 HighlyRated: None
-Rating count: 2885
+Rating count: 2910
 Popular: None
 HighlyRecommended: None
 Centre distance: 1252
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 257450
+Handicap accessibility: True
+Tourism rate: 674976
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1143
+Age: 1347
 Ancient: None
-Surface: 2320.41
-Height: 18.54
+Surface: 1447.17
+Height: 15.3
 Impressive: None
 Price: 0
 Cheap: None
@@ -2932,27 +2932,27 @@ tourismPriority: None
 Place id: ChIJ--YjlmVgLxMRunceWcJboGA
 Name: Vatican Necropolis
 Address: Piazza San Pietro
-Type: Monument
-Properties: ['Historical', 'Educational']
+Type: Square
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.90176049999999
 Longitude: 12.4541077
 Rating: 4.7
 HighlyRated: None
-Rating count: 659
+Rating count: 662
 Popular: None
 HighlyRecommended: None
 Centre distance: 1854
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 538954
+Handicap accessibility: False
+Tourism rate: 1395795
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1518
+Age: 1563
 Ancient: None
-Surface: 3367.42
-Height: 19.49
+Surface: 1860.93
+Height: 14.58
 Impressive: None
-Price: 0
+Price: 11
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2961,27 +2961,27 @@ tourismPriority: None
 Place id: ChIJVWdmB7yFJRMREeAYUl4bGwg
 Name: Apostolic Palace
 Address: 
-Type: Viewpoint
-Properties: ['Modern art', 'Educational']
+Type: Bridge
+Properties: ['Educational', 'Modern art']
 Latitude: 41.9035185
 Longitude: 12.4561336
 Rating: 4.7
 HighlyRated: None
-Rating count: 714
+Rating count: 719
 Popular: None
 HighlyRecommended: None
 Centre distance: 1727
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 835860
+Handicap accessibility: True
+Tourism rate: 838217
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1250
+Age: 1141
 Ancient: None
-Surface: 1171.65
-Height: 8.4
+Surface: 5257.65
+Height: 13.54
 Impressive: None
-Price: 12
+Price: 11
 Cheap: None
 Density: None
 timeToVisit: None
@@ -2990,27 +2990,27 @@ tourismPriority: None
 Place id: ChIJbcKVdkVgLxMRs6zkiUTdePk
 Name: Ponte Vittorio Emanuele II
 Address: Lungotevere dei Fiorentini, Roma
-Type: Square
-Properties: ['Historical', 'Educational']
+Type: Museum
+Properties: ['Educational', 'Modern art']
 Latitude: 41.9011631
 Longitude: 12.4643232
 Rating: 4.7
 HighlyRated: None
-Rating count: 2050
+Rating count: 2064
 Popular: None
 HighlyRecommended: None
 Centre distance: 1006
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1334377
+Tourism rate: 290861
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1086
+Age: 431
 Ancient: None
-Surface: 6488.98
-Height: 5.53
+Surface: 6178.61
+Height: 13.51
 Impressive: None
-Price: 0
+Price: 5
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3019,27 +3019,27 @@ tourismPriority: None
 Place id: ChIJWwgj5WZgLxMR-0sdvDJvXAc
 Name: Chiesa di Sant Anna dei Palafrenieri
 Address: Via Sant Anna, Citta del Vaticano
-Type: Castle
-Properties: ['Entertainment']
+Type: Square
+Properties: ['Educational']
 Latitude: 41.9040674
 Longitude: 12.4574884
 Rating: 4.6
 HighlyRated: None
-Rating count: 1282
+Rating count: 1286
 Popular: None
 HighlyRecommended: None
 Centre distance: 1636
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 396071
+Handicap accessibility: True
+Tourism rate: 1162826
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 272
+Age: 267
 Ancient: None
-Surface: 7208.73
-Height: 17.41
+Surface: 6818.02
+Height: 14.32
 Impressive: None
-Price: 0
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3048,8 +3048,8 @@ tourismPriority: None
 Place id: ChIJddshSUNgLxMRDo-75IgOsso
 Name: Operativa Arte Contemporanea
 Address: Via del Consolato, 10, Roma
-Type: Square
-Properties: ['Educational']
+Type: Place of warship
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.8996898
 Longitude: 12.4659027
 Rating: 4.1
@@ -3059,16 +3059,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 858
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 683056
+Handicap accessibility: False
+Tourism rate: 661090
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1374
+Age: 1036
 Ancient: None
-Surface: 415.61
-Height: 3.46
+Surface: 6211.7
+Height: 18.99
 Impressive: None
-Price: 0
+Price: 7
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3077,8 +3077,8 @@ tourismPriority: None
 Place id: ChIJ3_05fENgLxMRbFQWaV-k50g
 Name: Santa Maria del Suffragio
 Address: Via Giulia, 59 A, Roma
-Type: Monument
-Properties: ['Educational']
+Type: Fountain
+Properties: ['Educational', 'Historical']
 Latitude: 41.8978694
 Longitude: 12.4663844
 Rating: 4.6
@@ -3089,15 +3089,15 @@ HighlyRecommended: None
 Centre distance: 838
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 302146
+Tourism rate: 364750
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1304
+Age: 775
 Ancient: None
-Surface: 984.91
-Height: 10.07
+Surface: 1604.3
+Height: 11.29
 Impressive: None
-Price: 11
+Price: 7
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3106,8 +3106,8 @@ tourismPriority: None
 Place id: ChIJ4WgfImRgLxMRz8huI-_5GuU
 Name: Vatican Apostolic Archive
 Address: Cortile del Belvedere
-Type: Park
-Properties: ['Modern art']
+Type: Square
+Properties: ['Historical']
 Latitude: 41.9048842
 Longitude: 12.4548805
 Rating: 4.5
@@ -3117,14 +3117,14 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 1870
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 246775
+Handicap accessibility: True
+Tourism rate: 452275
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1418
+Age: 1140
 Ancient: None
-Surface: 3283.47
-Height: 16.2
+Surface: 1005.26
+Height: 19.01
 Impressive: None
 Price: 0
 Cheap: None
@@ -3135,8 +3135,8 @@ tourismPriority: None
 Place id: ChIJPddZamRgLxMRO_hKl4xnJRI
 Name: Carriage Pavilion
 Address: WF43+4C5, Viale Centro del Bosco, Citta del Vaticano
-Type: Castle
-Properties: ['Modern art']
+Type: Bridge
+Properties: ['Entertainment', 'Educational', 'Modern art']
 Latitude: 41.90526819999999
 Longitude: 12.4535954
 Rating: 4.6
@@ -3146,16 +3146,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 1985
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1439569
+Handicap accessibility: True
+Tourism rate: 868832
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1782
+Age: 1821
 Ancient: None
-Surface: 3041.81
-Height: 6.81
+Surface: 5080.09
+Height: 13.84
 Impressive: None
-Price: 5
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3164,8 +3164,8 @@ tourismPriority: None
 Place id: ChIJdee-GGVgLxMRxZLt-kK03Gg
 Name: Monastero Mater Ecclesi
 Address: 
-Type: Monument
-Properties: ['Historical', 'Educational']
+Type: Fountain
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.90377240000001
 Longitude: 12.4509576
 Rating: 4.4
@@ -3176,15 +3176,15 @@ HighlyRecommended: None
 Centre distance: 2151
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 895430
+Tourism rate: 845540
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1639
+Age: 1313
 Ancient: None
-Surface: 1170.68
-Height: 14.51
+Surface: 2542.07
+Height: 5.64
 Impressive: None
-Price: 0
+Price: 11
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3193,8 +3193,8 @@ tourismPriority: None
 Place id: ChIJQ4m17kRgLxMRnesGKNbQMog
 Name: Oratorio dei Filippini (Oratory of St Philip Neri)
 Address: Via della Chiesa Nuova, Roma
-Type: Park
-Properties: ['Educational']
+Type: Viewpoint
+Properties: ['Historical']
 Latitude: 41.8989184
 Longitude: 12.4685703
 Rating: 4.7
@@ -3205,15 +3205,15 @@ HighlyRecommended: None
 Centre distance: 640
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 387542
+Tourism rate: 289331
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1576
+Age: 1665
 Ancient: None
-Surface: 4017.86
-Height: 16.25
+Surface: 409.41
+Height: 11.7
 Impressive: None
-Price: 12
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3221,26 +3221,26 @@ tourismPriority: None
 
 Place id: ChIJPVqefmNgLxMRPmjlDfRHgiM
 Name: House of Hospitality Paul VI
-Address: Viale Vaticano, 94, Roma
-Type: Castle
-Properties: ['Entertainment']
+Address: Viale Vaticano, 92, Roma
+Type: Fountain
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.9067382
 Longitude: 12.4521724
 Rating: 4.8
 HighlyRated: None
-Rating count: 114
+Rating count: 115
 Popular: None
 HighlyRecommended: None
 Centre distance: 2153
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1297007
+Handicap accessibility: False
+Tourism rate: 248489
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1157
+Age: 1502
 Ancient: None
-Surface: 1520.2
-Height: 2.85
+Surface: 5876.93
+Height: 13.88
 Impressive: None
 Price: 0
 Cheap: None
@@ -3251,27 +3251,27 @@ tourismPriority: None
 Place id: ChIJU3PZU2BgLxMRC9r6TejtTb0
 Name: Chiesa di Santa Maria del Rosario in Prati
 Address: Via degli Scipioni, 88, Roma
-Type: Place of warship
+Type: Fountain
 Properties: ['Modern art']
 Latitude: 41.9085548
 Longitude: 12.4584703
 Rating: 4.7
 HighlyRated: None
-Rating count: 218
+Rating count: 220
 Popular: None
 HighlyRecommended: None
 Centre distance: 1784
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 645427
+Handicap accessibility: False
+Tourism rate: 824115
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 334
+Age: 1668
 Ancient: None
-Surface: 5995.78
-Height: 10.79
+Surface: 1444.75
+Height: 8.29
 Impressive: None
-Price: 0
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3280,27 +3280,27 @@ tourismPriority: None
 Place id: ChIJv8KZdEVgLxMR6gjh6Oagua0
 Name: Welcome To Rome
 Address: Corso Vittorio Emanuele II, 203, Roma
-Type: Place of warship
-Properties: ['Modern art', 'Historical']
+Type: Museum
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.8973551
 Longitude: 12.4710878
 Rating: 4.8
 HighlyRated: None
-Rating count: 1112
+Rating count: 1132
 Popular: None
 HighlyRecommended: None
 Centre distance: 490
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1486636
+Tourism rate: 250772
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 219
+Age: 718
 Ancient: None
-Surface: 5087.32
-Height: 16.02
+Surface: 7011.1
+Height: 14.35
 Impressive: None
-Price: 0
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3309,27 +3309,27 @@ tourismPriority: None
 Place id: ChIJYzIaClBgLxMRZtXO0N4-qH8
 Name: Stadium of Domitian
 Address: Via di Tor Sanguigna, 3, Roma
-Type: Bridge
-Properties: ['Entertainment']
+Type: Viewpoint
+Properties: ['Entertainment', 'Modern art', 'Historical']
 Latitude: 41.9002133
 Longitude: 12.4725301
 Rating: 4.4
 HighlyRated: None
-Rating count: 1442
+Rating count: 1451
 Popular: None
 HighlyRecommended: None
 Centre distance: 318
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 539125
+Tourism rate: 1110379
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1446
+Age: 1087
 Ancient: None
-Surface: 4323.66
-Height: 19.01
+Surface: 1705.29
+Height: 7.35
 Impressive: None
-Price: 9
+Price: 7
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3338,8 +3338,8 @@ tourismPriority: None
 Place id: ChIJ2Zuj9E9gLxMRHbQj4Eg9pqk
 Name: Palazzo Pamphili
 Address: Piazza Navona, 14, Roma
-Type: Monument
-Properties: ['Modern art', 'Educational']
+Type: Place of warship
+Properties: ['Modern art']
 Latitude: 41.8979453
 Longitude: 12.472829
 Rating: 4.4
@@ -3349,14 +3349,14 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 333
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 289911
+Handicap accessibility: True
+Tourism rate: 756889
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1531
+Age: 1048
 Ancient: None
-Surface: 5752.28
-Height: 5.2
+Surface: 4796.22
+Height: 17.36
 Impressive: None
 Price: 0
 Cheap: None
@@ -3367,27 +3367,27 @@ tourismPriority: None
 Place id: ChIJ406h8k9gLxMRlqpd69nZNak
 Name: Fountain of the Moro
 Address: Piazza Navona, Roma
-Type: Fountain
-Properties: ['Entertainment', 'Educational']
+Type: Viewpoint
+Properties: ['Educational', 'Historical']
 Latitude: 41.8981206
 Longitude: 12.4731517
 Rating: 4.7
 HighlyRated: None
-Rating count: 798
+Rating count: 806
 Popular: None
 HighlyRecommended: None
 Centre distance: 300
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 358143
+Handicap accessibility: False
+Tourism rate: 1352775
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 324
+Age: 325
 Ancient: None
-Surface: 5608.49
-Height: 19.32
+Surface: 5296.23
+Height: 18.47
 Impressive: None
-Price: 8
+Price: 11
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3396,27 +3396,27 @@ tourismPriority: None
 Place id: ChIJhxYLHPlgLxMRL5UeXkfISFI
 Name: Cappella Chigi
 Address: Piazza del Popolo, 12, Roma
-Type: Monument
-Properties: ['Historical']
+Type: Museum
+Properties: ['Educational', 'Modern art', 'Historical']
 Latitude: 41.9114511
 Longitude: 12.4764951
 Rating: 4.7
 HighlyRated: None
-Rating count: 121
+Rating count: 123
 Popular: None
 HighlyRecommended: None
 Centre distance: 1326
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 508255
+Tourism rate: 1428332
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 699
+Age: 1539
 Ancient: None
-Surface: 6636.94
-Height: 2.73
+Surface: 3145.97
+Height: 1.36
 Impressive: None
-Price: 8
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3425,27 +3425,27 @@ tourismPriority: None
 Place id: ChIJWVoZSU1gLxMR15cWr5vaDQQ
 Name: Chiesa di Gesu e Maria
 Address: Via del Corso, 45, Roma
-Type: Museum
-Properties: ['Modern art', 'Historical', 'Educational']
+Type: Bridge
+Properties: ['Educational', 'Modern art']
 Latitude: 41.9079898
 Longitude: 12.4776497
 Rating: 4.8
 HighlyRated: None
-Rating count: 289
+Rating count: 291
 Popular: None
 HighlyRecommended: None
 Centre distance: 948
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 502320
+Handicap accessibility: True
+Tourism rate: 398484
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1530
+Age: 746
 Ancient: None
-Surface: 4332.31
-Height: 5.55
+Surface: 4531.44
+Height: 3.65
 Impressive: None
-Price: 0
+Price: 10
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3455,24 +3455,24 @@ Place id: ChIJj1M8HQJhLxMRRI6D_z18Pes
 Name: Villa Borghese
 Address: Rome
 Type: Place of warship
-Properties: ['Educational']
+Properties: ['Educational', 'Historical']
 Latitude: 41.9128873
 Longitude: 12.4852085
 Rating: 4.6
 HighlyRated: None
-Rating count: 72818
+Rating count: 73182
 Popular: None
 HighlyRecommended: None
 Centre distance: 1661
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 748989
+Handicap accessibility: True
+Tourism rate: 1140418
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1046
+Age: 1287
 Ancient: None
-Surface: 1127.3
-Height: 11.6
+Surface: 7851.06
+Height: 8.32
 Impressive: None
 Price: 0
 Cheap: None
@@ -3483,27 +3483,27 @@ tourismPriority: None
 Place id: ChIJafvZGP9gLxMRrpLcHHjYE48
 Name: Passeggiata del Pincio
 Address: Viale Gabriele D Annunzio, Roma
-Type: Castle
-Properties: ['Modern art', 'Historical']
+Type: Square
+Properties: ['Entertainment']
 Latitude: 41.9109886
 Longitude: 12.4809335
 Rating: 4.7
 HighlyRated: None
-Rating count: 11341
+Rating count: 11366
 Popular: None
 HighlyRecommended: None
 Centre distance: 1332
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 575421
+Handicap accessibility: True
+Tourism rate: 235528
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 844
+Age: 237
 Ancient: None
-Surface: 1909.68
-Height: 0.89
+Surface: 5326.65
+Height: 11.69
 Impressive: None
-Price: 8
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3512,27 +3512,27 @@ tourismPriority: None
 Place id: ChIJq-bXVgRhLxMRv3vgOXaktBs
 Name: Borghese Gallery and Museum
 Address: Piazzale Scipione Borghese, 5, Roma
-Type: Viewpoint
-Properties: ['Entertainment', 'Modern art']
+Type: Monument
+Properties: ['Modern art']
 Latitude: 41.9142103
 Longitude: 12.4921442
 Rating: 4.6
 HighlyRated: None
-Rating count: 19532
+Rating count: 19643
 Popular: None
 HighlyRecommended: None
 Centre distance: 2098
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 641640
+Tourism rate: 433581
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1780
+Age: 1230
 Ancient: None
-Surface: 2461.64
-Height: 14.19
+Surface: 4107.97
+Height: 4.74
 Impressive: None
-Price: 11
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3547,19 +3547,19 @@ Latitude: 41.917042
 Longitude: 12.482169
 Rating: 4.6
 HighlyRated: None
-Rating count: 7556
+Rating count: 7598
 Popular: None
 HighlyRecommended: None
 Centre distance: 2007
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 931610
+Handicap accessibility: True
+Tourism rate: 853120
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 992
+Age: 213
 Ancient: None
-Surface: 2880.53
-Height: 12.39
+Surface: 4281.43
+Height: 10.44
 Impressive: None
 Price: 0
 Cheap: None
@@ -3570,25 +3570,25 @@ tourismPriority: None
 Place id: ChIJ5SqI8VZgLxMRLOfAYh67Fkk
 Name: Mausoleum of Augustus
 Address: Piazza Augusto Imperatore, Roma
-Type: Museum
-Properties: ['Historical', 'Educational']
+Type: Castle
+Properties: ['Historical']
 Latitude: 41.90603110000001
 Longitude: 12.4764264
 Rating: 4.2
 HighlyRated: None
-Rating count: 2336
+Rating count: 2340
 Popular: None
 HighlyRecommended: None
 Centre distance: 724
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1479501
+Handicap accessibility: False
+Tourism rate: 957027
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 466
+Age: 487
 Ancient: None
-Surface: 7621.29
-Height: 15.44
+Surface: 5865.93
+Height: 20.0
 Impressive: None
 Price: 0
 Cheap: None
@@ -3599,27 +3599,27 @@ tourismPriority: None
 Place id: ChIJoWEmG1ZgLxMRUNCJKbdBiBg
 Name: Chiesa Parrocchiale San Giacomo in Augusta
 Address: Via del Corso, 494/b, Roma
-Type: Viewpoint
-Properties: ['Entertainment', 'Historical']
+Type: Bridge
+Properties: ['Historical']
 Latitude: 41.9077652
 Longitude: 12.477427
 Rating: 4.6
 HighlyRated: None
-Rating count: 714
+Rating count: 715
 Popular: None
 HighlyRecommended: None
 Centre distance: 921
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1274694
+Tourism rate: 421717
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1801
+Age: 1444
 Ancient: None
-Surface: 4715.34
-Height: 17.65
+Surface: 4074.06
+Height: 2.21
 Impressive: None
-Price: 7
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3628,27 +3628,27 @@ tourismPriority: None
 Place id: ChIJW6tyLVVgLxMRMcCmwoGsrhs
 Name: Villa Medici
 Address: Viale della Trinita dei Monti, 1, Roma
-Type: Square
-Properties: ['Entertainment', 'Educational']
+Type: Monument
+Properties: ['Educational']
 Latitude: 41.9082914
 Longitude: 12.482623
 Rating: 4.4
 HighlyRated: None
-Rating count: 1722
+Rating count: 1750
 Popular: None
 HighlyRecommended: None
 Centre distance: 1109
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 634942
+Handicap accessibility: True
+Tourism rate: 869665
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 910
+Age: 411
 Ancient: None
-Surface: 5058.95
-Height: 10.84
+Surface: 4282.51
+Height: 17.21
 Impressive: None
-Price: 7
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3657,27 +3657,27 @@ tourismPriority: None
 Place id: ChIJcRtqUVFgLxMRhdJz_bh_KsM
 Name: Basilica of Saint Lawrence in Lucina
 Address: Piazza di San Lorenzo in Lucina, 6, Roma
-Type: Museum
-Properties: ['Entertainment', 'Modern art']
+Type: Square
+Properties: ['Entertainment', 'Educational', 'Modern art']
 Latitude: 41.9033034
 Longitude: 12.4786754
 Rating: 4.6
 HighlyRated: None
-Rating count: 1258
+Rating count: 1259
 Popular: None
 HighlyRecommended: None
 Centre distance: 466
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 208968
+Handicap accessibility: False
+Tourism rate: 540924
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 886
+Age: 651
 Ancient: None
-Surface: 4700.55
-Height: 15.55
+Surface: 1168.34
+Height: 12.7
 Impressive: None
-Price: 11
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3687,24 +3687,24 @@ Place id: ChIJjYC_KFRgLxMRJPS-7D_Qn1o
 Name: Basilica of SS. Ambrose and Charles on the Corso
 Address: Via del Corso, 437, Roma
 Type: Museum
-Properties: ['Educational']
+Properties: ['Modern art']
 Latitude: 41.90530330000001
 Longitude: 12.4784158
 Rating: 4.7
 HighlyRated: None
-Rating count: 1948
+Rating count: 1959
 Popular: None
 HighlyRecommended: None
 Centre distance: 667
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1148092
+Handicap accessibility: True
+Tourism rate: 888528
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1721
+Age: 1386
 Ancient: None
-Surface: 3745.73
-Height: 4.4
+Surface: 1811.71
+Height: 3.79
 Impressive: None
 Price: 0
 Cheap: None
@@ -3715,27 +3715,27 @@ tourismPriority: None
 Place id: ChIJ-2xp4FRgLxMRk4FyKaXB6r0
 Name: Giorgio de Chirico House Museum
 Address: Piazza di Spagna, 31, Roma
-Type: Castle
-Properties: ['Historical']
+Type: Viewpoint
+Properties: ['Entertainment', 'Educational']
 Latitude: 41.9055999
 Longitude: 12.4826236
 Rating: 4.5
 HighlyRated: None
-Rating count: 69
+Rating count: 71
 Popular: None
 HighlyRecommended: None
 Centre distance: 858
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 608660
+Tourism rate: 677237
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 565
+Age: 872
 Ancient: None
-Surface: 3269.12
-Height: 1.24
+Surface: 1182.26
+Height: 10.2
 Impressive: None
-Price: 0
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3744,27 +3744,27 @@ tourismPriority: None
 Place id: ChIJf1IUx_hgLxMRTdcQVSZ4GnM
 Name: Santa Maria in Montesanto
 Address: Piazza del Popolo, 18, Roma
-Type: Bridge
-Properties: ['Educational']
+Type: Fountain
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.91006950000001
 Longitude: 12.4768659
 Rating: 4.6
 HighlyRated: None
-Rating count: 417
+Rating count: 419
 Popular: None
 HighlyRecommended: None
 Centre distance: 1173
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 742623
+Tourism rate: 1450420
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 897
+Age: 1320
 Ancient: None
-Surface: 6232.13
-Height: 8.83
+Surface: 7816.81
+Height: 3.56
 Impressive: None
-Price: 0
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3774,26 +3774,26 @@ Place id: ChIJF7-JHlVgLxMRr2hebZ8dkOo
 Name: Fontana della Barcaccia
 Address: Piazza di Spagna, Roma
 Type: Park
-Properties: ['Entertainment', 'Modern art', 'Historical']
+Properties: ['Educational']
 Latitude: 41.9058025
 Longitude: 12.4822463
 Rating: 4.7
 HighlyRated: None
-Rating count: 1619
+Rating count: 1632
 Popular: None
 HighlyRecommended: None
 Centre distance: 857
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 389183
+Tourism rate: 938002
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1086
+Age: 1301
 Ancient: None
-Surface: 6717.32
-Height: 2.31
+Surface: 5535.48
+Height: 15.22
 Impressive: None
-Price: 0
+Price: 7
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3802,27 +3802,27 @@ tourismPriority: None
 Place id: ChIJJ18rA_lgLxMRsqDkxGa47QA
 Name: Museo Leonardo da Vinci
 Address: Piazza del Popolo, 12, Roma
-Type: Bridge
-Properties: ['Entertainment']
+Type: Park
+Properties: ['Educational']
 Latitude: 41.91128860000001
 Longitude: 12.4763304
 Rating: 3.8
 HighlyRated: None
-Rating count: 896
+Rating count: 899
 Popular: None
 HighlyRecommended: None
 Centre distance: 1307
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 818178
+Tourism rate: 469066
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1791
+Age: 1786
 Ancient: None
-Surface: 5809.92
-Height: 2.12
+Surface: 1630.16
+Height: 11.24
 Impressive: None
-Price: 8
+Price: 10
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3831,27 +3831,27 @@ tourismPriority: None
 Place id: ChIJa4nrN_pgLxMRfgsLR4Ulx04
 Name: Explora - Il Museo dei Bambini di Roma
 Address: Via Flaminia, 82, Roma
-Type: Bridge
-Properties: ['Modern art', 'Historical', 'Educational']
+Type: Castle
+Properties: ['Entertainment']
 Latitude: 41.9150641
 Longitude: 12.4748773
 Rating: 4.4
 HighlyRated: None
-Rating count: 3956
+Rating count: 3972
 Popular: None
 HighlyRecommended: None
 Centre distance: 1730
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1160250
+Tourism rate: 532570
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1505
+Age: 908
 Ancient: None
-Surface: 6529.43
-Height: 8.37
+Surface: 1918.32
+Height: 16.8
 Impressive: None
-Price: 10
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3860,27 +3860,27 @@ tourismPriority: None
 Place id: ChIJwRE-8_5gLxMRjKijNplM_Wg
 Name: Orologio ad acqua del Pincio
 Address: Viale dell Obelisco, a39, Roma
-Type: Fountain
-Properties: ['Educational']
+Type: Park
+Properties: ['Entertainment', 'Educational']
 Latitude: 41.9117731
 Longitude: 12.4807286
 Rating: 4.4
 HighlyRated: None
-Rating count: 1471
+Rating count: 1481
 Popular: None
 HighlyRecommended: None
 Centre distance: 1411
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1406024
+Tourism rate: 279623
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1287
+Age: 1403
 Ancient: None
-Surface: 7085.24
-Height: 10.17
+Surface: 3384.04
+Height: 11.05
 Impressive: None
-Price: 6
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3889,27 +3889,27 @@ tourismPriority: None
 Place id: ChIJs8uyy_BgLxMRVEcpdN_OsF4
 Name: Ponte Giacomo Matteotti
 Address: Ponte Matteotti, Roma
-Type: Viewpoint
-Properties: ['Educational']
+Type: Bridge
+Properties: ['Entertainment', 'Historical']
 Latitude: 41.9143953
 Longitude: 12.4708296
 Rating: 4.3
 HighlyRated: None
-Rating count: 93
+Rating count: 95
 Popular: None
 HighlyRecommended: None
 Centre distance: 1713
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 296100
+Handicap accessibility: False
+Tourism rate: 619784
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1132
+Age: 637
 Ancient: None
-Surface: 4390.9
-Height: 4.34
+Surface: 3506.52
+Height: 15.2
 Impressive: None
-Price: 7
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3918,27 +3918,27 @@ tourismPriority: None
 Place id: ChIJlSkdkeRgLxMREkRxyk8IJEY
 Name: National Etruscan Museum of Villa Giulia
 Address: Piazzale di Villa Giulia 9, Roma
-Type: Viewpoint
+Type: Museum
 Properties: ['Entertainment', 'Historical']
 Latitude: 41.9183601
 Longitude: 12.4777171
 Rating: 4.7
 HighlyRated: None
-Rating count: 2925
+Rating count: 2940
 Popular: None
 HighlyRecommended: None
 Centre distance: 2096
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1228940
+Handicap accessibility: False
+Tourism rate: 911002
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 822
+Age: 855
 Ancient: None
-Surface: 4503.96
-Height: 5.97
+Surface: 3685.85
+Height: 16.58
 Impressive: None
-Price: 0
+Price: 11
 Cheap: None
 Density: None
 timeToVisit: None
@@ -3947,25 +3947,25 @@ tourismPriority: None
 Place id: ChIJE64kjVVgLxMRhGp8xxFtry8
 Name: Fontana del Babuino
 Address: Via del Babuino, Roma
-Type: Square
+Type: Place of warship
 Properties: ['Entertainment', 'Educational']
 Latitude: 41.9077652
 Longitude: 12.4796353
 Rating: 4.6
 HighlyRated: None
-Rating count: 174
+Rating count: 175
 Popular: None
 HighlyRecommended: None
 Centre distance: 958
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 572346
+Handicap accessibility: True
+Tourism rate: 233902
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1887
+Age: 1286
 Ancient: None
-Surface: 803.01
-Height: 0.81
+Surface: 984.09
+Height: 0.32
 Impressive: None
 Price: 0
 Cheap: None
@@ -3976,8 +3976,8 @@ tourismPriority: None
 Place id: ChIJa5vaQFVgLxMRDjZQmbjNaqs
 Name: Fontana del Bottino
 Address: Via di San Sebastianello, Roma
-Type: Castle
-Properties: ['Historical']
+Type: Monument
+Properties: ['Modern art']
 Latitude: 41.9068984
 Longitude: 12.4827996
 Rating: 4.3
@@ -3987,14 +3987,14 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 983
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1144721
+Handicap accessibility: False
+Tourism rate: 862639
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1753
+Age: 647
 Ancient: None
-Surface: 1989.75
-Height: 14.93
+Surface: 5593.91
+Height: 17.27
 Impressive: None
 Price: 5
 Cheap: None
@@ -4005,27 +4005,27 @@ tourismPriority: None
 Place id: ChIJq-rSL1VgLxMR6A0Gq_2J8Kw
 Name: Trinita dei Monti
 Address: Piazza della Trinita dei Monti, 3, Roma
-Type: Park
-Properties: ['Educational']
+Type: Viewpoint
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.9062729
 Longitude: 12.4836642
 Rating: 4.6
 HighlyRated: None
-Rating count: 2054
+Rating count: 2065
 Popular: None
 HighlyRecommended: None
 Centre distance: 970
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1341220
+Handicap accessibility: True
+Tourism rate: 998347
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1991
+Age: 1137
 Ancient: None
-Surface: 5856.54
-Height: 18.49
+Surface: 6295.18
+Height: 4.11
 Impressive: None
-Price: 5
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4034,8 +4034,8 @@ tourismPriority: None
 Place id: ChIJlW__TlFgLxMRM8-8Wox5L7g
 Name: Galleria del Cembalo
 Address: Largo della Fontanella di Borghese, 19, Roma
-Type: Monument
-Properties: ['Educational']
+Type: Park
+Properties: ['Entertainment']
 Latitude: 41.9038055
 Longitude: 12.4767093
 Rating: 4.5
@@ -4045,14 +4045,14 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 478
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 877081
+Handicap accessibility: True
+Tourism rate: 908943
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1224
+Age: 1509
 Ancient: None
-Surface: 5848.62
-Height: 7.42
+Surface: 4450.01
+Height: 5.42
 Impressive: None
 Price: 0
 Cheap: None
@@ -4063,27 +4063,27 @@ tourismPriority: None
 Place id: ChIJw6p5ElNgLxMRQoyUcHl7xfY
 Name: Chiesa di Santa Maria in Via
 Address: Via del Mortaro, 24, Roma
-Type: Castle
-Properties: ['Historical', 'Educational']
+Type: Place of warship
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.9016934
 Longitude: 12.4813998
 Rating: 4.8
 HighlyRated: None
-Rating count: 600
+Rating count: 599
 Popular: None
 HighlyRecommended: None
 Centre distance: 491
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 722791
+Handicap accessibility: False
+Tourism rate: 1029170
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 563
+Age: 1414
 Ancient: None
-Surface: 6858.15
-Height: 3.53
+Surface: 5285.7
+Height: 17.27
 Impressive: None
-Price: 0
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4092,27 +4092,27 @@ tourismPriority: None
 Place id: ChIJDdz5t1RgLxMRPR6rPH626DU
 Name: Palazzo di Propaganda Fide
 Address: Via di Propaganda, 1, Roma
-Type: Park
-Properties: ['Entertainment']
+Type: Fountain
+Properties: ['Educational']
 Latitude: 41.9045098
 Longitude: 12.4831297
 Rating: 4.5
 HighlyRated: None
-Rating count: 55
+Rating count: 56
 Popular: None
 HighlyRecommended: None
 Centre distance: 796
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1137832
+Tourism rate: 406045
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1655
+Age: 1250
 Ancient: None
-Surface: 6731.03
-Height: 14.83
+Surface: 713.65
+Height: 2.79
 Impressive: None
-Price: 0
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4121,27 +4121,27 @@ tourismPriority: None
 Place id: ChIJo50nr1RgLxMRItDIc3krMy8
 Name: Basilica di Sant Andrea delle Fratte
 Address: Via di Sant Andrea delle Fratte, 1, Roma
-Type: Fountain
-Properties: ['Modern art']
+Type: Place of warship
+Properties: ['Educational']
 Latitude: 41.9035637
 Longitude: 12.4836739
 Rating: 4.7
 HighlyRated: None
-Rating count: 3430
+Rating count: 3441
 Popular: None
 HighlyRecommended: None
 Centre distance: 762
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1140549
+Handicap accessibility: True
+Tourism rate: 268839
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 254
+Age: 698
 Ancient: None
-Surface: 904.98
-Height: 9.37
+Surface: 6383.86
+Height: 19.99
 Impressive: None
-Price: 5
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4151,26 +4151,26 @@ Place id: ChIJhxbo5fhgLxMRUEPO_f-f7kM
 Name: Piazza del Popolo
 Address: Piazza del Popolo, Roma
 Type: Park
-Properties: ['Entertainment']
+Properties: ['Entertainment', 'Educational', 'Historical']
 Latitude: 41.9107038
 Longitude: 12.4763579
 Rating: 4.6
 HighlyRated: None
-Rating count: 94481
+Rating count: 94946
 Popular: None
 HighlyRecommended: None
 Centre distance: 1242
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 627547
+Tourism rate: 681211
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1176
+Age: 410
 Ancient: None
-Surface: 2367.31
-Height: 3.15
+Surface: 4798.69
+Height: 6.24
 Impressive: None
-Price: 0
+Price: 5
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4185,21 +4185,21 @@ Latitude: 41.90085359999999
 Longitude: 12.479986
 Rating: 4.6
 HighlyRated: None
-Rating count: 1858
+Rating count: 1864
 Popular: None
 HighlyRecommended: None
 Centre distance: 343
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 748317
+Tourism rate: 830500
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 262
+Age: 1105
 Ancient: None
-Surface: 2826.35
-Height: 1.94
+Surface: 4732.71
+Height: 18.79
 Impressive: None
-Price: 7
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4208,27 +4208,27 @@ tourismPriority: None
 Place id: ChIJtdwDrgBhLxMRI9c93_OGqqI
 Name: Piazza di Siena
 Address: Villa Borghese, Roma
-Type: Park
-Properties: ['Educational']
+Type: Place of warship
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.9135972
 Longitude: 12.4871019
 Rating: 4.7
 HighlyRated: None
-Rating count: 2493
+Rating count: 2559
 Popular: None
 HighlyRecommended: None
 Centre distance: 1804
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1311105
+Tourism rate: 1289183
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 482
+Age: 476
 Ancient: None
-Surface: 2394.97
-Height: 17.06
+Surface: 2301.8
+Height: 19.6
 Impressive: None
-Price: 7
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4237,25 +4237,25 @@ tourismPriority: None
 Place id: ChIJQ81d9lVgLxMRsTIGeOAlfhQ
 Name: All Saints  Anglican Church Rome
 Address: Via del Babuino, 153, Roma
-Type: Bridge
-Properties: ['Modern art']
+Type: Monument
+Properties: ['Historical']
 Latitude: 41.908293
 Longitude: 12.478924
 Rating: 4.5
 HighlyRated: None
-Rating count: 211
+Rating count: 212
 Popular: None
 HighlyRecommended: None
 Centre distance: 1000
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1023266
+Handicap accessibility: True
+Tourism rate: 894401
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 461
+Age: 1744
 Ancient: None
-Surface: 5649.61
-Height: 19.47
+Surface: 1347.87
+Height: 12.2
 Impressive: None
 Price: 0
 Cheap: None
@@ -4266,8 +4266,8 @@ tourismPriority: None
 Place id: ChIJY28H4VZgLxMRM_YQvr2XyTk
 Name: Church of Saint Roch  all Augusteo 
 Address: Largo San Rocco, 1, Roma
-Type: Park
-Properties: ['Entertainment', 'Historical']
+Type: Place of warship
+Properties: ['Educational', 'Modern art', 'Historical']
 Latitude: 41.9055371
 Longitude: 12.4758026
 Rating: 4.6
@@ -4278,15 +4278,15 @@ HighlyRecommended: None
 Centre distance: 670
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1305634
+Tourism rate: 469795
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 493
+Age: 710
 Ancient: None
-Surface: 1185.02
-Height: 9.73
+Surface: 6993.21
+Height: 2.39
 Impressive: None
-Price: 7
+Price: 11
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4295,25 +4295,25 @@ tourismPriority: None
 Place id: ChIJ-b1xI1NgLxMR2pnx1W6KE3M
 Name: Church of Our Lady in Trivio
 Address: Via dei Crociferi, 49, Roma
-Type: Place of warship
-Properties: ['Historical']
+Type: Park
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.9011842
 Longitude: 12.4827185
 Rating: 4.6
 HighlyRated: None
-Rating count: 126
+Rating count: 128
 Popular: None
 HighlyRecommended: None
 Centre distance: 567
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 739626
+Tourism rate: 515108
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1413
+Age: 668
 Ancient: None
-Surface: 2376.64
-Height: 8.54
+Surface: 1126.86
+Height: 9.21
 Impressive: None
 Price: 0
 Cheap: None
@@ -4324,27 +4324,27 @@ tourismPriority: None
 Place id: ChIJj9JKPlJgLxMRm0m6p_5cGBw
 Name: Il Tempio di Adriano
 Address: Piazza di Pietra, Roma
-Type: Park
-Properties: ['Modern art', 'Historical', 'Educational']
+Type: Bridge
+Properties: ['Educational', 'Modern art', 'Historical']
 Latitude: 41.89988940000001
 Longitude: 12.4793957
 Rating: 4.5
 HighlyRated: None
-Rating count: 5153
+Rating count: 5189
 Popular: None
 HighlyRecommended: None
 Centre distance: 264
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 374011
+Tourism rate: 1278819
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 917
+Age: 578
 Ancient: None
-Surface: 823.47
-Height: 8.38
+Surface: 3806.91
+Height: 11.1
 Impressive: None
-Price: 0
+Price: 6
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4353,27 +4353,27 @@ tourismPriority: None
 Place id: ChIJ3dLNixxhLxMRf32Jbrs9KBk
 Name: Museo Civico di Zoologia
 Address: Via Ulisse Aldrovandi, 18, Roma
-Type: Square
-Properties: ['Historical', 'Educational']
+Type: Monument
+Properties: ['Historical']
 Latitude: 41.9192657
 Longitude: 12.4885519
 Rating: 4.2
 HighlyRated: None
-Rating count: 1590
+Rating count: 1601
 Popular: None
 HighlyRecommended: None
 Centre distance: 2419
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1364044
+Tourism rate: 562777
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1841
+Age: 1689
 Ancient: None
-Surface: 5429.75
-Height: 10.51
+Surface: 526.78
+Height: 2.3
 Impressive: None
-Price: 10
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4383,26 +4383,26 @@ Place id: ChIJWb-7VlBgLxMRiW_fYnwl1lc
 Name: Basilica of St. Augustine in Campo Marzio
 Address: Piazza di S. Agostino, Roma
 Type: Square
-Properties: ['Modern art', 'Educational']
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.9008431
 Longitude: 12.4742802
 Rating: 4.7
 HighlyRated: None
-Rating count: 1411
+Rating count: 1420
 Popular: None
 HighlyRecommended: None
 Centre distance: 220
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 874894
+Tourism rate: 607641
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1593
+Age: 1322
 Ancient: None
-Surface: 733.59
-Height: 15.31
+Surface: 6098.96
+Height: 12.4
 Impressive: None
-Price: 5
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4411,27 +4411,27 @@ tourismPriority: None
 Place id: ChIJ7VaTAfpgLxMRwEfk1Ti-F_Y
 Name: Hendrik Christian Anderson Museum
 Address: Via Pasquale Stanislao Mancini, 20, Roma
-Type: Bridge
-Properties: ['Entertainment', 'Educational']
+Type: Castle
+Properties: ['Modern art']
 Latitude: 41.9140853
 Longitude: 12.4726413
 Rating: 4.5
 HighlyRated: None
-Rating count: 518
+Rating count: 522
 Popular: None
 HighlyRecommended: None
 Centre distance: 1645
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1214633
+Handicap accessibility: False
+Tourism rate: 1372732
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1145
+Age: 1280
 Ancient: None
-Surface: 7857.2
-Height: 1.46
+Surface: 6964.8
+Height: 8.24
 Impressive: None
-Price: 0
+Price: 5
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4440,8 +4440,8 @@ tourismPriority: None
 Place id: ChIJ64C7o_hgLxMRUxdxDzuXysI
 Name: Goethe House
 Address: Via del Corso, 18, Roma
-Type: Museum
-Properties: ['Modern art', 'Historical']
+Type: Park
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.909019
 Longitude: 12.477264
 Rating: 4.3
@@ -4451,16 +4451,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 1059
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 818740
+Handicap accessibility: True
+Tourism rate: 511001
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 473
+Age: 1935
 Ancient: None
-Surface: 5046.46
-Height: 14.01
+Surface: 3229.98
+Height: 9.99
 Impressive: None
-Price: 8
+Price: 5
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4469,27 +4469,27 @@ tourismPriority: None
 Place id: ChIJk4g-MeNgLxMR_yICxC5Qpko
 Name: Institute of Japanese Culture
 Address: Via Antonio Gramsci, 74, Roma
-Type: Square
-Properties: ['Entertainment', 'Historical']
+Type: Place of warship
+Properties: ['Educational', 'Historical']
 Latitude: 41.91870699999999
 Longitude: 12.479173
 Rating: 4.4
 HighlyRated: None
-Rating count: 808
+Rating count: 817
 Popular: None
 HighlyRecommended: None
 Centre distance: 2145
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1295186
+Handicap accessibility: False
+Tourism rate: 1467290
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 291
+Age: 1332
 Ancient: None
-Surface: 7018.93
-Height: 17.97
+Surface: 3456.71
+Height: 15.09
 Impressive: None
-Price: 12
+Price: 10
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4498,27 +4498,27 @@ tourismPriority: None
 Place id: ChIJF3BcdeVgLxMRYntd0c1eHyg
 Name: Villa Balestra
 Address: Via Bartolomeo Ammannati, 3, Roma
-Type: Square
-Properties: ['Entertainment', 'Historical', 'Educational']
+Type: Fountain
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.92137
 Longitude: 12.4737079
 Rating: 4.2
 HighlyRated: None
-Rating count: 782
+Rating count: 787
 Popular: None
 HighlyRecommended: None
 Centre distance: 2436
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1376084
+Handicap accessibility: True
+Tourism rate: 1323224
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 858
+Age: 937
 Ancient: None
-Surface: 5384.68
-Height: 1.89
+Surface: 3229.89
+Height: 11.79
 Impressive: None
-Price: 8
+Price: 7
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4527,25 +4527,25 @@ tourismPriority: None
 Place id: ChIJVdeFz1ZgLxMRsut-vHdZP68
 Name: Palazzo Borghese
 Address: Piazza Borghese, 9, Roma
-Type: Viewpoint
-Properties: ['Entertainment', 'Modern art', 'Historical']
+Type: Monument
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.904169
 Longitude: 12.4761837
 Rating: 4.5
 HighlyRated: None
-Rating count: 875
+Rating count: 879
 Popular: None
 HighlyRecommended: None
 Centre distance: 517
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1275533
+Tourism rate: 1375047
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1524
+Age: 979
 Ancient: None
-Surface: 4432.89
-Height: 0.84
+Surface: 1248.76
+Height: 4.21
 Impressive: None
 Price: 0
 Cheap: None
@@ -4556,27 +4556,27 @@ tourismPriority: None
 Place id: ChIJ9w9RTVNgLxMR5nbcPixfnmE
 Name: National Academy of San Luca
 Address: Piazza Accademia di San Luca, 77, Roma
-Type: Fountain
-Properties: ['Entertainment', 'Modern art']
+Type: Museum
+Properties: ['Historical']
 Latitude: 41.9015916
 Longitude: 12.4836896
 Rating: 4.5
 HighlyRated: None
-Rating count: 179
+Rating count: 183
 Popular: None
 HighlyRecommended: None
 Centre distance: 659
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 984576
+Tourism rate: 1288009
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1236
+Age: 1711
 Ancient: None
-Surface: 6733.54
-Height: 14.3
+Surface: 6101.89
+Height: 18.16
 Impressive: None
-Price: 0
+Price: 9
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4585,56 +4585,27 @@ tourismPriority: None
 Place id: ChIJ8-wGeU9gLxMRdC2YjPSozAU
 Name: Museo Carlo Bilotti
 Address: Viale Fiorello la Guardia, 6, Roma
-Type: Park
-Properties: ['Historical', 'Educational']
+Type: Fountain
+Properties: ['Modern art']
 Latitude: 41.91340290000001
 Longitude: 12.4833072
 Rating: 4.3
 HighlyRated: None
-Rating count: 591
+Rating count: 593
 Popular: None
 HighlyRecommended: None
 Centre distance: 1650
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 426227
+Tourism rate: 708467
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1935
+Age: 1207
 Ancient: None
-Surface: 3374.69
-Height: 11.99
+Surface: 7571.39
+Height: 7.75
 Impressive: None
-Price: 5
-Cheap: None
-Density: None
-timeToVisit: None
-tourismPriority: None
-
-Place id: ChIJB6HASVJgLxMR8vNwwuuF9io
-Name: Palazzo Wedekind
-Address: Piazza Colonna, 366, Roma
-Type: Viewpoint
-Properties: ['Entertainment']
-Latitude: 41.9008333
-Longitude: 12.4794444
-Rating: 4.5
-HighlyRated: None
-Rating count: 91
-Popular: None
-HighlyRecommended: None
-Centre distance: 302
-CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 395232
-TurismRateOutOfTen: None
-TopTourismAttraction: None
-Age: 364
-Ancient: None
-Surface: 4456.81
-Height: 9.56
-Impressive: None
-Price: 8
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4643,8 +4614,8 @@ tourismPriority: None
 Place id: ChIJK0Ewh0pgLxMRI98BSNFE-wY
 Name: Cloaca Maxima
 Address: Via del Velabro, 3, Roma
-Type: Bridge
-Properties: ['Historical']
+Type: Park
+Properties: ['Educational']
 Latitude: 41.888658
 Longitude: 12.4801767
 Rating: 3.9
@@ -4654,16 +4625,16 @@ Popular: None
 HighlyRecommended: None
 Centre distance: 1248
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1484372
+Handicap accessibility: False
+Tourism rate: 1158589
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 735
+Age: 1551
 Ancient: None
-Surface: 3361.76
-Height: 7.91
+Surface: 6249.62
+Height: 4.84
 Impressive: None
-Price: 0
+Price: 7
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4672,8 +4643,8 @@ tourismPriority: None
 Place id: ChIJl5cSjsphLxMRv85ELFf8Dk4
 Name: Temple of Apollo Palatinus
 Address: Rome
-Type: Museum
-Properties: ['Entertainment', 'Modern art', 'Educational']
+Type: Fountain
+Properties: ['Historical']
 Latitude: 41.8873346
 Longitude: 12.4859766
 Rating: 4.4
@@ -4684,15 +4655,15 @@ HighlyRecommended: None
 Centre distance: 1575
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1182544
+Tourism rate: 665792
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1040
+Age: 1066
 Ancient: None
-Surface: 4657.94
-Height: 13.87
+Surface: 5523.95
+Height: 16.22
 Impressive: None
-Price: 0
+Price: 11
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4701,27 +4672,27 @@ tourismPriority: None
 Place id: ChIJxcVH3MphLxMRbNmoLfoNEWg
 Name: Circus Maximus
 Address: Via del Circo Massimo, Roma
-Type: Bridge
-Properties: ['Entertainment', 'Historical']
+Type: Museum
+Properties: ['Modern art']
 Latitude: 41.88613340000001
 Longitude: 12.4851335
 Rating: 4.4
 HighlyRated: None
-Rating count: 47112
+Rating count: 47498
 Popular: None
 HighlyRecommended: None
 Centre distance: 1658
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1397169
+Handicap accessibility: True
+Tourism rate: 1124451
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 346
+Age: 1718
 Ancient: None
-Surface: 597.32
-Height: 13.83
+Surface: 7940.09
+Height: 1.3
 Impressive: None
-Price: 12
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4730,27 +4701,27 @@ tourismPriority: None
 Place id: ChIJm1_ZezVgLxMR57Hw653cZoI
 Name: Mouth of Truth
 Address: Piazza della Bocca della Verita, 18, Roma
-Type: Square
-Properties: ['Historical']
+Type: Fountain
+Properties: ['Entertainment', 'Educational']
 Latitude: 41.8881061
 Longitude: 12.4814498
 Rating: 4.2
 HighlyRated: None
-Rating count: 15560
+Rating count: 15610
 Popular: None
 HighlyRecommended: None
 Centre distance: 1338
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 295979
+Tourism rate: 1488917
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1556
+Age: 1419
 Ancient: None
-Surface: 6060.24
-Height: 18.78
+Surface: 7177.1
+Height: 2.02
 Impressive: None
-Price: 0
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4759,27 +4730,27 @@ tourismPriority: None
 Place id: ChIJ0-YHdDRgLxMRgU5yFAMRP5E
 Name: Basilica di Santa Sabina all Aventino
 Address: Piazza Pietro D Illiria, 1, Roma
-Type: Place of warship
-Properties: ['Entertainment', 'Modern art']
+Type: Castle
+Properties: ['Entertainment', 'Educational', 'Modern art']
 Latitude: 41.8845076
 Longitude: 12.4797654
 Rating: 4.7
 HighlyRated: None
-Rating count: 1255
+Rating count: 1259
 Popular: None
 HighlyRecommended: None
 Centre distance: 1692
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 1234005
+Handicap accessibility: False
+Tourism rate: 430911
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 862
+Age: 1573
 Ancient: None
-Surface: 3902.85
-Height: 2.66
+Surface: 681.26
+Height: 18.74
 Impressive: None
-Price: 6
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4788,25 +4759,25 @@ tourismPriority: None
 Place id: ChIJm1_ZezVgLxMR7BAI4KmOwtY
 Name: Santa Maria in Cosmedin
 Address: Piazza della Bocca della Verita, 18, Roma
-Type: Square
-Properties: ['Entertainment', 'Modern art']
+Type: Park
+Properties: ['Entertainment']
 Latitude: 41.8880752
 Longitude: 12.4816333
 Rating: 4.5
 HighlyRated: None
-Rating count: 6172
+Rating count: 6179
 Popular: None
 HighlyRecommended: None
 Centre distance: 1346
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 346681
+Handicap accessibility: False
+Tourism rate: 861483
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 301
+Age: 1920
 Ancient: None
-Surface: 4998.9
-Height: 18.87
+Surface: 424.09
+Height: 6.72
 Impressive: None
 Price: 0
 Cheap: None
@@ -4817,25 +4788,25 @@ tourismPriority: None
 Place id: ChIJp3EzNCxgLxMRm11PYpmDx4Q
 Name: Non-Catholic Cemetery
 Address: Via Caio Cestio, 6, Roma
-Type: Fountain
-Properties: ['Historical', 'Educational']
+Type: Museum
+Properties: ['Entertainment', 'Educational']
 Latitude: 41.8763105
 Longitude: 12.4794911
 Rating: 4.6
 HighlyRated: None
-Rating count: 1589
+Rating count: 1593
 Popular: None
 HighlyRecommended: None
 Centre distance: 2591
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 1400283
+Tourism rate: 861982
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1448
+Age: 872
 Ancient: None
-Surface: 7496.98
-Height: 14.46
+Surface: 5283.2
+Height: 13.46
 Impressive: None
 Price: 0
 Cheap: None
@@ -4844,29 +4815,29 @@ timeToVisit: None
 tourismPriority: None
 
 Place id: ChIJOcrkoX_2JRMRryj2EmIscVE
-Name: Basilica Santa Cecilia in Trastevere
+Name: Basilica di Santa Cecilia in Trastevere
 Address: Piazza di Santa Cecilia, 22, Roma
-Type: Castle
-Properties: ['Educational']
+Type: Monument
+Properties: ['Entertainment', 'Modern art']
 Latitude: 41.8871859
 Longitude: 12.4765738
 Rating: 4.7
 HighlyRated: None
-Rating count: 2872
+Rating count: 2893
 Popular: None
 HighlyRecommended: None
 Centre distance: 1369
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 703122
+Tourism rate: 1310241
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1618
+Age: 779
 Ancient: None
-Surface: 1819.53
-Height: 15.78
+Surface: 1434.94
+Height: 2.14
 Impressive: None
-Price: 0
+Price: 7
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4876,26 +4847,26 @@ Place id: ChIJ8YOGbi9gLxMRTDnSf5wlZJc
 Name: Mattatoio
 Address: Piazza Orazio Giustiniani, 4, Roma
 Type: Castle
-Properties: ['Modern art']
+Properties: ['Entertainment', 'Educational']
 Latitude: 41.8764877
 Longitude: 12.4732685
 Rating: 4.1
 HighlyRated: None
-Rating count: 1005
+Rating count: 1009
 Popular: None
 HighlyRecommended: None
 Centre distance: 2569
 CloseToCityCentre: None
-Handicap accessibility: True
-Tourism rate: 765756
+Handicap accessibility: False
+Tourism rate: 869556
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1522
+Age: 784
 Ancient: None
-Surface: 1048.47
-Height: 0.25
+Surface: 7592.31
+Height: 11.27
 Impressive: None
-Price: 8
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4904,25 +4875,25 @@ tourismPriority: None
 Place id: ChIJfeOXqi1gLxMR9pvLiJ8yKSc
 Name: Pyramid of Caius Cestius
 Address: Via Raffaele Persichetti, Roma
-Type: Viewpoint
-Properties: ['Modern art', 'Educational']
+Type: Park
+Properties: ['Educational']
 Latitude: 41.876489
 Longitude: 12.4808979
 Rating: 4.3
 HighlyRated: None
-Rating count: 4992
+Rating count: 5008
 Popular: None
 HighlyRecommended: None
 Centre distance: 2586
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 851719
+Tourism rate: 969971
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1073
+Age: 285
 Ancient: None
-Surface: 7675.34
-Height: 0.27
+Surface: 4483.57
+Height: 17.06
 Impressive: None
 Price: 5
 Cheap: None
@@ -4939,21 +4910,21 @@ Latitude: 41.89383429999999
 Longitude: 12.4775765
 Rating: 4.5
 HighlyRated: None
-Rating count: 5616
+Rating count: 5629
 Popular: None
 HighlyRecommended: None
 Centre distance: 640
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 794970
+Handicap accessibility: True
+Tourism rate: 1338266
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 897
+Age: 981
 Ancient: None
-Surface: 1078.49
-Height: 12.37
+Surface: 7027.68
+Height: 5.75
 Impressive: None
-Price: 12
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4962,27 +4933,27 @@ tourismPriority: None
 Place id: ChIJ4wi0i0lgLxMRJsm7mqYENcU
 Name: Basilica di San Bartolomeo all Isola
 Address: Piazza San Bartolomeo All Isola, 22, Roma
-Type: Park
+Type: Castle
 Properties: ['Entertainment']
 Latitude: 41.8903329
 Longitude: 12.4782114
 Rating: 4.6
 HighlyRated: None
-Rating count: 1861
+Rating count: 1871
 Popular: None
 HighlyRecommended: None
 Centre distance: 1032
 CloseToCityCentre: None
 Handicap accessibility: True
-Tourism rate: 626309
+Tourism rate: 1179645
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 361
+Age: 1267
 Ancient: None
-Surface: 2084.9
-Height: 12.38
+Surface: 1438.59
+Height: 19.61
 Impressive: None
-Price: 11
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -4991,56 +4962,56 @@ tourismPriority: None
 Place id: ChIJZcncVjNgLxMRj7cFCake7Oo
 Name: Chiesa di Santa Prisca
 Address: Via di Santa Prisca, 11, Roma
-Type: Castle
-Properties: ['Educational']
+Type: Monument
+Properties: ['Entertainment', 'Educational', 'Historical']
 Latitude: 41.8830743
 Longitude: 12.4836264
 Rating: 4.6
 HighlyRated: None
-Rating count: 412
+Rating count: 414
 Popular: None
 HighlyRecommended: None
 Centre distance: 1925
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 566423
+Handicap accessibility: True
+Tourism rate: 1377947
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 867
+Age: 513
 Ancient: None
-Surface: 5129.98
-Height: 10.49
+Surface: 5563.73
+Height: 2.1
 Impressive: None
-Price: 7
+Price: 8
 Cheap: None
 Density: None
 timeToVisit: None
 tourismPriority: None
 
 Place id: ChIJU4KLC0lgLxMRBv0g7UlLt7c
-Name: Tempio Maggiore di Roma
+Name: Tempio Maggiore
 Address: Lungotevere de  Cenci, Roma
-Type: Square
-Properties: ['Entertainment']
+Type: Castle
+Properties: ['Modern art']
 Latitude: 41.89199519999999
 Longitude: 12.4780297
 Rating: 4.6
 HighlyRated: None
-Rating count: 2689
+Rating count: 2708
 Popular: None
 HighlyRecommended: None
 Centre distance: 848
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 1340502
+Handicap accessibility: True
+Tourism rate: 565647
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 627
+Age: 1418
 Ancient: None
-Surface: 931.17
-Height: 12.77
+Surface: 5509.95
+Height: 18.03
 Impressive: None
-Price: 0
+Price: 12
 Cheap: None
 Density: None
 timeToVisit: None
@@ -5049,27 +5020,27 @@ tourismPriority: None
 Place id: ChIJpTF0RUlgLxMRUMm5Pi9Tc10
 Name: Portico of Octavia
 Address: Via del Portico d Ottavia, 29
-Type: Park
-Properties: ['Entertainment', 'Modern art', 'Educational']
+Type: Monument
+Properties: ['Modern art']
 Latitude: 41.8925126
 Longitude: 12.4785372
 Rating: 4.6
 HighlyRated: None
-Rating count: 2137
+Rating count: 2144
 Popular: None
 HighlyRecommended: None
 Centre distance: 800
 CloseToCityCentre: None
 Handicap accessibility: False
-Tourism rate: 1179290
+Tourism rate: 1075336
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1381
+Age: 1482
 Ancient: None
-Surface: 2630.26
-Height: 13.65
+Surface: 482.67
+Height: 18.7
 Impressive: None
-Price: 0
+Price: 11
 Cheap: None
 Density: None
 timeToVisit: None
@@ -5078,33 +5049,33 @@ tourismPriority: None
 Place id: ChIJZWJty8lhLxMRTlN7yv4S3kc
 Name: Basilica Santi Giovanni e Paolo
 Address: Piazza Dei SS. Giovanni e Paolo, Roma
-Type: Museum
-Properties: ['Entertainment', 'Modern art', 'Educational']
+Type: Viewpoint
+Properties: ['Entertainment', 'Educational', 'Modern art']
 Latitude: 41.88647479999999
 Longitude: 12.492111
 Rating: 4.7
 HighlyRated: None
-Rating count: 1412
+Rating count: 1420
 Popular: None
 HighlyRecommended: None
 Centre distance: 1956
 CloseToCityCentre: None
-Handicap accessibility: False
-Tourism rate: 836404
+Handicap accessibility: True
+Tourism rate: 1310044
 TurismRateOutOfTen: None
 TopTourismAttraction: None
-Age: 1525
+Age: 1267
 Ancient: None
-Surface: 5850.02
-Height: 14.18
+Surface: 1032.66
+Height: 8.68
 Impressive: None
-Price: 8
+Price: 0
 Cheap: None
 Density: None
 timeToVisit: None
 tourismPriority: None
 
-Map populated correctly.
+Map populated correctly (175).
 
 Most important poi modified correctly.
 

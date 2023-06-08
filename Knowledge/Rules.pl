@@ -8,8 +8,8 @@ calculateDensity(PoiName, Density) :-
     average(Dists, Density).
 
 nextTo(FirstPoiName, SecondPoiName) :-
-    distance(FirstPoiName, SecondPoiName, Distance),
-    Distance < 300.
+    (distance(FirstPoiName, SecondPoiName, Distance); distance(SecondPoiName, FirstPoiName, Distance)),
+    Distance < 501.
 
 highlyRated(PoiName) :-
     rating(PoiName, Rating),
@@ -17,7 +17,7 @@ highlyRated(PoiName) :-
 
 popular(PoiName) :-
     ratingCount(PoiName, Count),
-    Count > 1000.
+    Count > 15000.
 
 highlyRecommended(PoiName) :-
     highlyRated(PoiName),
@@ -87,5 +87,31 @@ calculateTourismPriority(PoiName, TourismPriority) :-
         ImpressiveWeight = 0),
     calculateDensity(PoiName, Density),
     NormalizedDensity is (Density - 1138) / (2846 - 1138),
-    DensityWeight = 0.6 * NormalizedDensity,
+    DensityWeight = 0.6 - (0.6 * NormalizedDensity),
     TourismPriority is Rating / 2 + PopularWeight + CloseToCityCentreWeight + TourismRateOutOfTen * 0.05 + AncientWeight + ImpressiveWeight + DensityWeight.
+
+findDistance(PoiName1, PoiName2, Distance) :-
+    distance(PoiName1, PoiName2, Distance).
+
+findDistance(PoiName1, PoiName2, Distance) :-
+    distance(PoiName2, PoiName1, Distance).
+
+connectivityCheck(PoiName) :-
+    findall(Dist, (distance(PoiName, _, Dist); distance(_, PoiName, Dist)), Dists),
+    min_list(Dists, MinDistance),
+    MinDistance < 501.
+
+findNeighbors(PoiName, Neighbors) :-
+    findall(Neigh, nextTo(PoiName, Neigh), Neighbors).
+
+findMinDistance(Distance) :-
+    findall(Dist, distance(_, _, Dist), Distances),
+    min_list(Distances, Distance).
+
+findMaxPrice(MaxPrice) :-
+    findall(Price, price(_, Price), Prices),
+    max_list(Prices, MaxPrice).
+
+findMaxTimeToVisit(MaxTimeToVisit) :-
+    findall(TimeToVisit, calculateTimeToVisit(_, TimeToVisit), TimesToVisit),
+    max_list(TimesToVisit, MaxTimeToVisit).

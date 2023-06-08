@@ -103,7 +103,7 @@ def generateStringList(l: list):
 
 # Log configuration
 log.basicConfig(level=log.INFO)
-handler = log.FileHandler("logPreprocessor.txt", mode="w")
+handler = log.FileHandler("Logs/logPreprocessor.txt", mode="w")
 handler.setLevel(log.INFO)
 log.getLogger("").addHandler(handler)
 
@@ -130,7 +130,7 @@ log.info("Api calls executed correctly.\n")
 # Dictionary population
 poiMap = {}
 populateMap(poiMap, data)
-log.info("Map populated correctly.\n")
+log.info(f"Map populated correctly ({poiMap.__len__()}).\n")
 
 # Adjustments to the main pois
 
@@ -213,6 +213,6 @@ poiMap["ChIJ0aTnEYeKJRMRiUF95xwRbDY"].price = 15
 log.info("Most important poi modified correctly.\n")
 
 # Dictionary serialization
-with open("poiDictionary.pickle", "wb") as f:
+with open("Storage/poiDictionary.pickle", "wb") as f:
     pk.dump(poiMap, f)
 log.info("Map serialized correctly.\n")
