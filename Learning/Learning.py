@@ -1,13 +1,12 @@
-from pyswip import Prolog
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import MinMaxScaler
 
+import pandas as pd
 import logging as log
 import pickle as pk
 import sys
 
 sys.path.append("Knowledge")
-
-prolog = Prolog()
-prolog.consult("Knowledge/RuntimeFacts.pl")
 
 # Set up log configuration
 log.basicConfig(level=log.INFO)
@@ -20,7 +19,12 @@ with open("Storage/poiDictionaryFeedback.pickle", "rb") as f:
     poiMap = pk.load(f)
 log.info("Map de-serialized correctly.\n")
 
+
 # Mettere il dizionario con il placeId nel caso
+placeId = {}
+
+for key, value in poiMap.items():
+    placeId[value.name] = key
 
 userFeedback = []
 with open("Storage/UserFeedback.txt", "r") as feed:
@@ -33,10 +37,7 @@ for feedback in userFeedback:
     name = elements[0]
     rating = float(elements[1])
 
-    result = list(
-        prolog.query(f"place_id(Id, '{name}')")
-    )
-    id = result[0]["Id"]
+    id = placeId[name]
 
     poiRating = poiMap[id].rating
     poiRatingCount = poiMap[id].ratingCount
@@ -45,13 +46,144 @@ for feedback in userFeedback:
 
     poiMap[id].rating = newAvg
     poiMap[id].ratingCount += 1
-    print(poiMap[id])
 
 with open("Storage/UserFeedback.txt", 'w') as fileDelete:
     fileDelete.truncate(0)
-print(userFeedback)
+
+for poi in poiMap.values():
+    log.info(poi)
+log.info(f"Map modified correctly ({poiMap.__len__()}).\n")
 
 # Dictionary serialization
 with open("Storage/poiDictionaryFeedback.pickle", "wb") as f:
     pk.dump(poiMap, f)
 log.info("Map serialized correctly.\n")
+
+placeIdList = []
+nameList = []
+addressList = []
+typeList = []
+propertiesList = []
+latList = []
+lonList = []
+ratingList = []
+highlyRatedList = []
+ratingCountList = []
+popularList = []
+highlyRecommendedList = []
+centreDistanceList = []
+closeToCityCentreList = []
+handicapAccessibilityList = []
+tourismRateList = []
+tourismRateOutOfTenList = []
+topTourismAttractionList = []
+ageList = []
+ancientList = []
+surfaceList = []
+heightList = []
+impressiveList = []
+priceList = []
+cheapList = []
+densityList = []
+timeToVisitList = []
+tourismPriorityList = []
+
+# Learning start
+for value in poiMap.values():
+    placeIdList.append(value.placeId)
+    nameList.append(value.name)
+    addressList.append(value.address)
+    typeList.append(value.type)
+    propertiesList.append(value.properties)
+    latList.append(value.lat)
+    lonList.append(value.lon)
+    ratingList.append(value.rating)
+    highlyRatedList.append(value.highlyRated)
+    ratingCountList.append(value.ratingCount)
+    popularList.append(value.popular)
+    highlyRecommendedList.append(value.highlyRecommended)
+    centreDistanceList.append(value.centreDistance)
+    closeToCityCentreList.append(value.closeToCityCentre)
+    handicapAccessibilityList.append(value.handicapAccessibility)
+    tourismRateList.append(value.tourismRate)
+    tourismRateOutOfTenList.append(value.tourismRateOutOfTen)
+    topTourismAttractionList.append(value.topTourismAttraction)
+    ageList.append(value.age)
+    ancientList.append(value.ancient)
+    surfaceList.append(value.surface)
+    heightList.append(value.height)
+    impressiveList.append(value.impressive)
+    priceList.append(value.price)
+    cheapList.append(value.cheap)
+    densityList.append(value.density)
+    timeToVisitList.append(value.timeToVisit)
+    tourismPriorityList.append(value.tourismPriority)
+
+data = {
+    'Place Id': placeIdList,
+    'Name': nameList,
+    'Address': addressList,
+    'Type': typeList,
+    'Properties': propertiesList,
+    'Lat': latList,
+    'Lon': lonList,
+    'Rating': ratingList,
+    'Highly Rated': highlyRatedList,
+    'Rating Count': ratingCountList,
+    'Popular': popularList,
+    'Highly Recommended': highlyRecommendedList,
+    'Centre Distance': centreDistanceList,
+    'Close to City Centre': closeToCityCentreList,
+    'Handicap Accessability': handicapAccessibilityList,
+    'Tourism Rate': tourismRateList,
+    'Tourism Rate Out of Ten': tourismRateOutOfTenList,
+    'Top Tourism Attraction': topTourismAttractionList,
+    'Age': ageList,
+    'Ancient': ancientList,
+    'Surface': surfaceList,
+    'Height': heightList,
+    'Impressive': impressiveList,
+    'Price': priceList,
+    'Cheap': cheapList,
+    'Density': densityList,
+    'Time to Visit': timeToVisitList,
+    'Tourism Priority': tourismPriorityList
+}
+
+deleteColumns = ['Place Id', 'Name', 'Address', 'Properties', 'Lat',
+                 'Lon', 'Highly Rated', 'Popular', 'Highly Recommended',
+                 'Close to City Centre', 'Tourism Rate Out of Ten', 'Top Tourism Attraction', 'Ancient', 'Cheap', 'Tourism Priority']
+
+# Dataframe creation
+df = pd.DataFrame(data)
+
+df = df.drop(columns=deleteColumns)
+
+df.to_csv('Storage/Dataframe.csv', index=False)
+
+X = df.drop('Rating', axis=1)
+y = df['Rating']
+
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.2, random_state=42)
+
+normalizeCol = ['Rating Count', 'Centre Distance', 'Tourism Rate',
+                'Age', 'Surface', 'Height', 'Price', 'Density', 'Time to Visit']
+
+scaler = MinMaxScaler()
+
+X_train[normalizeCol] = scaler.fit_transform(X_train[normalizeCol])
+
+X_test[normalizeCol] = scaler.fit_transform(X_test[normalizeCol])
+
+
+# Dataframe Visualization
+print(df)
+
+# Visualizzazione del train set di X
+print("Train set - Features:")
+print(X_train)
+
+# Visualizzazione del test set di X
+print("\nTest set - Features:")
+print(X_test)
