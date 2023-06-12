@@ -17,6 +17,3 @@ with open("Storage/UserFeedback.txt", "a") as feed:
         for i in range(int(ratingCount * 0.4)):
             generatedRating = rd.randint(1, 5)
             feed.write(f"{name},{generatedRating}\n")
-
-
-

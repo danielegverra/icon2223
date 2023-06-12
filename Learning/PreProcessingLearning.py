@@ -1,6 +1,3 @@
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import MinMaxScaler
-
 import pandas as pd
 import logging as log
 import pickle as pk
@@ -47,7 +44,7 @@ for feedback in userFeedback:
     poiMap[id].rating = newAvg
     poiMap[id].ratingCount += 1
 
-with open("Storage/UserFeedback.txt", 'w') as fileDelete:
+with open("Storage/UserFeedback.txt", "w") as fileDelete:
     fileDelete.truncate(0)
 
 for poi in poiMap.values():
@@ -120,70 +117,57 @@ for value in poiMap.values():
     tourismPriorityList.append(value.tourismPriority)
 
 data = {
-    'Place Id': placeIdList,
-    'Name': nameList,
-    'Address': addressList,
-    'Type': typeList,
-    'Properties': propertiesList,
-    'Lat': latList,
-    'Lon': lonList,
-    'Rating': ratingList,
-    'Highly Rated': highlyRatedList,
-    'Rating Count': ratingCountList,
-    'Popular': popularList,
-    'Highly Recommended': highlyRecommendedList,
-    'Centre Distance': centreDistanceList,
-    'Close to City Centre': closeToCityCentreList,
-    'Handicap Accessability': handicapAccessibilityList,
-    'Tourism Rate': tourismRateList,
-    'Tourism Rate Out of Ten': tourismRateOutOfTenList,
-    'Top Tourism Attraction': topTourismAttractionList,
-    'Age': ageList,
-    'Ancient': ancientList,
-    'Surface': surfaceList,
-    'Height': heightList,
-    'Impressive': impressiveList,
-    'Price': priceList,
-    'Cheap': cheapList,
-    'Density': densityList,
-    'Time to Visit': timeToVisitList,
-    'Tourism Priority': tourismPriorityList
+    "Place Id": placeIdList,
+    "Name": nameList,
+    "Address": addressList,
+    "Type": typeList,
+    "Properties": propertiesList,
+    "Lat": latList,
+    "Lon": lonList,
+    "Rating": ratingList,
+    "Highly Rated": highlyRatedList,
+    "Rating Count": ratingCountList,
+    "Popular": popularList,
+    "Highly Recommended": highlyRecommendedList,
+    "Centre Distance": centreDistanceList,
+    "Close to City Centre": closeToCityCentreList,
+    "Handicap Accessability": handicapAccessibilityList,
+    "Tourism Rate": tourismRateList,
+    "Tourism Rate Out of Ten": tourismRateOutOfTenList,
+    "Top Tourism Attraction": topTourismAttractionList,
+    "Age": ageList,
+    "Ancient": ancientList,
+    "Surface": surfaceList,
+    "Height": heightList,
+    "Impressive": impressiveList,
+    "Price": priceList,
+    "Cheap": cheapList,
+    "Density": densityList,
+    "Time to Visit": timeToVisitList,
+    "Tourism Priority": tourismPriorityList,
 }
 
-deleteColumns = ['Place Id', 'Name', 'Address', 'Properties', 'Lat',
-                 'Lon', 'Highly Rated', 'Popular', 'Highly Recommended',
-                 'Close to City Centre', 'Tourism Rate Out of Ten', 'Top Tourism Attraction', 'Ancient', 'Cheap', 'Tourism Priority']
+deleteColumns = [
+    "Place Id",
+    "Name",
+    "Address",
+    "Properties",
+    "Lat",
+    "Lon",
+    "Highly Rated",
+    "Popular",
+    "Highly Recommended",
+    "Close to City Centre",
+    "Tourism Rate Out of Ten",
+    "Top Tourism Attraction",
+    "Ancient",
+    "Cheap",
+    "Tourism Priority",
+]
 
 # Dataframe creation
 df = pd.DataFrame(data)
 
 df = df.drop(columns=deleteColumns)
 
-df.to_csv('Storage/Dataframe.csv', index=False)
-
-X = df.drop('Rating', axis=1)
-y = df['Rating']
-
-X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=42)
-
-normalizeCol = ['Rating Count', 'Centre Distance', 'Tourism Rate',
-                'Age', 'Surface', 'Height', 'Price', 'Density', 'Time to Visit']
-
-scaler = MinMaxScaler()
-
-X_train[normalizeCol] = scaler.fit_transform(X_train[normalizeCol])
-
-X_test[normalizeCol] = scaler.fit_transform(X_test[normalizeCol])
-
-
-# Dataframe Visualization
-print(df)
-
-# Visualizzazione del train set di X
-print("Train set - Features:")
-print(X_train)
-
-# Visualizzazione del test set di X
-print("\nTest set - Features:")
-print(X_test)
+df.to_csv("Storage/Dataframe.csv")
