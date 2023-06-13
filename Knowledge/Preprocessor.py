@@ -10,19 +10,19 @@ import time as tm
 import unicodedata as ucd
 import Utility as ut
 
-
+# API call to fetch nearby tourist attractions based on latitude and longitude
 def apiCall(latitude: float, longitude: float):
     api_key = "AIzaSyDLviZEMhmqbosipmU7_LMTJkFtKeeeMJA"
     url = f"https://maps.googleapis.com/maps/api/place/nearbysearch/json?location={latitude},{longitude}&type=tourist_attraction&radius=1500&key={api_key}"
     return rq.get(url)
 
-
+# API call to fetch the next page of results using the page token
 def apiCallNext(pagetoken: str):
     api_key = "AIzaSyDLviZEMhmqbosipmU7_LMTJkFtKeeeMJA"
     url = f"https://maps.googleapis.com/maps/api/place/nearbysearch/json?pagetoken={pagetoken}&key={api_key}"
     return rq.get(url)
 
-
+# Extracts the results from the API response and appends them to the list
 def extractResults(list: list, response: rq.Response):
     list += response.json().get("results")
     page_token = response.json().get("next_page_token")
@@ -33,14 +33,14 @@ def extractResults(list: list, response: rq.Response):
         page_token = response.json().get("next_page_token")
     return list
 
-
+# Generates a random value between the given range
 def generateRandomValue(start, end):
     if rd.random() < 0.5:
         return 0
     else:
         return rd.randint(start, end)
 
-
+# Populates the map dictionary with landmarks from the list
 def populateMap(map: dict, l: list):
     for i in l:
         if i["place_id"] not in map and i["user_ratings_total"] >= 15:
@@ -93,7 +93,7 @@ def populateMap(map: dict, l: list):
             map[i["place_id"]] = poi
             log.info(poi)
 
-
+# Generates a list of strings from the given list with random choices
 def generateStringList(l: list):
     generatedList = []
     while len(set(generatedList)) == 0:
