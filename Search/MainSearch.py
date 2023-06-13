@@ -61,16 +61,20 @@ prolog.consult("Knowledge/RuntimeFacts.pl")
 prolog.consult("Knowledge/Rules.pl")
 log.info("Prolog consulted correctly.\n")
 
+# Input from user
 userBudget = int(input("--> Insert your budget in euro (integer): "))
 userTimeAvailable = int(input("--> Insert the time in minutes available (integer): "))
 log.info("Input data received correctly.\n")
 
+# Initialize the starting node for the search
 node = NodeGraph("Start", 0, userBudget, userTimeAvailable, [], 0)
 log.info("Starting node initialized correctly.\n")
 
+# Create the search problem using the initialized node and Prolog KB
 problem = ItinerarySearchProblem(prolog, node)
 log.info("Search problem defined correctly.\n")
 
+# Create a base searcher to find a path
 baseSearcher = Searcher(problem)
 log.info("Search problem defined correctly.\n")
 
@@ -78,6 +82,7 @@ print("PERCORSO TROVATO CON SEARCHER BASE:")
 print(baseSearcher.search())
 log.info("Path found correctly.\n")
 
+# Create an A* searcher to find a path using the problem
 aStarSearcher = AStarSearcher(problem)
 log.info("Search problem defined correctly.\n")
 
@@ -85,13 +90,15 @@ print("PERCORSO TROVATO CON SEARCHER A STAR:")
 print(aStarSearcher.search())
 log.info("Path found correctly.\n")
 
+# Select a subset of visited nodes for feedback
 visitedNodes = aStarSearcher.solution.end().visitedNodes[:]
 visitedNodes.remove("Start")
-
 feedbackNodes = rd.sample(visitedNodes, math.ceil(visitedNodes.__len__()*0.3))
 
+# Open the file to store user feedback
 fileFeedback = open("Storage/UserFeedback.txt", "a")
 
+# Prompt the user for feedback on selected nodes
 for node in feedbackNodes:
     print(f"What do you think about {node}?")
     userFeedback = int(input("--> Insert a number from 1 to 5: "))
