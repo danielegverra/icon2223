@@ -9,7 +9,7 @@ X, y = modelInitializer()
 # Create an instance of DecisionTreeRegressor with specified parameters
 model = DecisionTreeRegressor(max_depth=15, min_samples_leaf=15)
 
-# Fit the model to the data
+# Train the model
 model.fit(X, y)
 
 # Model serialization: Save the trained model to a file using pickle
