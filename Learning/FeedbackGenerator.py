@@ -10,6 +10,7 @@ with open("Storage/poiDictionaryEnhanced.pickle", "rb") as f:
     poiMap = pk.load(f)
 log.info("Map de-serialized correctly.\n")
 
+# Random feedback generation
 with open("Storage/UserFeedback.txt", "a") as feed:
     for poi in poiMap.values():
         ratingCount = poi.ratingCount
