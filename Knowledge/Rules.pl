@@ -25,7 +25,7 @@ highlyRecommended(PoiName) :-
 
 closeToCityCentre(PoiName) :-
     centreDistance(PoiName, Distance),
-    Distance < 500.
+    Distance < 501.
 
 cheap(PoiName) :-
     price(PoiName, Price),
@@ -73,7 +73,7 @@ normalizeHeight(Height, NormHeight) :-
 calculateTourismPriority(PoiName, TourismPriority) :-
     rating(PoiName, Rating),
     (popular(PoiName) ->
-        PopularWeight = 0.7;
+        PopularWeight = 0.6;
         PopularWeight = 0),
     (closeToCityCentre(PoiName) ->
         CloseToCityCentreWeight = 0.3;

@@ -5,7 +5,7 @@ from sklearn.model_selection import ShuffleSplit, cross_val_score
 # Perform k-fold cross-validation and compute evaluation metrics
 # for the given model and dataset.
 def kFoldCrossValidation(model, X, y):
-    # Create an instance of ShuffleSplit for 3-fold cross-validation
+
     folds = ShuffleSplit(n_splits=3, random_state=0)
     
     # Compute the mean R-squared score using cross-validation

@@ -5,6 +5,42 @@ import sys
 
 sys.path.append("Knowledge")
 
+def calculateTourismPriority(poiMap, id):
+    rating = poiMap[id].rating
+
+    if poiMap[id].ratingCount > 15000:
+        popular_weight = 0.6
+    else:
+        popular_weight = 0
+
+    if poiMap[id].centreDistance < 501:
+        close_to_city_centre_weight = 0.3
+    else:
+        close_to_city_centre_weight = 0
+
+    tourism_rate_out_of_ten = poiMap[id].tourismRateOutOfTen
+
+    if poiMap[id].age > 800:
+        ancient_weight = 0.2
+    else:
+        ancient_weight = 0
+
+    if poiMap[id].surface > 7000 or poiMap[id].height > 17:
+        impressive_weight = 0.3
+    else:
+        impressive_weight = 0
+
+    density = poiMap[id].density
+
+    normalized_density = (density - 1138) / (2846 - 1138)
+
+    density_weight = 0.6 - (0.6 * normalized_density)
+
+    tourism_priority = rating / 2 + popular_weight + close_to_city_centre_weight + tourism_rate_out_of_ten * 0.05 + ancient_weight + impressive_weight + density_weight
+
+    return tourism_priority
+
+
 # Set up log configuration
 log.basicConfig(level=log.INFO)
 handler = log.FileHandler("Logs/logLearning.txt", mode="w")
@@ -48,6 +84,7 @@ with open("Storage/UserFeedback.txt", "w") as fileDelete:
     fileDelete.truncate(0)
 
 for poi in poiMap.values():
+    poi.tourismPriority = round(calculateTourismPriority(poiMap, poi.placeId), 1)
     log.info(poi)
 log.info(f"Map modified correctly ({poiMap.__len__()}).\n")
 
@@ -151,18 +188,22 @@ deleteColumns = [
     "Place Id",
     "Name",
     "Address",
+    "Type",
     "Properties",
     "Lat",
     "Lon",
     "Highly Rated",
-    "Popular",
     "Highly Recommended",
     "Close to City Centre",
+    "Handicap Accessability",
     "Tourism Rate Out of Ten",
     "Top Tourism Attraction",
+    "Popular",
     "Ancient",
-    "Cheap",
-    "Tourism Priority",
+    "Time to Visit",
+    "Impressive",
+    "Price",
+    "Cheap"
 ]
 
 # Dataframe creation
@@ -170,4 +211,6 @@ df = pd.DataFrame(data)
 
 df = df.drop(columns=deleteColumns)
 
-df.to_csv("Storage/Dataframe.csv")
+df.to_csv("Storage/Dataframe.csv", index=False)
+
+print(df)

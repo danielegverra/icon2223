@@ -3,11 +3,11 @@ from sklearn.neighbors import KNeighborsRegressor
 from ModelInitializer import modelInitializer
 from KFold import kFoldCrossValidation
 
-# Initialize the input features X and target values y
+# Initialize the input features X and target values 
 X, y = modelInitializer()
 
 # Create an instance of KNeighborsRegressor with specified parameters
-model = KNeighborsRegressor(n_neighbors=7, metric="euclidean", weights="uniform")
+model = KNeighborsRegressor(n_neighbors=3, weights="distance", algorithm="brute", p=2)
 
 # Train the model
 model.fit(X, y)

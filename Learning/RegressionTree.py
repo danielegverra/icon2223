@@ -7,7 +7,7 @@ from KFold import kFoldCrossValidation
 X, y = modelInitializer()
 
 # Create an instance of DecisionTreeRegressor with specified parameters
-model = DecisionTreeRegressor(max_depth=15, min_samples_leaf=15)
+model = DecisionTreeRegressor(max_depth=6, min_samples_leaf=2, min_samples_split=5, random_state=4, criterion="friedman_mse")
 
 # Train the model
 model.fit(X, y)
