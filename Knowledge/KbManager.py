@@ -1,10 +1,9 @@
 from geopy.distance import distance
 from pyswip import Prolog
 
+
 import pickle as pk
 import logging as log
-
-from Utility import printMap
 
 
 # Log configuration
@@ -19,9 +18,11 @@ with open("Storage/poiDictionary.pickle", "rb") as f:
     poiMap = pk.load(f)
 log.info("Map de-serialized correctly.\n")
 
+
 # Opening prolog facts file (write mode)
 file = open("Knowledge/Facts.pl", "w")
 log.info("File opened correctly.\n")
+
 
 # Writing facts to prolog file
 for value in poiMap.values():
@@ -55,6 +56,7 @@ for value in poiMap.values():
     file.write(f"price('{value.name}',{value.price}).\n")
 log.info("Facts written.\n")
 
+
 # Creation new facts
 keys = list(poiMap.keys())
 for i in range(len(keys)):
@@ -67,9 +69,11 @@ for i in range(len(keys)):
         file.write(f"distance('{value1.name}','{value2.name}',{dist}).\n")
 log.info("Distance facts created.\n")
 
+
 # Closing prolog facts file
 file.close()
 log.info("File closed correctly.\n")
+
 
 # Reading prolog file
 prolog = Prolog()
@@ -77,9 +81,11 @@ prolog.consult("Knowledge/Facts.pl")
 prolog.consult("Knowledge/Rules.pl")
 log.info("Prolog consulted correctly.\n")
 
+
 # Opening prolog facts file (append mode)
 file = open("Knowledge/Facts.pl", "a")
 log.info("File opened correctly.\n")
+
 
 # Deletion unconnected poi
 unusedPoi = []
@@ -89,12 +95,14 @@ for value in poiMap.values():
 for poi in unusedPoi:
     del poiMap[poi]
 
+
 # Creation new feature (density)
 for value in poiMap.values():
     result = list(prolog.query(f"calculateDensity('{value.name}', Density)"))
     value.density = int(result[0]["Density"])
     # file.write(f"density('{value.name}',{value.density}).\n")
 log.info("Density feature created correctly.\n")
+
 
 # Creation new feature (TourismRateOutOfTen)
 for value in poiMap.values():
@@ -107,17 +115,21 @@ for value in poiMap.values():
     file.write(f"tourismRateOutOfTen('{value.name}',{value.tourismRateOutOfTen}).\n")
 log.info("TourismRateOutOfTen feature created correctly.\n")
 
+
 # Closing prolog facts file
 file.close()
 log.info("File closed correctly.\n")
+
 
 # Reloaded facts file
 prolog.consult("Knowledge/Facts.pl")
 log.info("Prolog consulted correctly.\n")
 
+
 # Opening prolog facts file (append mode)
 file = open("Knowledge/Facts.pl", "a")
 log.info("File opened correctly.\n")
+
 
 # Creation new feature (highlyRated)
 for value in poiMap.values():
@@ -127,6 +139,7 @@ for value in poiMap.values():
         value.highlyRated = False
 log.info("HighlyRated feature created correctly.\n")
 
+
 # Creation new feature (popular)
 for value in poiMap.values():
     if bool(list(prolog.query(f"popular('{value.name}')"))):
@@ -134,6 +147,7 @@ for value in poiMap.values():
     else:
         value.popular = False
 log.info("Popular feature created correctly.\n")
+
 
 # Creation new feature (highlyRecommended)
 for value in poiMap.values():
@@ -143,6 +157,7 @@ for value in poiMap.values():
         value.highlyRecommended = False
 log.info("highlyRecommended feature created correctly.\n")
 
+
 # Creation new feature (closeToCityCentre)
 for value in poiMap.values():
     if bool(list(prolog.query(f"closeToCityCentre('{value.name}')"))):
@@ -150,6 +165,7 @@ for value in poiMap.values():
     else:
         value.closeToCityCentre = False
 log.info("CloseToCityCentre feature created correctly.\n")
+
 
 # Creation new feature (topTourismAttraction)
 for value in poiMap.values():
@@ -159,6 +175,7 @@ for value in poiMap.values():
         value.topTourismAttraction = False
 log.info("TopTourismAttraction feature created correctly.\n")
 
+
 # Creation new feature (ancient)
 for value in poiMap.values():
     if bool(list(prolog.query(f"ancient('{value.name}')"))):
@@ -166,6 +183,7 @@ for value in poiMap.values():
     else:
         value.ancient = False
 log.info("Ancient feature created correctly.\n")
+
 
 # Creation new feature (impressive)
 for value in poiMap.values():
@@ -175,6 +193,7 @@ for value in poiMap.values():
         value.impressive = False
 log.info("Impressive feature created correctly.\n")
 
+
 # Creation new feature (cheap)
 for value in poiMap.values():
     if bool(list(prolog.query(f"cheap('{value.name}')"))):
@@ -183,11 +202,13 @@ for value in poiMap.values():
         value.cheap = False
 log.info("Cheap feature created correctly.\n")
 
+
 # Creation new feature (timeToVisit)
 for value in poiMap.values():
     result = list(prolog.query(f"calculateTimeToVisit('{value.name}', TimeToVisit)"))
     value.timeToVisit = result[0]["TimeToVisit"]
 log.info("TimeToVisit feature created correctly.\n")
+
 
 # Creation new feature (tourismPriority)
 for value in poiMap.values():
@@ -197,9 +218,11 @@ for value in poiMap.values():
     value.tourismPriority = round(result[0]["TourismPriority"], 1)
 log.info("TourismPriority feature created correctly.\n")
 
+
 for poi in poiMap.values():
     log.info(poi)
 log.info(f"Map populated correctly ({poiMap.__len__()}).\n")
+
 
 # Dictionary serialization
 with open("Storage/poiDictionaryEnhanced.pickle", "wb") as f:

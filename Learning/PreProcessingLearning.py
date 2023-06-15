@@ -1,10 +1,14 @@
 import pandas as pd
 import logging as log
 import pickle as pk
+
+
 import sys
 
 sys.path.append("Knowledge")
 
+
+# Function to calculate the tourism priority of a landmark
 def calculateTourismPriority(poiMap, id):
     rating = poiMap[id].rating
 
@@ -36,7 +40,15 @@ def calculateTourismPriority(poiMap, id):
 
     density_weight = 0.6 - (0.6 * normalized_density)
 
-    tourism_priority = rating / 2 + popular_weight + close_to_city_centre_weight + tourism_rate_out_of_ten * 0.05 + ancient_weight + impressive_weight + density_weight
+    tourism_priority = (
+        rating / 2
+        + popular_weight
+        + close_to_city_centre_weight
+        + tourism_rate_out_of_ten * 0.05
+        + ancient_weight
+        + impressive_weight
+        + density_weight
+    )
 
     return tourism_priority
 
@@ -47,24 +59,24 @@ handler = log.FileHandler("Logs/logLearning.txt", mode="w")
 handler.setLevel(log.INFO)
 log.getLogger("").addHandler(handler)
 
+
 # Dictionary de-serialization
 with open("Storage/poiDictionaryFeedback.pickle", "rb") as f:
     poiMap = pk.load(f)
 log.info("Map de-serialized correctly.\n")
 
 
-# Mettere il dizionario con il placeId nel caso
+# Feedback generation
 placeId = {}
-
 for key, value in poiMap.items():
     placeId[value.name] = key
+
 
 userFeedback = []
 with open("Storage/UserFeedback.txt", "r") as feed:
     for line in feed:
         line = line.strip()
         userFeedback.append(line)
-
 for feedback in userFeedback:
     elements = feedback.split(",")
     name = elements[0]
@@ -80,19 +92,26 @@ for feedback in userFeedback:
     poiMap[id].rating = newAvg
     poiMap[id].ratingCount += 1
 
+
+# Serializing generated feedbacks
 with open("Storage/UserFeedback.txt", "w") as fileDelete:
     fileDelete.truncate(0)
 
+
+# Refreshing pois' tourism priority
 for poi in poiMap.values():
     poi.tourismPriority = round(calculateTourismPriority(poiMap, poi.placeId), 1)
     log.info(poi)
 log.info(f"Map modified correctly ({poiMap.__len__()}).\n")
+
 
 # Dictionary serialization
 with open("Storage/poiDictionaryFeedback.pickle", "wb") as f:
     pk.dump(poiMap, f)
 log.info("Map serialized correctly.\n")
 
+
+# Initializing dataframe
 placeIdList = []
 nameList = []
 addressList = []
@@ -122,7 +141,7 @@ densityList = []
 timeToVisitList = []
 tourismPriorityList = []
 
-# Learning start
+
 for value in poiMap.values():
     placeIdList.append(value.placeId)
     nameList.append(value.name)
@@ -152,6 +171,7 @@ for value in poiMap.values():
     densityList.append(value.density)
     timeToVisitList.append(value.timeToVisit)
     tourismPriorityList.append(value.tourismPriority)
+
 
 data = {
     "Place Id": placeIdList,
@@ -184,6 +204,8 @@ data = {
     "Tourism Priority": tourismPriorityList,
 }
 
+
+# Defining useless columns
 deleteColumns = [
     "Place Id",
     "Name",
@@ -203,14 +225,11 @@ deleteColumns = [
     "Time to Visit",
     "Impressive",
     "Price",
-    "Cheap"
+    "Cheap",
 ]
 
-# Dataframe creation
+
+# Dataframe creation and serialization
 df = pd.DataFrame(data)
-
 df = df.drop(columns=deleteColumns)
-
 df.to_csv("Storage/Dataframe.csv", index=False)
-
-print(df)

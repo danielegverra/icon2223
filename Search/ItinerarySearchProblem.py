@@ -1,7 +1,9 @@
-import math
 from NodeGraph import NodeGraph
 from pyswip import Prolog
 from Libs.searchProblem import Search_problem, Arc
+
+
+import math
 
 
 class ItinerarySearchProblem(Search_problem):
@@ -22,7 +24,6 @@ class ItinerarySearchProblem(Search_problem):
         self.positions = positions
 
     def start_node(self):
-        """returns start node"""
         return self.start
 
     # Check if a given node is goal.
@@ -61,7 +62,6 @@ class ItinerarySearchProblem(Search_problem):
 
     # Finds the neighboring nodes of a given node.
     def neighbors(self, node):
-
         # Query the prolog knowledge base to find the neighbors of the current node
         neighs = list(self.prolog.query(f"findNeighbors('{node.name}', Neighbors)"))[0][
             "Neighbors"
@@ -108,6 +108,7 @@ class ItinerarySearchProblem(Search_problem):
                     arcs.append(Arc(node, nodeGraph, int(dist[0]["Distance"])))
         return arcs
 
+    # Function to calculate the heuristic value of input node
     def heuristic(self, node):
         # Check if the current node is a goal node
         if self.is_goal(node):
@@ -132,7 +133,7 @@ class ItinerarySearchProblem(Search_problem):
             else:
                 # If the node is the start node, set its priority to 0
                 nodePriority = 0
-            
+
             if node.remainingTime <= node.remainingBudget:
                 maxTime = int(
                     list(self.prolog.query(f"findMaxTimeToVisit(MaxTimeToVisit)"))[0][

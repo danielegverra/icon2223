@@ -1,6 +1,7 @@
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.preprocessing import OneHotEncoder
 
+
 import pandas as pd
 
 
@@ -10,7 +11,16 @@ def modelInitializer():
     dataset = pd.read_csv("Storage/Dataframe.csv")
 
     # Define columns to be normalized
-    normalizeCol = ["Rating", "Rating Count", "Centre Distance", "Tourism Rate", "Age", "Surface", "Height", "Density"]
+    normalizeCol = [
+        "Rating",
+        "Rating Count",
+        "Centre Distance",
+        "Tourism Rate",
+        "Age",
+        "Surface",
+        "Height",
+        "Density",
+    ]
 
     # Scale the selected columns using Min-Max scaling
     scaler = MinMaxScaler()
