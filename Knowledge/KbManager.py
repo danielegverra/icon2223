@@ -100,7 +100,6 @@ for poi in unusedPoi:
 for value in poiMap.values():
     result = list(prolog.query(f"calculateDensity('{value.name}', Density)"))
     value.density = int(result[0]["Density"])
-    # file.write(f"density('{value.name}',{value.density}).\n")
 log.info("Density feature created correctly.\n")
 
 
