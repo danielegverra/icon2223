@@ -6,19 +6,3 @@ Map de-serialized correctly.
 
 Distance facts created.
 
-Prolog consulted correctly.
-
-Input data received correctly.
-
-Starting node initialized correctly.
-
-Search problem defined correctly.
-
-Search problem defined correctly.
-
-Path found correctly.
-
-Search problem defined correctly.
-
-Path found correctly.
-

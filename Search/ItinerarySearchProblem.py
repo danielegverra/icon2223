@@ -39,11 +39,6 @@ class ItinerarySearchProblem(Search_problem):
         # Check each neighbor of the current node
         for neigh in neighs:
             if str(neigh) not in node.visitedNodes:
-                dist = list(
-                    self.prolog.query(
-                        f"findDistance('{node.name}', '{neigh}', Distance)"
-                    )
-                )
                 cost = list(self.prolog.query(f"price('{neigh}', Price)"))
                 time = list(
                     self.prolog.query(f"calculateTimeToVisit('{neigh}', TimeToVisit)")
@@ -133,7 +128,6 @@ class ItinerarySearchProblem(Search_problem):
             else:
                 # If the node is the start node, set its priority to 0
                 nodePriority = 0
-
             if node.remainingTime <= node.remainingBudget:
                 maxTime = int(
                     list(self.prolog.query(f"findMaxTimeToVisit(MaxTimeToVisit)"))[0][
@@ -151,9 +145,9 @@ class ItinerarySearchProblem(Search_problem):
                 maxCost = int(
                     list(self.prolog.query(f"findMaxPrice(MaxPrice)"))[0]["MaxPrice"]
                 )
-                # Calculate the heuristic value using the remaining time, maximum time to visit, minimum distance, and node priority
+                # Calculate the heuristic value using the remaining budget, maximum time to visit, minimum distance, and node priority
                 heuristicValue = math.ceil(
-                    node.remainingTime
+                    node.remainingBudget
                     / maxCost
                     * minDistance
                     * (1 - 0.05 * nodePriority)
