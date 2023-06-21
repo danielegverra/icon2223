@@ -1,7 +1,5 @@
-libs (pip install):
-- beautifulsoup4
+Libs (pip install):
 - geopy
 - pyswip
 - requests
 - swipl
-- networkx

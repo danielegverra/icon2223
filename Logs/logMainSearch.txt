@@ -6,5 +6,3 @@ Map de-serialized correctly.
 
 Distance facts created.
 
-Prolog consulted correctly.
-
