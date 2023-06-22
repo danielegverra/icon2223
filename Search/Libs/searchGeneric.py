@@ -55,6 +55,7 @@ class Searcher(Displayable):
                 self.solution = path  # store the solution found
                 return path
             else:
+                self.solution = None
                 neighs = self.problem.neighbors(path.end())
                 self.display(3, "Neighbors are", neighs)
                 for arc in reversed(list(neighs)):
