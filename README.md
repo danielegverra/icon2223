@@ -1,4 +1,4 @@
-# Rome’s treasures unveiled:an insider’s journey
+# Rome’s treasures unveiled: an insider’s journey
 
 Progetto di ingegneria della conoscenza 2022-2023. 
 Componenti del team di sviluppo:
@@ -20,7 +20,6 @@ Installare le dipendenze:
 `pip install -r requirements.txt`
 
 # Guida all'utilizzo
-## 
 
 I tre file eseguibili sono i seguenti:
 - Preprocessor.py: script necessario per la raccolta dei dati mediante API di Google, attualmente l'API key inserita è scaduta poichè terminato il periodo di prova.
