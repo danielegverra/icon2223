@@ -50,8 +50,20 @@ prolog.consult("Knowledge/Rules.pl")
 
 # Input from user
 print()
-userBudget = int(input("\n--> Insert your budget in euro (integer): "))
-userTimeAvailable = int(input("\n--> Insert the time in minutes available (integer): "))
+while True:
+    try:
+        userBudget = int(input("\n--> Insert your budget in euro (integer): "))
+        break
+    except:
+        print("\n!!! INSERT A VALID INPUT.")
+while True:
+    try:
+        userTimeAvailable = int(input("\n--> Insert the time in minutes available (integer): "))
+        break
+    except:
+        print("\n!!!I NSERT A VALID INPUT.")
+    
+
 
 # Initialize the starting node for the search
 node = NodeGraph("Start", 0, userBudget, userTimeAvailable, [], 0)
@@ -62,7 +74,7 @@ problem = ItinerarySearchProblem(prolog, node)
 # Create a base searcher to find a path
 baseSearcher = Searcher(problem)
 
-print("\n\nPERCORSO TROVATO CON SEARCHER BASE:")
+print("\n\nPath found using base searcher:")
 start_time = time.time()
 baseSearcher.search()
 if baseSearcher.solution is not None:
@@ -71,12 +83,12 @@ else:
     print("!!! NO SUITABLE PATH WAS FOUND FOR YOUR NEEDS.")
 end_time = time.time()
 execution_time = end_time - start_time
-print("Tempo di esecuzione: ", execution_time, " secondi")
+print("Execution time: ", execution_time, " seconds")
 
 # Create an A* searcher to find a path using the problem
 aStarSearcher = AStarSearcher(problem)
 
-print("\n\nPERCORSO TROVATO CON SEARCHER A STAR:")
+print("\n\nPath found using A* searcher:")
 start_time = time.time()
 aStarSearcher.search()
 if aStarSearcher.solution is not None:
@@ -85,7 +97,7 @@ else:
     print("!!! NO SUITABLE PATH WAS FOUND FOR YOUR NEEDS.")
 end_time = time.time()
 execution_time = end_time - start_time
-print("Tempo di esecuzione: ", execution_time, " secondi")
+print("Execution time: ", execution_time, " seconds")
 
 # Select a subset of visited nodes for feedback
 if aStarSearcher.solution is not None:
@@ -99,6 +111,10 @@ if aStarSearcher.solution is not None:
     # Prompt the user for feedback on selected nodes
     for node in feedbackNodes:
         print(f"What do you think about {node}?")
-        userFeedback = int(input("--> Insert a number from 1 to 5: "))
-        print(userFeedback)
-        fileFeedback.write(f"{node},{userFeedback}\n")
+        while True:
+            try:
+                userFeedback = int(input("--> Insert a number from 1 to 5: "))
+                fileFeedback.write(f"{node},{userFeedback}\n")
+                break
+            except:
+                print("\n!!!I NSERT A VALID INPUT.")
