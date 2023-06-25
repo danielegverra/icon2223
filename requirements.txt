@@ -1,5 +1,6 @@
-Libs (pip install):
-- geopy
-- pyswip
-- requests
-- swipl
+geopy
+pyswip
+requests
+numpy
+scikit-learn
+pandas
