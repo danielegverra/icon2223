@@ -1,0 +1,8 @@
+File opened correctly.
+
+File opened correctly.
+
+Map de-serialized correctly.
+
+Distance facts created.
+

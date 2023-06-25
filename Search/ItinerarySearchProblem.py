@@ -48,12 +48,9 @@ class ItinerarySearchProblem(Search_problem):
                     and node.remainingTime - int(time[0]["TimeToVisit"]) >= 0
                 ):
                     isGoal = False
-        # print(node.name)
-        # print(node.visitedNodes)
-        if isGoal and (
-            node.name == "Start"
-            or not node.sumVisitedPriority / (node.visitedNodes.__len__())
-            >= 3.7  # threshold
+        if (
+            isGoal
+            and not node.sumVisitedPriority / (node.visitedNodes.__len__() - 1) >= 4
         ):
             isGoal = False
         return isGoal
@@ -97,10 +94,8 @@ class ItinerarySearchProblem(Search_problem):
                     node.remainingBudget - int(cost[0]["Price"]),
                     node.remainingTime - int(time[0]["TimeToVisit"]),
                     newVisitedNodes,
-                    round(
-                        node.sumVisitedPriority + visitedPriority[0]["TourismPriority"],
-                        1,
-                    ),
+                    node.sumVisitedPriority
+                    + int(visitedPriority[0]["TourismPriority"]),
                 )
                 # Check if the remaining budget and remaining time of the nodeGraph are non-negative
                 if nodeGraph.remainingBudget >= 0 and nodeGraph.remainingTime >= 0:
