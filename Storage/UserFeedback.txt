@@ -1,0 +1,6 @@
+Piazza Navona,5
+Obelisco Agonale,5
+Obelisco Agonale,4
+Palazzo Madama,4
+Palazzo Madama,6
+Piazza Navona,5

@@ -3,7 +3,6 @@ from ItinerarySearchProblem import ItinerarySearchProblem
 from Libs.searchGeneric import Searcher, AStarSearcher
 
 from geopy.distance import distance
-import logging as log
 from NodeGraph import NodeGraph
 import pickle as pk
 from pyswip import Prolog
@@ -53,16 +52,21 @@ print()
 while True:
     try:
         userBudget = int(input("\n--> Insert your budget in euro (integer): "))
+        if userBudget < 1:
+            raise Exception
         break
     except:
         print("\n!!! INSERT A VALID INPUT.")
 while True:
     try:
-        userTimeAvailable = int(input("\n--> Insert the time in minutes available (integer): "))
+        userTimeAvailable = int(
+            input("\n--> Insert the time in minutes available (integer): ")
+        )
+        if userTimeAvailable < 1:
+            raise Exception
         break
     except:
         print("\n!!! INSERT A VALID INPUT.")
-    
 
 
 # Initialize the starting node for the search
@@ -114,6 +118,8 @@ if aStarSearcher.solution is not None:
         while True:
             try:
                 userFeedback = int(input("--> Insert a number from 1 to 5: "))
+                if userFeedback < 1 or userFeedback > 5:
+                    raise Exception
                 fileFeedback.write(f"{node},{userFeedback}\n")
                 break
             except:

@@ -50,7 +50,7 @@ class ItinerarySearchProblem(Search_problem):
                     isGoal = False
         if (
             isGoal
-            and not node.sumVisitedPriority / (node.visitedNodes.__len__() - 1) >= 4
+            and not node.sumVisitedPriority / (node.visitedNodes.__len__() - 1) >= 3.7
         ):
             isGoal = False
         return isGoal
